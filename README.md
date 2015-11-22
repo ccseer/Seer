@@ -1,3 +1,70 @@
+# Seer 
+#####A Windows quick look tool
+
+## Usage
+
+![usage](https://raw.githubusercontent.com/ccseer/Seer/master/img/md.jpg)
+
+
+
+
+## System Supported ![](https://raw.githubusercontent.com/ccseer/Seer/master/img/windows-logo.png)
+
+**Minimum supported — Windows Vista**
+
+## 当前支持内容
+
+- Audio & Video
+- Text
+- Compressed
+- Image
+- Markdown
+- PDF
+- Folder
+- MS Office*
+		MS Office 预览默认不开启。需要本地安装 2007 及以上的 MS Office 版本。
+        开启方法：Settings - Type - Other - Support MS Office Files
+	
+
+## Download
+
+- [SourceForge](https://sourceforge.net/projects/ccseer/)
+
+## 3rd party explorer
+
+- [x] [Directory Opus](https://www.gpsoft.com.au/)
+		需要在手动开启
+        设置方法: Settings - Explorer - Directory Opus - Set dopus.exe path - Ok
+      
+- [x] [Clover](http://ejie.me/)
+      
+- [x] [QTTabBar](https://sourceforge.net/projects/qttabbar/)
+      
+- [ ] [Total Commander](http://www.ghisler.com/)  **（如果有人知道如何从TC中获取当前选中文件，希望能够帮助我。）**
+      
+
+## Plugin
+####How to add a plugin
+- 
+- 
+- 
+
+![plugin](https://raw.githubusercontent.com/ccseer/Seer/master/img/plugins-add.jpg)
+
+####How to write a plugin
+
+
+- fontpreview [Github](https://github.com/ccseer/Seer-plugins/blob/master/font/fontpreview_py.py)
+- MS-Office  [Github](https://github.com/ccseer/Seer-plugins/blob/master/ms-office/1syt.py)
+
+
+
+
+
+
+* * *
+
+
 # Seer 帮助文档 
 
 ## 使用方法
