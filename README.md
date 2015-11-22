@@ -22,8 +22,9 @@
 - PDF
 - Folder
 - MS Office*
-		MS Office 预览默认不开启。需要本地安装 2007 及以上的 MS Office 版本。
-        开启方法：Settings - Type - Other - Support MS Office Files
+	
+	*MS Office 预览默认不开启。需要本地安装 2007 及以上的 MS Office 版本。
+    开启方法：Settings - Type - Other - Support MS Office Files*
 	
 
 ## Download
@@ -58,7 +59,7 @@
 - MS-Office  [Github](https://github.com/ccseer/Seer-plugins/blob/master/ms-office/1syt.py)
 
 
-
+Contact: cc.seer@gmail.com
 
 
 
@@ -88,8 +89,9 @@
 - PDF
 - 文件夹
 - MS Office*
-		MS Office 预览默认不开启。需要本地安装 2007 及以上的 MS Office 版本。
-        开启方法：Settings - Type - Other - Support MS Office Files
+		
+	*MS Office 预览默认不开启。需要本地安装 2007 及以上的 MS Office 版本。
+	开启方法：Settings - Type - Other - Support MS Office Files*
 	
 
 ## 下载地址
@@ -128,7 +130,7 @@ C:/Seer/fontpreview.exe 会把 触发文件.ttf 渲染成图片，保存为 C:/�
 - fontpreview [Github](https://github.com/ccseer/Seer-plugins/blob/master/font/fontpreview_py.py)
 - MS-Office  [Github](https://github.com/ccseer/Seer-plugins/blob/master/ms-office/1syt.py)
 
-
+联系方式: cc.seer@gmail.com
 
     
     
