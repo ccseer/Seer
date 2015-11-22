@@ -2,12 +2,12 @@
 
 ## 使用方法
 
-![](TODO\Seer\ooooooooooooooooooooooo\help.jpg)
+![usage](https://raw.githubusercontent.com/ccseer/Seer/master/img/md.jpg)
 
 
 
 
-## 系统支持 ![](http://assets.onestore.ms/cdnfiles/onestorerolling-1511-11008/shell/v3/images/logo/icon-windows-logo.png)
+## 系统支持 ![](https://raw.githubusercontent.com/ccseer/Seer/master/img/windows-logo.jpg)
 
 最低支持 — Windows Vista
 
@@ -49,7 +49,7 @@
 - 可以通过拖动序号改变顺序
 - 每次触发仅检查一次插件类型
 
-![](plugins-add.jpg)
+![plugin](https://raw.githubusercontent.com/ccseer/Seer/master/img/plugins-add.jpg)
 
 ####编写
 Seer 调用插件时会在调用命令最后追加两个字符串,前一个为用户当前触发文件的完整路径(例如:"E:/my_folder/name.ttf"),最后一个为插件转换后的保存路径，仅带有完整的文件路径，没有后缀名（例如："C:/Users/COREY/AppData/Local/Temp/Seer/A-Random-Name"）。插件需要将触发文件解析成 Seer 内置格式的其中一种后缀，并将解析生成的文件命名为 A-Random-Name ,并保存到 C:/Users/COREY/AppData/Local/Temp/Seer/ 下。
