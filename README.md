@@ -58,8 +58,8 @@ Seer 调用插件时会在调用命令最后追加两个字符串,前一个为�
 	`C:/Seer/fontpreview.exe C:/触发路径/触发文件.ttf C:/临时文件夹路径/随机文件名`
 C:/Seer/fontpreview.exe 会把 触发文件.ttf 渲染成图片，保存为 C:/临时文件夹路径/随机文件名.png
 
-fontpreview [Github](https://github.com/ccseer/Seer-plugins/blob/master/font/fontpreview_py.py)
-MS-Office  [Github](https://github.com/ccseer/Seer-plugins/blob/master/ms-office/1syt.py)
+- fontpreview [Github](https://github.com/ccseer/Seer-plugins/blob/master/font/fontpreview_py.py)
+- MS-Office  [Github](https://github.com/ccseer/Seer-plugins/blob/master/ms-office/1syt.py)
 
 
 
