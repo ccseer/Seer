@@ -1,2 +1,3 @@
 # Seer
-A Windows quick look tool.
+
+A quick look tool for Windows.

@@ -1,0 +1,14 @@
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+	<channel>
+		<title>Seer Update</title>
+		<link>https://raw.githubusercontent.com/coooooooooorey/Seer/master/updates.xml</link>
+		<description>Seer - A windows quick look tool.</description>
+		<language>en</language>
+		<item>
+			<title>Version 0.4.2</title>
+			<sparkle:releaseNotesLink>http://raw.githubusercontent.com/coooooooooorey/Seer/master/relnotes.html</sparkle:releaseNotesLink>
+			<pubDate>Mon, 2 Sep 2015 18:11:12 +0200</pubDate>
+			<enclosure url="http://raw.githubusercontent.com/coooooooooorey/Seer/master/Seer-0.4.2.exe" sparkle:version="0.4.2" type="application/octet-stream"/>  
+		</item>
+	</channel>
+</rss>
