@@ -7,7 +7,7 @@
 
 
 
-## 系统支持 ![](https://raw.githubusercontent.com/ccseer/Seer/master/img/windows-logo.jpg)
+## 系统支持 ![](https://raw.githubusercontent.com/ccseer/Seer/master/img/windows-logo.png)
 
 最低支持 — Windows Vista
 
