@@ -8,7 +8,7 @@
 			<title>Version 0.5.0</title>
 			<sparkle:releaseNotesLink>http://raw.githubusercontent.com/ccseer/Seer/master/relnotes.html</sparkle:releaseNotesLink>
 			<pubDate>Mon, 30 Sep 2015 08:11:12 +0200</pubDate>
-			<enclosure url="http://raw.githubusercontent.com/coooooooooorey/Seer/master/Seer-0.4.2.exe" sparkle:version="0.5.0" type="application/octet-stream"/>  
+			<enclosure url="http://raw.githubusercontent.com/ccseer/Seer/master/Seer-0.5.0.exe" sparkle:version="0.5.0" type="application/octet-stream"/>  
 		</item>
 	</channel>
 </rss>
