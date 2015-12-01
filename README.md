@@ -31,7 +31,7 @@ Windows Vista,Windows 7,Windows 8,Windows 10
 ## 3rd party explorer
 
 - [x] [Directory Opus](https://www.gpsoft.com.au/)
-		Usage:  Settings -> Explorer -> Directory Opus -> Set dopus.exe path – Ok
+		Usage:  Settings -> Explorer -> Directory Opus -> Set dopusrt.exe path – Ok
       
 - [x] [Clover](http://ejie.me/)
       
@@ -58,7 +58,7 @@ The plugin will analysis triggered file into the format of one of the built-in S
 To illustrate the function, we use the mentioned font file above as an example.
 The invocation of Seer is shown as below. 
 `C:/Seer/fontpreview.exe C:/triggering-path/FILE.TTF C:/Seer-temp-path/ABCabc123`
-**fontpreview.exe would render FILE.TTF to ABCabc123.png** **
+**fontpreview.exe would render FILE.TTF to ABCabc123.png**
 
 *Source Code*
 - fontpreview [Github](https://github.com/ccseer/Seer-plugins/blob/master/font/fontpreview_py.py)
@@ -93,11 +93,7 @@ Contact: cc.seer@gmail.com
 - 图片
 - Markdown
 - PDF
-- 文件夹
-- MS Office*
-		
-	*MS Office 预览默认不开启。需要本地安装 2007 及以上的 MS Office 版本。
-	开启方法：Settings - Type - Other - Support MS Office Files*
+- 文件夹 
 	
 
 ## 下载地址
@@ -107,8 +103,7 @@ Contact: cc.seer@gmail.com
 ## 第三方资管管理器
 
 - [x] [Directory Opus](https://www.gpsoft.com.au/)
-		需要在手动开启
-        设置方法: Settings - Explorer - Directory Opus - Set dopus.exe path - Ok
+		开启方法: 设置 - 资源管理器 - Directory Opus - 设置 dopusrt.exe - 确定
       
 - [x] [Clover](http://ejie.me/)
       
