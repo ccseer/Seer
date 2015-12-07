@@ -13,7 +13,7 @@
 **Supported Operating System**
 Windows Vista,Windows 7,Windows 8,Windows 10
 
-## 当前支持内容
+## Supported Type
 
 - Audio & Video
 - Text
@@ -40,7 +40,7 @@ Windows Vista,Windows 7,Windows 8,Windows 10
 - [ ] [Total Commander](http://www.ghisler.com/)  **（Note：If anyone knows how to obtain the currently selected file from Total Commander, please give me a hand, email me and thank you in advance.）**
       
 
-## Plug-in
+## Plugin
 ####How to add a plugin
 - The extension of the file is not case sensitive.
 - Drag the line number to change sequence
