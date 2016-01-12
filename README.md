@@ -50,8 +50,8 @@ Windows Vista,Windows 7,Windows 8,Windows 10
 
 ####How to write a plugin
 Seer will add two strings after command line when invoking the plugin. 
-1. 	The front string is the full path to the triggered file, for example, "E:/my_folder/name.ttf".
-2. 	The other string has a full path of the file and there is no file suffix. For example, "C:/Users/COREY/AppData/Local/Temp/Seer/a-random-name". 
+	1. The front string is the full path to the triggered file, for example, "E:/my_folder/name.ttf".
+	2. The other string has a full path of the file and there is no file suffix. For example, "C:/Users/COREY/AppData/Local/Temp/Seer/a-random-name". 
 
 The plugin will analysis triggered file into the format of one of the built-in Seer suffix, name the resulting file as a-random-name, and save it on the path, “C:/Users/COREY/AppData/Local/Temp/Seer/”.
 
