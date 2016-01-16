@@ -5,10 +5,10 @@
 		<description>Seer - A windows quick look tool.</description>
 		<language>en</language>
 		<item>
-			<title>Version 0.5.1</title>
+			<title>Version 0.6.0</title>
 			<sparkle:releaseNotesLink>http://raw.githubusercontent.com/ccseer/Seer/master/relnotes.html</sparkle:releaseNotesLink>
-			<pubDate>Tue, 2015/12/01 11:11:12 +0200</pubDate>
-			<enclosure url="http://raw.githubusercontent.com/ccseer/Seer/master/Seer-0.5.1.exe" sparkle:version="0.5.1" type="application/octet-stream"/>  
+			<pubDate>Sat, 2016/12/01 13:11:12 +0800</pubDate>
+			<enclosure url="http://raw.githubusercontent.com/ccseer/Seer/master/Seer-0.6.0.exe" sparkle:version="0.6.0" type="application/octet-stream"/>  
 		</item>
 	</channel>
 </rss>
