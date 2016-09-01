@@ -25,7 +25,7 @@
     </message>
     <message>
         <source>About Author</source>
-        <translation>Informazioni sull'autore</translation>
+        <translation>Informazioni sull&apos;autore</translation>
     </message>
     <message>
         <source>Send feedback : )</source>
@@ -143,7 +143,7 @@
     </message>
     <message>
         <source>Open With Default Application</source>
-        <translation type="vanished">Apri con l'applicazione predefinita</translation>
+        <translation type="vanished">Apri con l&apos;applicazione predefinita</translation>
     </message>
 </context>
 <context>
@@ -192,22 +192,22 @@
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Conferma</translation>
     </message>
 </context>
 <context>
     <name>CControlWnd</name>
     <message>
         <source>Open With Default Application</source>
-        <translation type="unfinished">Apri con l'applicazione predefinita</translation>
+        <translation>Apri con l&apos;applicazione predefinita</translation>
     </message>
     <message>
         <source>Reveal In Explorer</source>
-        <translation type="unfinished">Visualizza in Esplora Risorse</translation>
+        <translation>Visualizza in Esplora Risorse</translation>
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished">Di più</translation>
+        <translation>Di più</translation>
     </message>
 </context>
 <context>
@@ -356,7 +356,7 @@
     </message>
     <message>
         <source>Extension</source>
-        <translation type="unfinished">Estensione</translation>
+        <translation>Estensione</translation>
     </message>
 </context>
 <context>
@@ -733,7 +733,7 @@
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished">Impostazioni</translation>
+        <translation>Impostazioni</translation>
     </message>
 </context>
 <context>
@@ -772,11 +772,11 @@
     </message>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished">Aspetto</translation>
+        <translation>Aspetto</translation>
     </message>
     <message>
         <source>Extension</source>
-        <translation type="unfinished">Estensione</translation>
+        <translation>Estensione</translation>
     </message>
     <message>
         <source>Select executable file path</source>
@@ -830,7 +830,7 @@
     </message>
     <message>
         <source> already exist.</source>
-        <translation>già esiste.</translation>
+        <translation> già esiste.</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -862,23 +862,23 @@
     </message>
     <message>
         <source>Wrap</source>
-        <translation type="unfinished">Wrap</translation>
+        <translation>Wrap</translation>
     </message>
     <message>
         <source>Line Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Linea Numero</translation>
     </message>
     <message>
         <source>Mute</source>
-        <translation type="unfinished"></translation>
+        <translation>Muto</translation>
     </message>
     <message>
         <source>Show time indication</source>
-        <translation type="unfinished">Visualizza indicazione orario</translation>
+        <translation>Visualizza indicazione orario</translation>
     </message>
     <message>
         <source>Search extension, e.g.: psd</source>
-        <translation type="unfinished"></translation>
+        <translation>Cerca estensione, es: psd</translation>
     </message>
 </context>
 <context>
@@ -945,7 +945,7 @@
     </message>
     <message>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Lingua</translation>
     </message>
     <message>
         <source>Application behavior</source>
