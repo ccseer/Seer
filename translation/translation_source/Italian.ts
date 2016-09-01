@@ -25,11 +25,11 @@
     </message>
     <message>
         <source>About Author</source>
-        <translation>Info Autore</translation>
+        <translation>Informazioni sull'autore</translation>
     </message>
     <message>
         <source>Send feedback : )</source>
-        <translation>Lascia feedback : )</translation>
+        <translation>Invia feedback : )</translation>
     </message>
     <message>
         <source>A good man [doge]</source>
@@ -37,7 +37,7 @@
     </message>
     <message>
         <source>Gratitude List</source>
-        <translation>Lista Sostenitori</translation>
+        <translation>Ringraziamenti</translation>
     </message>
     <message>
         <source>http://www.qtav.org</source>
@@ -93,7 +93,7 @@
     </message>
     <message>
         <source>About Seer</source>
-        <translation>Info Seer</translation>
+        <translation>Informazioni su Seer</translation>
     </message>
     <message>
         <source>http://poppler.freedesktop.org</source>
@@ -121,7 +121,7 @@
     </message>
     <message>
         <source>A Windows Quick Look Tool</source>
-        <translation></translation>
+        <translation>Un Quick Look per Windows</translation>
     </message>
 </context>
 <context>
@@ -143,7 +143,7 @@
     </message>
     <message>
         <source>Open With Default Application</source>
-        <translation type="vanished">Apri Con Applicazione Predefinita</translation>
+        <translation type="vanished">Apri con l'applicazione predefinita</translation>
     </message>
 </context>
 <context>
@@ -158,7 +158,7 @@
     </message>
     <message>
         <source>Format Code</source>
-        <translation>Codice Formato</translation>
+        <translation>Formattazione codice</translation>
     </message>
     <message>
         <source>Reason:</source>
@@ -166,18 +166,18 @@
     </message>
     <message>
         <source>Format failed.</source>
-        <translation>Formato fallito。</translation>
+        <translation>Formattazione fallita。</translation>
     </message>
 </context>
 <context>
     <name>CComLineEditBtn</name>
     <message>
         <source>Input..</source>
-        <translation type="vanished">Immetti..</translation>
+        <translation type="vanished">Inserisci..</translation>
     </message>
     <message>
         <source>Clear Text</source>
-        <translation type="vanished">Pulisci Testo</translation>
+        <translation type="vanished">Pulisci testo</translation>
     </message>
 </context>
 <context>
@@ -199,7 +199,7 @@
     <name>CControlWnd</name>
     <message>
         <source>Open With Default Application</source>
-        <translation type="unfinished">Apri Con Applicazione Predefinita</translation>
+        <translation type="unfinished">Apri con l'applicazione predefinita</translation>
     </message>
     <message>
         <source>Reveal In Explorer</source>
@@ -214,11 +214,11 @@
     <name>CDirManeger</name>
     <message>
         <source>Can not run </source>
-        <translation>Impossibile avviare</translation>
+        <translation>Impossibile eseguire </translation>
     </message>
     <message>
         <source> not found.</source>
-        <translation>non trovato.</translation>
+        <translation> non trovato.</translation>
     </message>
 </context>
 <context>
@@ -253,7 +253,7 @@
     </message>
     <message>
         <source>Open Selected Item With Seer</source>
-        <translation>Apri l&apos;elemnto selezionato con Seer</translation>
+        <translation>Apri l&apos;elemento selezionato con Seer</translation>
     </message>
     <message>
         <source>Tree View</source>
@@ -261,7 +261,7 @@
     </message>
     <message>
         <source>Open Selected Item With Default Application</source>
-        <translation>Apri l&apos;elemento seleziona con l&apos;applicazione predefinato</translation>
+        <translation>Apri l&apos;elemento selezionato con l&apos;applicazione predefinita</translation>
     </message>
 </context>
 <context>
