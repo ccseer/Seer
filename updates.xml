@@ -8,7 +8,7 @@
 			<title>Version 0.8.0</title>
 			<sparkle:releaseNotesLink>http://1218.io/app/last-relnotes.html</sparkle:releaseNotesLink>
 			<pubDate>Sat, 2016/08/31 12:11:12 +0800</pubDate>
-			<enclosure url="http://1218.io/app/Seer-0.8.0.exe" sparkle:version="0.8.0" type="application/octet-stream"/>  
+			<enclosure url="http://bitbucket.org/coooorey/seer-download/downloads/Seer-0.8.0.exe" sparkle:version="0.8.0" type="application/octet-stream"/>  
 		</item>
 	</channel>
 </rss>
