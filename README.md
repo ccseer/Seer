@@ -1,4 +1,4 @@
-[Seer: A Windows Quick Look Tool](www.1218.io)
+[Seer: A Windows Quick Look Tool](http://www.1218.io)
 
 ----
 
