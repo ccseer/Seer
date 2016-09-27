@@ -9,11 +9,11 @@
     </message>
     <message>
         <source>Back</source>
-        <translation>Tillbaka</translation>
+        <translation type="vanished">Tillbaka</translation>
     </message>
     <message>
         <source>QtAV</source>
-        <translation>QtAV</translation>
+        <translation type="vanished">QtAV</translation>
     </message>
     <message>
         <source>Corey</source>
@@ -21,7 +21,7 @@
     </message>
     <message>
         <source>QScintilla</source>
-        <translation>QScintilla</translation>
+        <translation type="vanished">QScintilla</translation>
     </message>
     <message>
         <source>About Author</source>
@@ -41,39 +41,39 @@
     </message>
     <message>
         <source>http://www.qtav.org</source>
-        <translation>http://www.qtav.org</translation>
+        <translation type="vanished">http://www.qtav.org</translation>
     </message>
     <message>
         <source>http://winsparkle.org/</source>
-        <translation>http://winsparkle.org/</translation>
+        <translation type="vanished">http://winsparkle.org/</translation>
     </message>
     <message>
         <source>http://www.riverbankcomputing.com/software/qscintilla/intro</source>
-        <translation>http://www.riverbankcomputing.com/software/qscintilla/intro</translation>
+        <translation type="vanished">http://www.riverbankcomputing.com/software/qscintilla/intro</translation>
     </message>
     <message>
         <source>Donate</source>
-        <translation>Donera</translation>
+        <translation type="vanished">Donera</translation>
     </message>
     <message>
         <source>Designed by Cisa</source>
-        <translation>Designad av Cisa</translation>
+        <translation type="vanished">Designad av Cisa</translation>
     </message>
     <message>
         <source>Poppler</source>
-        <translation>Poppler</translation>
+        <translation type="vanished">Poppler</translation>
     </message>
     <message>
         <source>Qt Project</source>
-        <translation>Qt-projektet</translation>
+        <translation type="vanished">Qt-projektet</translation>
     </message>
     <message>
         <source>http://sourceforge.net/projects/ccseer</source>
-        <translation>http://sourceforge.net/projects/ccseer</translation>
+        <translation type="vanished">http://sourceforge.net/projects/ccseer</translation>
     </message>
     <message>
         <source>http://qt.io</source>
-        <translation>http://qt.io</translation>
+        <translation type="vanished">http://qt.io</translation>
     </message>
     <message>
         <source>Backspace</source>
@@ -81,11 +81,11 @@
     </message>
     <message>
         <source>WinSparkle</source>
-        <translation>WinSparkle</translation>
+        <translation type="vanished">WinSparkle</translation>
     </message>
     <message>
         <source>Display QR code image</source>
-        <translation>Visa QR-kod</translation>
+        <translation type="vanished">Visa QR-kod</translation>
     </message>
     <message>
         <source>cc.seer@gmail.com</source>
@@ -97,7 +97,7 @@
     </message>
     <message>
         <source>http://poppler.freedesktop.org</source>
-        <translation>http://poppler.freedesktop.org</translation>
+        <translation type="vanished">http://poppler.freedesktop.org</translation>
     </message>
     <message>
         <source>Version</source>
@@ -105,19 +105,19 @@
     </message>
     <message>
         <source>http://libzplay.sourceforge.net</source>
-        <translation>http://libzplay.sourceforge.net</translation>
+        <translation type="vanished">http://libzplay.sourceforge.net</translation>
     </message>
     <message>
         <source>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=EHGCEN4JZYJHC</source>
-        <translation>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=EHGCEN4JZYJHC</translation>
+        <translation type="vanished">https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=EHGCEN4JZYJHC</translation>
     </message>
     <message>
         <source>Wechat pay</source>
-        <translation>Wechat pay</translation>
+        <translation type="vanished">Wechat pay</translation>
     </message>
     <message>
         <source>libZPlay</source>
-        <translation>libZPlay</translation>
+        <translation type="vanished">libZPlay</translation>
     </message>
     <message>
         <source>A Windows Quick Look Tool</source>
@@ -125,6 +125,18 @@
     </message>
     <message>
         <source>•</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Designer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Translator</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1218.io</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -406,6 +418,13 @@
     </message>
 </context>
 <context>
+    <name>CHtmlWnd</name>
+    <message>
+        <source>HTML</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>CMain</name>
     <message>
         <source>Quit</source>
@@ -422,7 +441,7 @@
     <message>
         <source>Please share with your friends
 </source>
-        <translation>Dela med dina v?nner
+        <translation type="vanished">Dela med dina v?nner
 </translation>
     </message>
     <message>
@@ -460,6 +479,18 @@
     <message>
         <source>The system default application not found.</source>
         <translation>Inget systemetsstandardprogram hittades.</translation>
+    </message>
+    <message>
+        <source>Seer License Activation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have three-day free trial.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please share with your friends.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -505,7 +536,7 @@
     </message>
     <message>
         <source>Repeat: Off</source>
-        <translation>Repetition: Av</translation>
+        <translation type="vanished">Repetition: Av</translation>
     </message>
     <message>
         <source>Decoder</source>
@@ -513,7 +544,7 @@
     </message>
     <message>
         <source>Repeat: On</source>
-        <translation>Repetition: Av</translation>
+        <translation type="vanished">Repetition: Av</translation>
     </message>
     <message>
         <source>Channel Layout</source>
@@ -530,6 +561,14 @@
     <message>
         <source>Channels</source>
         <translation>Kanaler</translation>
+    </message>
+    <message>
+        <source>Mute: On</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mute: Off</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -711,6 +750,49 @@
     </message>
 </context>
 <context>
+    <name>CRegDlg</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ID:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>License:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Order</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Licensed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Avbryt</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copied</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not Match</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>CSettingsDlg</name>
     <message>
         <source>Type</source>
@@ -739,6 +821,14 @@
     <message>
         <source>Settings</source>
         <translation type="unfinished">Inst?llningar</translation>
+    </message>
+    <message>
+        <source>&amp;OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> &amp;&amp; Restart</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -787,6 +877,14 @@
         <source>Select executable file path</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>equals triggered file path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation type="unfinished">Redigera</translation>
+    </message>
 </context>
 <context>
     <name>CSettingsWnd4Explorer</name>
@@ -796,7 +894,7 @@
     </message>
     <message>
         <source>Path:</source>
-        <translation>S?kv?g:</translation>
+        <translation type="vanished">S?kv?g:</translation>
     </message>
     <message>
         <source>Browse for dopusrt.exe</source>
@@ -818,12 +916,36 @@
         <source>Save plugin temp files after Seer exited</source>
         <translation>Spara tempor?ra insticksfiler n?r Seer avslutas</translation>
     </message>
+    <message>
+        <source>Disable folder contents loading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable file type detecting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reset settings to default</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Confirm &amp; Restart :</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Avbryt</translation>
+    </message>
+    <message>
+        <source>Reset</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CSettingsWnd4FileType</name>
     <message>
         <source>Add</source>
-        <translation>L?gg till</translation>
+        <translation type="vanished">L?gg till</translation>
     </message>
     <message>
         <source>Text</source>
@@ -859,7 +981,7 @@
     </message>
     <message>
         <source>Confirm</source>
-        <translation>Bekr?fta</translation>
+        <translation type="vanished">Bekr?fta</translation>
     </message>
     <message>
         <source>Search extention, e.g.: psd</source>
@@ -883,10 +1005,18 @@
     </message>
     <message>
         <source>Show time indication</source>
-        <translation type="unfinished">Visa tidsindikator</translation>
+        <translation type="obsolete">Visa tidsindikator</translation>
     </message>
     <message>
         <source>Search extension, e.g.: psd</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Loop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Time indication</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1108,15 +1238,15 @@
     <name>CSettingsWnd4Plugins</name>
     <message>
         <source>Add</source>
-        <translation>L?gg till</translation>
+        <translation type="vanished">L?gg till</translation>
     </message>
     <message>
         <source>Del</source>
-        <translation>Del</translation>
+        <translation type="vanished">Del</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation>Redigera</translation>
+        <translation type="vanished">Redigera</translation>
     </message>
     <message>
         <source>Name</source>
@@ -1159,7 +1289,7 @@
     <name>CSettingsWnd4PluginsAdd</name>
     <message>
         <source>Cancel</source>
-        <translation>Avbryt</translation>
+        <translation type="vanished">Avbryt</translation>
     </message>
     <message>
         <source>your plugin.exe [argument] ...</source>
@@ -1167,7 +1297,7 @@
     </message>
     <message>
         <source>Confirm</source>
-        <translation>Bekr?fta</translation>
+        <translation type="vanished">Bekr?fta</translation>
     </message>
     <message>
         <source>your plugin name</source>
@@ -1246,6 +1376,10 @@
     <message>
         <source>Settings</source>
         <translation>Inst?llningar</translation>
+    </message>
+    <message>
+        <source>Register</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

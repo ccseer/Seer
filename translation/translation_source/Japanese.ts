@@ -9,18 +9,10 @@
     </message>
     <message>
         <source>Back</source>
-        <translation>戻る</translation>
-    </message>
-    <message>
-        <source>QtAV</source>
-        <translation></translation>
+        <translation type="vanished">戻る</translation>
     </message>
     <message>
         <source>Corey</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>QScintilla</source>
         <translation></translation>
     </message>
     <message>
@@ -40,48 +32,12 @@
         <translation>謝辞</translation>
     </message>
     <message>
-        <source>http://www.qtav.org</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>http://winsparkle.org/</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>http://www.riverbankcomputing.com/software/qscintilla/intro</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Donate</source>
-        <translation>寄付</translation>
-    </message>
-    <message>
-        <source>Designed by Cisa</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Poppler</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Qt Project</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>http://sourceforge.net/projects/ccseer</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>http://qt.io</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>WinSparkle</source>
-        <translation></translation>
+        <translation type="vanished">寄付</translation>
     </message>
     <message>
         <source>Display QR code image</source>
-        <translation>QR 画像</translation>
+        <translation type="vanished">QR 画像</translation>
     </message>
     <message>
         <source>cc.seer@gmail.com</source>
@@ -92,32 +48,24 @@
         <translation>Seer について</translation>
     </message>
     <message>
-        <source>http://poppler.freedesktop.org</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Version</source>
         <translation>バージョン</translation>
     </message>
     <message>
-        <source>http://libzplay.sourceforge.net</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=EHGCEN4JZYJHC</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Wechat pay</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>libZPlay</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>A Windows Quick Look Tool</source>
         <translation></translation>
+    </message>
+    <message>
+        <source>Designer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Translator</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1218.io</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -394,6 +342,13 @@
     </message>
 </context>
 <context>
+    <name>CHtmlWnd</name>
+    <message>
+        <source>HTML</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>CMain</name>
     <message>
         <source>Quit</source>
@@ -410,7 +365,7 @@
     <message>
         <source>Please share with your friends
 </source>
-        <translation>共有してください</translation>
+        <translation type="vanished">共有してください</translation>
     </message>
     <message>
         <source>Application started.</source>
@@ -446,6 +401,18 @@
     </message>
     <message>
         <source>The system default application not found.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Seer License Activation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have three-day free trial.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please share with your friends.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -492,7 +459,7 @@
     </message>
     <message>
         <source>Repeat: Off</source>
-        <translation>リピート：Off</translation>
+        <translation type="vanished">リピート：Off</translation>
     </message>
     <message>
         <source>Decoder</source>
@@ -500,7 +467,7 @@
     </message>
     <message>
         <source>Repeat: On</source>
-        <translation>リピート：On</translation>
+        <translation type="vanished">リピート：On</translation>
     </message>
     <message>
         <source>Channel Layout</source>
@@ -517,6 +484,14 @@
     <message>
         <source>Channels</source>
         <translation>チャンネル</translation>
+    </message>
+    <message>
+        <source>Mute: On</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mute: Off</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -698,6 +673,49 @@
     </message>
 </context>
 <context>
+    <name>CRegDlg</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ID:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>License:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Order</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Licensed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">キャンセル</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copied</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not Match</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>CSettingsDlg</name>
     <message>
         <source>Type</source>
@@ -726,6 +744,14 @@
     <message>
         <source>Settings</source>
         <translation type="unfinished">設定</translation>
+    </message>
+    <message>
+        <source>&amp;OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> &amp;&amp; Restart</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -774,12 +800,20 @@
         <source>Select executable file path</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>equals triggered file path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation type="unfinished">編集</translation>
+    </message>
 </context>
 <context>
     <name>CSettingsWnd4Explorer</name>
     <message>
         <source>Path:</source>
-        <translation>パス:</translation>
+        <translation type="vanished">パス:</translation>
     </message>
     <message>
         <source>Browse for dopusrt.exe</source>
@@ -801,12 +835,36 @@
         <source>Save plugin temp files after Seer exited</source>
         <translation>プログラム終了時に一時ファイルを削除しない</translation>
     </message>
+    <message>
+        <source>Disable folder contents loading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable file type detecting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reset settings to default</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Confirm &amp; Restart :</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">キャンセル</translation>
+    </message>
+    <message>
+        <source>Reset</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CSettingsWnd4FileType</name>
     <message>
         <source>Add</source>
-        <translation>追加</translation>
+        <translation type="vanished">追加</translation>
     </message>
     <message>
         <source>Text</source>
@@ -842,7 +900,7 @@
     </message>
     <message>
         <source>Confirm</source>
-        <translation>確認</translation>
+        <translation type="vanished">確認</translation>
     </message>
     <message>
         <source>Search extention, e.g.: psd</source>
@@ -866,10 +924,18 @@
     </message>
     <message>
         <source>Show time indication</source>
-        <translation type="unfinished">タイムインジケーターを表示</translation>
+        <translation type="obsolete">タイムインジケーターを表示</translation>
     </message>
     <message>
         <source>Search extension, e.g.: psd</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Loop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Time indication</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1091,15 +1157,15 @@
     <name>CSettingsWnd4Plugins</name>
     <message>
         <source>Add</source>
-        <translation>追加</translation>
+        <translation type="vanished">追加</translation>
     </message>
     <message>
         <source>Del</source>
-        <translation>削除</translation>
+        <translation type="vanished">削除</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation>編集</translation>
+        <translation type="vanished">編集</translation>
     </message>
     <message>
         <source>Name</source>
@@ -1142,7 +1208,7 @@
     <name>CSettingsWnd4PluginsAdd</name>
     <message>
         <source>Cancel</source>
-        <translation>キャンセル</translation>
+        <translation type="vanished">キャンセル</translation>
     </message>
     <message>
         <source>your plugin.exe [argument] ...</source>
@@ -1150,7 +1216,7 @@
     </message>
     <message>
         <source>Confirm</source>
-        <translation>確認</translation>
+        <translation type="vanished">確認</translation>
     </message>
     <message>
         <source>your plugin name</source>
@@ -1229,6 +1295,10 @@
     <message>
         <source>Settings</source>
         <translation>設定</translation>
+    </message>
+    <message>
+        <source>Register</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

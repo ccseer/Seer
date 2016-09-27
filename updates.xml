@@ -1,14 +1,14 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 	<channel>
 		<title>Seer Update</title>
-		<link>https://raw.githubusercontent.com/ccseer/Seer/master/updates.xml</link>
+		<link>http://1218.io/app/updates.xml</link>
 		<description>Seer - A windows quick look tool.</description>
 		<language>en</language>
 		<item>
-			<title>Version 0.8.0</title>
+			<title>Version 1.0.0</title>
 			<sparkle:releaseNotesLink>http://1218.io/app/last-relnotes.html</sparkle:releaseNotesLink>
-			<pubDate>Sat, 2016/08/31 12:11:12 +0800</pubDate>
-			<enclosure url="http://bitbucket.org/coooorey/seer-download/downloads/Seer-0.8.0.exe" sparkle:version="0.8.0" type="application/octet-stream"/>  
+			<pubDate>Sat, 2016/09/27 12:11:12 +0800</pubDate>
+			<enclosure url="http://bitbucket.org/coooorey/seer-download/downloads/Seer-1.0.0.exe" sparkle:version="1.0.0" type="application/octet-stream"/>  
 		</item>
 	</channel>
 </rss>
