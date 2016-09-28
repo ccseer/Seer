@@ -33,7 +33,7 @@
     </message>
     <message>
         <source>A good man [doge]</source>
-        <translation>En bra man [doge]</translation>
+        <translation type="vanished">En bra man [doge]</translation>
     </message>
     <message>
         <source>Gratitude List</source>
@@ -751,10 +751,6 @@
 </context>
 <context>
     <name>CRegDlg</name>
-    <message>
-        <source>Form</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>ID:</source>
         <translation type="unfinished"></translation>

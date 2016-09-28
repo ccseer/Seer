@@ -28,20 +28,20 @@
     </message>
     <message>
         <location filename="../src/caboutwnd.ui" line="340"/>
-        <location filename="../src/caboutwnd.ui" line="503"/>
-        <location filename="../src/caboutwnd.ui" line="532"/>
+        <location filename="../src/caboutwnd.ui" line="500"/>
+        <location filename="../src/caboutwnd.ui" line="529"/>
         <source>•</source>
         <translation></translation>
     </message>
     <message>
         <location filename="../src/caboutwnd.ui" line="327"/>
         <source>Designer</source>
-        <translation type="unfinished">設計師</translation>
+        <translation>設計師</translation>
     </message>
     <message>
         <location filename="../src/caboutwnd.ui" line="353"/>
         <source>Translator</source>
-        <translation type="unfinished">翻譯者</translation>
+        <translation>翻譯者</translation>
     </message>
     <message>
         <location filename="../src/caboutwnd.ui" line="421"/>
@@ -49,19 +49,19 @@
         <translation>關於作者</translation>
     </message>
     <message>
-        <location filename="../src/caboutwnd.ui" line="490"/>
+        <location filename="../src/caboutwnd.ui" line="487"/>
         <source>Corey</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../src/caboutwnd.ui" line="519"/>
+        <location filename="../src/caboutwnd.ui" line="516"/>
         <source>cc.seer@gmail.com</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../src/caboutwnd.ui" line="545"/>
+        <location filename="../src/caboutwnd.ui" line="542"/>
         <source>1218.io</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Wechat pay</source>
@@ -89,7 +89,7 @@
         <translation type="vanished">電子信箱</translation>
     </message>
     <message>
-        <location filename="../src/caboutwnd.ui" line="513"/>
+        <location filename="../src/caboutwnd.ui" line="510"/>
         <source>Send feedback : )</source>
         <oldsource>Sent feedback : )</oldsource>
         <translation>回饋意見 : )</translation>
@@ -97,11 +97,6 @@
     <message>
         <source>Name</source>
         <translation type="vanished">姓名</translation>
-    </message>
-    <message>
-        <location filename="../src/caboutwnd.ui" line="484"/>
-        <source>A good man [doge]</source>
-        <translation></translation>
     </message>
     <message>
         <source>Donate</source>
@@ -474,7 +469,7 @@ Reason:</source>
     <message>
         <location filename="../src/html/chtmlwnd.cpp" line="35"/>
         <source>HTML</source>
-        <translation type="unfinished"></translation>
+        <translation>HTML</translation>
     </message>
 </context>
 <context>
@@ -527,7 +522,7 @@ Reason:</source>
     <message>
         <location filename="../src/cmain.cpp" line="563"/>
         <source>You have three-day free trial.</source>
-        <translation type="unfinished">你有三天的免費試用。</translation>
+        <translation>你有三天的免費試用。</translation>
     </message>
     <message>
         <location filename="../src/cmain.cpp" line="573"/>
@@ -547,7 +542,7 @@ Reason:</source>
     <message>
         <location filename="../src/cmain.cpp" line="620"/>
         <source>Please share with your friends.</source>
-        <translation type="unfinished">推薦給朋友吧~!</translation>
+        <translation>推薦給朋友吧~!</translation>
     </message>
     <message>
         <source>Please share with your friends
@@ -666,12 +661,12 @@ Reason:</source>
     <message>
         <location filename="../src/media/cmediawnd.cpp" line="351"/>
         <source>Mute: On</source>
-        <translation type="unfinished">靜音: 開</translation>
+        <translation>靜音: 開</translation>
     </message>
     <message>
         <location filename="../src/media/cmediawnd.cpp" line="352"/>
         <source>Mute: Off</source>
-        <translation type="unfinished">靜音: 關</translation>
+        <translation>靜音: 關</translation>
     </message>
 </context>
 <context>
@@ -907,46 +902,41 @@ Reason:</source>
 <context>
     <name>CRegDlg</name>
     <message>
-        <location filename="../src/cregdlg.ui" line="14"/>
-        <source>Form</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/cregdlg.ui" line="22"/>
+        <location filename="../src/cregdlg.ui" line="19"/>
         <source>ID:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/cregdlg.ui" line="32"/>
+        <location filename="../src/cregdlg.ui" line="29"/>
         <location filename="../src/cregdlg.cpp" line="44"/>
         <source>Copy</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/cregdlg.ui" line="43"/>
+        <location filename="../src/cregdlg.ui" line="40"/>
         <source>License:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/cregdlg.ui" line="57"/>
+        <location filename="../src/cregdlg.ui" line="54"/>
         <source>Order</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/cregdlg.ui" line="77"/>
+        <location filename="../src/cregdlg.ui" line="74"/>
         <source>Licensed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/cregdlg.ui" line="84"/>
+        <location filename="../src/cregdlg.ui" line="81"/>
         <location filename="../src/cregdlg.cpp" line="74"/>
         <source>Cancel</source>
-        <translation type="unfinished">取消</translation>
+        <translation>取消</translation>
     </message>
     <message>
         <location filename="../src/cregdlg.cpp" line="29"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>確認</translation>
     </message>
     <message>
         <location filename="../src/cregdlg.cpp" line="41"/>
@@ -984,7 +974,7 @@ Reason:</source>
     <message>
         <location filename="../helper/csettingsdlg.cpp" line="119"/>
         <source>&amp;OK</source>
-        <translation type="unfinished">確認(&amp;O)</translation>
+        <translation>確認(&amp;O)</translation>
     </message>
     <message>
         <location filename="../helper/csettingsdlg.cpp" line="119"/>
@@ -1073,7 +1063,7 @@ Reason:</source>
     <message>
         <location filename="../src/settings/csettingswnd4controlsedit.cpp" line="33"/>
         <source>Edit</source>
-        <translation type="unfinished">編輯</translation>
+        <translation>編輯</translation>
     </message>
     <message>
         <location filename="../src/settings/csettingswnd4controlsedit.cpp" line="148"/>
@@ -1121,12 +1111,12 @@ Reason:</source>
     <message>
         <location filename="../src/settings/csettingswnd4explorer.ui" line="287"/>
         <source>Reset settings to default</source>
-        <translation type="unfinished">重置設定</translation>
+        <translation>重置設定</translation>
     </message>
     <message>
         <location filename="../src/settings/csettingswnd4explorer.ui" line="294"/>
         <source>Confirm &amp; Restart :</source>
-        <translation type="unfinished">確認並重啟</translation>
+        <translation>確認並重啟 :</translation>
     </message>
     <message>
         <location filename="../src/settings/csettingswnd4explorer.cpp" line="19"/>
@@ -1142,7 +1132,7 @@ Reason:</source>
     <message>
         <location filename="../src/settings/csettingswnd4explorer.cpp" line="37"/>
         <source>Cancel</source>
-        <translation type="unfinished">取消</translation>
+        <translation>取消</translation>
     </message>
     <message>
         <location filename="../src/settings/csettingswnd4explorer.cpp" line="41"/>

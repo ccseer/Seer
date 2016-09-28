@@ -33,7 +33,7 @@
     </message>
     <message>
         <source>A good man [doge]</source>
-        <translation>Привет! Я из Китая.
+        <translation type="vanished">Привет! Я из Китая.
 Не отправляйте мне сообщения на русском языке~~</translation>
     </message>
     <message>
@@ -747,10 +747,6 @@
 </context>
 <context>
     <name>CRegDlg</name>
-    <message>
-        <source>Form</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>ID:</source>
         <translation type="unfinished"></translation>

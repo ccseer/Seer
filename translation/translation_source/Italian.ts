@@ -24,10 +24,6 @@
         <translation>Lascia feedback : )</translation>
     </message>
     <message>
-        <source>A good man [doge]</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Gratitude List</source>
         <translation>Lista Sostenitori</translation>
     </message>
@@ -686,10 +682,6 @@
 </context>
 <context>
     <name>CRegDlg</name>
-    <message>
-        <source>Form</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>ID:</source>
         <translation type="unfinished"></translation>

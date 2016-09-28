@@ -28,20 +28,20 @@
     </message>
     <message>
         <location filename="../src/caboutwnd.ui" line="340"/>
-        <location filename="../src/caboutwnd.ui" line="503"/>
-        <location filename="../src/caboutwnd.ui" line="532"/>
+        <location filename="../src/caboutwnd.ui" line="500"/>
+        <location filename="../src/caboutwnd.ui" line="529"/>
         <source>•</source>
         <translation></translation>
     </message>
     <message>
         <location filename="../src/caboutwnd.ui" line="327"/>
         <source>Designer</source>
-        <translation type="unfinished"></translation>
+        <translation>设计师</translation>
     </message>
     <message>
         <location filename="../src/caboutwnd.ui" line="353"/>
         <source>Translator</source>
-        <translation type="unfinished"></translation>
+        <translation>翻译者</translation>
     </message>
     <message>
         <location filename="../src/caboutwnd.ui" line="421"/>
@@ -49,19 +49,19 @@
         <translation>作者</translation>
     </message>
     <message>
-        <location filename="../src/caboutwnd.ui" line="490"/>
+        <location filename="../src/caboutwnd.ui" line="487"/>
         <source>Corey</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../src/caboutwnd.ui" line="519"/>
+        <location filename="../src/caboutwnd.ui" line="516"/>
         <source>cc.seer@gmail.com</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../src/caboutwnd.ui" line="545"/>
+        <location filename="../src/caboutwnd.ui" line="542"/>
         <source>1218.io</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Wechat pay</source>
@@ -89,7 +89,7 @@
         <translation type="vanished">邮箱</translation>
     </message>
     <message>
-        <location filename="../src/caboutwnd.ui" line="513"/>
+        <location filename="../src/caboutwnd.ui" line="510"/>
         <source>Send feedback : )</source>
         <oldsource>Sent feedback : )</oldsource>
         <translation>有更好的想法? 给我发邮件吧 : )</translation>
@@ -97,13 +97,6 @@
     <message>
         <source>Name</source>
         <translation type="vanished">姓名</translation>
-    </message>
-    <message>
-        <location filename="../src/caboutwnd.ui" line="484"/>
-        <source>A good man [doge]</source>
-        <translation>嗨~我是中国人。
-所以大家不要给我发英文邮件了~~
-如果你还不习惯邮件，可以去 @幻想家Corey 留言。</translation>
     </message>
     <message>
         <source>Donate</source>
@@ -476,7 +469,7 @@ Reason:</source>
     <message>
         <location filename="../src/html/chtmlwnd.cpp" line="35"/>
         <source>HTML</source>
-        <translation type="unfinished"></translation>
+        <translation>HTML</translation>
     </message>
 </context>
 <context>
@@ -519,7 +512,7 @@ Reason:</source>
     <message>
         <location filename="../src/cmain.cpp" line="443"/>
         <source>Seer License Activation</source>
-        <translation type="unfinished"></translation>
+        <translation>Seer 激活</translation>
     </message>
     <message>
         <location filename="../src/cmain.cpp" line="466"/>
@@ -529,7 +522,7 @@ Reason:</source>
     <message>
         <location filename="../src/cmain.cpp" line="563"/>
         <source>You have three-day free trial.</source>
-        <translation type="unfinished"></translation>
+        <translation>你有 3 天的免费试用时间。</translation>
     </message>
     <message>
         <location filename="../src/cmain.cpp" line="573"/>
@@ -549,7 +542,7 @@ Reason:</source>
     <message>
         <location filename="../src/cmain.cpp" line="620"/>
         <source>Please share with your friends.</source>
-        <translation type="unfinished"></translation>
+        <translation>分享给你的小伙伴吧。</translation>
     </message>
     <message>
         <source>Please share with your friends
@@ -668,12 +661,12 @@ Reason:</source>
     <message>
         <location filename="../src/media/cmediawnd.cpp" line="351"/>
         <source>Mute: On</source>
-        <translation type="unfinished"></translation>
+        <translation>重复：开</translation>
     </message>
     <message>
         <location filename="../src/media/cmediawnd.cpp" line="352"/>
         <source>Mute: Off</source>
-        <translation type="unfinished"></translation>
+        <translation>重复：关</translation>
     </message>
 </context>
 <context>
@@ -909,56 +902,51 @@ Reason:</source>
 <context>
     <name>CRegDlg</name>
     <message>
-        <location filename="../src/cregdlg.ui" line="14"/>
-        <source>Form</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/cregdlg.ui" line="22"/>
+        <location filename="../src/cregdlg.ui" line="19"/>
         <source>ID:</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
-        <location filename="../src/cregdlg.ui" line="32"/>
+        <location filename="../src/cregdlg.ui" line="29"/>
         <location filename="../src/cregdlg.cpp" line="44"/>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>复制</translation>
     </message>
     <message>
-        <location filename="../src/cregdlg.ui" line="43"/>
+        <location filename="../src/cregdlg.ui" line="40"/>
         <source>License:</source>
-        <translation type="unfinished"></translation>
+        <translation>授权码：</translation>
     </message>
     <message>
-        <location filename="../src/cregdlg.ui" line="57"/>
+        <location filename="../src/cregdlg.ui" line="54"/>
         <source>Order</source>
-        <translation type="unfinished"></translation>
+        <translation>购买</translation>
     </message>
     <message>
-        <location filename="../src/cregdlg.ui" line="77"/>
+        <location filename="../src/cregdlg.ui" line="74"/>
         <source>Licensed</source>
-        <translation type="unfinished"></translation>
+        <translation>已授权</translation>
     </message>
     <message>
-        <location filename="../src/cregdlg.ui" line="84"/>
+        <location filename="../src/cregdlg.ui" line="81"/>
         <location filename="../src/cregdlg.cpp" line="74"/>
         <source>Cancel</source>
-        <translation type="unfinished">取消</translation>
+        <translation>取消</translation>
     </message>
     <message>
         <location filename="../src/cregdlg.cpp" line="29"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>确认</translation>
     </message>
     <message>
         <location filename="../src/cregdlg.cpp" line="41"/>
         <source>Copied</source>
-        <translation type="unfinished"></translation>
+        <translation>已复制</translation>
     </message>
     <message>
         <location filename="../src/cregdlg.cpp" line="85"/>
         <source>Not Match</source>
-        <translation type="unfinished"></translation>
+        <translation>不匹配</translation>
     </message>
 </context>
 <context>
@@ -986,12 +974,12 @@ Reason:</source>
     <message>
         <location filename="../helper/csettingsdlg.cpp" line="119"/>
         <source>&amp;OK</source>
-        <translation type="unfinished">确认(&amp;O)</translation>
+        <translation>确认(&amp;O)</translation>
     </message>
     <message>
         <location filename="../helper/csettingsdlg.cpp" line="119"/>
         <source> &amp;&amp; Restart</source>
-        <translation type="unfinished"></translation>
+        <translation> &amp; 重新打开</translation>
     </message>
     <message>
         <location filename="../helper/csettingsdlg.cpp" line="50"/>
@@ -1065,7 +1053,7 @@ Reason:</source>
     <message>
         <location filename="../src/settings/csettingswnd4controlsedit.cpp" line="20"/>
         <source>equals triggered file path</source>
-        <translation type="unfinished"></translation>
+        <translation>代表触发文件路径</translation>
     </message>
     <message>
         <location filename="../src/settings/csettingswnd4controlsedit.cpp" line="28"/>
@@ -1075,7 +1063,7 @@ Reason:</source>
     <message>
         <location filename="../src/settings/csettingswnd4controlsedit.cpp" line="33"/>
         <source>Edit</source>
-        <translation type="unfinished">编辑</translation>
+        <translation>编辑</translation>
     </message>
     <message>
         <location filename="../src/settings/csettingswnd4controlsedit.cpp" line="148"/>
@@ -1108,12 +1096,12 @@ Reason:</source>
     <message>
         <location filename="../src/settings/csettingswnd4explorer.ui" line="208"/>
         <source>Disable folder contents loading</source>
-        <translation type="unfinished"></translation>
+        <translation>禁止加载文件夹</translation>
     </message>
     <message>
         <location filename="../src/settings/csettingswnd4explorer.ui" line="232"/>
         <source>Disable file type detecting</source>
-        <translation type="unfinished"></translation>
+        <translation>禁止文件类型检测</translation>
     </message>
     <message>
         <location filename="../src/settings/csettingswnd4explorer.ui" line="256"/>
@@ -1123,12 +1111,12 @@ Reason:</source>
     <message>
         <location filename="../src/settings/csettingswnd4explorer.ui" line="287"/>
         <source>Reset settings to default</source>
-        <translation type="unfinished"></translation>
+        <translation>恢复默认配置</translation>
     </message>
     <message>
         <location filename="../src/settings/csettingswnd4explorer.ui" line="294"/>
         <source>Confirm &amp; Restart :</source>
-        <translation type="unfinished"></translation>
+        <translation>确认并重新启动：</translation>
     </message>
     <message>
         <location filename="../src/settings/csettingswnd4explorer.cpp" line="19"/>
@@ -1144,12 +1132,12 @@ Reason:</source>
     <message>
         <location filename="../src/settings/csettingswnd4explorer.cpp" line="37"/>
         <source>Cancel</source>
-        <translation type="unfinished">取消</translation>
+        <translation>取消</translation>
     </message>
     <message>
         <location filename="../src/settings/csettingswnd4explorer.cpp" line="41"/>
         <source>Reset</source>
-        <translation type="unfinished"></translation>
+        <translation>恢复</translation>
     </message>
 </context>
 <context>
@@ -1193,12 +1181,12 @@ Reason:</source>
     <message>
         <location filename="../src/settings/csettingswnd4filetype.ui" line="411"/>
         <source>Loop</source>
-        <translation type="unfinished"></translation>
+        <translation>循环</translation>
     </message>
     <message>
         <location filename="../src/settings/csettingswnd4filetype.ui" line="418"/>
         <source>Time indication</source>
-        <translation type="unfinished"></translation>
+        <translation>时间指示</translation>
     </message>
     <message>
         <source>Add</source>
@@ -1781,7 +1769,7 @@ Reason:</source>
     <message>
         <location filename="../src/csystemtrayicon.cpp" line="41"/>
         <source>Register</source>
-        <translation type="unfinished"></translation>
+        <translation>注册</translation>
     </message>
     <message>
         <location filename="../src/csystemtrayicon.cpp" line="44"/>

@@ -25,7 +25,7 @@
     </message>
     <message>
         <source>A good man [doge]</source>
-        <translation>Un buen hombre [doge]</translation>
+        <translation type="vanished">Un buen hombre [doge]</translation>
     </message>
     <message>
         <source>Gratitude List</source>
@@ -686,10 +686,6 @@
 </context>
 <context>
     <name>CRegDlg</name>
-    <message>
-        <source>Form</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>ID:</source>
         <translation type="unfinished"></translation>

@@ -60,10 +60,6 @@
         <translation>Dankbarkeitsliste</translation>
     </message>
     <message>
-        <source>A good man [doge]</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Designer</source>
         <translation>Grafiker</translation>
     </message>
@@ -675,10 +671,6 @@
 </context>
 <context>
     <name>CRegDlg</name>
-    <message>
-        <source>Form</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>ID:</source>
         <translation></translation>
