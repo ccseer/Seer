@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="zh_CN">
+<TS version="2.1" language="de_DE">
 <context>
     <name>CAboutWnd</name>
     <message>
@@ -65,15 +65,15 @@
     </message>
     <message>
         <source>Designer</source>
-        <translation type="unfinished"></translation>
+        <translation>Grafiker</translation>
     </message>
     <message>
         <source>Translator</source>
-        <translation type="unfinished"></translation>
+        <translation>Übersetzer</translation>
     </message>
     <message>
         <source>1218.io</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -133,22 +133,22 @@
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;OK</translation>
     </message>
 </context>
 <context>
     <name>CControlWnd</name>
     <message>
         <source>Open With Default Application</source>
-        <translation type="unfinished">Mit Standardanwendung öffnen</translation>
+        <translation>Mit Standardanwendung öffnen</translation>
     </message>
     <message>
         <source>Reveal In Explorer</source>
-        <translation type="unfinished">Im Explorer anzeigen</translation>
+        <translation>Im Explorer anzeigen</translation>
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished">Mehr</translation>
+        <translation>Mehr</translation>
     </message>
 </context>
 <context>
@@ -170,7 +170,7 @@
     </message>
     <message>
         <source>Time</source>
-        <translation>Länge</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Filename</source>
@@ -186,7 +186,7 @@
     </message>
     <message>
         <source>Packed</source>
-        <translation>Archiviert</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Display Selected Item In Explorer</source>
@@ -346,14 +346,14 @@
     <name>CHtmlWnd</name>
     <message>
         <source>HTML</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>CMain</name>
     <message>
         <source>Quit</source>
-        <translation>Schließen</translation>
+        <translation>Beenden</translation>
     </message>
     <message>
         <source>Error</source>
@@ -394,11 +394,11 @@
     </message>
     <message>
         <source>Register shortcut failed</source>
-        <translation>Registrieren shortcut fehlgeschlagen</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Monitoring &apos;Space&apos; key failed, can&apos;t proceed.</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The system default application not found.</source>
@@ -406,15 +406,15 @@
     </message>
     <message>
         <source>Seer License Activation</source>
-        <translation type="unfinished"></translation>
+        <translation>Seer Lizenz Aktivierung</translation>
     </message>
     <message>
         <source>You have three-day free trial.</source>
-        <translation type="unfinished"></translation>
+        <translation>Du kannst Seer drei Tage kostenlos testen.</translation>
     </message>
     <message>
         <source>Please share with your friends.</source>
-        <translation type="unfinished"></translation>
+        <translation>Teile Seer mit deinen Freunden.</translation>
     </message>
 </context>
 <context>
@@ -460,7 +460,7 @@
     </message>
     <message>
         <source>Decoder</source>
-        <translation>Decoder</translation>
+        <translation>Dekoder</translation>
     </message>
     <message>
         <source>Repeat: On</source>
@@ -476,7 +476,7 @@
     </message>
     <message>
         <source>Frame Size</source>
-        <translation></translation>
+        <translation>Framegröße</translation>
     </message>
     <message>
         <source>Sample Format</source>
@@ -484,15 +484,15 @@
     </message>
     <message>
         <source>Channel Layout</source>
-        <translation></translation>
+        <translation>Kanal-Layout</translation>
     </message>
     <message>
         <source>Mute: On</source>
-        <translation type="unfinished"></translation>
+        <translation>Stumm: An</translation>
     </message>
     <message>
         <source>Mute: Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Stumm: Aus</translation>
     </message>
 </context>
 <context>
@@ -538,19 +538,19 @@
     </message>
     <message>
         <source>Image Count</source>
-        <translation>Bild Count</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Camera make</source>
-        <translation type="unfinished"></translation>
+        <translation>Kamerahersteller</translation>
     </message>
     <message>
         <source>Camera model</source>
-        <translation type="unfinished"></translation>
+        <translation>Kameramodell</translation>
     </message>
     <message>
         <source>Software</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Bits per sample</source>
@@ -558,15 +558,15 @@
     </message>
     <message>
         <source>Image width</source>
-        <translation type="unfinished"></translation>
+        <translation>Bildbreite</translation>
     </message>
     <message>
         <source>Image height</source>
-        <translation type="unfinished"></translation>
+        <translation>Bildhöhe</translation>
     </message>
     <message>
         <source>Image description</source>
-        <translation type="unfinished"></translation>
+        <translation>Bildbeschreibung</translation>
     </message>
     <message>
         <source>Image copyright</source>
@@ -681,46 +681,46 @@
     </message>
     <message>
         <source>ID:</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopieren</translation>
     </message>
     <message>
         <source>License:</source>
-        <translation type="unfinished"></translation>
+        <translation>Lizenz:</translation>
     </message>
     <message>
         <source>Order</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestellen</translation>
     </message>
     <message>
         <source>Licensed</source>
-        <translation type="unfinished"></translation>
+        <translation>Lizensiert</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Abbrechen</translation>
+        <translation>Abbrechen</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Copied</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiert</translation>
     </message>
     <message>
         <source>Not Match</source>
-        <translation type="unfinished"></translation>
+        <translation>Keine Übereinstimmung</translation>
     </message>
 </context>
 <context>
     <name>CSettingsDlg</name>
     <message>
         <source>Type</source>
-        <translation>Dateiendungen</translation>
+        <translation>Dateitypen</translation>
     </message>
     <message>
         <source>Controls</source>
@@ -744,15 +744,15 @@
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished">Einstellungen</translation>
+        <translation>Einstellungen</translation>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;OK</translation>
     </message>
     <message>
         <source> &amp;&amp; Restart</source>
-        <translation type="unfinished"></translation>
+        <translation> &amp;&amp; Neustart</translation>
     </message>
 </context>
 <context>
@@ -791,15 +791,15 @@
     </message>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished">Aussehen</translation>
+        <translation>Aussehen</translation>
     </message>
     <message>
         <source>Extension</source>
-        <translation type="unfinished">Dateiendung</translation>
+        <translation>Dateiendung</translation>
     </message>
     <message>
         <source>Select executable file path</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausführbare Datei auswählen</translation>
     </message>
     <message>
         <source>equals triggered file path</source>
@@ -807,7 +807,7 @@
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished">Bearbeiten</translation>
+        <translation>Bearbeiten</translation>
     </message>
 </context>
 <context>
@@ -838,27 +838,27 @@
     </message>
     <message>
         <source>Disable folder contents loading</source>
-        <translation type="unfinished"></translation>
+        <translation>Deaktiviere das laden von Ordnerinhalten</translation>
     </message>
     <message>
         <source>Disable file type detecting</source>
-        <translation type="unfinished"></translation>
+        <translation>Deaktiviere Dateityperkennung</translation>
     </message>
     <message>
         <source>Reset settings to default</source>
-        <translation type="unfinished"></translation>
+        <translation>Auf Standardeinstellungen zurücksetzen</translation>
     </message>
     <message>
         <source>Confirm &amp; Restart :</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestätigen &amp; Neustarten:</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Abbrechen</translation>
+        <translation>Abbrechen</translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished"></translation>
+        <translation>Zurücksetzen</translation>
     </message>
 </context>
 <context>
@@ -913,15 +913,15 @@
     </message>
     <message>
         <source>Wrap</source>
-        <translation type="unfinished">Zeilenumbruch</translation>
+        <translation>Zeilenumbruch</translation>
     </message>
     <message>
         <source>Line Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeilennummer</translation>
     </message>
     <message>
         <source>Mute</source>
-        <translation type="unfinished"></translation>
+        <translation>Stumm</translation>
     </message>
     <message>
         <source>Show time indication</source>
@@ -929,15 +929,15 @@
     </message>
     <message>
         <source>Search extension, e.g.: psd</source>
-        <translation type="unfinished"></translation>
+        <translation>Dateiendung suchen, z.B.: psd</translation>
     </message>
     <message>
         <source>Loop</source>
-        <translation type="unfinished"></translation>
+        <translation>Dauerschleife</translation>
     </message>
     <message>
         <source>Time indication</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeitanzeige</translation>
     </message>
 </context>
 <context>
@@ -1004,11 +1004,11 @@
     </message>
     <message>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprache</translation>
     </message>
     <message>
         <source>Application behavior</source>
-        <translation type="unfinished"></translation>
+        <translation>Anwendungsverhalten</translation>
     </message>
 </context>
 <context>
@@ -1127,7 +1127,7 @@
     </message>
     <message>
         <source>Trigger Keys:  </source>
-        <translation>Aktionstasten:</translation>
+        <translation>Aktionstasten:  </translation>
     </message>
     <message>
         <source>Time Indication:</source>
@@ -1143,11 +1143,11 @@
     </message>
     <message>
         <source>Maximize / Restore:</source>
-        <translation>Maximieren / Verkleinern:</translation>
+        <translation>Maximieren / Wiederherstellen:</translation>
     </message>
     <message>
         <source>Esc / Ctrl+W</source>
-        <translation></translation>
+        <translation>Esc / Strg+W</translation>
     </message>
     <message>
         <source>PDF</source>
@@ -1178,7 +1178,7 @@
     </message>
     <message>
         <source>Choose Seer plugin</source>
-        <translation>Seer plugin auswählen</translation>
+        <translation>Seer Plugin auswählen</translation>
     </message>
     <message>
         <source>Available</source>
@@ -1271,7 +1271,7 @@
     </message>
     <message>
         <source>Quit</source>
-        <translation>Schließen</translation>
+        <translation>Beenden</translation>
     </message>
     <message>
         <source>About</source>
@@ -1299,7 +1299,7 @@
     </message>
     <message>
         <source>Register</source>
-        <translation type="unfinished"></translation>
+        <translation>Registrieren</translation>
     </message>
 </context>
 <context>
