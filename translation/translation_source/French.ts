@@ -145,7 +145,7 @@
     <message>
         <source>Unknown</source>
         <translatorcomment>Unknown in french is &quot;Inconnu&quot;. Don&apos;t know if it really has to be used here.</translatorcomment>
-        <translation type="unfinished">Inconnu</translation>
+        <translation>Inconnu</translation>
     </message>
 </context>
 <context>
@@ -176,7 +176,7 @@
     <message>
         <source>Format Code</source>
         <translatorcomment>&quot;Formater le code&quot; is the action to format the code.</translatorcomment>
-        <translation type="unfinished">Formater le code</translation>
+        <translation>Formater le code</translation>
     </message>
     <message>
         <source>Reason:</source>
@@ -249,7 +249,7 @@
     <message>
         <source>Time</source>
         <translatorcomment>If only the time is specified, &quot;Heure&quot; is OK. If the date is also included, &quot;Date&quot;would be a better choice&quot;</translatorcomment>
-        <translation type="unfinished">Date</translation>
+        <translation>Date</translation>
     </message>
     <message>
         <source>Filename</source>
@@ -442,7 +442,7 @@
     <message>
         <source>Hello</source>
         <translatorcomment>&quot;Bonjour&quot; is very formal and can mean that you speak to more than one person. For example, when you start Windows for the first time, it says &quot;Bonjour&quot;.  If you want something a little friendlier, you can say &quot;Salut&quot;, it would mean more &quot;Hi, fella!&quot;.</translatorcomment>
-        <translation type="unfinished">Bonjour</translation>
+        <translation>Bonjour</translation>
     </message>
     <message>
         <source>Please share with your friends
@@ -527,7 +527,7 @@
     <message>
         <source>Frame Size</source>
         <translatorcomment>If it means &quot;The size displayed into Seer&apos;s window&quot;, &quot;Taille réelle&quot; must be used. If it is the original size of the video (1920x1080 for example), &quot;Taille du canvas&quot; could be usedé</translatorcomment>
-        <translation type="unfinished">Taille</translation>
+        <translation>Taille</translation>
     </message>
     <message>
         <source>Play / Pause</source>
@@ -767,7 +767,7 @@
     <message>
         <source>Copy</source>
         <translatorcomment>If it is to show the copy number of the software, this translation is OK. If it is the verb  &quot;to copy&quot;, then &quot;Copier&quot; must be used.</translatorcomment>
-        <translation type="unfinished">Copie</translation>
+        <translation>Copier</translation>
     </message>
     <message>
         <source>License:</source>
@@ -780,7 +780,7 @@
     <message>
         <source>Licensed</source>
         <translatorcomment>&quot;Licensé&quot; could also be used. If it really means &quot;This software is activated&quot;, &quot;Activé&quot; is preferred.If it is followed by a name : &quot;Licensed to ...&quot;, use &quot;Enregistré par&quot;</translatorcomment>
-        <translation type="unfinished">Activé</translation>
+        <translation>Licensé</translation>
     </message>
     <message>
         <source>Cancel</source>
