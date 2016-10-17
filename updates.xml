@@ -1,7 +1,7 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 	<channel>
 		<title>Seer Update</title>
-		<link>http://1218.io/app/updates.xml</link>
+		<link>http://1218.io/app/updates_old.xml</link>
 		<description>Seer - A windows quick look tool.</description>
 		<language>en</language>
 		<item>
