@@ -442,7 +442,7 @@
     <message>
         <source>Hello</source>
         <translatorcomment>&quot;Bonjour&quot; is very formal and can mean that you speak to more than one person. For example, when you start Windows for the first time, it says &quot;Bonjour&quot;.  If you want something a little friendlier, you can say &quot;Salut&quot;, it would mean more &quot;Hi, fella!&quot;.</translatorcomment>
-        <translation>Bonjour</translation>
+        <translation type="vanished">Bonjour</translation>
     </message>
     <message>
         <source>Please share with your friends
@@ -492,7 +492,7 @@
     </message>
     <message>
         <source>You have three-day free trial.</source>
-        <translation>Vous avez une période d&apos;essai de trois jours.</translation>
+        <translation type="vanished">Vous avez une période d&apos;essai de trois jours.</translation>
     </message>
     <message>
         <source>Please share with your friends.</source>
@@ -577,6 +577,18 @@
     <message>
         <source>Mute: Off</source>
         <translation>Muet: Désactivé</translation>
+    </message>
+    <message>
+        <source>Capture failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Loop: On</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Loop: Off</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -757,6 +769,14 @@
         <source>Focal plane YRes</source>
         <translation>Plan focal YRes</translation>
     </message>
+    <message>
+        <source>Play / Pause</source>
+        <translation type="unfinished">Lecture / Pause</translation>
+    </message>
+    <message>
+        <source>Loop Count</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CRegDlg</name>
@@ -797,7 +817,11 @@
     <message>
         <source>Not Match</source>
         <translatorcomment>Not sure about the context of this one.</translatorcomment>
-        <translation type="unfinished">Ne correspond pas</translation>
+        <translation type="obsolete">Ne correspond pas</translation>
+    </message>
+    <message>
+        <source>Invalid License</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -836,7 +860,11 @@
     </message>
     <message>
         <source> &amp;&amp; Restart</source>
-        <translation> &amp;&amp; Relancer</translation>
+        <translation type="vanished"> &amp;&amp; Relancer</translation>
+    </message>
+    <message>
+        <source>Restart</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1101,6 +1129,10 @@
         <translatorcomment>The direct translation would be &quot;Comportements de l&apos;application&quot;, but this is never really said in frenché</translatorcomment>
         <translation>Paramètres généraux</translation>
     </message>
+    <message>
+        <source>Keep window size and position</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CSettingsWnd4Key</name>
@@ -1243,6 +1275,14 @@
     <message>
         <source>Maximize / Restore:</source>
         <translation>Maximiser / Restaurer:</translation>
+    </message>
+    <message>
+        <source>Reload:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use &quot;Win + Space&quot; to open in full screen</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1391,6 +1431,10 @@
     <message>
         <source>Register</source>
         <translation>Activer Seer</translation>
+    </message>
+    <message>
+        <source>Stay on top</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

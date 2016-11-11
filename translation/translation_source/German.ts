@@ -357,7 +357,7 @@
     </message>
     <message>
         <source>Hello</source>
-        <translation>Hallo~</translation>
+        <translation type="vanished">Hallo~</translation>
     </message>
     <message>
         <source>Please share with your friends
@@ -406,7 +406,7 @@
     </message>
     <message>
         <source>You have three-day free trial.</source>
-        <translation>Du kannst Seer drei Tage kostenlos testen.</translation>
+        <translation type="vanished">Du kannst Seer drei Tage kostenlos testen.</translation>
     </message>
     <message>
         <source>Please share with your friends.</source>
@@ -489,6 +489,18 @@
     <message>
         <source>Mute: Off</source>
         <translation>Stumm: Aus</translation>
+    </message>
+    <message>
+        <source>Capture failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Loop: On</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Loop: Off</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -668,6 +680,14 @@
         <source>Focal plane YRes</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Play / Pause</source>
+        <translation type="unfinished">Wiedergabe / Pause</translation>
+    </message>
+    <message>
+        <source>Loop Count</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CRegDlg</name>
@@ -705,7 +725,11 @@
     </message>
     <message>
         <source>Not Match</source>
-        <translation>Keine Übereinstimmung</translation>
+        <translation type="vanished">Keine Übereinstimmung</translation>
+    </message>
+    <message>
+        <source>Invalid License</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -744,7 +768,11 @@
     </message>
     <message>
         <source> &amp;&amp; Restart</source>
-        <translation> &amp;&amp; Neustart</translation>
+        <translation type="vanished"> &amp;&amp; Neustart</translation>
+    </message>
+    <message>
+        <source>Restart</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1002,6 +1030,10 @@
         <source>Application behavior</source>
         <translation>Anwendungsverhalten</translation>
     </message>
+    <message>
+        <source>Keep window size and position</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CSettingsWnd4Key</name>
@@ -1144,6 +1176,14 @@
     <message>
         <source>PDF</source>
         <translation></translation>
+    </message>
+    <message>
+        <source>Reload:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use &quot;Win + Space&quot; to open in full screen</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1292,6 +1332,10 @@
     <message>
         <source>Register</source>
         <translation>Registrieren</translation>
+    </message>
+    <message>
+        <source>Stay on top</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

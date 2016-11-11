@@ -436,7 +436,7 @@
     </message>
     <message>
         <source>Hello</source>
-        <translation>Hall?</translation>
+        <translation type="vanished">Hall?</translation>
     </message>
     <message>
         <source>Please share with your friends
@@ -482,10 +482,6 @@
     </message>
     <message>
         <source>Seer License Activation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You have three-day free trial.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -568,6 +564,18 @@
     </message>
     <message>
         <source>Mute: Off</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Capture failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Loop: On</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Loop: Off</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -748,6 +756,14 @@
         <source>Focal plane YRes</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Play / Pause</source>
+        <translation type="unfinished">Spela / Paus</translation>
+    </message>
+    <message>
+        <source>Loop Count</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CRegDlg</name>
@@ -784,7 +800,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Not Match</source>
+        <source>Invalid License</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -823,7 +839,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source> &amp;&amp; Restart</source>
+        <source>Restart</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1086,6 +1102,10 @@
         <source>Application behavior</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Keep window size and position</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CSettingsWnd4Key</name>
@@ -1228,6 +1248,14 @@
     <message>
         <source>Maximize / Restore:</source>
         <translation>Maximera / ?terst?ll:</translation>
+    </message>
+    <message>
+        <source>Reload:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use &quot;Win + Space&quot; to open in full screen</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1375,6 +1403,10 @@
     </message>
     <message>
         <source>Register</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stay on top</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
