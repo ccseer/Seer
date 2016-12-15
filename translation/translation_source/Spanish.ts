@@ -883,6 +883,10 @@
         <source>Reset</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Keep window size and position</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CSettingsWnd4FileType</name>
@@ -962,6 +966,10 @@
         <source>Time indication</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Markdown css not found.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CSettingsWnd4General</name>
@@ -1034,7 +1042,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Keep window size and position</source>
+        <source>Theme:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1418,6 +1426,40 @@
     <message>
         <source>Set language failed</source>
         <translation>Fallo de configuracion de idioma</translation>
+    </message>
+</context>
+<context>
+    <name>freetrial</name>
+    <message>
+        <source>Seer - Free trial</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>free trial.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>day</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>overdue</name>
+    <message>
+        <source>Seer - Overdue</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished">Cerrar</translation>
+    </message>
+    <message>
+        <source>Buy a License</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

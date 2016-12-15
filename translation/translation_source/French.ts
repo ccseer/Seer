@@ -864,7 +864,7 @@
     </message>
     <message>
         <source>Restart</source>
-        <translation type="unfinished"></translation>
+        <translation>Relancer</translation>
     </message>
 </context>
 <context>
@@ -978,6 +978,10 @@
         <source>Reset</source>
         <translation>Réinitialiser</translation>
     </message>
+    <message>
+        <source>Keep window size and position</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CSettingsWnd4FileType</name>
@@ -1057,6 +1061,10 @@
         <source>Time indication</source>
         <translation>Indicateur de temps</translation>
     </message>
+    <message>
+        <source>Markdown css not found.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CSettingsWnd4General</name>
@@ -1130,7 +1138,7 @@
         <translation>Paramètres généraux</translation>
     </message>
     <message>
-        <source>Keep window size and position</source>
+        <source>Theme:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1514,6 +1522,40 @@
     <message>
         <source>Set language failed</source>
         <translation>La définition de la langue a échouée</translation>
+    </message>
+</context>
+<context>
+    <name>freetrial</name>
+    <message>
+        <source>Seer - Free trial</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>free trial.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>day</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>overdue</name>
+    <message>
+        <source>Seer - Overdue</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>Fermer</translation>
+    </message>
+    <message>
+        <source>Buy a License</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

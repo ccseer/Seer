@@ -366,7 +366,7 @@
     </message>
     <message>
         <source>You have three-day free trial.</source>
-        <translation type="vanished">У вас есть пробный период в течение трех дней.</translation>
+        <translation type="vanished">У вас есть трёхдневный пробный период.</translation>
     </message>
 </context>
 <context>
@@ -416,11 +416,11 @@
     </message>
     <message>
         <source>Mute: Off</source>
-        <translation>Отключение звука: выкл.</translation>
+        <translation>Отключение звука: выкл</translation>
     </message>
     <message>
         <source>Mute: On</source>
-        <translation>Отключение звука: вкл.</translation>
+        <translation>Отключение звука: вкл</translation>
     </message>
     <message>
         <source>Play / Pause</source>
@@ -440,15 +440,15 @@
     </message>
     <message>
         <source>Capture failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка захвата</translation>
     </message>
     <message>
         <source>Loop: On</source>
-        <translation type="unfinished"></translation>
+        <translation>Цикл: Вкл</translation>
     </message>
     <message>
         <source>Loop: Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Цикл: Выкл</translation>
     </message>
 </context>
 <context>
@@ -502,7 +502,7 @@
     </message>
     <message>
         <source>F-stop</source>
-        <translation>F-stop</translation>
+        <translation>Диафрагма</translation>
     </message>
     <message>
         <source>Fit Width</source>
@@ -630,11 +630,11 @@
     </message>
     <message>
         <source>Play / Pause</source>
-        <translation type="unfinished">Воспроизведение / Пауза</translation>
+        <translation>Воспроизведение / Пауза</translation>
     </message>
     <message>
         <source>Loop Count</source>
-        <translation type="unfinished"></translation>
+        <translation>Количество циклов</translation>
     </message>
 </context>
 <context>
@@ -649,7 +649,7 @@
     </message>
     <message>
         <source>Copy</source>
-        <translation>Копия</translation>
+        <translation>Копировать</translation>
     </message>
     <message>
         <source>ID:</source>
@@ -673,18 +673,18 @@
     </message>
     <message>
         <source>Order</source>
-        <translation>Order</translation>
+        <translation>Заказ</translation>
     </message>
     <message>
         <source>Invalid License</source>
-        <translation type="unfinished"></translation>
+        <translation>Неверная лицензия</translation>
     </message>
 </context>
 <context>
     <name>CSettingsDlg</name>
     <message>
         <source> &amp;&amp; Restart</source>
-        <translation type="vanished"> &amp;&amp; Перезагрузка</translation>
+        <translation type="vanished"> &amp;&amp; Перезапуск</translation>
     </message>
     <message>
         <source>&amp;OK</source>
@@ -720,7 +720,7 @@
     </message>
     <message>
         <source>Restart</source>
-        <translation type="unfinished"></translation>
+        <translation>Перезапуск</translation>
     </message>
 </context>
 <context>
@@ -812,6 +812,10 @@
         <source>Temp Folder</source>
         <translation>Папка Temp</translation>
     </message>
+    <message>
+        <source>Keep window size and position</source>
+        <translation type="unfinished">Сохранять размер и положение окна</translation>
+    </message>
 </context>
 <context>
     <name>CSettingsWnd4FileType</name>
@@ -833,7 +837,7 @@
     </message>
     <message>
         <source>Loop</source>
-        <translation>Цикличное воспроизведение</translation>
+        <translation>Цикл</translation>
     </message>
     <message>
         <source>Media</source>
@@ -841,7 +845,7 @@
     </message>
     <message>
         <source>Mute</source>
-        <translation>Отключение звука</translation>
+        <translation>Отключить звук</translation>
     </message>
     <message>
         <source>Other</source>
@@ -875,6 +879,10 @@
         <source>Wrap</source>
         <translation>Перенос строки</translation>
     </message>
+    <message>
+        <source>Markdown css not found.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CSettingsWnd4General</name>
@@ -884,7 +892,7 @@
     </message>
     <message>
         <source>Automatically check for updates</source>
-        <translation>Автоматическая проверка обновлений</translation>
+        <translation>Авто проверка наличия обновлений</translation>
     </message>
     <message>
         <source>Double click to open file with system default application</source>
@@ -908,6 +916,10 @@
     </message>
     <message>
         <source>Keep window size and position</source>
+        <translation type="vanished">Сохранять размер и положение окна</translation>
+    </message>
+    <message>
+        <source>Theme:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -927,7 +939,7 @@
     </message>
     <message>
         <source>Can not have &apos;Space&apos; key.</source>
-        <translation>Нельзя использовать пробел.</translation>
+        <translation>Нельзя использовать Пробел.</translation>
     </message>
     <message>
         <source>Close:</source>
@@ -1039,19 +1051,19 @@
     </message>
     <message>
         <source>Trigger Keys</source>
-        <translation>Клавиши запуска</translation>
+        <translation>Клавиша запуска</translation>
     </message>
     <message>
         <source>Trigger Keys:  </source>
-        <translation>Клавиши запуска:  </translation>
+        <translation>Клавиша запуска:  </translation>
     </message>
     <message>
         <source>Use &quot;Win + Space&quot; to open in full screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Использовать &quot;Win +Пробел&quot;, чтобы открыть в полном экране</translation>
     </message>
     <message>
         <source>Reload:</source>
-        <translation type="unfinished"></translation>
+        <translation>Перезагрузить:</translation>
     </message>
 </context>
 <context>
@@ -1101,7 +1113,7 @@
     </message>
     <message>
         <source>your plugin.exe [argument] ...</source>
-        <translation>ваш plugin.exe [аргумент]...</translation>
+        <translation>ваш plugin.exe [argument] ...</translation>
     </message>
 </context>
 <context>
@@ -1147,7 +1159,7 @@
     </message>
     <message>
         <source>Check for updates</source>
-        <translation>Проверка обновлений</translation>
+        <translation>Проверить обновления</translation>
     </message>
     <message>
         <source>Found a bug?</source>
@@ -1175,7 +1187,7 @@
     </message>
     <message>
         <source>Stay on top</source>
-        <translation type="unfinished"></translation>
+        <translation>Поверх всех окон</translation>
     </message>
 </context>
 <context>
@@ -1199,6 +1211,40 @@
     <message>
         <source>Set language failed</source>
         <translation>Сбой установки языка</translation>
+    </message>
+</context>
+<context>
+    <name>freetrial</name>
+    <message>
+        <source>Seer - Free trial</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>day</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>free trial.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>overdue</name>
+    <message>
+        <source>Seer - Overdue</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished">Закрыть</translation>
+    </message>
+    <message>
+        <source>Buy a License</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>
