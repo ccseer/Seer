@@ -25,7 +25,7 @@
     </message>
     <message>
         <source>Designer</source>
-        <translation>Дизайнер</translation>
+        <translation>Дизайн</translation>
     </message>
     <message>
         <source>Gratitude List</source>
@@ -37,7 +37,7 @@
     </message>
     <message>
         <source>Translator</source>
-        <translation>Переводчики</translation>
+        <translation>Перевод</translation>
     </message>
     <message>
         <source>Version</source>
@@ -135,7 +135,7 @@
     </message>
     <message>
         <source>Open Selected Item With Default Application</source>
-        <translation>Открыть выбранный элемент с приложением по умолчанию</translation>
+        <translation>Открыть выбранный элемент в программе по умолчанию</translation>
     </message>
     <message>
         <source>Open Selected Item With Seer</source>
@@ -330,7 +330,7 @@
     </message>
     <message>
         <source>Monitoring &apos;Space&apos; key failed, can&apos;t proceed.</source>
-        <translation>Сбой мониторинга пробела, продолжить невозможно.</translation>
+        <translation>Сбой мониторинга Пробела, продолжить невозможно.</translation>
     </message>
     <message>
         <source>Please restart Seer manually.</source>
@@ -478,7 +478,7 @@
     </message>
     <message>
         <source>Bits per sample</source>
-        <translation>Бит на выборку</translation>
+        <translation>Глубина цвета</translation>
     </message>
     <message>
         <source>Camera make</source>
@@ -514,11 +514,11 @@
     </message>
     <message>
         <source>Focal plane XRes</source>
-        <translation>Фокальной плоскости XRes</translation>
+        <translation>X разр фокальной плоскости</translation>
     </message>
     <message>
         <source>Focal plane YRes</source>
-        <translation>Фокальной плоскости YRes</translation>
+        <translation>Y разр фокальной плоскости</translation>
     </message>
     <message>
         <source>GPS Altitude</source>
@@ -622,7 +622,7 @@
     </message>
     <message>
         <source>Subsecond time</source>
-        <translation>Subsecond time</translation>
+        <translation>За доли секунды</translation>
     </message>
     <message>
         <source>Width</source>
@@ -673,7 +673,7 @@
     </message>
     <message>
         <source>Order</source>
-        <translation>Заказ</translation>
+        <translation>Заказать</translation>
     </message>
     <message>
         <source>Invalid License</source>
@@ -759,7 +759,7 @@
     </message>
     <message>
         <source>equals triggered file path</source>
-        <translation>равняется вызванному пути к файлу</translation>
+        <translation>равно вызванному пути к файлу</translation>
     </message>
     <message>
         <source>extension</source>
@@ -802,11 +802,11 @@
     </message>
     <message>
         <source>Reset settings to default</source>
-        <translation>Сброс параметров по умолчанию</translation>
+        <translation>Сброс к параметрам по умолчанию</translation>
     </message>
     <message>
         <source>Save plugin temp files after Seer exited</source>
-        <translation>Сохранить временные файлы плагина после закрытия Seer</translation>
+        <translation>Сохранять временные файлы плагина после закрытия Seer</translation>
     </message>
     <message>
         <source>Temp Folder</source>
@@ -814,7 +814,7 @@
     </message>
     <message>
         <source>Keep window size and position</source>
-        <translation type="unfinished">Сохранять размер и положение окна</translation>
+        <translation>Сохранять размер и положение окна</translation>
     </message>
 </context>
 <context>
@@ -881,7 +881,7 @@
     </message>
     <message>
         <source>Markdown css not found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Markdown css не найден.</translation>
     </message>
 </context>
 <context>
@@ -912,7 +912,7 @@
     </message>
     <message>
         <source>Use the trigger key to close window</source>
-        <translation>Использовать клавишу запуска, чтобы закрыть окно</translation>
+        <translation>Использовать клавишу просмотра, чтобы закрыть окно</translation>
     </message>
     <message>
         <source>Keep window size and position</source>
@@ -920,7 +920,7 @@
     </message>
     <message>
         <source>Theme:</source>
-        <translation type="unfinished"></translation>
+        <translation>Тема:</translation>
     </message>
 </context>
 <context>
@@ -1011,7 +1011,7 @@
     </message>
     <message>
         <source>Open With Default App:</source>
-        <translation>Открыть с помощью приложения по умолчанию:</translation>
+        <translation>Открыть с помощью программы по умолчанию:</translation>
     </message>
     <message>
         <source>PDF</source>
@@ -1051,11 +1051,11 @@
     </message>
     <message>
         <source>Trigger Keys</source>
-        <translation>Клавиша запуска</translation>
+        <translation>Клавиша просмотра</translation>
     </message>
     <message>
         <source>Trigger Keys:  </source>
-        <translation>Клавиша запуска:  </translation>
+        <translation>Клавиша просмотра:  </translation>
     </message>
     <message>
         <source>Use &quot;Win + Space&quot; to open in full screen</source>
@@ -1217,34 +1217,34 @@
     <name>freetrial</name>
     <message>
         <source>Seer - Free trial</source>
-        <translation type="unfinished"></translation>
+        <translation>Seer - пробная версия</translation>
     </message>
     <message>
         <source>You have</source>
-        <translation type="unfinished"></translation>
+        <translation>У вас есть</translation>
     </message>
     <message>
         <source>day</source>
-        <translation type="unfinished"></translation>
+        <translation>дня</translation>
     </message>
     <message>
         <source>free trial.</source>
-        <translation type="unfinished"></translation>
+        <translation>пробного периода.</translation>
     </message>
 </context>
 <context>
     <name>overdue</name>
     <message>
         <source>Seer - Overdue</source>
-        <translation type="unfinished"></translation>
+        <translation>Seer - просрочен</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Закрыть</translation>
+        <translation>Закрыть</translation>
     </message>
     <message>
         <source>Buy a License</source>
-        <translation type="unfinished"></translation>
+        <translation>Купить лицензию</translation>
     </message>
 </context>
 </TS>
