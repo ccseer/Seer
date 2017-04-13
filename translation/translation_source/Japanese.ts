@@ -529,7 +529,7 @@
     </message>
     <message>
         <source>Fit Width</source>
-        <translation>ウィンドウ幅に合わせる</translation>
+        <translation type="vanished">ウィンドウ幅に合わせる</translation>
     </message>
     <message>
         <source>Image Count</source>
@@ -541,7 +541,7 @@
     </message>
     <message>
         <source>Rotate Left</source>
-        <translation>左に回転</translation>
+        <translation type="vanished">左に回転</translation>
     </message>
     <message>
         <source>Camera make</source>
@@ -1384,7 +1384,7 @@
     <name>QObject</name>
     <message>
         <source>&amp;Ok</source>
-        <translation>O  K(&amp;O)</translation>
+        <translation type="vanished">O  K(&amp;O)</translation>
     </message>
     <message>
         <source>Notice</source>
@@ -1408,7 +1408,15 @@
     </message>
     <message>
         <source>Set language failed</source>
-        <translation>言語設定に失敗しました</translation>
+        <translation type="vanished">言語設定に失敗しました</translation>
+    </message>
+    <message>
+        <source>&amp;OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update language failed</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

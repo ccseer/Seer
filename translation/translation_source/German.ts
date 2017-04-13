@@ -534,7 +534,7 @@
     </message>
     <message>
         <source>Fit Width</source>
-        <translation>Passende Breite</translation>
+        <translation type="vanished">Passende Breite</translation>
     </message>
     <message>
         <source>Actual Size</source>
@@ -542,7 +542,7 @@
     </message>
     <message>
         <source>Rotate Left</source>
-        <translation>Nach links drehen</translation>
+        <translation type="vanished">Nach links drehen</translation>
     </message>
     <message>
         <source>Image Count</source>
@@ -1397,7 +1397,7 @@
     <name>QObject</name>
     <message>
         <source>&amp;Ok</source>
-        <translation>&amp;OK</translation>
+        <translation type="vanished">&amp;OK</translation>
     </message>
     <message>
         <source>Notice</source>
@@ -1421,7 +1421,15 @@
     </message>
     <message>
         <source>Set language failed</source>
-        <translation>Sprache ändern fehlgeschlagen</translation>
+        <translation type="vanished">Sprache ändern fehlgeschlagen</translation>
+    </message>
+    <message>
+        <source>&amp;OK</source>
+        <translation type="unfinished">&amp;OK</translation>
+    </message>
+    <message>
+        <source>Update language failed</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

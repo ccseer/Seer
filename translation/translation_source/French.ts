@@ -622,7 +622,7 @@
     </message>
     <message>
         <source>Fit Width</source>
-        <translation>Ajuster à la largeur</translation>
+        <translation type="vanished">Ajuster à la largeur</translation>
     </message>
     <message>
         <source>Image Count</source>
@@ -634,7 +634,7 @@
     </message>
     <message>
         <source>Rotate Left</source>
-        <translation>Rotation à gauche</translation>
+        <translation type="vanished">Rotation à gauche</translation>
     </message>
     <message>
         <source>Camera make</source>
@@ -1497,7 +1497,7 @@
     <name>QObject</name>
     <message>
         <source>&amp;Ok</source>
-        <translation>&amp;Ok</translation>
+        <translation type="vanished">&amp;Ok</translation>
     </message>
     <message>
         <source>Notice</source>
@@ -1521,7 +1521,15 @@
     </message>
     <message>
         <source>Set language failed</source>
-        <translation>La définition de la langue a échouée</translation>
+        <translation type="vanished">La définition de la langue a échouée</translation>
+    </message>
+    <message>
+        <source>&amp;OK</source>
+        <translation type="unfinished">&amp;OK</translation>
+    </message>
+    <message>
+        <source>Update language failed</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -506,7 +506,7 @@
     </message>
     <message>
         <source>Fit Width</source>
-        <translation>По ширине</translation>
+        <translation type="vanished">По ширине</translation>
     </message>
     <message>
         <source>Flash</source>
@@ -606,7 +606,7 @@
     </message>
     <message>
         <source>Rotate Left</source>
-        <translation>Поворот влево</translation>
+        <translation type="vanished">Поворот влево</translation>
     </message>
     <message>
         <source>Rotate Right</source>
@@ -1194,7 +1194,7 @@
     <name>QObject</name>
     <message>
         <source>&amp;Ok</source>
-        <translation>&amp;Ok</translation>
+        <translation type="vanished">&amp;Ok</translation>
     </message>
     <message>
         <source>Please check your &quot;i18n&quot; folder.</source>
@@ -1210,7 +1210,15 @@
     </message>
     <message>
         <source>Set language failed</source>
-        <translation>Сбой установки языка</translation>
+        <translation type="vanished">Сбой установки языка</translation>
+    </message>
+    <message>
+        <source>&amp;OK</source>
+        <translation type="unfinished">&amp;OK</translation>
+    </message>
+    <message>
+        <source>Update language failed</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
