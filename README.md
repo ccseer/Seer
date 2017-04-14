@@ -1,16 +1,16 @@
-[1218.io](http://www.1218.io/index.html?github)
+[1218.io](http://www.1218.io?github)
 
 ----
 
 
 
-##This repository is for **Bug Report**
+## This repository is for **Bug Report**
 
 This repository exists as a public forum to gather users' feedback and discussions on bugs, missing features or desired enhancements. 
 
 
 
-##How to report a bug, missing feature, or suggest an enhancement
+## How to report a bug, missing feature, or suggest an enhancement
 
 1. Go to the [Issues tab](https://github.com/ccseer/Seer/issues)
 2. Search the existing issues to see if someone else has already beat you to it.
