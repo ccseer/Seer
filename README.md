@@ -4,7 +4,7 @@
 
 
 
-## This repository is for bug report
+## This repository is for **Bug Report**
 
 This repository exists as a public forum to gather users' feedback and discussions on bugs, missing features or desired enhancements. 
 
