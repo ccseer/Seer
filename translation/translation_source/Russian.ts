@@ -334,7 +334,7 @@
     </message>
     <message>
         <source>Please restart Seer manually.</source>
-        <translation>Пожалуйста, перезапустите Seer вручную.</translation>
+        <translation type="vanished">Пожалуйста, перезапустите Seer вручную.</translation>
     </message>
     <message>
         <source>Please share with your friends.</source>
@@ -350,7 +350,7 @@
     </message>
     <message>
         <source>Restart Failed</source>
-        <translation>Не удалось перезапустить</translation>
+        <translation type="vanished">Не удалось перезапустить</translation>
     </message>
     <message>
         <source>Seer License Activation</source>
@@ -770,7 +770,7 @@
     <name>CSettingsWnd4Explorer</name>
     <message>
         <source>Browse for dopusrt.exe</source>
-        <translation>Поиск dopusrt.exe</translation>
+        <translation type="vanished">Поиск dopusrt.exe</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -782,7 +782,7 @@
     </message>
     <message>
         <source>Directory Opus</source>
-        <translation>Directory Opus</translation>
+        <translation type="vanished">Directory Opus</translation>
     </message>
     <message>
         <source>Disable file type detecting</source>
@@ -815,6 +815,30 @@
     <message>
         <source>Keep window size and position</source>
         <translation>Сохранять размер и положение окна</translation>
+    </message>
+    <message>
+        <source>Tray Icon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide Tray Icon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use White Icon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Run Settings.exe to display tray icon when it&apos;s hidden.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open temp folder failed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reveal Settings.exe failed.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1055,15 +1079,31 @@
     </message>
     <message>
         <source>Trigger Keys:  </source>
-        <translation>Клавиша просмотра:  </translation>
+        <translation type="vanished">Клавиша просмотра:  </translation>
     </message>
     <message>
         <source>Use &quot;Win + Space&quot; to open in full screen</source>
-        <translation>Использовать &quot;Win +Пробел&quot;, чтобы открыть в полном экране</translation>
+        <translation type="vanished">Использовать &quot;Win +Пробел&quot;, чтобы открыть в полном экране</translation>
     </message>
     <message>
         <source>Reload:</source>
         <translation>Перезагрузить:</translation>
+    </message>
+    <message>
+        <source>Normal:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fullscreen:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Go To Beginning:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1146,6 +1186,10 @@
         <source>Select a plugin on the left</source>
         <translation>Выберите плагин слева</translation>
     </message>
+    <message>
+        <source>Search available plugin</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CSystemTrayIcon</name>
@@ -1202,7 +1246,7 @@
     </message>
     <message>
         <source>Remove</source>
-        <translation>Удалить</translation>
+        <translation type="vanished">Удалить</translation>
     </message>
     <message>
         <source>Seer is already running.</source>

@@ -378,7 +378,7 @@
     </message>
     <message>
         <source>Restart Failed</source>
-        <translation>Neustart fehlgeschlagen</translation>
+        <translation type="vanished">Neustart fehlgeschlagen</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -386,7 +386,7 @@
     </message>
     <message>
         <source>Please restart Seer manually.</source>
-        <translation>Bitte starte Seer manuell neu.</translation>
+        <translation type="vanished">Bitte starte Seer manuell neu.</translation>
     </message>
     <message>
         <source>Register shortcut failed</source>
@@ -838,7 +838,7 @@
     </message>
     <message>
         <source>Browse for dopusrt.exe</source>
-        <translation>Nach dopusrt.exe suchen</translation>
+        <translation type="vanished">Nach dopusrt.exe suchen</translation>
     </message>
     <message>
         <source>Temp Folder</source>
@@ -847,10 +847,6 @@
     <message>
         <source>Others</source>
         <translation>Sonstiges</translation>
-    </message>
-    <message>
-        <source>Directory Opus</source>
-        <translation></translation>
     </message>
     <message>
         <source>Save plugin temp files after Seer exited</source>
@@ -882,6 +878,30 @@
     </message>
     <message>
         <source>Keep window size and position</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tray Icon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide Tray Icon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use White Icon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Run Settings.exe to display tray icon when it&apos;s hidden.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open temp folder failed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reveal Settings.exe failed.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1159,7 +1179,7 @@
     </message>
     <message>
         <source>Trigger Keys:  </source>
-        <translation>Aktionstasten:  </translation>
+        <translation type="vanished">Aktionstasten:  </translation>
     </message>
     <message>
         <source>Time Indication:</source>
@@ -1190,7 +1210,19 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Use &quot;Win + Space&quot; to open in full screen</source>
+        <source>Normal:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fullscreen:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Go To Beginning:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1297,6 +1329,10 @@
     <message>
         <source>Extension:</source>
         <translation>Dateiendung：</translation>
+    </message>
+    <message>
+        <source>Search available plugin</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1405,7 +1441,7 @@
     </message>
     <message>
         <source>Remove</source>
-        <translation>Entfernen</translation>
+        <translation type="vanished">Entfernen</translation>
     </message>
     <message>
         <source>Please check your &quot;i18n&quot; folder.</source>

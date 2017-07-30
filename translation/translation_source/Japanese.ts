@@ -377,7 +377,7 @@
     </message>
     <message>
         <source>Restart Failed</source>
-        <translation>再起動に失敗しました</translation>
+        <translation type="vanished">再起動に失敗しました</translation>
     </message>
     <message>
         <source>Monitoring &apos;Space&apos; key failed, can&apos;t proceed.</source>
@@ -389,7 +389,7 @@
     </message>
     <message>
         <source>Please restart Seer manually.</source>
-        <translation>Seerを再起動してください。</translation>
+        <translation type="vanished">Seerを再起動してください。</translation>
     </message>
     <message>
         <source>Register shortcut failed</source>
@@ -825,7 +825,7 @@
     </message>
     <message>
         <source>Browse for dopusrt.exe</source>
-        <translation>dopusrt.exe を選択</translation>
+        <translation type="vanished">dopusrt.exe を選択</translation>
     </message>
     <message>
         <source>Temp Folder</source>
@@ -834,10 +834,6 @@
     <message>
         <source>Others</source>
         <translation>その他</translation>
-    </message>
-    <message>
-        <source>Directory Opus</source>
-        <translation></translation>
     </message>
     <message>
         <source>Save plugin temp files after Seer exited</source>
@@ -869,6 +865,30 @@
     </message>
     <message>
         <source>Keep window size and position</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tray Icon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide Tray Icon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use White Icon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Run Settings.exe to display tray icon when it&apos;s hidden.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open temp folder failed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reveal Settings.exe failed.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1154,7 +1174,7 @@
     </message>
     <message>
         <source>Trigger Keys:  </source>
-        <translation>トリガーキー：</translation>
+        <translation type="vanished">トリガーキー：</translation>
     </message>
     <message>
         <source>Time Indication:</source>
@@ -1177,7 +1197,19 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Use &quot;Win + Space&quot; to open in full screen</source>
+        <source>Normal:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fullscreen:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Go To Beginning:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1284,6 +1316,10 @@
     <message>
         <source>Extension:</source>
         <translation>拡張子:</translation>
+    </message>
+    <message>
+        <source>Search available plugin</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1392,7 +1428,7 @@
     </message>
     <message>
         <source>Remove</source>
-        <translation>削除</translation>
+        <translation type="vanished">削除</translation>
     </message>
     <message>
         <source>Please check your &quot;i18n&quot; folder.</source>

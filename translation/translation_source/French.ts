@@ -464,7 +464,7 @@
     </message>
     <message>
         <source>Restart Failed</source>
-        <translation>Le relancement a échoué</translation>
+        <translation type="vanished">Le relancement a échoué</translation>
     </message>
     <message>
         <source>Monitoring &apos;Space&apos; key failed, can&apos;t proceed.</source>
@@ -476,7 +476,7 @@
     </message>
     <message>
         <source>Please restart Seer manually.</source>
-        <translation>S&apos;il vous plaît, relancer Seer manuellement.</translation>
+        <translation type="vanished">S&apos;il vous plaît, relancer Seer manuellement.</translation>
     </message>
     <message>
         <source>Register shortcut failed</source>
@@ -935,7 +935,7 @@
     </message>
     <message>
         <source>Browse for dopusrt.exe</source>
-        <translation>Définir l&apos;emplacement de dopusrt.exe</translation>
+        <translation type="vanished">Définir l&apos;emplacement de dopusrt.exe</translation>
     </message>
     <message>
         <source>Temp Folder</source>
@@ -948,7 +948,7 @@
     <message>
         <source>Directory Opus</source>
         <translatorcomment>Name of the software.</translatorcomment>
-        <translation>Directory Opus</translation>
+        <translation type="vanished">Directory Opus</translation>
     </message>
     <message>
         <source>Save plugin temp files after Seer exited</source>
@@ -980,6 +980,30 @@
     </message>
     <message>
         <source>Keep window size and position</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tray Icon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide Tray Icon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use White Icon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Run Settings.exe to display tray icon when it&apos;s hidden.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open temp folder failed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reveal Settings.exe failed.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1266,7 +1290,7 @@
     </message>
     <message>
         <source>Trigger Keys:  </source>
-        <translation>Touches de déclenchement:  </translation>
+        <translation type="vanished">Touches de déclenchement:  </translation>
     </message>
     <message>
         <source>Time Indication:</source>
@@ -1289,7 +1313,19 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Use &quot;Win + Space&quot; to open in full screen</source>
+        <source>Normal:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fullscreen:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Go To Beginning:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1396,6 +1432,10 @@
     <message>
         <source>Extension:</source>
         <translation>Extension:</translation>
+    </message>
+    <message>
+        <source>Search available plugin</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1505,7 +1545,7 @@
     </message>
     <message>
         <source>Remove</source>
-        <translation>Supprimer</translation>
+        <translation type="vanished">Supprimer</translation>
     </message>
     <message>
         <source>Please check your &quot;i18n&quot; folder.</source>
