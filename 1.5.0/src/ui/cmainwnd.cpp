@@ -25,36 +25,8 @@
 #include "qt_windows.h"
 #include "windowsx.h"
 
-
-
-// 1.6.0:
-//  media dll
-//  按下一个快捷键F4，split，预览窗口分离出来，再按空格可以显示下一个预览不影响分离出来的窗口。在原来的窗口上同位置显示，最后动画移出来
-//  除了 图片 和 media 都得恒定显示titlebar
-//  code highlight color.
-//  如果更新了 dll/编译器, 则需要替换 ssl 的 dll 和 msvcr120/msvcp120, helper.exe. 需要多平台进行测试
-//	take control of all delete events  ***  可解决删除时 预览窗口挡住
-//  Windows Store
-
-//  更好的 office 支持  *** : 打开office. fromWinID(HWND)->CreateWindow->add 2 Seer
-//确认框/文件被占用 的问题		*******************
-
-//  尝试第二种命令行方法启动 Everything
-// BUG: 	字幕 黑边 --> QtAV build-in in next released(QtAV-1.8.0)
-//     	avi crash
-//   	5.5M 的 Markdown -> 加载中 -> 点击超链接 -> 崩溃 :  未加载完就点击 link
-//   后会有 loadFinished(false) 信号 然后 html 停止加载
-
-//------------------------------------------------------------------------------
-//  Telegram 的 窗口滚动条.
-
-// TODO: later
-//	PDF: 优化 PDF 代码 , PDF 复制问题 -- pdf 异步多线程
-//  gif size ->  scale scene after displayed ?
-// https://github.com/ccseer/Seer/issues/69
-// https://github.com/ccseer/Seer/issues/23
-//  自动下载安装添加插件*** ??
-
+ 
+ 
 CMainWnd::CMainWnd(CMonitorChecker *dpi, QWidget *parent)
     : QDialog(parent),
       ui(new Ui::CParentDlg),
