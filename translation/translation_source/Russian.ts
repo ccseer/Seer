@@ -25,7 +25,7 @@
     </message>
     <message>
         <source>Designer</source>
-        <translation>Дизайн</translation>
+        <translation type="vanished">Дизайн</translation>
     </message>
     <message>
         <source>Gratitude List</source>
@@ -51,6 +51,18 @@
         <source>•</source>
         <translation>•</translation>
     </message>
+    <message>
+        <source>Cisa</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tobey</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Contributor</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CAbstractManager</name>
@@ -63,7 +75,7 @@
     <name>CCodeWnd</name>
     <message>
         <source>Column: </source>
-        <translation>Колонка: </translation>
+        <translation type="vanished">Колонка: </translation>
     </message>
     <message>
         <source>Format Code</source>
@@ -75,11 +87,27 @@
     </message>
     <message>
         <source>Line: </source>
-        <translation>Строка: </translation>
+        <translation type="vanished">Строка: </translation>
     </message>
     <message>
         <source>Reason:</source>
         <translation>Обоснование:</translation>
+    </message>
+    <message>
+        <source>Line:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Column:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Render markdown</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Render HTML</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -288,15 +316,15 @@
     <name>CHtmlManager</name>
     <message>
         <source> not found.</source>
-        <translation> не найден.</translation>
+        <translation type="vanished"> не найден.</translation>
     </message>
     <message>
         <source>Can not run </source>
-        <translation>Не удается запустить </translation>
+        <translation type="vanished">Не удается запустить </translation>
     </message>
     <message>
         <source>Parse file error.</source>
-        <translation>Синтаксическая ошибка файла.</translation>
+        <translation type="vanished">Синтаксическая ошибка файла.</translation>
     </message>
 </context>
 <context>
@@ -304,6 +332,10 @@
     <message>
         <source>HTML</source>
         <translation>HTML</translation>
+    </message>
+    <message>
+        <source>Markdown Source</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -378,6 +410,10 @@
     <message>
         <source>Properties</source>
         <translation>Свойства</translation>
+    </message>
+    <message>
+        <source>Seperate</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -849,7 +885,7 @@
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;:/face_nohappy.png&quot;/&gt;&lt;span style=&quot; font-size:18pt; font-weight:496; color:#333;&quot;&gt; Oops! &lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:18pt; font-weight:496; color:#333;&quot;&gt;No extensions matched.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;:/face_nohappy.png&quot;/&gt;&lt;span style=&quot; font-size:18pt; font-weight:496; color:#333;&quot;&gt; Упс! &lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:18pt; font-weight:496; color:#333;&quot;&gt;Расширение файла не найдено&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;:/face_nohappy.png&quot;/&gt;&lt;span style=&quot; font-size:18pt; font-weight:496; color:#333;&quot;&gt; Упс! &lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:18pt; font-weight:496; color:#333;&quot;&gt;Расширение файла не найдено&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Compressed</source>
@@ -906,6 +942,10 @@
     <message>
         <source>Markdown css not found.</source>
         <translation>Markdown css не найден.</translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;:(&lt;/p&gt;&lt;p&gt;Oops!&lt;/p&gt;&lt;p&gt;No extensions matched.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1103,6 +1143,10 @@
     </message>
     <message>
         <source>Invalid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Seperate:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

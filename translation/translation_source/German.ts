@@ -61,7 +61,7 @@
     </message>
     <message>
         <source>Designer</source>
-        <translation>Grafiker</translation>
+        <translation type="vanished">Grafiker</translation>
     </message>
     <message>
         <source>Translator</source>
@@ -70,6 +70,18 @@
     <message>
         <source>1218.io</source>
         <translation></translation>
+    </message>
+    <message>
+        <source>Cisa</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tobey</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Contributor</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -98,11 +110,11 @@
     <name>CCodeWnd</name>
     <message>
         <source>Line: </source>
-        <translation>Zeile: </translation>
+        <translation type="vanished">Zeile: </translation>
     </message>
     <message>
         <source>Column: </source>
-        <translation>Spalte: </translation>
+        <translation type="vanished">Spalte: </translation>
     </message>
     <message>
         <source>Format Code</source>
@@ -115,6 +127,22 @@
     <message>
         <source>Format failed.</source>
         <translation>Format fehlgeschlagen.</translation>
+    </message>
+    <message>
+        <source>Line:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Column:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Render markdown</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Render HTML</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -327,15 +355,15 @@
     <name>CHtmlManager</name>
     <message>
         <source>Parse file error.</source>
-        <translation>Fehler im Dateiformat.</translation>
+        <translation type="vanished">Fehler im Dateiformat.</translation>
     </message>
     <message>
         <source>Can not run </source>
-        <translation>Kann nicht gestartet werden </translation>
+        <translation type="vanished">Kann nicht gestartet werden </translation>
     </message>
     <message>
         <source> not found.</source>
-        <translation> nicht gefunden.</translation>
+        <translation type="vanished"> nicht gefunden.</translation>
     </message>
 </context>
 <context>
@@ -343,6 +371,10 @@
     <message>
         <source>HTML</source>
         <translation></translation>
+    </message>
+    <message>
+        <source>Markdown Source</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -422,6 +454,10 @@
     <message>
         <source>Properties</source>
         <translation>Informationen</translation>
+    </message>
+    <message>
+        <source>Seperate</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -953,7 +989,7 @@
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;:/face_nohappy.png&quot;/&gt;&lt;span style=&quot; font-size:18pt; font-weight:496; color:#333;&quot;&gt; Oops! &lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:18pt; font-weight:496; color:#333;&quot;&gt;No extensions matched.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;:/face_nohappy.png&quot;/&gt;&lt;span style=&quot; font-size:18pt; font-weight:496; color:#333;&quot;&gt; Oops! &lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:18pt; font-weight:496; color:#333;&quot;&gt;Keine Dateiendung gefunden.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;:/face_nohappy.png&quot;/&gt;&lt;span style=&quot; font-size:18pt; font-weight:496; color:#333;&quot;&gt; Oops! &lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:18pt; font-weight:496; color:#333;&quot;&gt;Keine Dateiendung gefunden.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Wrap</source>
@@ -985,6 +1021,10 @@
     </message>
     <message>
         <source>Markdown css not found.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;:(&lt;/p&gt;&lt;p&gt;Oops!&lt;/p&gt;&lt;p&gt;No extensions matched.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1223,6 +1263,10 @@
     </message>
     <message>
         <source>Invalid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Seperate:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
