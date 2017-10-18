@@ -109,6 +109,22 @@
         <source>Render HTML</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Character count</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line count</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ln</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Col</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CConfirmDlg</name>
@@ -400,6 +416,10 @@
         <source>You have three-day free trial.</source>
         <translation type="vanished">У вас есть трёхдневный пробный период.</translation>
     </message>
+    <message>
+        <source>A Windows Quick Look Tool</source>
+        <translation type="obsolete">Инструмент быстрого просмотра</translation>
+    </message>
 </context>
 <context>
     <name>CMainWnd</name>
@@ -488,6 +508,25 @@
     </message>
 </context>
 <context>
+    <name>CPDFPwdWnd</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Password required</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished">OK</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Отмена</translation>
+    </message>
+</context>
+<context>
     <name>CPdfWnd</name>
     <message>
         <source>Actual Size</source>
@@ -500,6 +539,10 @@
     <message>
         <source>Pages Count</source>
         <translation>Количество страниц</translation>
+    </message>
+    <message>
+        <source>Encrypted</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -806,7 +849,7 @@
     <name>CSettingsWnd4Explorer</name>
     <message>
         <source>Browse for dopusrt.exe</source>
-        <translation type="vanished">Поиск dopusrt.exe</translation>
+        <translation>Поиск dopusrt.exe</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -874,6 +917,14 @@
     </message>
     <message>
         <source>Reveal Settings.exe failed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3rd Party</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Directory Opus:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -140,6 +140,22 @@
         <source>Render HTML</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Character count</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line count</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ln</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Col</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CComLineEditBtn</name>
@@ -543,6 +559,25 @@
     </message>
 </context>
 <context>
+    <name>CPDFPwdWnd</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Password required</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Annulla</translation>
+    </message>
+</context>
+<context>
     <name>CPdfWnd</name>
     <message>
         <source>Pages Count</source>
@@ -555,6 +590,10 @@
     <message>
         <source>Actual Size</source>
         <translation>Dimensione Attuale</translation>
+    </message>
+    <message>
+        <source>Encrypted</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -869,7 +908,7 @@
     </message>
     <message>
         <source>Browse for dopusrt.exe</source>
-        <translation type="vanished">Naviga a dopusrt.exe</translation>
+        <translation>Naviga a dopusrt.exe</translation>
     </message>
     <message>
         <source>Temp Folder</source>
@@ -933,6 +972,14 @@
     </message>
     <message>
         <source>Reveal Settings.exe failed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3rd Party</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Directory Opus:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
