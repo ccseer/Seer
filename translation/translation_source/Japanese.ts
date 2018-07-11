@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="jp">
+<TS version="2.1" language="ja_JP">
 <context>
     <name>CAboutWnd</name>
     <message>
@@ -13,11 +13,11 @@
     </message>
     <message>
         <source>Corey</source>
-        <translation></translation>
+        <translation>Corey</translation>
     </message>
     <message>
         <source>About Author</source>
-        <translation>著者</translation>
+        <translation>著者について</translation>
     </message>
     <message>
         <source>Send feedback : )</source>
@@ -37,7 +37,7 @@
     </message>
     <message>
         <source>cc.seer@gmail.com</source>
-        <translation></translation>
+        <translation>cc.seer@gmail.com</translation>
     </message>
     <message>
         <source>About Seer</source>
@@ -49,27 +49,27 @@
     </message>
     <message>
         <source>A Windows Quick Look Tool</source>
-        <translation></translation>
+        <translation>A Windows Quick Look Tool</translation>
     </message>
     <message>
         <source>Translator</source>
-        <translation type="unfinished"></translation>
+        <translation>翻訳者</translation>
     </message>
     <message>
         <source>1218.io</source>
-        <translation type="unfinished"></translation>
+        <translation>1218.io</translation>
     </message>
     <message>
         <source>Cisa</source>
-        <translation type="unfinished"></translation>
+        <translation>Cisa</translation>
     </message>
     <message>
         <source>Tobey</source>
-        <translation type="unfinished"></translation>
+        <translation>Tobey</translation>
     </message>
     <message>
         <source>Contributor</source>
-        <translation type="unfinished"></translation>
+        <translation>貢献者</translation>
     </message>
 </context>
 <context>
@@ -106,7 +106,7 @@
     </message>
     <message>
         <source>Format Code</source>
-        <translation>コードのフォーマット</translation>
+        <translation>コードを整形</translation>
     </message>
     <message>
         <source>Reason:</source>
@@ -114,39 +114,39 @@
     </message>
     <message>
         <source>Format failed.</source>
-        <translation>フォーマットに失敗しました。</translation>
+        <translation>コードの整形失敗.</translation>
     </message>
     <message>
         <source>Line:</source>
-        <translation type="unfinished"></translation>
+        <translation>行:</translation>
     </message>
     <message>
         <source>Column:</source>
-        <translation type="unfinished"></translation>
+        <translation>桁:</translation>
     </message>
     <message>
         <source>Render markdown</source>
-        <translation type="unfinished"></translation>
+        <translation>Markdownを表示</translation>
     </message>
     <message>
         <source>Render HTML</source>
-        <translation type="unfinished"></translation>
+        <translation>HTMLを表示</translation>
     </message>
     <message>
         <source>Character count</source>
-        <translation type="unfinished"></translation>
+        <translation>文字数</translation>
     </message>
     <message>
         <source>Line count</source>
-        <translation type="unfinished"></translation>
+        <translation>行数</translation>
     </message>
     <message>
         <source>Ln</source>
-        <translation type="unfinished"></translation>
+        <translation>行</translation>
     </message>
     <message>
         <source>Col</source>
-        <translation type="unfinished"></translation>
+        <translation>桁</translation>
     </message>
 </context>
 <context>
@@ -154,6 +154,29 @@
     <message>
         <source>Clear Text</source>
         <translation type="vanished">クリアテキスト</translation>
+    </message>
+</context>
+<context>
+    <name>CCompressedParse</name>
+    <message>
+        <source>Filename</source>
+        <translation type="obsolete">ファイル名</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="obsolete">サイズ</translation>
+    </message>
+    <message>
+        <source>Packed</source>
+        <translation type="obsolete">圧縮後サイズ</translation>
+    </message>
+    <message>
+        <source>Ratio</source>
+        <translation type="obsolete">圧縮率</translation>
+    </message>
+    <message>
+        <source>Time</source>
+        <translation type="obsolete">更新日時</translation>
     </message>
 </context>
 <context>
@@ -168,22 +191,22 @@
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation type="unfinished"></translation>
+        <translation>O  K(&amp;O)</translation>
     </message>
 </context>
 <context>
     <name>CControlWnd</name>
     <message>
         <source>Open With Default Application</source>
-        <translation type="unfinished">ファイルを開く</translation>
+        <translation>既定のアプリで開く</translation>
     </message>
     <message>
         <source>Reveal In Explorer</source>
-        <translation type="unfinished">ファイルの場所</translation>
+        <translation>ファイルの場所を開く</translation>
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished">さらに見る</translation>
+        <translation>さらに見る</translation>
     </message>
 </context>
 <context>
@@ -205,7 +228,7 @@
     </message>
     <message>
         <source>Time</source>
-        <translation>時間</translation>
+        <translation>更新日時</translation>
     </message>
     <message>
         <source>Filename</source>
@@ -213,31 +236,42 @@
     </message>
     <message>
         <source>Ratio</source>
-        <translation>比率</translation>
+        <translation>圧縮率</translation>
     </message>
     <message>
         <source>Column View</source>
-        <translation>カラムビュー</translation>
+        <translation>カラム表示</translation>
     </message>
     <message>
         <source>Packed</source>
-        <translation>圧縮サイズ</translation>
+        <translation>圧縮後サイズ</translation>
     </message>
     <message>
         <source>Display Selected Item In Explorer</source>
-        <translation>選択したアイテムをエクスプローラーで表示</translation>
+        <translation>ファイルの場所を開く</translation>
     </message>
     <message>
         <source>Open Selected Item With Seer</source>
-        <translation>選択したアイテムをSeerで開く</translation>
+        <translation>選択アイテムをSeerで開く</translation>
     </message>
     <message>
         <source>Tree View</source>
-        <translation>ツリービュー</translation>
+        <translation>ツリー表示</translation>
     </message>
     <message>
         <source>Open Selected Item With Default Application</source>
-        <translation>選択したアイテムをデフォルトアプリケーションで開く</translation>
+        <translation>選択アイテムを既定のアプリで開く</translation>
+    </message>
+</context>
+<context>
+    <name>CFileCollector</name>
+    <message>
+        <source>Previous same type file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next same type file</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -252,11 +286,11 @@
     </message>
     <message>
         <source>Type</source>
-        <translation>ファイルの種類</translation>
+        <translation>種類</translation>
     </message>
     <message>
         <source>Opens with</source>
-        <translation>このプログラムで開く</translation>
+        <translation>アプリで開く</translation>
     </message>
     <message>
         <source>Original location</source>
@@ -280,59 +314,59 @@
     </message>
     <message>
         <source>Comments</source>
-        <translation type="unfinished"></translation>
+        <translation>コメント</translation>
     </message>
     <message>
         <source>Internal Name</source>
-        <translation type="unfinished"></translation>
+        <translation>内部名</translation>
     </message>
     <message>
         <source>Product Name</source>
-        <translation type="unfinished"></translation>
+        <translation>プロダクト名</translation>
     </message>
     <message>
         <source>Company Name</source>
-        <translation type="unfinished"></translation>
+        <translation>会社名</translation>
     </message>
     <message>
         <source>Legal Copyright</source>
-        <translation type="unfinished"></translation>
+        <translation>法的著作権</translation>
     </message>
     <message>
         <source>Product Version</source>
-        <translation type="unfinished"></translation>
+        <translation>プロダクトバージョン</translation>
     </message>
     <message>
         <source>File Description</source>
-        <translation type="unfinished"></translation>
+        <translation>ファイル説明</translation>
     </message>
     <message>
         <source>Legal Trademarks</source>
-        <translation type="unfinished"></translation>
+        <translation>法的商標</translation>
     </message>
     <message>
         <source>Private Build</source>
-        <translation type="unfinished"></translation>
+        <translation>プライベートビルド</translation>
     </message>
     <message>
         <source>File Version</source>
-        <translation type="unfinished"></translation>
+        <translation>ファイルバージョン</translation>
     </message>
     <message>
         <source>Original Filename</source>
-        <translation type="unfinished"></translation>
+        <translation>元のファイル名</translation>
     </message>
     <message>
         <source>Special Build</source>
-        <translation type="unfinished"></translation>
+        <translation>特別なビルド</translation>
     </message>
     <message>
         <source>Details</source>
-        <translation type="unfinished"></translation>
+        <translation>詳細</translation>
     </message>
     <message>
         <source>Extension</source>
-        <translation type="unfinished">拡張子</translation>
+        <translation>拡張子</translation>
     </message>
 </context>
 <context>
@@ -355,11 +389,11 @@
     </message>
     <message>
         <source>Date created</source>
-        <translation>作成日</translation>
+        <translation>作成日時</translation>
     </message>
     <message>
         <source>Date modified</source>
-        <translation>最終更新日時</translation>
+        <translation>更新日時</translation>
     </message>
 </context>
 <context>
@@ -377,11 +411,11 @@
     <name>CHtmlWnd</name>
     <message>
         <source>HTML</source>
-        <translation type="unfinished"></translation>
+        <translation>HTML</translation>
     </message>
     <message>
         <source>Markdown Source</source>
-        <translation type="unfinished"></translation>
+        <translation>Markdownソース</translation>
     </message>
 </context>
 <context>
@@ -405,11 +439,11 @@
     </message>
     <message>
         <source>Application started.</source>
-        <translation>Seer が起動しました。</translation>
+        <translation>アプリケーションが起動しました。</translation>
     </message>
     <message>
         <source>Like Seer?</source>
-        <translation></translation>
+        <translation>Seer を気に入りましたか?</translation>
     </message>
     <message>
         <source> is registered by other application.</source>
@@ -421,7 +455,7 @@
     </message>
     <message>
         <source>Monitoring &apos;Space&apos; key failed, can&apos;t proceed.</source>
-        <translation>スペースキーの監視に失敗しました。</translation>
+        <translation>スペースキーの監視に失敗したので、続行できません。</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -433,19 +467,19 @@
     </message>
     <message>
         <source>Register shortcut failed</source>
-        <translation>ショートカットの登録に失敗しました</translation>
+        <translation>ショートカットの登録に失敗</translation>
     </message>
     <message>
         <source>The system default application not found.</source>
-        <translation type="unfinished"></translation>
+        <translation>既定のアプリが見つかりません。</translation>
     </message>
     <message>
         <source>Seer License Activation</source>
-        <translation type="unfinished"></translation>
+        <translation>Seer ライセンスを登録する</translation>
     </message>
     <message>
         <source>Please share with your friends.</source>
-        <translation type="unfinished"></translation>
+        <translation>お友達と共有しましょう。</translation>
     </message>
 </context>
 <context>
@@ -460,7 +494,7 @@
     </message>
     <message>
         <source>Seperate</source>
-        <translation type="unfinished"></translation>
+        <translation>新規サブウィンドウに分離</translation>
     </message>
 </context>
 <context>
@@ -515,7 +549,7 @@
     </message>
     <message>
         <source>Sample Format</source>
-        <translation>サンプルフォーマット</translation>
+        <translation>サンプリングフォーマット</translation>
     </message>
     <message>
         <source>Channels</source>
@@ -523,42 +557,42 @@
     </message>
     <message>
         <source>Mute: On</source>
-        <translation type="unfinished"></translation>
+        <translation>ミュート: オン</translation>
     </message>
     <message>
         <source>Mute: Off</source>
-        <translation type="unfinished"></translation>
+        <translation>ミュート: オフ</translation>
     </message>
     <message>
         <source>Capture failed</source>
-        <translation type="unfinished"></translation>
+        <translation>キャプチャに失敗</translation>
     </message>
     <message>
         <source>Loop: On</source>
-        <translation type="unfinished"></translation>
+        <translation>ループ: オン</translation>
     </message>
     <message>
         <source>Loop: Off</source>
-        <translation type="unfinished"></translation>
+        <translation>ループ: オフ</translation>
     </message>
 </context>
 <context>
     <name>CPDFPwdWnd</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">フォーム</translation>
     </message>
     <message>
         <source>Password required</source>
-        <translation type="unfinished"></translation>
+        <translation>パスワードが必要です</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">キャンセル</translation>
+        <translation>キャンセル</translation>
     </message>
 </context>
 <context>
@@ -577,7 +611,11 @@
     </message>
     <message>
         <source>Encrypted</source>
-        <translation type="unfinished"></translation>
+        <translation>暗号化</translation>
+    </message>
+    <message>
+        <source>Rotate Right</source>
+        <translation type="unfinished">右に回転</translation>
     </message>
 </context>
 <context>
@@ -612,142 +650,146 @@
     </message>
     <message>
         <source>Camera make</source>
-        <translation type="unfinished"></translation>
+        <translation>カメラメーカー</translation>
     </message>
     <message>
         <source>Camera model</source>
-        <translation type="unfinished"></translation>
+        <translation>カメラ型番</translation>
     </message>
     <message>
         <source>Software</source>
-        <translation type="unfinished"></translation>
+        <translation>ソフトウェア</translation>
     </message>
     <message>
         <source>Bits per sample</source>
-        <translation type="unfinished"></translation>
+        <translation>1サンプリング当たりのビット数</translation>
     </message>
     <message>
         <source>Image width</source>
-        <translation type="unfinished"></translation>
+        <translation>画像幅</translation>
     </message>
     <message>
         <source>Image height</source>
-        <translation type="unfinished"></translation>
+        <translation>画像高さ</translation>
     </message>
     <message>
         <source>Image description</source>
-        <translation type="unfinished"></translation>
+        <translation>画像説明</translation>
     </message>
     <message>
         <source>Image copyright</source>
-        <translation type="unfinished"></translation>
+        <translation>画像著作権</translation>
     </message>
     <message>
         <source>Image datetime</source>
-        <translation type="unfinished"></translation>
+        <translation>画像日時</translation>
     </message>
     <message>
         <source>Original datetime</source>
-        <translation type="unfinished"></translation>
+        <translation>オリジナル日時</translation>
     </message>
     <message>
         <source>Digitize datetime</source>
-        <translation type="unfinished"></translation>
+        <translation>撮影日時</translation>
     </message>
     <message>
         <source>Subsecond time</source>
-        <translation type="unfinished"></translation>
+        <translation>秒未満のタイムスタンプ</translation>
     </message>
     <message>
         <source>Exposure time</source>
-        <translation type="unfinished"></translation>
+        <translation>露出時間</translation>
     </message>
     <message>
         <source>F-stop</source>
-        <translation type="unfinished"></translation>
+        <translation>F値</translation>
     </message>
     <message>
         <source>ISO speed</source>
-        <translation type="unfinished"></translation>
+        <translation>ISO感度</translation>
     </message>
     <message>
         <source>Subject distance</source>
-        <translation type="unfinished"></translation>
+        <translation>被写体距離</translation>
     </message>
     <message>
         <source>Exposure bias</source>
-        <translation type="unfinished"></translation>
+        <translation>露出バイアス</translation>
     </message>
     <message>
         <source>Flash</source>
-        <translation type="unfinished"></translation>
+        <translation>フラッシュ</translation>
     </message>
     <message>
         <source>Metering mode</source>
-        <translation type="unfinished"></translation>
+        <translation>測距モード</translation>
     </message>
     <message>
         <source>Lens focal length</source>
-        <translation type="unfinished"></translation>
+        <translation>レンズ焦点距離</translation>
     </message>
     <message>
         <source>35mm focal length</source>
-        <translation type="unfinished"></translation>
+        <translation>35mm換算焦点距離</translation>
     </message>
     <message>
         <source>GPS Latitude</source>
-        <translation type="unfinished"></translation>
+        <translation>GPS緯度</translation>
     </message>
     <message>
         <source>GPS Longitude</source>
-        <translation type="unfinished"></translation>
+        <translation>GPS経度</translation>
     </message>
     <message>
         <source>GPS Altitude</source>
-        <translation type="unfinished"></translation>
+        <translation>GPS標高</translation>
     </message>
     <message>
         <source>GPS Precision (DOP)</source>
-        <translation type="unfinished"></translation>
+        <translation>GPS精度 (DOP; 精度低下率)</translation>
     </message>
     <message>
         <source>Lens min focal length</source>
-        <translation type="unfinished"></translation>
+        <translation>レンズ最短焦点距離</translation>
     </message>
     <message>
         <source>Lens max focal length</source>
-        <translation type="unfinished"></translation>
+        <translation>レンズ最長焦点距離</translation>
     </message>
     <message>
         <source>Lens f-stop min</source>
-        <translation type="unfinished"></translation>
+        <translation>レンズF値最小</translation>
     </message>
     <message>
         <source>Lens f-stop max</source>
-        <translation type="unfinished"></translation>
+        <translation>レンズF値最大</translation>
     </message>
     <message>
         <source>Lens make</source>
-        <translation type="unfinished"></translation>
+        <translation>レンズメーカー</translation>
     </message>
     <message>
         <source>Lens model</source>
-        <translation type="unfinished"></translation>
+        <translation>レンズ型番</translation>
     </message>
     <message>
         <source>Focal plane XRes</source>
-        <translation type="unfinished"></translation>
+        <translation>撮像面X解像度</translation>
     </message>
     <message>
         <source>Focal plane YRes</source>
-        <translation type="unfinished"></translation>
+        <translation>撮像面Y解像度</translation>
     </message>
     <message>
         <source>Play / Pause</source>
-        <translation type="unfinished">再生 / 一時停止</translation>
+        <translation>再生 / 一時停止</translation>
     </message>
     <message>
         <source>Loop Count</source>
+        <translation>ループ数</translation>
+    </message>
+    <message>
+        <source>XML</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -755,46 +797,46 @@
     <name>CRegDlg</name>
     <message>
         <source>ID:</source>
-        <translation type="unfinished"></translation>
+        <translation>ID:</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>コピー</translation>
     </message>
     <message>
         <source>License:</source>
-        <translation type="unfinished"></translation>
+        <translation>ライセンスキー:</translation>
     </message>
     <message>
         <source>Order</source>
-        <translation type="unfinished"></translation>
+        <translation>注文</translation>
     </message>
     <message>
         <source>Licensed</source>
-        <translation type="unfinished"></translation>
+        <translation>登録完了</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">キャンセル</translation>
+        <translation>キャンセル</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Copied</source>
-        <translation type="unfinished"></translation>
+        <translation>コピー済</translation>
     </message>
     <message>
         <source>Invalid License</source>
-        <translation type="unfinished"></translation>
+        <translation>ライセンスキーが正しくありません</translation>
     </message>
 </context>
 <context>
     <name>CSettingsDlg</name>
     <message>
         <source>Type</source>
-        <translation>種類</translation>
+        <translation>ファイルの種類</translation>
     </message>
     <message>
         <source>Controls</source>
@@ -818,30 +860,30 @@
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished">設定</translation>
+        <translation>設定</translation>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;OK</translation>
     </message>
     <message>
         <source>Restart</source>
-        <translation type="unfinished"></translation>
+        <translation>再起動</translation>
     </message>
 </context>
 <context>
     <name>CSettingsWnd4Controls</name>
     <message>
         <source>Show &quot;Display in explorer&quot; button</source>
-        <translation>&quot;エクスプローラーで表示&quot;ボタンを表示</translation>
+        <translation>&quot;ファイルの場所を開くボタン&quot;を表示</translation>
     </message>
     <message>
         <source>Show &quot;Open with default application&quot; button</source>
-        <translation>&quot;ファイルを開く&quot;ボタンを表示</translation>
+        <translation>&quot;既定のアプリで開くボタン&quot;を表示</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>削除</translation>
+        <translation>除去</translation>
     </message>
     <message>
         <source>executable file path</source>
@@ -857,7 +899,7 @@
     </message>
     <message>
         <source>Choose Application</source>
-        <translation>プログラムを選択</translation>
+        <translation>アプリを選択</translation>
     </message>
     <message>
         <source>About controls...</source>
@@ -865,23 +907,28 @@
     </message>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished">アピアランス</translation>
+        <translation>閲覧ウィンドウ</translation>
     </message>
     <message>
         <source>Extension</source>
-        <translation type="unfinished">拡張子</translation>
+        <translation>拡張子</translation>
     </message>
     <message>
         <source>Select executable file path</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>実行ファイルのパスを選択して下さい</translatorcomment>
+        <translation>実行ファイルを選択</translation>
     </message>
     <message>
         <source>equals triggered file path</source>
-        <translation type="unfinished"></translation>
+        <translation>はトリガーされたファイルパスに等しいです</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished">編集</translation>
+        <translation>拡張子に関連付けるアプリの引数・オプションを編集</translation>
+    </message>
+    <message>
+        <source>Show &quot;Navigation&quot; button</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -892,11 +939,11 @@
     </message>
     <message>
         <source>Browse for dopusrt.exe</source>
-        <translation>dopusrt.exe を選択</translation>
+        <translation>ディレクトリオーパスのパスを選択</translation>
     </message>
     <message>
         <source>Temp Folder</source>
-        <translation>Tempフォルダ</translation>
+        <translation>一時フォルダ</translation>
     </message>
     <message>
         <source>Others</source>
@@ -904,67 +951,68 @@
     </message>
     <message>
         <source>Save plugin temp files after Seer exited</source>
-        <translation>プログラム終了時に一時ファイルを削除しない</translation>
+        <translation>Seer終了時に一時ファイルを削除しない</translation>
     </message>
     <message>
         <source>Disable folder contents loading</source>
-        <translation type="unfinished"></translation>
+        <translation>フォルダの中身取得を無効化</translation>
     </message>
     <message>
         <source>Disable file type detecting</source>
-        <translation type="unfinished"></translation>
+        <translation>ファイル種類の検知を無効化</translation>
     </message>
     <message>
         <source>Reset settings to default</source>
-        <translation type="unfinished"></translation>
+        <translation>設定をデフォルトに戻す</translation>
     </message>
     <message>
         <source>Confirm &amp; Restart :</source>
-        <translation type="unfinished"></translation>
+        <translation>確認 &amp; 再起動:</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">キャンセル</translation>
+        <translation>キャンセル</translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished"></translation>
+        <translation>リセット</translation>
     </message>
     <message>
         <source>Keep window size and position</source>
-        <translation type="unfinished"></translation>
+        <translation>ウィンドウサイズ・位置を保持</translation>
     </message>
     <message>
         <source>Tray Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>トレイアイコン</translation>
     </message>
     <message>
         <source>Hide Tray Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>トレイアイコン非表示</translation>
     </message>
     <message>
         <source>Use White Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>白系アイコンを使う</translation>
     </message>
     <message>
         <source>Run Settings.exe to display tray icon when it&apos;s hidden.</source>
-        <translation type="unfinished"></translation>
+        <translation>トレイアイコンを非表示設定後に再表示させる為には、Settings.exe を実行する必要があります。
+タスクトレイ及びコマンド実行からは再表示出来ませんのでご注意下さい。</translation>
     </message>
     <message>
         <source>Open temp folder failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>一時フォルダのオープン失敗。</translation>
     </message>
     <message>
         <source>Reveal Settings.exe failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Settings.exe が見つかりません。</translation>
     </message>
     <message>
         <source>3rd Party</source>
-        <translation type="unfinished"></translation>
+        <translation>サードパーティ</translation>
     </message>
     <message>
         <source>Directory Opus:</source>
-        <translation type="unfinished"></translation>
+        <translation>ディレクトリオーパス:</translation>
     </message>
 </context>
 <context>
@@ -987,11 +1035,11 @@
     </message>
     <message>
         <source> already exist.</source>
-        <translation>すでに存在します。</translation>
+        <translation>既に存在します。</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>削除</translation>
+        <translation>除去</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -999,11 +1047,11 @@
     </message>
     <message>
         <source>Compressed</source>
-        <translation>アーカイブ</translation>
+        <translation>圧縮ファイル</translation>
     </message>
     <message>
         <source>Select your Text format file</source>
-        <translation>テキスト形式のファイルを選択</translation>
+        <translation>テキスト整形設定ファイルを選択</translation>
     </message>
     <message>
         <source>Confirm</source>
@@ -1019,15 +1067,15 @@
     </message>
     <message>
         <source>Wrap</source>
-        <translation type="unfinished">折り返し</translation>
+        <translation>折り返し</translation>
     </message>
     <message>
         <source>Line Number</source>
-        <translation type="unfinished"></translation>
+        <translation>行番号</translation>
     </message>
     <message>
         <source>Mute</source>
-        <translation type="unfinished"></translation>
+        <translation>ミュート</translation>
     </message>
     <message>
         <source>Show time indication</source>
@@ -1035,23 +1083,23 @@
     </message>
     <message>
         <source>Search extension, e.g.: psd</source>
-        <translation type="unfinished"></translation>
+        <translation>拡張子を探す, 例: psd</translation>
     </message>
     <message>
         <source>Loop</source>
-        <translation type="unfinished"></translation>
+        <translation>ループ</translation>
     </message>
     <message>
         <source>Time indication</source>
-        <translation type="unfinished"></translation>
+        <translation>時間表示</translation>
     </message>
     <message>
         <source>Markdown css not found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Markdown CSSが見つかりません。</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;:(&lt;/p&gt;&lt;p&gt;Oops!&lt;/p&gt;&lt;p&gt;No extensions matched.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;:(&lt;/p&gt;&lt;p&gt;Oops!&lt;/p&gt;&lt;p&gt;拡張子が見つかりません。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -1070,7 +1118,7 @@
     </message>
     <message>
         <source>Track selected file in Explorer</source>
-        <translation>選択したファイルをエクスプローラーで追跡</translation>
+        <translation>選択ファイルをエクスプローラーで追跡</translation>
     </message>
     <message>
         <source>Show time indication</source>
@@ -1082,7 +1130,7 @@
     </message>
     <message>
         <source>Run Seer at system start</source>
-        <translation>システム起動時に実行</translation>
+        <translation>システム起動時にSeerを起動</translation>
     </message>
     <message>
         <source>Use the trigger key to close window</source>
@@ -1094,7 +1142,7 @@
     </message>
     <message>
         <source>Double click to open file with system default application</source>
-        <translation>ダブルクリックでファイルを開く</translation>
+        <translation>閲覧ウィンドウ下部バーのダブルクリックにより、ファイルを既定のアプリで開く</translation>
     </message>
     <message>
         <source>Display titlebar</source>
@@ -1102,7 +1150,7 @@
     </message>
     <message>
         <source>Automatically check for updates</source>
-        <translation>自動でアップデートを確認</translation>
+        <translation>アップデートを自動で確認</translation>
     </message>
     <message>
         <source>Display control bar</source>
@@ -1118,30 +1166,30 @@
     </message>
     <message>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>言語</translation>
     </message>
     <message>
         <source>Application behavior</source>
-        <translation type="unfinished"></translation>
+        <translation>アプリケーションの振る舞い</translation>
     </message>
     <message>
         <source>Theme:</source>
-        <translation type="unfinished"></translation>
+        <translation>テーマ:</translation>
     </message>
 </context>
 <context>
     <name>CSettingsWnd4Key</name>
     <message>
         <source>Alt</source>
-        <translation></translation>
+        <translation>Alt</translation>
     </message>
     <message>
         <source>PDF</source>
-        <translation></translation>
+        <translation>PDF</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation>イメージ</translation>
+        <translation>画像</translation>
     </message>
     <message>
         <source>Loop:</source>
@@ -1157,11 +1205,11 @@
     </message>
     <message>
         <source>Shift</source>
-        <translation></translation>
+        <translation>Shift</translation>
     </message>
     <message>
         <source>Esc / Ctrl+W</source>
-        <translation></translation>
+        <translation>Esc / Ctrl+W</translation>
     </message>
     <message>
         <source>Control Bar:</source>
@@ -1189,7 +1237,7 @@
     </message>
     <message>
         <source>Column View:</source>
-        <translation>カラムビュー：</translation>
+        <translation>カラム表示：</translation>
     </message>
     <message>
         <source>Title:</source>
@@ -1209,15 +1257,15 @@
     </message>
     <message>
         <source>Tree View:</source>
-        <translation>タイトルビュー：</translation>
+        <translation>ツリー表示：</translation>
     </message>
     <message>
         <source>Open With Default App:</source>
-        <translation>ファイルを開く：</translation>
+        <translation>既定のアプリで開く：</translation>
     </message>
     <message>
         <source>Open Selected Item:</source>
-        <translation>選択したアイテムを開く：</translation>
+        <translation>選択アイテムを開く：</translation>
     </message>
     <message>
         <source>Focus (global):</source>
@@ -1237,7 +1285,7 @@
     </message>
     <message>
         <source>Control</source>
-        <translation></translation>
+        <translation>Ctrl</translation>
     </message>
     <message>
         <source>Can not have &apos;Space&apos; key.</source>
@@ -1245,7 +1293,7 @@
     </message>
     <message>
         <source>Reveal In Explorer:</source>
-        <translation>ファイルの場所：</translation>
+        <translation>ファイルの場所を開く：</translation>
     </message>
     <message>
         <source>Rotate Right:</source>
@@ -1261,11 +1309,11 @@
     </message>
     <message>
         <source>Open Selected Item With Seer:</source>
-        <translation>選択したファイルをSeerで開く：</translation>
+        <translation>選択ファイルをSeerで開く：</translation>
     </message>
     <message>
         <source>Reveal Selected Item:</source>
-        <translation>選択したファイルを表示：</translation>
+        <translation>選択ファイルを既定のアプリで開く：</translation>
     </message>
     <message>
         <source>Maximize / Restore:</source>
@@ -1273,26 +1321,42 @@
     </message>
     <message>
         <source>Reload:</source>
-        <translation type="unfinished"></translation>
+        <translation>再読込:</translation>
     </message>
     <message>
         <source>Normal:</source>
-        <translation type="unfinished"></translation>
+        <translation>ノーマル:</translation>
     </message>
     <message>
         <source>Fullscreen:</source>
-        <translation type="unfinished"></translation>
+        <translation>フルスクリーン:</translation>
     </message>
     <message>
         <source>Go To Beginning:</source>
-        <translation type="unfinished"></translation>
+        <translation>最初に戻る:</translation>
     </message>
     <message>
         <source>Invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>正しくありません</translation>
     </message>
     <message>
         <source>Seperate:</source>
+        <translation>新規サブウィンドウに分離:</translation>
+    </message>
+    <message>
+        <source>Next:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous type file:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next type file:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1367,7 +1431,7 @@
     </message>
     <message>
         <source>matched extensions: png jpg bmp</source>
-        <translation>プラグインがサポートする拡張子:png jpg bmp</translation>
+        <translation>一致する拡張子:png jpg bmp</translation>
     </message>
 </context>
 <context>
@@ -1402,7 +1466,7 @@
     </message>
     <message>
         <source>Search available plugin</source>
-        <translation type="unfinished"></translation>
+        <translation>利用可能なプラグインを探す</translation>
     </message>
 </context>
 <context>
@@ -1429,7 +1493,7 @@
     </message>
     <message>
         <source>Found a bug?</source>
-        <translation>バグを見つけた？</translation>
+        <translation>バグを見つけましたか?</translation>
     </message>
     <message>
         <source>Donate</source>
@@ -1445,10 +1509,18 @@
     </message>
     <message>
         <source>Register</source>
-        <translation type="unfinished"></translation>
+        <translation>ライセンス登録</translation>
     </message>
     <message>
         <source>Stay on top</source>
+        <translation>最前面に表示</translation>
+    </message>
+    <message>
+        <source>EXPIRED</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TRIAL</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1523,7 +1595,7 @@
     </message>
     <message>
         <source>Seer is already running.</source>
-        <translation>Seerはすでに起動しています。</translation>
+        <translation>Seerは既に起動しています。</translation>
     </message>
     <message>
         <source>Set language failed</source>
@@ -1531,45 +1603,45 @@
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation type="unfinished"></translation>
+        <translation>OK(&amp;OK)</translation>
     </message>
     <message>
         <source>Update language failed</source>
-        <translation type="unfinished"></translation>
+        <translation>言語のアップデート失敗</translation>
     </message>
 </context>
 <context>
     <name>freetrial</name>
     <message>
         <source>Seer - Free trial</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Seer フリートライアル</translation>
     </message>
     <message>
         <source>You have</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">残り</translation>
     </message>
     <message>
         <source>free trial.</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">フリートライアル.</translation>
     </message>
     <message>
         <source>day</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">日</translation>
     </message>
 </context>
 <context>
     <name>overdue</name>
     <message>
         <source>Seer - Overdue</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Seer - フリートライアル期限を超過</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">閉じる</translation>
+        <translation type="vanished">閉じる</translation>
     </message>
     <message>
         <source>Buy a License</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">ライセンスを購入</translation>
     </message>
 </context>
 </TS>

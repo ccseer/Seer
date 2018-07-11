@@ -237,6 +237,29 @@
     </message>
 </context>
 <context>
+    <name>CCompressedParse</name>
+    <message>
+        <source>Filename</source>
+        <translation type="obsolete">Filnamn</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="obsolete">Storlek</translation>
+    </message>
+    <message>
+        <source>Packed</source>
+        <translation type="obsolete">Komprimerad</translation>
+    </message>
+    <message>
+        <source>Ratio</source>
+        <translation type="obsolete">Proportion</translation>
+    </message>
+    <message>
+        <source>Time</source>
+        <translation type="obsolete">Tid</translation>
+    </message>
+</context>
+<context>
     <name>CConfirmDlg</name>
     <message>
         <source>&amp;Ok</source>
@@ -318,6 +341,17 @@
     <message>
         <source>Open Selected Item With Default Application</source>
         <translation>?ppna markerat objekt med systemets standardprogram</translation>
+    </message>
+</context>
+<context>
+    <name>CFileCollector</name>
+    <message>
+        <source>Previous same type file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next same type file</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -634,10 +668,6 @@
 <context>
     <name>CPDFPwdWnd</name>
     <message>
-        <source>Form</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Password required</source>
         <translation type="unfinished"></translation>
     </message>
@@ -667,6 +697,10 @@
     <message>
         <source>Encrypted</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotate Right</source>
+        <translation type="unfinished">Rotera ?t h?ger</translation>
     </message>
 </context>
 <context>
@@ -839,6 +873,10 @@
         <source>Loop Count</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>XML</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CRegDlg</name>
@@ -971,6 +1009,10 @@
     <message>
         <source>Edit</source>
         <translation type="unfinished">Redigera</translation>
+    </message>
+    <message>
+        <source>Show &quot;Navigation&quot; button</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1392,6 +1434,22 @@
         <source>Seperate:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Next:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous type file:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next type file:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CSettingsWnd4Plugins</name>
@@ -1548,6 +1606,14 @@
         <source>Stay on top</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>EXPIRED</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TRIAL</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PdfViewPrivate</name>
@@ -1637,37 +1703,10 @@
     </message>
 </context>
 <context>
-    <name>freetrial</name>
-    <message>
-        <source>Seer - Free trial</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You have</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>free trial.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>day</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>overdue</name>
     <message>
-        <source>Seer - Overdue</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Close</source>
-        <translation type="unfinished">St?ng</translation>
-    </message>
-    <message>
-        <source>Buy a License</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">St?ng</translation>
     </message>
 </context>
 </TS>

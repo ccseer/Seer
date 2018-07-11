@@ -127,6 +127,29 @@
     </message>
 </context>
 <context>
+    <name>CCompressedParse</name>
+    <message>
+        <source>Filename</source>
+        <translation type="obsolete">Имя файла</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="obsolete">Размер</translation>
+    </message>
+    <message>
+        <source>Packed</source>
+        <translation type="obsolete">Сжатый размер</translation>
+    </message>
+    <message>
+        <source>Ratio</source>
+        <translation type="obsolete">Коэффициент сжатия</translation>
+    </message>
+    <message>
+        <source>Time</source>
+        <translation type="obsolete">Время</translation>
+    </message>
+</context>
+<context>
     <name>CConfirmDlg</name>
     <message>
         <source>&amp;Cancel</source>
@@ -204,6 +227,17 @@
     <message>
         <source>Tree View</source>
         <translation>В виде дерева</translation>
+    </message>
+</context>
+<context>
+    <name>CFileCollector</name>
+    <message>
+        <source>Previous same type file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next same type file</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -510,10 +544,6 @@
 <context>
     <name>CPDFPwdWnd</name>
     <message>
-        <source>Form</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Password required</source>
         <translation type="unfinished"></translation>
     </message>
@@ -543,6 +573,10 @@
     <message>
         <source>Encrypted</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotate Right</source>
+        <translation type="unfinished">Поворот вправо</translation>
     </message>
 </context>
 <context>
@@ -715,6 +749,10 @@
         <source>Loop Count</source>
         <translation>Количество циклов</translation>
     </message>
+    <message>
+        <source>XML</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CRegDlg</name>
@@ -843,6 +881,10 @@
     <message>
         <source>extension</source>
         <translation>расширение</translation>
+    </message>
+    <message>
+        <source>Show &quot;Navigation&quot; button</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1200,6 +1242,22 @@
         <source>Seperate:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Next:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous type file:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next type file:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CSettingsWnd4Plugins</name>
@@ -1328,6 +1386,14 @@
         <source>Stay on top</source>
         <translation>Поверх всех окон</translation>
     </message>
+    <message>
+        <source>EXPIRED</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TRIAL</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QObject</name>
@@ -1364,34 +1430,34 @@
     <name>freetrial</name>
     <message>
         <source>Seer - Free trial</source>
-        <translation>Seer - пробная версия</translation>
+        <translation type="vanished">Seer - пробная версия</translation>
     </message>
     <message>
         <source>You have</source>
-        <translation>У вас есть</translation>
+        <translation type="vanished">У вас есть</translation>
     </message>
     <message>
         <source>day</source>
-        <translation>дня</translation>
+        <translation type="vanished">дня</translation>
     </message>
     <message>
         <source>free trial.</source>
-        <translation>пробного периода.</translation>
+        <translation type="vanished">пробного периода.</translation>
     </message>
 </context>
 <context>
     <name>overdue</name>
     <message>
         <source>Seer - Overdue</source>
-        <translation>Seer - просрочен</translation>
+        <translation type="vanished">Seer - просрочен</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Закрыть</translation>
+        <translation type="vanished">Закрыть</translation>
     </message>
     <message>
         <source>Buy a License</source>
-        <translation>Купить лицензию</translation>
+        <translation type="vanished">Купить лицензию</translation>
     </message>
 </context>
 </TS>

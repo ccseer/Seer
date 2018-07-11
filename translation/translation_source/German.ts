@@ -162,6 +162,21 @@
     </message>
 </context>
 <context>
+    <name>CCompressedParse</name>
+    <message>
+        <source>Filename</source>
+        <translation type="obsolete">Dateiname</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="obsolete">Größe</translation>
+    </message>
+    <message>
+        <source>Ratio</source>
+        <translation type="obsolete">Verhältnis</translation>
+    </message>
+</context>
+<context>
     <name>CConfirmDlg</name>
     <message>
         <source>&amp;Ok</source>
@@ -209,10 +224,6 @@
         <translation>Größe</translation>
     </message>
     <message>
-        <source>Time</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Filename</source>
         <translation>Dateiname</translation>
     </message>
@@ -223,10 +234,6 @@
     <message>
         <source>Column View</source>
         <translation>Spaltenansicht</translation>
-    </message>
-    <message>
-        <source>Packed</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Display Selected Item In Explorer</source>
@@ -243,6 +250,25 @@
     <message>
         <source>Open Selected Item With Default Application</source>
         <translation>Ausgewählte Datei mit Standardanwendung öffnen</translation>
+    </message>
+    <message>
+        <source>Packed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Time</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CFileCollector</name>
+    <message>
+        <source>Previous same type file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next same type file</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -558,10 +584,6 @@
 <context>
     <name>CPDFPwdWnd</name>
     <message>
-        <source>Form</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Password required</source>
         <translation type="unfinished"></translation>
     </message>
@@ -591,6 +613,10 @@
     <message>
         <source>Encrypted</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotate Right</source>
+        <translation type="unfinished">Nach rechts drehen</translation>
     </message>
 </context>
 <context>
@@ -763,6 +789,10 @@
         <source>Loop Count</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>XML</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CRegDlg</name>
@@ -903,6 +933,10 @@
     <message>
         <source>Edit</source>
         <translation>Bearbeiten</translation>
+    </message>
+    <message>
+        <source>Show &quot;Navigation&quot; button</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1316,6 +1350,22 @@
         <source>Seperate:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Next:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous type file:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next type file:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CSettingsWnd4Plugins</name>
@@ -1472,6 +1522,14 @@
         <source>Stay on top</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>EXPIRED</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TRIAL</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PdfViewPrivate</name>
@@ -1560,37 +1618,10 @@
     </message>
 </context>
 <context>
-    <name>freetrial</name>
-    <message>
-        <source>Seer - Free trial</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You have</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>free trial.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>day</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>overdue</name>
     <message>
-        <source>Seer - Overdue</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Close</source>
-        <translation type="unfinished">Schließen</translation>
-    </message>
-    <message>
-        <source>Buy a License</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Schließen</translation>
     </message>
 </context>
 </TS>

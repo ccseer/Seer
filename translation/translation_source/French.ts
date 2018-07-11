@@ -244,6 +244,29 @@
     </message>
 </context>
 <context>
+    <name>CCompressedParse</name>
+    <message>
+        <source>Filename</source>
+        <translation type="obsolete">Nom de fichier</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="obsolete">Taille</translation>
+    </message>
+    <message>
+        <source>Packed</source>
+        <translation type="obsolete">Compressé</translation>
+    </message>
+    <message>
+        <source>Ratio</source>
+        <translation type="obsolete">Ratio</translation>
+    </message>
+    <message>
+        <source>Time</source>
+        <translation type="obsolete">Date</translation>
+    </message>
+</context>
+<context>
     <name>CConfirmDlg</name>
     <message>
         <source>&amp;Ok</source>
@@ -326,6 +349,17 @@
     <message>
         <source>Open Selected Item With Default Application</source>
         <translation>Ouvrir les objets sélectionnés avec le programme par défaut</translation>
+    </message>
+</context>
+<context>
+    <name>CFileCollector</name>
+    <message>
+        <source>Previous same type file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next same type file</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -650,20 +684,16 @@
 <context>
     <name>CPDFPwdWnd</name>
     <message>
-        <source>Form</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Password required</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annuler</translation>
     </message>
 </context>
 <context>
@@ -683,6 +713,10 @@
     <message>
         <source>Encrypted</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotate Right</source>
+        <translation type="unfinished">Rotation à droite</translation>
     </message>
 </context>
 <context>
@@ -856,6 +890,10 @@
         <source>Loop Count</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>XML</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CRegDlg</name>
@@ -900,7 +938,7 @@
     </message>
     <message>
         <source>Invalid License</source>
-        <translation type="unfinished"></translation>
+        <translation>equals triggered file path</translation>
     </message>
 </context>
 <context>
@@ -1001,6 +1039,10 @@
         <source>Edit</source>
         <translation>Modifier</translation>
     </message>
+    <message>
+        <source>Show &quot;Navigation&quot; button</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CSettingsWnd4Explorer</name>
@@ -1091,7 +1133,7 @@
     </message>
     <message>
         <source>Directory Opus:</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -1423,6 +1465,22 @@
         <source>Seperate:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Next:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous type file:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next type file:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CSettingsWnd4Plugins</name>
@@ -1579,6 +1637,14 @@
         <source>Stay on top</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>EXPIRED</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TRIAL</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PdfViewPrivate</name>
@@ -1660,7 +1726,7 @@
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation type="unfinished">&amp;OK</translation>
+        <translation>&amp;OK</translation>
     </message>
     <message>
         <source>Update language failed</source>
@@ -1668,37 +1734,10 @@
     </message>
 </context>
 <context>
-    <name>freetrial</name>
-    <message>
-        <source>Seer - Free trial</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You have</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>free trial.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>day</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>overdue</name>
     <message>
-        <source>Seer - Overdue</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Close</source>
-        <translation>Fermer</translation>
-    </message>
-    <message>
-        <source>Buy a License</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Fermer</translation>
     </message>
 </context>
 </TS>
