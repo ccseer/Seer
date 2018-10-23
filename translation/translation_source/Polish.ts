@@ -1453,7 +1453,7 @@
     <name>overdue</name>
     <message>
         <source>Seer - Overdue</source>
-        <translation type="vanished">Seer - просрочен</translation>
+        <translation type="vanished">Seer - upłynął czas testów</translation>
     </message>
     <message>
         <source>Close</source>
