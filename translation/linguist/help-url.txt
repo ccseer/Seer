@@ -1,3 +1,0 @@
-this is the official doc:
-
-http://doc.qt.io/qt-5/linguist-translators.html
