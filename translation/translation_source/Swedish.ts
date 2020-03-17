@@ -471,6 +471,10 @@
         <source>Folder</source>
         <translation type="unfinished">Mapp</translation>
     </message>
+    <message>
+        <source>Pin</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CFolderDataReader</name>
@@ -645,7 +649,7 @@
     </message>
     <message>
         <source>Decoder</source>
-        <translation>Avkodare</translation>
+        <translation type="vanished">Avkodare</translation>
     </message>
     <message>
         <source>Repeat: On</source>
@@ -653,7 +657,7 @@
     </message>
     <message>
         <source>Channel Layout</source>
-        <translation>Kanal-layout</translation>
+        <translation type="vanished">Kanal-layout</translation>
     </message>
     <message>
         <source>Duration</source>
@@ -661,7 +665,7 @@
     </message>
     <message>
         <source>Sample Format</source>
-        <translation>Samplingsformat</translation>
+        <translation type="vanished">Samplingsformat</translation>
     </message>
     <message>
         <source>Channels</source>
@@ -685,6 +689,10 @@
     </message>
     <message>
         <source>Loop: Off</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Start Time</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1069,14 +1077,6 @@
         <translation>Spara tempor?ra insticksfiler n?r Seer avslutas</translation>
     </message>
     <message>
-        <source>Disable folder contents loading</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disable file type detecting</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Reset settings to default</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1101,15 +1101,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Run Settings.exe to display tray icon when it&apos;s hidden.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Open temp folder failed.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Reveal Settings.exe failed.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1527,6 +1519,14 @@
     </message>
     <message>
         <source>Double click</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Percent Locate:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>0-9</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

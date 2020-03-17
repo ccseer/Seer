@@ -388,6 +388,10 @@
         <source>Folder</source>
         <translation type="unfinished">Ordner</translation>
     </message>
+    <message>
+        <source>Pin</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CFolderDataReader</name>
@@ -557,7 +561,7 @@
     </message>
     <message>
         <source>Decoder</source>
-        <translation>Dekoder</translation>
+        <translation type="vanished">Dekoder</translation>
     </message>
     <message>
         <source>Repeat: On</source>
@@ -576,12 +580,8 @@
         <translation>Framegröße</translation>
     </message>
     <message>
-        <source>Sample Format</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Channel Layout</source>
-        <translation>Kanal-Layout</translation>
+        <translation type="vanished">Kanal-Layout</translation>
     </message>
     <message>
         <source>Mute: On</source>
@@ -601,6 +601,10 @@
     </message>
     <message>
         <source>Loop: Off</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Start Time</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -986,11 +990,11 @@
     </message>
     <message>
         <source>Disable folder contents loading</source>
-        <translation>Deaktiviere das laden von Ordnerinhalten</translation>
+        <translation type="vanished">Deaktiviere das laden von Ordnerinhalten</translation>
     </message>
     <message>
         <source>Disable file type detecting</source>
-        <translation>Deaktiviere Dateityperkennung</translation>
+        <translation type="vanished">Deaktiviere Dateityperkennung</translation>
     </message>
     <message>
         <source>Reset settings to default</source>
@@ -1017,15 +1021,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Run Settings.exe to display tray icon when it&apos;s hidden.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Open temp folder failed.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Reveal Settings.exe failed.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1443,6 +1439,14 @@
     </message>
     <message>
         <source>Double click</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Percent Locate:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>0-9</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

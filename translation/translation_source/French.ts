@@ -476,6 +476,10 @@
         <source>Folder</source>
         <translation type="unfinished">Dossier</translation>
     </message>
+    <message>
+        <source>Pin</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CFolderDataReader</name>
@@ -656,7 +660,7 @@
     </message>
     <message>
         <source>Decoder</source>
-        <translation>Décodeur</translation>
+        <translation type="vanished">Décodeur</translation>
     </message>
     <message>
         <source>Repeat: On</source>
@@ -664,7 +668,7 @@
     </message>
     <message>
         <source>Channel Layout</source>
-        <translation>Configuration des canaux</translation>
+        <translation type="vanished">Configuration des canaux</translation>
     </message>
     <message>
         <source>Duration</source>
@@ -673,7 +677,7 @@
     <message>
         <source>Sample Format</source>
         <translatorcomment>If this is the 4:4:4, 4:2:2, 4:2:0... information, this translation should be OK.</translatorcomment>
-        <translation type="unfinished">Structure d&apos;échantillonnage</translation>
+        <translation type="obsolete">Structure d&apos;échantillonnage</translation>
     </message>
     <message>
         <source>Channels</source>
@@ -697,6 +701,10 @@
     </message>
     <message>
         <source>Loop: Off</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Start Time</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1096,11 +1104,11 @@
     </message>
     <message>
         <source>Disable folder contents loading</source>
-        <translation>Désactiver le chargement du contenu des dossiers</translation>
+        <translation type="vanished">Désactiver le chargement du contenu des dossiers</translation>
     </message>
     <message>
         <source>Disable file type detecting</source>
-        <translation>Désactiver la détection du type de fichier</translation>
+        <translation type="vanished">Désactiver la détection du type de fichier</translation>
     </message>
     <message>
         <source>Reset settings to default</source>
@@ -1127,15 +1135,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Run Settings.exe to display tray icon when it&apos;s hidden.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Open temp folder failed.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Reveal Settings.exe failed.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1554,6 +1554,14 @@
     </message>
     <message>
         <source>Double click</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Percent Locate:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>0-9</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

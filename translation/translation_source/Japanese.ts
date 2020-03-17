@@ -391,6 +391,10 @@
         <source>Folder</source>
         <translation type="unfinished">フォルダー</translation>
     </message>
+    <message>
+        <source>Pin</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CFolderDataReader</name>
@@ -556,7 +560,7 @@
     </message>
     <message>
         <source>Decoder</source>
-        <translation>デコーダー</translation>
+        <translation type="vanished">デコーダー</translation>
     </message>
     <message>
         <source>Repeat: On</source>
@@ -564,7 +568,7 @@
     </message>
     <message>
         <source>Channel Layout</source>
-        <translation>チャンネルレイアウト</translation>
+        <translation type="vanished">チャンネルレイアウト</translation>
     </message>
     <message>
         <source>Duration</source>
@@ -572,7 +576,7 @@
     </message>
     <message>
         <source>Sample Format</source>
-        <translation>サンプリングフォーマット</translation>
+        <translation type="vanished">サンプリングフォーマット</translation>
     </message>
     <message>
         <source>Channels</source>
@@ -597,6 +601,10 @@
     <message>
         <source>Loop: Off</source>
         <translation>ループ: オフ</translation>
+    </message>
+    <message>
+        <source>Start Time</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -978,11 +986,11 @@
     </message>
     <message>
         <source>Disable folder contents loading</source>
-        <translation>フォルダの中身取得を無効化</translation>
+        <translation type="vanished">フォルダの中身取得を無効化</translation>
     </message>
     <message>
         <source>Disable file type detecting</source>
-        <translation>ファイル種類の検知を無効化</translation>
+        <translation type="vanished">ファイル種類の検知を無効化</translation>
     </message>
     <message>
         <source>Reset settings to default</source>
@@ -1018,7 +1026,7 @@
     </message>
     <message>
         <source>Run Settings.exe to display tray icon when it&apos;s hidden.</source>
-        <translation>トレイアイコンを非表示設定後に再表示させる為には、Settings.exe を実行する必要があります。
+        <translation type="vanished">トレイアイコンを非表示設定後に再表示させる為には、Settings.exe を実行する必要があります。
 タスクトレイ及びコマンド実行からは再表示出来ませんのでご注意下さい。</translation>
     </message>
     <message>
@@ -1027,7 +1035,7 @@
     </message>
     <message>
         <source>Reveal Settings.exe failed.</source>
-        <translation>Settings.exe が見つかりません。</translation>
+        <translation type="vanished">Settings.exe が見つかりません。</translation>
     </message>
     <message>
         <source>3rd Party</source>
@@ -1445,6 +1453,14 @@
     <message>
         <source>Double click</source>
         <translation>ダブルクリック</translation>
+    </message>
+    <message>
+        <source>Percent Locate:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>0-9</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

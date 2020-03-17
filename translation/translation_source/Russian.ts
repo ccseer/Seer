@@ -357,6 +357,10 @@
         <source>Folder</source>
         <translation type="unfinished">Папка</translation>
     </message>
+    <message>
+        <source>Pin</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CFolderDataReader</name>
@@ -501,7 +505,7 @@
     </message>
     <message>
         <source>Channel Layout</source>
-        <translation>Расположение каналов</translation>
+        <translation type="vanished">Расположение каналов</translation>
     </message>
     <message>
         <source>Channels</source>
@@ -509,7 +513,7 @@
     </message>
     <message>
         <source>Decoder</source>
-        <translation>Декодер</translation>
+        <translation type="vanished">Декодер</translation>
     </message>
     <message>
         <source>Duration</source>
@@ -541,7 +545,7 @@
     </message>
     <message>
         <source>Sample Format</source>
-        <translation>Типовой формат</translation>
+        <translation type="vanished">Типовой формат</translation>
     </message>
     <message>
         <source>Sample Rate</source>
@@ -562,6 +566,10 @@
     <message>
         <source>Loop: Off</source>
         <translation>Цикл: Выкл</translation>
+    </message>
+    <message>
+        <source>Start Time</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -930,11 +938,11 @@
     </message>
     <message>
         <source>Disable file type detecting</source>
-        <translation>Отключить обнаружение типов файлов</translation>
+        <translation type="vanished">Отключить обнаружение типов файлов</translation>
     </message>
     <message>
         <source>Disable folder contents loading</source>
-        <translation>Отключить загрузку содержимого папки</translation>
+        <translation type="vanished">Отключить загрузку содержимого папки</translation>
     </message>
     <message>
         <source>Others</source>
@@ -965,15 +973,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Run Settings.exe to display tray icon when it&apos;s hidden.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Open temp folder failed.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Reveal Settings.exe failed.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1335,6 +1335,14 @@
     </message>
     <message>
         <source>Double click</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Percent Locate:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>0-9</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
