@@ -521,7 +521,11 @@
     </message>
     <message>
         <source>Seperate</source>
-        <translation>新規サブウィンドウに分離</translation>
+        <translation type="vanished">新規サブウィンドウに分離</translation>
+    </message>
+    <message>
+        <source>Separate</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1404,7 +1408,7 @@
     </message>
     <message>
         <source>Seperate:</source>
-        <translation>新規サブウィンドウに分離:</translation>
+        <translation type="vanished">新規サブウィンドウに分離:</translation>
     </message>
     <message>
         <source>Next:</source>
@@ -1460,6 +1464,10 @@
     </message>
     <message>
         <source>0-9</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Separate:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

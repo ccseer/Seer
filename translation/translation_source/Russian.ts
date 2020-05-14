@@ -493,7 +493,7 @@
         <translation>Свойства</translation>
     </message>
     <message>
-        <source>Seperate</source>
+        <source>Separate</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1286,10 +1286,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Seperate:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Next:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1343,6 +1339,10 @@
     </message>
     <message>
         <source>0-9</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Separate:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
