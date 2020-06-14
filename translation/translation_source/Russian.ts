@@ -244,7 +244,7 @@
         <translation>В виде дерева</translation>
     </message>
     <message>
-        <source>File is encrypted.</source>
+        <source>File is encrypted</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -463,7 +463,7 @@
     </message>
     <message>
         <source>Seer License Activation</source>
-        <translation>Активировать Seer</translation>
+        <translation type="vanished">Активировать Seer</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -480,6 +480,22 @@
     <message>
         <source>A Windows Quick Look Tool</source>
         <translation type="obsolete">Инструмент быстрого просмотра</translation>
+    </message>
+    <message>
+        <source>Invalid license</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This license is not available any more.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>About</source>
+        <translation type="unfinished">О программе</translation>
+    </message>
+    <message>
+        <source>Activation</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -608,6 +624,10 @@
     <message>
         <source>Rotate Right</source>
         <translation type="unfinished">Поворот вправо</translation>
+    </message>
+    <message>
+        <source>Please choose a page first</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -766,7 +786,7 @@
     </message>
     <message>
         <source>Subsecond time</source>
-        <translation>За доли секунды</translation>
+        <translation type="vanished">За доли секунды</translation>
     </message>
     <message>
         <source>Width</source>
@@ -782,6 +802,102 @@
     </message>
     <message>
         <source>XML</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manual</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Normal program</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Aperture priority</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shutter priority</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Creative program</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Action program</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Portrait mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Landscape mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Exposure program</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shutter speed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reserved</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Strobe return light not detected</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Strobe return light detected</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Flash returned light</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unknown mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Compulsory flash firing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Compulsory flash suppression</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatic mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Flash mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>average</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>center weighted average</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>spot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>multi-spot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>multi-segment</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1195,7 +1311,7 @@
     </message>
     <message>
         <source>Maximize / Restore:</source>
-        <translation>Развернуть / Восстановить:</translation>
+        <translation type="vanished">Развернуть / Восстановить:</translation>
     </message>
     <message>
         <source>Media</source>
@@ -1294,14 +1410,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Previous type file:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Next type file:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Reveal Clicked Item:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1343,6 +1451,18 @@
     </message>
     <message>
         <source>Separate:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fit Height:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next File With Same Suffix:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous File With Same Suffix:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1479,6 +1599,10 @@
     </message>
     <message>
         <source>TRIAL</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Deactivated</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
