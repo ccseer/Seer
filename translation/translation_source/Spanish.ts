@@ -92,7 +92,7 @@
     <name>CAbstractManager</name>
     <message>
         <source>Unknown</source>
-        <translation>Desconocido</translation>
+        <translation type="vanished">Desconocido</translation>
     </message>
 </context>
 <context>
@@ -207,11 +207,7 @@
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Cancelar</translation>
-    </message>
-    <message>
-        <source>&amp;OK</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">&amp;Cancelar</translation>
     </message>
 </context>
 <context>
@@ -294,8 +290,36 @@
         <translation>Abrir Item Seleccionado con la Aplicacion por Defecto</translation>
     </message>
     <message>
+        <source>File Folder</source>
+        <translation type="obsolete">Carpeta de Archivo</translation>
+    </message>
+    <message>
+        <source>Loading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation type="obsolete">Nombre</translation>
+    </message>
+    <message>
+        <source>Type</source>
+        <translation type="obsolete">Tipo</translation>
+    </message>
+    <message>
+        <source>Date created</source>
+        <translation type="obsolete">Fecha de creacion</translation>
+    </message>
+    <message>
+        <source>Date modified</source>
+        <translation type="obsolete">Fecha de modificacion</translation>
+    </message>
+    <message>
         <source>File is encrypted</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Folder</source>
+        <translation type="unfinished">Carpeta</translation>
     </message>
 </context>
 <context>
@@ -411,32 +435,40 @@
         <source>Pin</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Open Selected Item With Default Application</source>
+        <translation type="obsolete">Abrir Item Seleccionado con la Aplicacion por Defecto</translation>
+    </message>
+    <message>
+        <source>Display Selected Item In Explorer</source>
+        <translation type="obsolete">Mostrar Iteme Seleccionado en el Explorador</translation>
+    </message>
 </context>
 <context>
     <name>CFolderDataReader</name>
     <message>
         <source>Name</source>
-        <translation>Nombre</translation>
+        <translation type="vanished">Nombre</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation>Tamaño</translation>
+        <translation type="vanished">Tamaño</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation>Tipo</translation>
+        <translation type="vanished">Tipo</translation>
     </message>
     <message>
         <source>File Folder</source>
-        <translation>Carpeta de Archivo</translation>
+        <translation type="vanished">Carpeta de Archivo</translation>
     </message>
     <message>
         <source>Date created</source>
-        <translation>Fecha de creacion</translation>
+        <translation type="vanished">Fecha de creacion</translation>
     </message>
     <message>
         <source>Date modified</source>
-        <translation>Fecha de modificacion</translation>
+        <translation type="vanished">Fecha de modificacion</translation>
     </message>
 </context>
 <context>
@@ -1482,7 +1514,7 @@
     </message>
     <message>
         <source>Maximize / Restore:</source>
-        <translation type="vanished">Maximizar / Restaurar:</translation>
+        <translation>Maximizar / Restaurar:</translation>
     </message>
     <message>
         <source>Reload:</source>
@@ -1561,11 +1593,15 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Next File With Same Suffix:</source>
+        <source>Previous type file:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Previous File With Same Suffix:</source>
+        <source>Next type file:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Details View:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1822,6 +1858,10 @@
     <message>
         <source>Update language failed</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation type="unfinished">&amp;Cancelar</translation>
     </message>
 </context>
 <context>

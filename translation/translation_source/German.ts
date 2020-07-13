@@ -88,7 +88,7 @@
     <name>CAbstractManager</name>
     <message>
         <source>Unknown</source>
-        <translation>Unbekannt</translation>
+        <translation type="vanished">Unbekannt</translation>
     </message>
 </context>
 <context>
@@ -188,11 +188,11 @@
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Abbrechen</translation>
+        <translation type="vanished">&amp;Abbrechen</translation>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation>&amp;OK</translation>
+        <translation type="vanished">&amp;OK</translation>
     </message>
 </context>
 <context>
@@ -275,8 +275,32 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>File Folder</source>
+        <translation type="obsolete">Dateiordner</translation>
+    </message>
+    <message>
+        <source>Loading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation type="obsolete">Name</translation>
+    </message>
+    <message>
+        <source>Date created</source>
+        <translation type="obsolete">Erstellt am</translation>
+    </message>
+    <message>
+        <source>Date modified</source>
+        <translation type="obsolete">Geändert am</translation>
+    </message>
+    <message>
         <source>File is encrypted</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Folder</source>
+        <translation type="unfinished">Ordner</translation>
     </message>
 </context>
 <context>
@@ -392,32 +416,40 @@
         <source>Pin</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Open Selected Item With Default Application</source>
+        <translation type="obsolete">Ausgewählte Datei mit Standardanwendung öffnen</translation>
+    </message>
+    <message>
+        <source>Display Selected Item In Explorer</source>
+        <translation type="obsolete">Ausgewählte Datei im Explorer anzeigen</translation>
+    </message>
 </context>
 <context>
     <name>CFolderDataReader</name>
     <message>
         <source>Name</source>
-        <translation>Name</translation>
+        <translation type="vanished">Name</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation>Größe</translation>
+        <translation type="vanished">Größe</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation>Typ</translation>
+        <translation type="vanished">Typ</translation>
     </message>
     <message>
         <source>File Folder</source>
-        <translation>Dateiordner</translation>
+        <translation type="vanished">Dateiordner</translation>
     </message>
     <message>
         <source>Date created</source>
-        <translation>Erstellt am</translation>
+        <translation type="vanished">Erstellt am</translation>
     </message>
     <message>
         <source>Date modified</source>
-        <translation>Geändert am</translation>
+        <translation type="vanished">Geändert am</translation>
     </message>
 </context>
 <context>
@@ -1471,7 +1503,7 @@
     </message>
     <message>
         <source>Maximize / Restore:</source>
-        <translation type="vanished">Maximieren / Wiederherstellen:</translation>
+        <translation>Maximieren / Wiederherstellen:</translation>
     </message>
     <message>
         <source>Esc / Ctrl+W</source>
@@ -1558,11 +1590,15 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Next File With Same Suffix:</source>
+        <source>Previous type file:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Previous File With Same Suffix:</source>
+        <source>Next type file:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Details View:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1818,6 +1854,10 @@
     <message>
         <source>Update language failed</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation type="unfinished">&amp;Abbrechen</translation>
     </message>
 </context>
 <context>

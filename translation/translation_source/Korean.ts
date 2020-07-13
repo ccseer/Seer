@@ -76,7 +76,7 @@
     <name>CAbstractManager</name>
     <message>
         <source>Unknown</source>
-        <translation>알 수 없는 오류</translation>
+        <translation type="vanished">알 수 없는 오류</translation>
     </message>
 </context>
 <context>
@@ -191,7 +191,7 @@
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>취소(&amp;C)</translation>
+        <translation type="vanished">취소(&amp;C)</translation>
     </message>
 </context>
 <context>
@@ -275,7 +275,19 @@
     </message>
     <message>
         <source>File is encrypted.</source>
-        <translation>파일이 암호화되어 있습니다.</translation>
+        <translation type="vanished">파일이 암호화되어 있습니다.</translation>
+    </message>
+    <message>
+        <source>File is encrypted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Folder</source>
+        <translation>폴더</translation>
+    </message>
+    <message>
+        <source>Loading</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -387,32 +399,36 @@
         <source>Folder</source>
         <translation>폴더</translation>
     </message>
+    <message>
+        <source>Pin</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CFolderDataReader</name>
     <message>
         <source>Name</source>
-        <translation>이름</translation>
+        <translation type="vanished">이름</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation>크기</translation>
+        <translation type="vanished">크기</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation>種類</translation>
+        <translation type="vanished">種類</translation>
     </message>
     <message>
         <source>File Folder</source>
-        <translation>폴더</translation>
+        <translation type="vanished">폴더</translation>
     </message>
     <message>
         <source>Date created</source>
-        <translation>만든 날짜</translation>
+        <translation type="vanished">만든 날짜</translation>
     </message>
     <message>
         <source>Date modified</source>
-        <translation>수정한 날짜</translation>
+        <translation type="vanished">수정한 날짜</translation>
     </message>
 </context>
 <context>
@@ -493,11 +509,27 @@
     </message>
     <message>
         <source>Seer License Activation</source>
-        <translation>Seer 라이센스 등록</translation>
+        <translation type="vanished">Seer 라이센스 등록</translation>
     </message>
     <message>
         <source>Please share with your friends.</source>
         <translation>친구들과 공유해요.</translation>
+    </message>
+    <message>
+        <source>About</source>
+        <translation type="unfinished">정보</translation>
+    </message>
+    <message>
+        <source>Activation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid license</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This license is not available any more.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -555,7 +587,7 @@
     </message>
     <message>
         <source>Decoder</source>
-        <translation>디코더</translation>
+        <translation type="vanished">디코더</translation>
     </message>
     <message>
         <source>Repeat: On</source>
@@ -563,7 +595,7 @@
     </message>
     <message>
         <source>Channel Layout</source>
-        <translation>채널 레이아웃</translation>
+        <translation type="vanished">채널 레이아웃</translation>
     </message>
     <message>
         <source>Duration</source>
@@ -571,7 +603,7 @@
     </message>
     <message>
         <source>Sample Format</source>
-        <translation>샘플 포맷</translation>
+        <translation type="vanished">샘플 포맷</translation>
     </message>
     <message>
         <source>Channels</source>
@@ -596,6 +628,10 @@
     <message>
         <source>Loop: Off</source>
         <translation>반복: 끔</translation>
+    </message>
+    <message>
+        <source>Start Time</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -638,6 +674,10 @@
     <message>
         <source>Rotate Right</source>
         <translation>오른쪽으로 회전</translation>
+    </message>
+    <message>
+        <source>Please choose a page first</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -713,10 +753,6 @@
     <message>
         <source>Digitize datetime</source>
         <translation>취득한 날짜</translation>
-    </message>
-    <message>
-        <source>Subsecond time</source>
-        <translation></translation>
     </message>
     <message>
         <source>Exposure time</source>
@@ -813,6 +849,102 @@
     <message>
         <source>XML</source>
         <translation>XML</translation>
+    </message>
+    <message>
+        <source>Manual</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Normal program</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Aperture priority</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shutter priority</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Creative program</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Action program</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Portrait mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Landscape mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Exposure program</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shutter speed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reserved</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Strobe return light not detected</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Strobe return light detected</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Flash returned light</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unknown mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Compulsory flash firing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Compulsory flash suppression</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatic mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Flash mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>average</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>center weighted average</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>spot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>multi-spot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>multi-segment</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -977,11 +1109,11 @@
     </message>
     <message>
         <source>Disable folder contents loading</source>
-        <translation>폴더 내용 검색을 비활성화</translation>
+        <translation type="vanished">폴더 내용 검색을 비활성화</translation>
     </message>
     <message>
         <source>Disable file type detecting</source>
-        <translation>파일 유형 감지 비활성화</translation>
+        <translation type="vanished">파일 유형 감지 비활성화</translation>
     </message>
     <message>
         <source>Reset settings to default</source>
@@ -1017,7 +1149,7 @@
     </message>
     <message>
         <source>Run Settings.exe to display tray icon when it&apos;s hidden.</source>
-        <translation>트레이 아이콘이 숨겨져 있을 때 아이콘을 다시 표시하려면 Settings.exe를 실행하세요.</translation>
+        <translation type="vanished">트레이 아이콘이 숨겨져 있을 때 아이콘을 다시 표시하려면 Settings.exe를 실행하세요.</translation>
     </message>
     <message>
         <source>Open temp folder failed.</source>
@@ -1025,7 +1157,7 @@
     </message>
     <message>
         <source>Reveal Settings.exe failed.</source>
-        <translation>Settings.exe를 찾지 못했습니다.</translation>
+        <translation type="vanished">Settings.exe를 찾지 못했습니다.</translation>
     </message>
     <message>
         <source>3rd Party</source>
@@ -1452,6 +1584,22 @@
         <source>Double click</source>
         <translation>더블 클릭</translation>
     </message>
+    <message>
+        <source>Details View:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Percent Locate:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>0-9</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fit Height:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CSettingsWnd4Plugins</name>
@@ -1616,6 +1764,10 @@
         <source>TRIAL</source>
         <translation>맛보기판</translation>
     </message>
+    <message>
+        <source>Deactivated</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PdfViewPrivate</name>
@@ -1667,7 +1819,7 @@
     <name>QObject</name>
     <message>
         <source>&amp;OK</source>
-        <translation type="vanished">확인(&amp;O)</translation>
+        <translation>확인(&amp;O)</translation>
     </message>
     <message>
         <source>Notice</source>
@@ -1696,6 +1848,10 @@
     <message>
         <source>Update language failed</source>
         <translation>언어 업데이트 실패</translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation type="unfinished">취소(&amp;C)</translation>
     </message>
 </context>
 <context>

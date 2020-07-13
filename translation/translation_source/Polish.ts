@@ -68,7 +68,7 @@
     <name>CAbstractManager</name>
     <message>
         <source>Unknown</source>
-        <translation>Nieznany</translation>
+        <translation type="vanished">Nieznany</translation>
     </message>
 </context>
 <context>
@@ -125,6 +125,10 @@
         <source>Col</source>
         <translation>Kol</translation>
     </message>
+    <message>
+        <source>Render Image</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CCompressedParse</name>
@@ -153,11 +157,11 @@
     <name>CConfirmDlg</name>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Anuluj</translation>
+        <translation type="vanished">&amp;Anuluj</translation>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation>&amp;OK</translation>
+        <translation type="vanished">&amp;OK</translation>
     </message>
 </context>
 <context>
@@ -179,11 +183,11 @@
     <name>CDirManeger</name>
     <message>
         <source> not found.</source>
-        <translation> nie znaleziono.</translation>
+        <translation type="vanished"> nie znaleziono.</translation>
     </message>
     <message>
         <source>Can not run </source>
-        <translation>Nie możan uruchomić </translation>
+        <translation type="vanished">Nie możan uruchomić </translation>
     </message>
 </context>
 <context>
@@ -227,6 +231,18 @@
     <message>
         <source>Tree View</source>
         <translation>Widok drzewa</translation>
+    </message>
+    <message>
+        <source>File is encrypted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Folder</source>
+        <translation type="unfinished">Folder</translation>
+    </message>
+    <message>
+        <source>Loading</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -334,32 +350,40 @@
         <source>Type</source>
         <translation>Typ</translation>
     </message>
+    <message>
+        <source>Folder</source>
+        <translation type="unfinished">Folder</translation>
+    </message>
+    <message>
+        <source>Pin</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CFolderDataReader</name>
     <message>
         <source>Date created</source>
-        <translation>Data utworzenia</translation>
+        <translation type="vanished">Data utworzenia</translation>
     </message>
     <message>
         <source>Date modified</source>
-        <translation>Data modyfikacji</translation>
+        <translation type="vanished">Data modyfikacji</translation>
     </message>
     <message>
         <source>File Folder</source>
-        <translation>Folder</translation>
+        <translation type="vanished">Folder</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation>Nazwa</translation>
+        <translation type="vanished">Nazwa</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation>Rozmiar</translation>
+        <translation type="vanished">Rozmiar</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation>Typ</translation>
+        <translation type="vanished">Typ</translation>
     </message>
 </context>
 <context>
@@ -436,7 +460,7 @@
     </message>
     <message>
         <source>Seer License Activation</source>
-        <translation>Aktywacja programu</translation>
+        <translation type="vanished">Aktywacja programu</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -454,6 +478,22 @@
         <source>A Windows Quick Look Tool</source>
         <translation type="obsolete">Narzędzie do szybkiego podglądu</translation>
     </message>
+    <message>
+        <source>About</source>
+        <translation type="unfinished">O programie</translation>
+    </message>
+    <message>
+        <source>Activation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid license</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This license is not available any more.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CMainWnd</name>
@@ -467,7 +507,11 @@
     </message>
     <message>
         <source>Seperate</source>
-        <translation>Oddziel</translation>
+        <translation type="vanished">Oddziel</translation>
+    </message>
+    <message>
+        <source>Separate</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -478,7 +522,7 @@
     </message>
     <message>
         <source>Channel Layout</source>
-        <translation>Układ kanałów</translation>
+        <translation type="vanished">Układ kanałów</translation>
     </message>
     <message>
         <source>Channels</source>
@@ -486,7 +530,7 @@
     </message>
     <message>
         <source>Decoder</source>
-        <translation>Dekoder</translation>
+        <translation type="vanished">Dekoder</translation>
     </message>
     <message>
         <source>Duration</source>
@@ -518,7 +562,7 @@
     </message>
     <message>
         <source>Sample Format</source>
-        <translation>Format próbkowania</translation>
+        <translation type="vanished">Format próbkowania</translation>
     </message>
     <message>
         <source>Sample Rate</source>
@@ -539,6 +583,10 @@
     <message>
         <source>Loop: Off</source>
         <translation>Zapętlenie: Wył.</translation>
+    </message>
+    <message>
+        <source>Start Time</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -577,6 +625,10 @@
     <message>
         <source>Rotate Right</source>
         <translation>Obróć w prawo</translation>
+    </message>
+    <message>
+        <source>Please choose a page first</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -735,7 +787,7 @@
     </message>
     <message>
         <source>Subsecond time</source>
-        <translation>Czas - ułamki sekund</translation>
+        <translation type="vanished">Czas - ułamki sekund</translation>
     </message>
     <message>
         <source>Width</source>
@@ -752,6 +804,102 @@
     <message>
         <source>XML</source>
         <translation>XML</translation>
+    </message>
+    <message>
+        <source>Manual</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Normal program</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Aperture priority</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shutter priority</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Creative program</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Action program</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Portrait mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Landscape mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Exposure program</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shutter speed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reserved</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Strobe return light not detected</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Strobe return light detected</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Flash returned light</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unknown mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Compulsory flash firing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Compulsory flash suppression</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatic mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Flash mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>average</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>center weighted average</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>spot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>multi-spot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>multi-segment</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -907,11 +1055,11 @@
     </message>
     <message>
         <source>Disable file type detecting</source>
-        <translation>Wyłącz wykrywanie typów plików</translation>
+        <translation type="vanished">Wyłącz wykrywanie typów plików</translation>
     </message>
     <message>
         <source>Disable folder contents loading</source>
-        <translation>Wyłącz ładowanie zawartości folderu</translation>
+        <translation type="vanished">Wyłącz ładowanie zawartości folderu</translation>
     </message>
     <message>
         <source>Others</source>
@@ -943,15 +1091,15 @@
     </message>
     <message>
         <source>Hide Tray Icon</source>
-        <translation>Ukryj ikonę</translation>
+        <translation type="vanished">Ukryj ikonę</translation>
     </message>
     <message>
         <source>Use White Icon</source>
-        <translation>Użyj białej ikony</translation>
+        <translation type="vanished">Użyj białej ikony</translation>
     </message>
     <message>
         <source>Run Settings.exe to display tray icon when it&apos;s hidden.</source>
-        <translation>Uruchom Settings.exe aby wyświetlić ukrytą ikonę w obszarze powiadomień.</translation>
+        <translation type="vanished">Uruchom Settings.exe aby wyświetlić ukrytą ikonę w obszarze powiadomień.</translation>
     </message>
     <message>
         <source>Open temp folder failed.</source>
@@ -959,7 +1107,7 @@
     </message>
     <message>
         <source>Reveal Settings.exe failed.</source>
-        <translation>Otworzenie Settings.exe nie powiodło się.</translation>
+        <translation type="vanished">Otworzenie Settings.exe nie powiodło się.</translation>
     </message>
     <message>
         <source>3rd Party</source>
@@ -968,6 +1116,14 @@
     <message>
         <source>Directory Opus:</source>
         <translation>Directory Opus:</translation>
+    </message>
+    <message>
+        <source>Hide tray icon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use white icon</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1044,6 +1200,22 @@
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;:(&lt;/p&gt;&lt;p&gt;Oops!&lt;/p&gt;&lt;p&gt;No extensions matched.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;:(&lt;/p&gt;&lt;p&gt;Rety!&lt;/p&gt;&lt;p&gt;Żadne rozszerzenia nie pasują.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
+    <message>
+        <source>Disabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable folder contents loading</source>
+        <translation type="unfinished">Wyłącz ładowanie zawartości folderu</translation>
+    </message>
+    <message>
+        <source>Disable file type detecting</source>
+        <translation type="unfinished">Wyłącz wykrywanie typów plików</translation>
+    </message>
+    <message>
+        <source>Will display property only for extensions in this field, e.g.:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CSettingsWnd4General</name>
@@ -1065,7 +1237,7 @@
     </message>
     <message>
         <source>Run Seer at system start</source>
-        <translation>Włącz Seer przy uruchamianiu systemu</translation>
+        <translation type="vanished">Włącz Seer przy uruchamianiu systemu</translation>
     </message>
     <message>
         <source>Track selected file in Explorer</source>
@@ -1082,6 +1254,10 @@
     <message>
         <source>Theme:</source>
         <translation>Motyw:</translation>
+    </message>
+    <message>
+        <source>Run Seer when system boots</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1244,7 +1420,7 @@
     </message>
     <message>
         <source>Seperate:</source>
-        <translation>Oddziel:</translation>
+        <translation type="vanished">Oddziel:</translation>
     </message>
     <message>
         <source>Next:</source>
@@ -1261,6 +1437,58 @@
     <message>
         <source>Next type file:</source>
         <translation>Następny typ pliku:</translation>
+    </message>
+    <message>
+        <source>Separate:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open Clicked Item:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shift + Click</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open Clicked Item With Seer:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shift + Alt + Click</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reveal Clicked Item:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Alt + Click</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Details View:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restore:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double click</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Percent Locate:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>0-9</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fit Height:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1398,6 +1626,10 @@
         <source>TRIAL</source>
         <translation>Wersja testowa</translation>
     </message>
+    <message>
+        <source>Deactivated</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QObject</name>
@@ -1428,6 +1660,10 @@
     <message>
         <source>Update language failed</source>
         <translation>Aktualizacja pliku językowego nie powiodła się</translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation type="unfinished">&amp;Anuluj</translation>
     </message>
 </context>
 <context>

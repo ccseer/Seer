@@ -68,7 +68,7 @@
     <name>CAbstractManager</name>
     <message>
         <source>Unknown</source>
-        <translation>Неизвестно</translation>
+        <translation type="vanished">Неизвестно</translation>
     </message>
 </context>
 <context>
@@ -157,11 +157,11 @@
     <name>CConfirmDlg</name>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Отмена</translation>
+        <translation type="vanished">&amp;Отмена</translation>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation>&amp;OK</translation>
+        <translation type="vanished">&amp;OK</translation>
     </message>
 </context>
 <context>
@@ -244,8 +244,32 @@
         <translation>В виде дерева</translation>
     </message>
     <message>
+        <source>File Folder</source>
+        <translation type="obsolete">Папка файлов</translation>
+    </message>
+    <message>
+        <source>Loading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation type="obsolete">Имя</translation>
+    </message>
+    <message>
+        <source>Date created</source>
+        <translation type="obsolete">Дата создания</translation>
+    </message>
+    <message>
+        <source>Date modified</source>
+        <translation type="obsolete">Дата изменения</translation>
+    </message>
+    <message>
         <source>File is encrypted</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Folder</source>
+        <translation type="unfinished">Папка</translation>
     </message>
 </context>
 <context>
@@ -361,32 +385,40 @@
         <source>Pin</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Open Selected Item With Default Application</source>
+        <translation type="obsolete">Открыть выбранный элемент в программе по умолчанию</translation>
+    </message>
+    <message>
+        <source>Display Selected Item In Explorer</source>
+        <translation type="obsolete">Показать выбранный элемент в проводнике</translation>
+    </message>
 </context>
 <context>
     <name>CFolderDataReader</name>
     <message>
         <source>Date created</source>
-        <translation>Дата создания</translation>
+        <translation type="vanished">Дата создания</translation>
     </message>
     <message>
         <source>Date modified</source>
-        <translation>Дата изменения</translation>
+        <translation type="vanished">Дата изменения</translation>
     </message>
     <message>
         <source>File Folder</source>
-        <translation>Папка файлов</translation>
+        <translation type="vanished">Папка файлов</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation>Имя</translation>
+        <translation type="vanished">Имя</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation>Размер</translation>
+        <translation type="vanished">Размер</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation>Тип</translation>
+        <translation type="vanished">Тип</translation>
     </message>
 </context>
 <context>
@@ -1311,7 +1343,7 @@
     </message>
     <message>
         <source>Maximize / Restore:</source>
-        <translation type="vanished">Развернуть / Восстановить:</translation>
+        <translation>Развернуть / Восстановить:</translation>
     </message>
     <message>
         <source>Media</source>
@@ -1458,11 +1490,15 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Next File With Same Suffix:</source>
+        <source>Previous type file:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Previous File With Same Suffix:</source>
+        <source>Next type file:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Details View:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1635,6 +1671,10 @@
     <message>
         <source>Update language failed</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation type="unfinished">&amp;Отмена</translation>
     </message>
 </context>
 <context>

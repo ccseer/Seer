@@ -152,7 +152,7 @@
     <name>CAbstractManager</name>
     <message>
         <source>Unknown</source>
-        <translation>Ok?nd</translation>
+        <translation type="vanished">Ok?nd</translation>
     </message>
 </context>
 <context>
@@ -271,11 +271,7 @@
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Avbryt</translation>
-    </message>
-    <message>
-        <source>&amp;OK</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">&amp;Avbryt</translation>
     </message>
 </context>
 <context>
@@ -358,8 +354,36 @@
         <translation>?ppna markerat objekt med systemets standardprogram</translation>
     </message>
     <message>
+        <source>File Folder</source>
+        <translation type="obsolete">Filmapp</translation>
+    </message>
+    <message>
+        <source>Loading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation type="obsolete">Namn</translation>
+    </message>
+    <message>
+        <source>Type</source>
+        <translation type="obsolete">Typ</translation>
+    </message>
+    <message>
+        <source>Date created</source>
+        <translation type="obsolete">Skapad</translation>
+    </message>
+    <message>
+        <source>Date modified</source>
+        <translation type="obsolete">?ndrad</translation>
+    </message>
+    <message>
         <source>File is encrypted</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Folder</source>
+        <translation type="unfinished">Mapp</translation>
     </message>
 </context>
 <context>
@@ -475,32 +499,40 @@
         <source>Pin</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Open Selected Item With Default Application</source>
+        <translation type="obsolete">?ppna markerat objekt med systemets standardprogram</translation>
+    </message>
+    <message>
+        <source>Display Selected Item In Explorer</source>
+        <translation type="obsolete">Visa markerat objekt i Utforskaren</translation>
+    </message>
 </context>
 <context>
     <name>CFolderDataReader</name>
     <message>
         <source>Name</source>
-        <translation>Namn</translation>
+        <translation type="vanished">Namn</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation>Storlek</translation>
+        <translation type="vanished">Storlek</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation>Typ</translation>
+        <translation type="vanished">Typ</translation>
     </message>
     <message>
         <source>File Folder</source>
-        <translation>Filmapp</translation>
+        <translation type="vanished">Filmapp</translation>
     </message>
     <message>
         <source>Date created</source>
-        <translation>Skapad</translation>
+        <translation type="vanished">Skapad</translation>
     </message>
     <message>
         <source>Date modified</source>
-        <translation>?ndrad</translation>
+        <translation type="vanished">?ndrad</translation>
     </message>
 </context>
 <context>
@@ -1555,7 +1587,7 @@
     </message>
     <message>
         <source>Maximize / Restore:</source>
-        <translation type="vanished">Maximera / ?terst?ll:</translation>
+        <translation>Maximera / ?terst?ll:</translation>
     </message>
     <message>
         <source>Reload:</source>
@@ -1634,11 +1666,15 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Next File With Same Suffix:</source>
+        <source>Previous type file:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Previous File With Same Suffix:</source>
+        <source>Next type file:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Details View:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1894,6 +1930,10 @@
     </message>
     <message>
         <source>Update language failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

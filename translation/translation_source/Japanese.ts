@@ -76,7 +76,7 @@
     <name>CAbstractManager</name>
     <message>
         <source>Unknown</source>
-        <translation>不明</translation>
+        <translation type="vanished">不明</translation>
     </message>
 </context>
 <context>
@@ -191,11 +191,11 @@
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>キャンセル(&amp;C)</translation>
+        <translation type="vanished">キャンセル(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation>O  K(&amp;O)</translation>
+        <translation type="vanished">O  K(&amp;O)</translation>
     </message>
 </context>
 <context>
@@ -282,8 +282,32 @@
         <translation type="vanished">ファイルは暗号化されています。</translation>
     </message>
     <message>
+        <source>File Folder</source>
+        <translation type="obsolete">フォルダー</translation>
+    </message>
+    <message>
+        <source>Loading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation type="obsolete">名前</translation>
+    </message>
+    <message>
+        <source>Date created</source>
+        <translation type="obsolete">作成日時</translation>
+    </message>
+    <message>
+        <source>Date modified</source>
+        <translation type="obsolete">更新日時</translation>
+    </message>
+    <message>
         <source>File is encrypted</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Folder</source>
+        <translation type="unfinished">フォルダー</translation>
     </message>
 </context>
 <context>
@@ -399,32 +423,40 @@
         <source>Pin</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Open Selected Item With Default Application</source>
+        <translation type="obsolete">選択アイテムを既定のアプリで開く</translation>
+    </message>
+    <message>
+        <source>Display Selected Item In Explorer</source>
+        <translation type="obsolete">ファイルの場所を開く</translation>
+    </message>
 </context>
 <context>
     <name>CFolderDataReader</name>
     <message>
         <source>Name</source>
-        <translation>名前</translation>
+        <translation type="vanished">名前</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation>サイズ</translation>
+        <translation type="vanished">サイズ</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation>種類</translation>
+        <translation type="vanished">種類</translation>
     </message>
     <message>
         <source>File Folder</source>
-        <translation>フォルダー</translation>
+        <translation type="vanished">フォルダー</translation>
     </message>
     <message>
         <source>Date created</source>
-        <translation>作成日時</translation>
+        <translation type="vanished">作成日時</translation>
     </message>
     <message>
         <source>Date modified</source>
-        <translation>更新日時</translation>
+        <translation type="vanished">更新日時</translation>
     </message>
 </context>
 <context>
@@ -1504,7 +1536,7 @@
     </message>
     <message>
         <source>Maximize / Restore:</source>
-        <translation type="vanished">最大化 / 元に戻す：</translation>
+        <translation>最大化 / 元に戻す：</translation>
     </message>
     <message>
         <source>Reload:</source>
@@ -1540,11 +1572,11 @@
     </message>
     <message>
         <source>Previous type file:</source>
-        <translation type="vanished">前のファイルタイプ:</translation>
+        <translation>前のファイルタイプ:</translation>
     </message>
     <message>
         <source>Next type file:</source>
-        <translation type="vanished">次のファイルタイプ:</translation>
+        <translation>次のファイルタイプ:</translation>
     </message>
     <message>
         <source>Reveal Clicked Item:</source>
@@ -1595,11 +1627,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Next File With Same Suffix:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Previous File With Same Suffix:</source>
+        <source>Details View:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1855,6 +1883,10 @@
     <message>
         <source>Update language failed</source>
         <translation>言語のアップデート失敗</translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation type="unfinished">キャンセル(&amp;C)</translation>
     </message>
 </context>
 <context>
