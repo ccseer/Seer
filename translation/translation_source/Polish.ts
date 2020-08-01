@@ -448,7 +448,7 @@
     </message>
     <message>
         <source>Quit</source>
-        <translation>Zakończ</translation>
+        <translation type="vanished">Zakończ</translation>
     </message>
     <message>
         <source>Register shortcut failed</source>
@@ -1488,6 +1488,14 @@
     </message>
     <message>
         <source>Fit Height:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Goto:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ctrl + Click</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

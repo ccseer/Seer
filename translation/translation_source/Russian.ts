@@ -483,7 +483,7 @@
     </message>
     <message>
         <source>Quit</source>
-        <translation>Выход</translation>
+        <translation type="vanished">Выход</translation>
     </message>
     <message>
         <source>Register shortcut failed</source>
@@ -1499,6 +1499,14 @@
     </message>
     <message>
         <source>Details View:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Goto:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ctrl + Click</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

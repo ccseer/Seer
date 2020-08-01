@@ -485,7 +485,7 @@
     <name>CMain</name>
     <message>
         <source>Quit</source>
-        <translation>終了</translation>
+        <translation type="vanished">終了</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1628,6 +1628,14 @@
     </message>
     <message>
         <source>Details View:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Goto:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ctrl + Click</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
