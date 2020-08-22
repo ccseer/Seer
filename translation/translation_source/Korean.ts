@@ -403,6 +403,22 @@
         <source>Pin</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Total bytes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Available bytes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Free bytes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Block size</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CFolderDataReader</name>
@@ -1093,7 +1109,7 @@
     </message>
     <message>
         <source>Browse for dopusrt.exe</source>
-        <translation>dopusrt.exe 파일 찾기</translation>
+        <translation type="vanished">dopusrt.exe 파일 찾기</translation>
     </message>
     <message>
         <source>Temp Folder</source>
@@ -1161,11 +1177,11 @@
     </message>
     <message>
         <source>3rd Party</source>
-        <translation>써드 파티</translation>
+        <translation type="vanished">써드 파티</translation>
     </message>
     <message>
         <source>Directory Opus:</source>
-        <translation>디렉토리 오푸스:</translation>
+        <translation type="vanished">디렉토리 오푸스:</translation>
     </message>
     <message>
         <source>Hide tray icon</source>
@@ -1174,6 +1190,10 @@
     <message>
         <source>Use white icon</source>
         <translation>흰색 아이콘 사용</translation>
+    </message>
+    <message>
+        <source>Enable &quot;Delete&quot; key</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1364,6 +1384,10 @@
     <message>
         <source>Run Seer when system boots</source>
         <translation>시스템 시작할 때 Seer 실행</translation>
+    </message>
+    <message>
+        <source>Run as administrator</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1606,6 +1630,26 @@
     </message>
     <message>
         <source>Ctrl + Click</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation type="unfinished">텍스트</translation>
+    </message>
+    <message>
+        <source>Render:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Locate:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Annotation:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

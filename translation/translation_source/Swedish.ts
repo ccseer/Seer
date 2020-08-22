@@ -507,6 +507,22 @@
         <source>Display Selected Item In Explorer</source>
         <translation type="obsolete">Visa markerat objekt i Utforskaren</translation>
     </message>
+    <message>
+        <source>Total bytes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Available bytes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Free bytes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Block size</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CFolderDataReader</name>
@@ -1198,7 +1214,7 @@
     </message>
     <message>
         <source>Browse for dopusrt.exe</source>
-        <translation>Bl?ddra efter dopusrt.exe</translation>
+        <translation type="vanished">Bl?ddra efter dopusrt.exe</translation>
     </message>
     <message>
         <source>Temp Folder</source>
@@ -1245,19 +1261,15 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>3rd Party</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Directory Opus:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Hide tray icon</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Use white icon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable &quot;Delete&quot; key</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1444,6 +1456,10 @@
     </message>
     <message>
         <source>Run Seer when system boots</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Run as administrator</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1683,6 +1699,26 @@
     </message>
     <message>
         <source>Ctrl + Click</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation type="unfinished">Text</translation>
+    </message>
+    <message>
+        <source>Render:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Locate:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Annotation:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
