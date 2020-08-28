@@ -156,62 +156,62 @@
 <context>
     <name>CCodeWnd</name>
     <message>
-        <location filename="../../../../Seer/src/code/ccodewnd.cpp" line="125"/>
+        <location filename="../../../../Seer/src/code/ccodewnd.cpp" line="123"/>
         <source>Character count</source>
         <translation>字数</translation>
     </message>
     <message>
-        <location filename="../../../../Seer/src/code/ccodewnd.cpp" line="126"/>
+        <location filename="../../../../Seer/src/code/ccodewnd.cpp" line="124"/>
         <source>Line count</source>
         <translation>行数</translation>
     </message>
     <message>
-        <location filename="../../../../Seer/src/code/ccodewnd.cpp" line="142"/>
+        <location filename="../../../../Seer/src/code/ccodewnd.cpp" line="140"/>
         <source>Ln</source>
         <translation>行</translation>
     </message>
     <message>
-        <location filename="../../../../Seer/src/code/ccodewnd.cpp" line="143"/>
+        <location filename="../../../../Seer/src/code/ccodewnd.cpp" line="141"/>
         <source>Col</source>
         <translation>列</translation>
     </message>
     <message>
-        <location filename="../../../../Seer/src/code/ccodewnd.cpp" line="162"/>
+        <location filename="../../../../Seer/src/code/ccodewnd.cpp" line="160"/>
         <source>Format Code</source>
         <translation>格式化代码</translation>
     </message>
     <message>
-        <location filename="../../../../Seer/src/code/ccodewnd.cpp" line="188"/>
+        <location filename="../../../../Seer/src/code/ccodewnd.cpp" line="186"/>
         <source>Format failed.</source>
         <translation>格式化失败。</translation>
     </message>
     <message>
-        <location filename="../../../../Seer/src/code/ccodewnd.cpp" line="189"/>
+        <location filename="../../../../Seer/src/code/ccodewnd.cpp" line="187"/>
         <source>Reason:</source>
         <translation>失败原因：</translation>
     </message>
     <message>
-        <location filename="../../../../Seer/src/code/ccodewnd.cpp" line="190"/>
+        <location filename="../../../../Seer/src/code/ccodewnd.cpp" line="188"/>
         <source>Line:</source>
         <translation>行：</translation>
     </message>
     <message>
-        <location filename="../../../../Seer/src/code/ccodewnd.cpp" line="191"/>
+        <location filename="../../../../Seer/src/code/ccodewnd.cpp" line="189"/>
         <source>Column:</source>
         <translation>列：</translation>
     </message>
     <message>
-        <location filename="../../../../Seer/src/code/ccodewnd.cpp" line="242"/>
+        <location filename="../../../../Seer/src/code/ccodewnd.cpp" line="240"/>
         <source>Render markdown</source>
         <translation>渲染 Markdown</translation>
     </message>
     <message>
-        <location filename="../../../../Seer/src/code/ccodewnd.cpp" line="251"/>
+        <location filename="../../../../Seer/src/code/ccodewnd.cpp" line="249"/>
         <source>Render HTML</source>
         <translation>转到 HTML 视图</translation>
     </message>
     <message>
-        <location filename="../../../../Seer/src/code/ccodewnd.cpp" line="261"/>
+        <location filename="../../../../Seer/src/code/ccodewnd.cpp" line="259"/>
         <source>Render Image</source>
         <translation>渲染图片</translation>
     </message>
@@ -751,17 +751,17 @@ Reason:</source>
 <context>
     <name>CMainWnd</name>
     <message>
-        <location filename="../../../../Seer/src/ui/cmainwnd.cpp" line="203"/>
+        <location filename="../../../../Seer/src/ui/cmainwnd.cpp" line="187"/>
         <source>Close</source>
         <translation>关闭</translation>
     </message>
     <message>
-        <location filename="../../../../Seer/src/ui/cmainwnd.cpp" line="215"/>
+        <location filename="../../../../Seer/src/ui/cmainwnd.cpp" line="199"/>
         <source>Properties</source>
         <translation>属性</translation>
     </message>
     <message>
-        <location filename="../../../../Seer/src/ui/cmainwnd.cpp" line="249"/>
+        <location filename="../../../../Seer/src/ui/cmainwnd.cpp" line="233"/>
         <source>Separate</source>
         <translation>分离</translation>
     </message>
@@ -891,7 +891,7 @@ Reason:</source>
     <name>CPdfWnd</name>
     <message>
         <location filename="../../../../Seer/src/pdf/cpdfwnd.cpp" line="77"/>
-        <location filename="../../../../Seer/src/pdf/cpdfwnd.cpp" line="223"/>
+        <location filename="../../../../Seer/src/pdf/cpdfwnd.cpp" line="225"/>
         <source>Pages Count</source>
         <translation>页数</translation>
     </message>
@@ -909,7 +909,17 @@ Reason:</source>
         <translation>已加密</translation>
     </message>
     <message>
-        <location filename="../../../../Seer/src/pdf/cpdfwnd.cpp" line="291"/>
+        <location filename="../../../../Seer/src/pdf/cpdfwnd.cpp" line="213"/>
+        <source>Annotation: On</source>
+        <translation>注解：显示</translation>
+    </message>
+    <message>
+        <location filename="../../../../Seer/src/pdf/cpdfwnd.cpp" line="213"/>
+        <source>Annotation: Off</source>
+        <translation>注解：隐藏</translation>
+    </message>
+    <message>
+        <location filename="../../../../Seer/src/pdf/cpdfwnd.cpp" line="293"/>
         <source>Please choose a page first</source>
         <translation>没有选中页面</translation>
     </message>
@@ -1492,7 +1502,7 @@ Reason:</source>
     <message>
         <location filename="../../../../Seer/src/settings/csettingswnd4explorer.ui" line="222"/>
         <source>Enable &quot;Delete&quot; key</source>
-        <translation type="unfinished"></translation>
+        <translation>接收&quot;删除&quot;键</translation>
     </message>
     <message>
         <location filename="../../../../Seer/src/settings/csettingswnd4explorer.ui" line="246"/>

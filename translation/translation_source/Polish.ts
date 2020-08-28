@@ -646,6 +646,14 @@
         <source>Please choose a page first</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Annotation: On</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Annotation: Off</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CPicWnd</name>
