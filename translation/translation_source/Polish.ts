@@ -178,6 +178,14 @@
         <source>Reveal In Explorer</source>
         <translation>Pokaż w Eksploratorze plików</translation>
     </message>
+    <message>
+        <source>Previous same type file</source>
+        <translation type="obsolete">Poprzedni plik tego samego typu</translation>
+    </message>
+    <message>
+        <source>Next same type file</source>
+        <translation type="obsolete">Następny plik tego samego typu</translation>
+    </message>
 </context>
 <context>
     <name>CDirManeger</name>
@@ -249,11 +257,11 @@
     <name>CFileCollector</name>
     <message>
         <source>Previous same type file</source>
-        <translation>Poprzedni plik tego samego typu</translation>
+        <translation type="vanished">Poprzedni plik tego samego typu</translation>
     </message>
     <message>
         <source>Next same type file</source>
-        <translation>Następny plik tego samego typu</translation>
+        <translation type="vanished">Następny plik tego samego typu</translation>
     </message>
 </context>
 <context>
@@ -1550,6 +1558,22 @@
         <source>Annotation:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Word Wrap:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line Number:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Navigation:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Alt + Arrow Key</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CSettingsWnd4Plugins</name>
@@ -1584,6 +1608,10 @@
     <message>
         <source>Search plugin</source>
         <translation>Wyszukaj wtyczkę</translation>
+    </message>
+    <message>
+        <source>Internal handled plugins will be used first.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -323,17 +323,6 @@
     </message>
 </context>
 <context>
-    <name>CFileCollector</name>
-    <message>
-        <source>Previous same type file</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Next same type file</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>CFileProperty</name>
     <message>
         <source>Name</source>
@@ -1656,6 +1645,22 @@
         <source>Annotation:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Word Wrap:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line Number:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Navigation:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Alt + Arrow Key</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CSettingsWnd4Plugins</name>
@@ -1706,6 +1711,10 @@
     <message>
         <source>Search plugin</source>
         <translation>Buscar plugin</translation>
+    </message>
+    <message>
+        <source>Internal handled plugins will be used first.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -61,23 +61,24 @@
     </message>
     <message>
         <source>Translator</source>
-        <translation type="unfinished"></translation>
+        <translation>Traduttori</translation>
     </message>
     <message>
         <source>1218.io</source>
-        <translation type="unfinished"></translation>
+        <translation>1218.io</translation>
     </message>
     <message>
         <source>Cisa</source>
-        <translation type="unfinished"></translation>
+        <translation>Cisa</translation>
     </message>
     <message>
         <source>Tobey</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>I guess it&apos;s a company name,right?</translatorcomment>
+        <translation></translation>
     </message>
     <message>
         <source>Contributor</source>
-        <translation type="unfinished"></translation>
+        <translation>Collaboratori</translation>
     </message>
 </context>
 <context>
@@ -126,11 +127,11 @@
     </message>
     <message>
         <source>Line:</source>
-        <translation type="unfinished"></translation>
+        <translation>Riga:</translation>
     </message>
     <message>
         <source>Column:</source>
-        <translation type="unfinished"></translation>
+        <translation>Colonna:</translation>
     </message>
     <message>
         <source>Render markdown</source>
@@ -138,27 +139,27 @@
     </message>
     <message>
         <source>Render HTML</source>
-        <translation type="unfinished"></translation>
+        <translation>Render HTML</translation>
     </message>
     <message>
         <source>Character count</source>
-        <translation type="unfinished"></translation>
+        <translation>Numero Caratteri </translation>
     </message>
     <message>
         <source>Line count</source>
-        <translation type="unfinished"></translation>
+        <translation>Numero Righe</translation>
     </message>
     <message>
         <source>Ln</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Col</source>
-        <translation type="unfinished"></translation>
+        <translation>Col</translation>
     </message>
     <message>
         <source>Render Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Render Immagine</translation>
     </message>
 </context>
 <context>
@@ -210,15 +211,15 @@
     <name>CControlWnd</name>
     <message>
         <source>Open With Default Application</source>
-        <translation type="unfinished">Apri Con Applicazione Predefinita</translation>
+        <translation>Apri Con Applicazione Predefinita</translation>
     </message>
     <message>
         <source>Reveal In Explorer</source>
-        <translation type="unfinished">Visualizza in Esplora Risorse</translation>
+        <translation>Mostra in Esplora Risorse</translation>
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished">Di più</translation>
+        <translation>Di più</translation>
     </message>
 </context>
 <context>
@@ -291,7 +292,7 @@
     </message>
     <message>
         <source>Loading</source>
-        <translation type="unfinished"></translation>
+        <translation>Caricamento</translation>
     </message>
     <message>
         <source>Name</source>
@@ -311,22 +312,22 @@
     </message>
     <message>
         <source>File is encrypted</source>
-        <translation type="unfinished"></translation>
+        <translation>Il file è criptato</translation>
     </message>
     <message>
         <source>Folder</source>
-        <translation type="unfinished">Cartella</translation>
+        <translation>Cartella</translation>
     </message>
 </context>
 <context>
     <name>CFileCollector</name>
     <message>
         <source>Previous same type file</source>
-        <translation type="unfinished"></translation>
+        <translation>Stesso tipo file precedente</translation>
     </message>
     <message>
         <source>Next same type file</source>
-        <translation type="unfinished"></translation>
+        <translation>stesso tipo prossimo file</translation>
     </message>
 </context>
 <context>
@@ -369,7 +370,7 @@
     </message>
     <message>
         <source>Comments</source>
-        <translation type="unfinished"></translation>
+        <translation>Commenti</translation>
     </message>
     <message>
         <source>Internal Name</source>
@@ -377,55 +378,55 @@
     </message>
     <message>
         <source>Product Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome prodotto</translation>
     </message>
     <message>
         <source>Company Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome azienda</translation>
     </message>
     <message>
         <source>Legal Copyright</source>
-        <translation type="unfinished"></translation>
+        <translation>Copyright</translation>
     </message>
     <message>
         <source>Product Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Versione prodotto</translation>
     </message>
     <message>
         <source>File Description</source>
-        <translation type="unfinished"></translation>
+        <translation>Descrizione file</translation>
     </message>
     <message>
         <source>Legal Trademarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Note Legali</translation>
     </message>
     <message>
         <source>Private Build</source>
-        <translation type="unfinished"></translation>
+        <translation>Build privata</translation>
     </message>
     <message>
         <source>File Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Versione file</translation>
     </message>
     <message>
         <source>Original Filename</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome file originale</translation>
     </message>
     <message>
         <source>Special Build</source>
-        <translation type="unfinished"></translation>
+        <translation>Build speciale</translation>
     </message>
     <message>
         <source>Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Dettagli</translation>
     </message>
     <message>
         <source>Extension</source>
-        <translation type="unfinished">Estensione</translation>
+        <translation>Estensione</translation>
     </message>
     <message>
         <source>Folder</source>
-        <translation type="unfinished">Cartella</translation>
+        <translation>Cartella</translation>
     </message>
     <message>
         <source>Pin</source>
@@ -441,11 +442,11 @@
     </message>
     <message>
         <source>Total bytes</source>
-        <translation type="unfinished"></translation>
+        <translation>bytes totali</translation>
     </message>
     <message>
         <source>Available bytes</source>
-        <translation type="unfinished"></translation>
+        <translation>Bytes disponibili</translation>
     </message>
     <message>
         <source>Free bytes</source>
@@ -502,7 +503,7 @@
     <name>CHtmlWnd</name>
     <message>
         <source>HTML</source>
-        <translation type="unfinished"></translation>
+        <translation>HTML</translation>
     </message>
     <message>
         <source>Markdown Source</source>
@@ -562,27 +563,27 @@
     </message>
     <message>
         <source>The system default application not found.</source>
-        <translation type="unfinished"></translation>
+        <translation>App di default di sistema non trovata.</translation>
     </message>
     <message>
         <source>Please share with your friends.</source>
-        <translation type="unfinished"></translation>
+        <translation>Condividi con i tuoi amici.</translation>
     </message>
     <message>
         <source>Invalid license</source>
-        <translation type="unfinished"></translation>
+        <translation>Licenza non valida</translation>
     </message>
     <message>
         <source>This license is not available any more.</source>
-        <translation type="unfinished"></translation>
+        <translation>Questa licenza non è più disponibile.</translation>
     </message>
     <message>
         <source>About</source>
-        <translation type="unfinished">Info</translation>
+        <translation>Info</translation>
     </message>
     <message>
         <source>Activation</source>
-        <translation type="unfinished"></translation>
+        <translation>Attivazione prodotto</translation>
     </message>
 </context>
 <context>
@@ -597,7 +598,7 @@
     </message>
     <message>
         <source>Separate</source>
-        <translation type="unfinished"></translation>
+        <translation>Separa</translation>
     </message>
 </context>
 <context>
@@ -660,42 +661,42 @@
     </message>
     <message>
         <source>Mute: On</source>
-        <translation type="unfinished"></translation>
+        <translation>Muto: On</translation>
     </message>
     <message>
         <source>Mute: Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Muto: off</translation>
     </message>
     <message>
         <source>Capture failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Cattura fallita</translation>
     </message>
     <message>
         <source>Loop: On</source>
-        <translation type="unfinished"></translation>
+        <translation>Ripeti: on</translation>
     </message>
     <message>
         <source>Loop: Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Ripeti: off</translation>
     </message>
     <message>
         <source>Start Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Inizio</translation>
     </message>
 </context>
 <context>
     <name>CPDFPwdWnd</name>
     <message>
         <source>Password required</source>
-        <translation type="unfinished"></translation>
+        <translation>Password richiesta</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Annulla</translation>
+        <translation>Annulla</translation>
     </message>
 </context>
 <context>
@@ -714,23 +715,23 @@
     </message>
     <message>
         <source>Encrypted</source>
-        <translation type="unfinished"></translation>
+        <translation>Criptato</translation>
     </message>
     <message>
         <source>Rotate Right</source>
-        <translation type="unfinished">Ruota a destra</translation>
+        <translation>Ruota a destra</translation>
     </message>
     <message>
         <source>Please choose a page first</source>
-        <translation type="unfinished"></translation>
+        <translation>Per favore scegli prima una pagina</translation>
     </message>
     <message>
         <source>Annotation: On</source>
-        <translation type="unfinished"></translation>
+        <translation>Annotazioni: on</translation>
     </message>
     <message>
         <source>Annotation: Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Annotazioni: off</translation>
     </message>
 </context>
 <context>
@@ -773,7 +774,7 @@
     </message>
     <message>
         <source>Software</source>
-        <translation type="unfinished"></translation>
+        <translation>Software</translation>
     </message>
     <message>
         <source>Bits per sample</source>
@@ -781,19 +782,19 @@
     </message>
     <message>
         <source>Image width</source>
-        <translation type="unfinished"></translation>
+        <translation>Larghezza immagine</translation>
     </message>
     <message>
         <source>Image height</source>
-        <translation type="unfinished"></translation>
+        <translation>Altezza immagine</translation>
     </message>
     <message>
         <source>Image description</source>
-        <translation type="unfinished"></translation>
+        <translation>Descrizione Immagine</translation>
     </message>
     <message>
         <source>Image copyright</source>
-        <translation type="unfinished"></translation>
+        <translation>Copyright Immagine</translation>
     </message>
     <message>
         <source>Image datetime</source>
@@ -809,7 +810,7 @@
     </message>
     <message>
         <source>Exposure time</source>
-        <translation type="unfinished"></translation>
+        <translation>Tempo di esposizione</translation>
     </message>
     <message>
         <source>F-stop</source>
@@ -817,11 +818,11 @@
     </message>
     <message>
         <source>ISO speed</source>
-        <translation type="unfinished"></translation>
+        <translation>Velocità ISO</translation>
     </message>
     <message>
         <source>Subject distance</source>
-        <translation type="unfinished"></translation>
+        <translation>Distanza soggetto</translation>
     </message>
     <message>
         <source>Exposure bias</source>
@@ -829,15 +830,15 @@
     </message>
     <message>
         <source>Flash</source>
-        <translation type="unfinished"></translation>
+        <translation>Flash</translation>
     </message>
     <message>
         <source>Metering mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Modalità metering</translation>
     </message>
     <message>
         <source>Lens focal length</source>
-        <translation type="unfinished"></translation>
+        <translation>Lunghezza focale lente</translation>
     </message>
     <message>
         <source>35mm focal length</source>
@@ -845,15 +846,15 @@
     </message>
     <message>
         <source>GPS Latitude</source>
-        <translation type="unfinished"></translation>
+        <translation>GPS Latitudine</translation>
     </message>
     <message>
         <source>GPS Longitude</source>
-        <translation type="unfinished"></translation>
+        <translation>GPS Longitudine</translation>
     </message>
     <message>
         <source>GPS Altitude</source>
-        <translation type="unfinished"></translation>
+        <translation>GPS Altitudine</translation>
     </message>
     <message>
         <source>GPS Precision (DOP)</source>
@@ -861,19 +862,19 @@
     </message>
     <message>
         <source>Lens min focal length</source>
-        <translation type="unfinished"></translation>
+        <translation>Lunghezza focale minima</translation>
     </message>
     <message>
         <source>Lens max focal length</source>
-        <translation type="unfinished"></translation>
+        <translation>Lunghezza focale massima</translation>
     </message>
     <message>
         <source>Lens f-stop min</source>
-        <translation type="unfinished"></translation>
+        <translation>F-stop minimi</translation>
     </message>
     <message>
         <source>Lens f-stop max</source>
-        <translation type="unfinished"></translation>
+        <translation>F-stop massimi</translation>
     </message>
     <message>
         <source>Lens make</source>
@@ -881,31 +882,31 @@
     </message>
     <message>
         <source>Lens model</source>
-        <translation type="unfinished"></translation>
+        <translation>Modello lente</translation>
     </message>
     <message>
         <source>Focal plane XRes</source>
-        <translation type="unfinished"></translation>
+        <translation>Piano focale Xres</translation>
     </message>
     <message>
         <source>Focal plane YRes</source>
-        <translation type="unfinished"></translation>
+        <translation>Piano Focale YRes</translation>
     </message>
     <message>
         <source>Play / Pause</source>
-        <translation type="unfinished">Avvia / Pausa</translation>
+        <translation>Avvia / Pausa</translation>
     </message>
     <message>
         <source>Loop Count</source>
-        <translation type="unfinished"></translation>
+        <translation>Numero ripetizioni</translation>
     </message>
     <message>
         <source>XML</source>
-        <translation type="unfinished"></translation>
+        <translation>XML</translation>
     </message>
     <message>
         <source>Manual</source>
-        <translation type="unfinished"></translation>
+        <translation>Manuale</translation>
     </message>
     <message>
         <source>Normal program</source>
@@ -917,7 +918,7 @@
     </message>
     <message>
         <source>Shutter priority</source>
-        <translation type="unfinished"></translation>
+        <translation>Priorità shutter</translation>
     </message>
     <message>
         <source>Creative program</source>
@@ -929,11 +930,11 @@
     </message>
     <message>
         <source>Portrait mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Modalità Ritratto</translation>
     </message>
     <message>
         <source>Landscape mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Modalità paesaggio</translation>
     </message>
     <message>
         <source>Exposure program</source>
@@ -941,7 +942,7 @@
     </message>
     <message>
         <source>Shutter speed</source>
-        <translation type="unfinished"></translation>
+        <translation>Shutter speed</translation>
     </message>
     <message>
         <source>Reserved</source>
@@ -961,7 +962,7 @@
     </message>
     <message>
         <source>Unknown mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Modalità sconosciuta</translation>
     </message>
     <message>
         <source>Compulsory flash firing</source>
@@ -973,11 +974,11 @@
     </message>
     <message>
         <source>Automatic mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Modalità automatica</translation>
     </message>
     <message>
         <source>Flash mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Modalità Flash</translation>
     </message>
     <message>
         <source>average</source>
@@ -1004,39 +1005,39 @@
     <name>CRegDlg</name>
     <message>
         <source>ID:</source>
-        <translation type="unfinished"></translation>
+        <translation>ID: </translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Copia</translation>
     </message>
     <message>
         <source>License:</source>
-        <translation type="unfinished"></translation>
+        <translation>Licenza:</translation>
     </message>
     <message>
         <source>Order</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordine</translation>
     </message>
     <message>
         <source>Licensed</source>
-        <translation type="unfinished"></translation>
+        <translation>Licenza effettuata</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Annulla</translation>
+        <translation>Annulla</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Copied</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiato</translation>
     </message>
     <message>
         <source>Invalid License</source>
-        <translation type="unfinished"></translation>
+        <translation>Licenza non valida</translation>
     </message>
 </context>
 <context>
@@ -1067,15 +1068,15 @@
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished">Impostazioni</translation>
+        <translation>Impostazioni</translation>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;OK</translation>
     </message>
     <message>
         <source>Restart</source>
-        <translation type="unfinished"></translation>
+        <translation>Riavvia</translation>
     </message>
 </context>
 <context>
@@ -1114,15 +1115,15 @@
     </message>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished">Aspetto</translation>
+        <translation>Aspetto</translation>
     </message>
     <message>
         <source>Extension</source>
-        <translation type="unfinished">Estensione</translation>
+        <translation>Estensione</translation>
     </message>
     <message>
         <source>Select executable file path</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleziona percorso file eseguibile</translation>
     </message>
     <message>
         <source>equals triggered file path</source>
@@ -1130,11 +1131,11 @@
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished">Modifica</translation>
+        <translation>Modifica</translation>
     </message>
     <message>
         <source>Show &quot;Navigation&quot; button</source>
-        <translation type="unfinished"></translation>
+        <translation>Visualizza tasto &quot;Naviga&quot;</translation>
     </message>
 </context>
 <context>
@@ -1161,31 +1162,31 @@
     </message>
     <message>
         <source>Reset settings to default</source>
-        <translation type="unfinished"></translation>
+        <translation>Ripristina impostazioni di default</translation>
     </message>
     <message>
         <source>Confirm &amp; Restart :</source>
-        <translation type="unfinished"></translation>
+        <translation>Conferma e riavvia:</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Annulla</translation>
+        <translation>Annulla</translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished"></translation>
+        <translation>Ripristina</translation>
     </message>
     <message>
         <source>Keep window size and position</source>
-        <translation type="unfinished"></translation>
+        <translation>Mantieni dimensione finestre eposizione</translation>
     </message>
     <message>
         <source>Tray Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Tray Icon</translation>
     </message>
     <message>
         <source>Open temp folder failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Apertura file temporaneo fallita</translation>
     </message>
     <message>
         <source>Hide tray icon</source>
@@ -1197,7 +1198,7 @@
     </message>
     <message>
         <source>Enable &quot;Delete&quot; key</source>
-        <translation type="unfinished"></translation>
+        <translation>Abilita tasto &quot;Elimina&quot;</translation>
     </message>
 </context>
 <context>
@@ -1371,7 +1372,7 @@
     </message>
     <message>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Lingua</translation>
     </message>
     <message>
         <source>Application behavior</source>
@@ -1379,15 +1380,15 @@
     </message>
     <message>
         <source>Theme:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tema:</translation>
     </message>
     <message>
         <source>Run Seer when system boots</source>
-        <translation type="unfinished"></translation>
+        <translation>Esegui Seer all&apos;avvio</translation>
     </message>
     <message>
         <source>Run as administrator</source>
-        <translation type="unfinished"></translation>
+        <translation>Esegui come amministratore</translation>
     </message>
 </context>
 <context>
@@ -1542,47 +1543,47 @@
     </message>
     <message>
         <source>Fullscreen:</source>
-        <translation type="unfinished"></translation>
+        <translation>Schermo pieno:</translation>
     </message>
     <message>
         <source>Go To Beginning:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vai all&apos;inizio:</translation>
     </message>
     <message>
         <source>Invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>Non valido</translation>
     </message>
     <message>
         <source>Next:</source>
-        <translation type="unfinished"></translation>
+        <translation>Prossimo:</translation>
     </message>
     <message>
         <source>Previous:</source>
-        <translation type="unfinished"></translation>
+        <translation>Precedente:</translation>
     </message>
     <message>
         <source>Reveal Clicked Item:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra elemento selezionato:</translation>
     </message>
     <message>
         <source>Alt + Click</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt + Click</translation>
     </message>
     <message>
         <source>Open Clicked Item:</source>
-        <translation type="unfinished"></translation>
+        <translation>Apri elemento selezionato:</translation>
     </message>
     <message>
         <source>Shift + Click</source>
-        <translation type="unfinished"></translation>
+        <translation>Shift + Click</translation>
     </message>
     <message>
         <source>Open Clicked Item With Seer:</source>
-        <translation type="unfinished"></translation>
+        <translation>Apri elemento selezionato con Seer:</translation>
     </message>
     <message>
         <source>Shift + Alt + Click</source>
-        <translation type="unfinished"></translation>
+        <translation>Shift + Alt + Click</translation>
     </message>
     <message>
         <source>Restore:</source>
@@ -1590,7 +1591,7 @@
     </message>
     <message>
         <source>Double click</source>
-        <translation type="unfinished"></translation>
+        <translation>Doppio Click</translation>
     </message>
     <message>
         <source>Percent Locate:</source>
@@ -1598,19 +1599,19 @@
     </message>
     <message>
         <source>0-9</source>
-        <translation type="unfinished"></translation>
+        <translation>0-9</translation>
     </message>
     <message>
         <source>Separate:</source>
-        <translation type="unfinished"></translation>
+        <translation>Separa:</translation>
     </message>
     <message>
         <source>Fit Height:</source>
-        <translation type="unfinished"></translation>
+        <translation>Adatta Altezza：</translation>
     </message>
     <message>
         <source>Previous type file:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo file precedente:</translation>
     </message>
     <message>
         <source>Next type file:</source>
@@ -1618,19 +1619,19 @@
     </message>
     <message>
         <source>Details View:</source>
-        <translation type="unfinished"></translation>
+        <translation>Visualizza dettagli:</translation>
     </message>
     <message>
         <source>Goto:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vai a:</translation>
     </message>
     <message>
         <source>Ctrl + Click</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl + Click</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished">Testo</translation>
+        <translation>Testo</translation>
     </message>
     <message>
         <source>Render:</source>
@@ -1646,7 +1647,7 @@
     </message>
     <message>
         <source>Annotation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Note:</translation>
     </message>
 </context>
 <context>
@@ -1755,7 +1756,7 @@
     </message>
     <message>
         <source>Search available plugin</source>
-        <translation type="unfinished"></translation>
+        <translation>Cerca plugin disponibili</translation>
     </message>
 </context>
 <context>
@@ -1798,23 +1799,23 @@
     </message>
     <message>
         <source>Register</source>
-        <translation type="unfinished"></translation>
+        <translation>Registra</translation>
     </message>
     <message>
         <source>Stay on top</source>
-        <translation type="unfinished"></translation>
+        <translation>Lascia in sovrapposizione</translation>
     </message>
     <message>
         <source>EXPIRED</source>
-        <translation type="unfinished"></translation>
+        <translation>SCADUTA</translation>
     </message>
     <message>
         <source>TRIAL</source>
-        <translation type="unfinished"></translation>
+        <translation>VERSIONE DI PROVA</translation>
     </message>
     <message>
         <source>Deactivated</source>
-        <translation type="unfinished"></translation>
+        <translation>Non attivato</translation>
     </message>
 </context>
 <context>
@@ -1896,15 +1897,15 @@
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;OK</translation>
     </message>
     <message>
         <source>Update language failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Aggiornamento lingua fallito</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished">&amp;Annulla</translation>
+        <translation>&amp;Annulla</translation>
     </message>
 </context>
 <context>

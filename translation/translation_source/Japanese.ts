@@ -212,6 +212,14 @@
         <source>More</source>
         <translation>さらに見る</translation>
     </message>
+    <message>
+        <source>Previous same type file</source>
+        <translation type="obsolete">前のファイルタイプ</translation>
+    </message>
+    <message>
+        <source>Next same type file</source>
+        <translation type="obsolete">次のファイルタイプ</translation>
+    </message>
 </context>
 <context>
     <name>CDirManager</name>
@@ -314,11 +322,11 @@
     <name>CFileCollector</name>
     <message>
         <source>Previous same type file</source>
-        <translation>前のファイルタイプ</translation>
+        <translation type="vanished">前のファイルタイプ</translation>
     </message>
     <message>
         <source>Next same type file</source>
-        <translation>次のファイルタイプ</translation>
+        <translation type="vanished">次のファイルタイプ</translation>
     </message>
 </context>
 <context>
@@ -1690,6 +1698,22 @@
         <source>Annotation:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Word Wrap:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line Number:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Navigation:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Alt + Arrow Key</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CSettingsWnd4Plugins</name>
@@ -1740,6 +1764,10 @@
     <message>
         <source>Search plugin</source>
         <translation>プラグインを検索</translation>
+    </message>
+    <message>
+        <source>Internal handled plugins will be used first.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
