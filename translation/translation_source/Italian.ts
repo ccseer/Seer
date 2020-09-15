@@ -323,11 +323,11 @@
     <name>CFileCollector</name>
     <message>
         <source>Previous same type file</source>
-        <translation>Stesso tipo file precedente</translation>
+        <translation type="vanished">Stesso tipo file precedente</translation>
     </message>
     <message>
         <source>Next same type file</source>
-        <translation>stesso tipo prossimo file</translation>
+        <translation type="vanished">stesso tipo prossimo file</translation>
     </message>
 </context>
 <context>
@@ -1649,6 +1649,22 @@
         <source>Annotation:</source>
         <translation>Note:</translation>
     </message>
+    <message>
+        <source>Navigation:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Alt + Arrow Key</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Word Wrap:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line Number:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CSettingsWnd4Plugins</name>
@@ -1699,6 +1715,10 @@
     <message>
         <source>Search plugin</source>
         <translation>Cerca plugin</translation>
+    </message>
+    <message>
+        <source>Internal handled plugins will be used first.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
