@@ -126,7 +126,7 @@
     </message>
     <message>
         <source>Render markdown</source>
-        <translation>마크다운 보기</translation>
+        <translation type="vanished">마크다운 보기</translation>
     </message>
     <message>
         <source>Render HTML</source>
@@ -151,6 +151,10 @@
     <message>
         <source>Render Image</source>
         <translation>이미지 보기</translation>
+    </message>
+    <message>
+        <source>Render Markdown</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

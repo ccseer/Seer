@@ -126,7 +126,7 @@
     </message>
     <message>
         <source>Render markdown</source>
-        <translation>Markdownを表示</translation>
+        <translation type="vanished">Markdownを表示</translation>
     </message>
     <message>
         <source>Render HTML</source>
@@ -150,6 +150,10 @@
     </message>
     <message>
         <source>Render Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Render Markdown</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

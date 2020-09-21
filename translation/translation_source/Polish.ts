@@ -103,7 +103,7 @@
     </message>
     <message>
         <source>Render markdown</source>
-        <translation>Renderuj markdown</translation>
+        <translation type="vanished">Renderuj markdown</translation>
     </message>
     <message>
         <source>Render HTML</source>
@@ -127,6 +127,10 @@
     </message>
     <message>
         <source>Render Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Render Markdown</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
