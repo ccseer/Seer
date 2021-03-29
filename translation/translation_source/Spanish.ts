@@ -168,6 +168,10 @@
         <source>Render Markdown</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Loading</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CComLineEditBtn</name>
@@ -1031,6 +1035,26 @@
         <source>Invalid License</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Redeem</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Redeem code:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Back</source>
+        <translation type="unfinished">Atras</translation>
+    </message>
+    <message>
+        <source>Unable to activate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Verifying</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CSettingsDlg</name>
@@ -1196,6 +1220,54 @@
         <source>Enable &quot;Delete&quot; key</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Text</source>
+        <translation type="obsolete">Texto</translation>
+    </message>
+    <message>
+        <source>Picture</source>
+        <translation type="obsolete">Imagen</translation>
+    </message>
+    <message>
+        <source>Folder</source>
+        <translation type="obsolete">Carpeta</translation>
+    </message>
+    <message>
+        <source>Image</source>
+        <translation type="obsolete">Imagen</translation>
+    </message>
+    <message>
+        <source>Unknown</source>
+        <translation type="obsolete">Desconocido</translation>
+    </message>
+    <message>
+        <source>Constant</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dynamic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Visibility</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Title bar &amp; Control bar:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double click to open file with system default application</source>
+        <translation type="unfinished">Doble click para abrir el archivo con la aplicacion por defecto del sistema</translation>
+    </message>
+    <message>
+        <source>Track selected file in Explorer</source>
+        <translation type="unfinished">Rastrear archivo seleccionado en el Explorador</translation>
+    </message>
+    <message>
+        <source>Use the trigger key to close window</source>
+        <translation type="unfinished">Usar la tecla de activacion para cerrar la ventana</translation>
+    </message>
 </context>
 <context>
     <name>CSettingsWnd4FileType</name>
@@ -1225,11 +1297,11 @@
     </message>
     <message>
         <source>Picture</source>
-        <translation>Imagen</translation>
+        <translation type="vanished">Imagen</translation>
     </message>
     <message>
         <source>Compressed</source>
-        <translation>Comprimido</translation>
+        <translation type="vanished">Comprimido</translation>
     </message>
     <message>
         <source>Select your Text format file</source>
@@ -1249,15 +1321,7 @@
     </message>
     <message>
         <source>Wrap</source>
-        <translation type="unfinished">Envolver</translation>
-    </message>
-    <message>
-        <source>Line Number</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Mute</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Envolver</translation>
     </message>
     <message>
         <source>Show time indication</source>
@@ -1265,14 +1329,6 @@
     </message>
     <message>
         <source>Search extension, e.g.: psd</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Loop</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Time indication</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1303,6 +1359,18 @@
         <source>Disable file type detecting</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Remember playback position</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Archive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image</source>
+        <translation type="unfinished">Imagen</translation>
+    </message>
 </context>
 <context>
     <name>CSettingsWnd4General</name>
@@ -1320,7 +1388,7 @@
     </message>
     <message>
         <source>Track selected file in Explorer</source>
-        <translation>Rastrear archivo seleccionado en el Explorador</translation>
+        <translation type="vanished">Rastrear archivo seleccionado en el Explorador</translation>
     </message>
     <message>
         <source>Show time indication</source>
@@ -1336,7 +1404,7 @@
     </message>
     <message>
         <source>Use the trigger key to close window</source>
-        <translation>Usar la tecla de activacion para cerrar la ventana</translation>
+        <translation type="vanished">Usar la tecla de activacion para cerrar la ventana</translation>
     </message>
     <message>
         <source>Line number</source>
@@ -1344,7 +1412,7 @@
     </message>
     <message>
         <source>Double click to open file with system default application</source>
-        <translation>Doble click para abrir el archivo con la aplicacion por defecto del sistema</translation>
+        <translation type="vanished">Doble click para abrir el archivo con la aplicacion por defecto del sistema</translation>
     </message>
     <message>
         <source>Display titlebar</source>
@@ -1606,14 +1674,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Previous type file:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Next type file:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Details View:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1659,6 +1719,14 @@
     </message>
     <message>
         <source>Alt + Arrow Key</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous Type File:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next Type File:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1923,6 +1991,34 @@
     <message>
         <source>&amp;Cancel</source>
         <translation type="unfinished">&amp;Cancelar</translation>
+    </message>
+    <message>
+        <source>Folder</source>
+        <translation type="unfinished">Carpeta</translation>
+    </message>
+    <message>
+        <source>Image</source>
+        <translation type="unfinished">Imagen</translation>
+    </message>
+    <message>
+        <source>Meida</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation type="unfinished">Texto</translation>
+    </message>
+    <message>
+        <source>PDF</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>HTML</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unknown</source>
+        <translation type="unfinished">Desconocido</translation>
     </message>
 </context>
 <context>

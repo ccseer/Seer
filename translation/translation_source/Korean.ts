@@ -156,6 +156,10 @@
         <source>Render Markdown</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Loading</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CComLineEditBtn</name>
@@ -1021,6 +1025,26 @@
         <source>Invalid License</source>
         <translation>라이센스가 정확하지 않습니다.</translation>
     </message>
+    <message>
+        <source>Redeem</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Redeem code:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Back</source>
+        <translation type="unfinished">뒤로</translation>
+    </message>
+    <message>
+        <source>Unable to activate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Verifying</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CSettingsDlg</name>
@@ -1215,6 +1239,62 @@
         <source>Enable &quot;Delete&quot; key</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Text</source>
+        <translation type="obsolete">텍스트</translation>
+    </message>
+    <message>
+        <source>Picture</source>
+        <translation type="obsolete">이미지</translation>
+    </message>
+    <message>
+        <source>Folder</source>
+        <translation type="obsolete">폴더</translation>
+    </message>
+    <message>
+        <source>Image</source>
+        <translation type="obsolete">이미지</translation>
+    </message>
+    <message>
+        <source>PDF</source>
+        <translation type="obsolete">PDF</translation>
+    </message>
+    <message>
+        <source>HTML</source>
+        <translation type="obsolete">HTML</translation>
+    </message>
+    <message>
+        <source>Unknown</source>
+        <translation type="obsolete">알 수 없는 오류</translation>
+    </message>
+    <message>
+        <source>Constant</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dynamic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Visibility</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Title bar &amp; Control bar:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double click to open file with system default application</source>
+        <translation type="unfinished">더블 클릭할 때 시스템 기본 응용 프로그램으로 파일 열기</translation>
+    </message>
+    <message>
+        <source>Track selected file in Explorer</source>
+        <translation type="unfinished">선택한 파일을 탐색기에서 추적</translation>
+    </message>
+    <message>
+        <source>Use the trigger key to close window</source>
+        <translation type="unfinished">바로가기 키로 창 닫기 사용</translation>
+    </message>
 </context>
 <context>
     <name>CSettingsWnd4FileType</name>
@@ -1244,11 +1324,11 @@
     </message>
     <message>
         <source>Picture</source>
-        <translation>이미지</translation>
+        <translation type="vanished">이미지</translation>
     </message>
     <message>
         <source>Compressed</source>
-        <translation>압축됨</translation>
+        <translation type="vanished">압축됨</translation>
     </message>
     <message>
         <source>Select your Text format file</source>
@@ -1268,15 +1348,15 @@
     </message>
     <message>
         <source>Wrap</source>
-        <translation>자동 줄 바꿈</translation>
+        <translation type="vanished">자동 줄 바꿈</translation>
     </message>
     <message>
         <source>Line Number</source>
-        <translation>줄 번호</translation>
+        <translation type="vanished">줄 번호</translation>
     </message>
     <message>
         <source>Mute</source>
-        <translation>음 소거</translation>
+        <translation type="vanished">음 소거</translation>
     </message>
     <message>
         <source>Show time indication</source>
@@ -1288,11 +1368,11 @@
     </message>
     <message>
         <source>Loop</source>
-        <translation>반복</translation>
+        <translation type="vanished">반복</translation>
     </message>
     <message>
         <source>Time indication</source>
-        <translation>시간 표시</translation>
+        <translation type="vanished">시간 표시</translation>
     </message>
     <message>
         <source>Markdown css not found.</source>
@@ -1326,6 +1406,18 @@
         <source>Disable file type detecting</source>
         <translation>파일 유형 감지 비활성화</translation>
     </message>
+    <message>
+        <source>Remember playback position</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Archive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image</source>
+        <translation type="unfinished">이미지</translation>
+    </message>
 </context>
 <context>
     <name>CSettingsWnd4General</name>
@@ -1343,7 +1435,7 @@
     </message>
     <message>
         <source>Track selected file in Explorer</source>
-        <translation>선택한 파일을 탐색기에서 추적</translation>
+        <translation type="vanished">선택한 파일을 탐색기에서 추적</translation>
     </message>
     <message>
         <source>Show time indication</source>
@@ -1359,7 +1451,7 @@
     </message>
     <message>
         <source>Use the trigger key to close window</source>
-        <translation>바로가기 키로 창 닫기 사용</translation>
+        <translation type="vanished">바로가기 키로 창 닫기 사용</translation>
     </message>
     <message>
         <source>Line number</source>
@@ -1367,7 +1459,7 @@
     </message>
     <message>
         <source>Double click to open file with system default application</source>
-        <translation>더블 클릭할 때 시스템 기본 응용 프로그램으로 파일 열기</translation>
+        <translation type="vanished">더블 클릭할 때 시스템 기본 응용 프로그램으로 파일 열기</translation>
     </message>
     <message>
         <source>Display titlebar</source>
@@ -1590,11 +1682,11 @@
     </message>
     <message>
         <source>Previous type file:</source>
-        <translation>같은 유형의 이전 파일:</translation>
+        <translation type="vanished">같은 유형의 이전 파일:</translation>
     </message>
     <message>
         <source>Next type file:</source>
-        <translation>같은 유형의 다음 파일:</translation>
+        <translation type="vanished">같은 유형의 다음 파일:</translation>
     </message>
     <message>
         <source>Reveal Clicked Item:</source>
@@ -1686,6 +1778,14 @@
     </message>
     <message>
         <source>Alt + Arrow Key</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous Type File:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next Type File:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1944,6 +2044,34 @@
     <message>
         <source>&amp;Cancel</source>
         <translation type="unfinished">취소(&amp;C)</translation>
+    </message>
+    <message>
+        <source>Folder</source>
+        <translation type="unfinished">폴더</translation>
+    </message>
+    <message>
+        <source>Image</source>
+        <translation type="unfinished">이미지</translation>
+    </message>
+    <message>
+        <source>Meida</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation type="unfinished">텍스트</translation>
+    </message>
+    <message>
+        <source>PDF</source>
+        <translation type="unfinished">PDF</translation>
+    </message>
+    <message>
+        <source>HTML</source>
+        <translation type="unfinished">HTML</translation>
+    </message>
+    <message>
+        <source>Unknown</source>
+        <translation type="unfinished">알 수 없는 오류</translation>
     </message>
 </context>
 <context>

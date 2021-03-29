@@ -156,6 +156,10 @@
         <source>Render Markdown</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Loading</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CComLineEditBtn</name>
@@ -1054,6 +1058,26 @@
         <source>Invalid License</source>
         <translation>ライセンスキーが正しくありません</translation>
     </message>
+    <message>
+        <source>Redeem</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Redeem code:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Back</source>
+        <translation type="unfinished">戻る</translation>
+    </message>
+    <message>
+        <source>Unable to activate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Verifying</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CSettingsDlg</name>
@@ -1249,6 +1273,62 @@
         <source>Enable &quot;Delete&quot; key</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Text</source>
+        <translation type="obsolete">テキスト</translation>
+    </message>
+    <message>
+        <source>Picture</source>
+        <translation type="obsolete">画像</translation>
+    </message>
+    <message>
+        <source>Folder</source>
+        <translation type="obsolete">フォルダー</translation>
+    </message>
+    <message>
+        <source>Image</source>
+        <translation type="obsolete">画像</translation>
+    </message>
+    <message>
+        <source>PDF</source>
+        <translation type="obsolete">PDF</translation>
+    </message>
+    <message>
+        <source>HTML</source>
+        <translation type="obsolete">HTML</translation>
+    </message>
+    <message>
+        <source>Unknown</source>
+        <translation type="obsolete">不明</translation>
+    </message>
+    <message>
+        <source>Constant</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dynamic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Visibility</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Title bar &amp; Control bar:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double click to open file with system default application</source>
+        <translation type="unfinished">閲覧ウィンドウ下部バーのダブルクリックにより、ファイルを既定のアプリで開く</translation>
+    </message>
+    <message>
+        <source>Track selected file in Explorer</source>
+        <translation type="unfinished">選択ファイルをエクスプローラーで追跡</translation>
+    </message>
+    <message>
+        <source>Use the trigger key to close window</source>
+        <translation type="unfinished">トリガーキーでウィンドウを閉じる</translation>
+    </message>
 </context>
 <context>
     <name>CSettingsWnd4FileType</name>
@@ -1278,11 +1358,11 @@
     </message>
     <message>
         <source>Picture</source>
-        <translation>画像</translation>
+        <translation type="vanished">画像</translation>
     </message>
     <message>
         <source>Compressed</source>
-        <translation>圧縮ファイル</translation>
+        <translation type="vanished">圧縮ファイル</translation>
     </message>
     <message>
         <source>Select your Text format file</source>
@@ -1302,15 +1382,15 @@
     </message>
     <message>
         <source>Wrap</source>
-        <translation>折り返し</translation>
+        <translation type="vanished">折り返し</translation>
     </message>
     <message>
         <source>Line Number</source>
-        <translation>行番号</translation>
+        <translation type="vanished">行番号</translation>
     </message>
     <message>
         <source>Mute</source>
-        <translation>ミュート</translation>
+        <translation type="vanished">ミュート</translation>
     </message>
     <message>
         <source>Show time indication</source>
@@ -1322,11 +1402,11 @@
     </message>
     <message>
         <source>Loop</source>
-        <translation>ループ</translation>
+        <translation type="vanished">ループ</translation>
     </message>
     <message>
         <source>Time indication</source>
-        <translation>時間表示</translation>
+        <translation type="vanished">時間表示</translation>
     </message>
     <message>
         <source>Markdown css not found.</source>
@@ -1356,6 +1436,18 @@
         <source>Disable file type detecting</source>
         <translation type="unfinished">ファイル種類の検知を無効化</translation>
     </message>
+    <message>
+        <source>Remember playback position</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Archive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image</source>
+        <translation type="unfinished">画像</translation>
+    </message>
 </context>
 <context>
     <name>CSettingsWnd4General</name>
@@ -1373,7 +1465,7 @@
     </message>
     <message>
         <source>Track selected file in Explorer</source>
-        <translation>選択ファイルをエクスプローラーで追跡</translation>
+        <translation type="vanished">選択ファイルをエクスプローラーで追跡</translation>
     </message>
     <message>
         <source>Show time indication</source>
@@ -1389,7 +1481,7 @@
     </message>
     <message>
         <source>Use the trigger key to close window</source>
-        <translation>トリガーキーでウィンドウを閉じる</translation>
+        <translation type="vanished">トリガーキーでウィンドウを閉じる</translation>
     </message>
     <message>
         <source>Line number</source>
@@ -1397,7 +1489,7 @@
     </message>
     <message>
         <source>Double click to open file with system default application</source>
-        <translation>閲覧ウィンドウ下部バーのダブルクリックにより、ファイルを既定のアプリで開く</translation>
+        <translation type="vanished">閲覧ウィンドウ下部バーのダブルクリックにより、ファイルを既定のアプリで開く</translation>
     </message>
     <message>
         <source>Display titlebar</source>
@@ -1616,11 +1708,11 @@
     </message>
     <message>
         <source>Previous type file:</source>
-        <translation>前のファイルタイプ:</translation>
+        <translation type="vanished">前のファイルタイプ:</translation>
     </message>
     <message>
         <source>Next type file:</source>
-        <translation>次のファイルタイプ:</translation>
+        <translation type="vanished">次のファイルタイプ:</translation>
     </message>
     <message>
         <source>Reveal Clicked Item:</source>
@@ -1716,6 +1808,14 @@
     </message>
     <message>
         <source>Alt + Arrow Key</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous Type File:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next Type File:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1979,6 +2079,34 @@
     <message>
         <source>&amp;Cancel</source>
         <translation type="unfinished">キャンセル(&amp;C)</translation>
+    </message>
+    <message>
+        <source>Folder</source>
+        <translation type="unfinished">フォルダー</translation>
+    </message>
+    <message>
+        <source>Image</source>
+        <translation type="unfinished">画像</translation>
+    </message>
+    <message>
+        <source>Meida</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation type="unfinished">テキスト</translation>
+    </message>
+    <message>
+        <source>PDF</source>
+        <translation type="unfinished">PDF</translation>
+    </message>
+    <message>
+        <source>HTML</source>
+        <translation type="unfinished">HTML</translation>
+    </message>
+    <message>
+        <source>Unknown</source>
+        <translation type="unfinished">不明</translation>
     </message>
 </context>
 <context>

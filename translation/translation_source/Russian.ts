@@ -129,6 +129,10 @@
         <source>Render Markdown</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Loading</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CCompressedParse</name>
@@ -988,6 +992,26 @@
         <source>Invalid License</source>
         <translation>Неверная лицензия</translation>
     </message>
+    <message>
+        <source>Redeem</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Redeem code:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Back</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to activate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Verifying</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CSettingsDlg</name>
@@ -1149,6 +1173,62 @@
         <source>Enable &quot;Delete&quot; key</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Text</source>
+        <translation type="obsolete">Текст</translation>
+    </message>
+    <message>
+        <source>Picture</source>
+        <translation type="obsolete">Изображение</translation>
+    </message>
+    <message>
+        <source>Folder</source>
+        <translation type="obsolete">Папка</translation>
+    </message>
+    <message>
+        <source>Image</source>
+        <translation type="obsolete">Изображение</translation>
+    </message>
+    <message>
+        <source>PDF</source>
+        <translation type="obsolete">PDF</translation>
+    </message>
+    <message>
+        <source>HTML</source>
+        <translation type="obsolete">HTML</translation>
+    </message>
+    <message>
+        <source>Unknown</source>
+        <translation type="obsolete">Неизвестно</translation>
+    </message>
+    <message>
+        <source>Constant</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dynamic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Visibility</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Title bar &amp; Control bar:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double click to open file with system default application</source>
+        <translation type="unfinished">Двойной щелчок, чтобы открыть файл в программе по умолчанию</translation>
+    </message>
+    <message>
+        <source>Track selected file in Explorer</source>
+        <translation type="unfinished">Отслеживать выбранный файл в проводнике</translation>
+    </message>
+    <message>
+        <source>Use the trigger key to close window</source>
+        <translation type="unfinished">Использовать клавишу просмотра, чтобы закрыть окно</translation>
+    </message>
 </context>
 <context>
     <name>CSettingsWnd4FileType</name>
@@ -1162,15 +1242,15 @@
     </message>
     <message>
         <source>Compressed</source>
-        <translation>Архив</translation>
+        <translation type="vanished">Архив</translation>
     </message>
     <message>
         <source>Line Number</source>
-        <translation>Номер строки</translation>
+        <translation type="vanished">Номер строки</translation>
     </message>
     <message>
         <source>Loop</source>
-        <translation>Цикл</translation>
+        <translation type="vanished">Цикл</translation>
     </message>
     <message>
         <source>Media</source>
@@ -1178,7 +1258,7 @@
     </message>
     <message>
         <source>Mute</source>
-        <translation>Отключить звук</translation>
+        <translation type="vanished">Отключить звук</translation>
     </message>
     <message>
         <source>Other</source>
@@ -1186,7 +1266,7 @@
     </message>
     <message>
         <source>Picture</source>
-        <translation>Изображение</translation>
+        <translation type="vanished">Изображение</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -1206,11 +1286,11 @@
     </message>
     <message>
         <source>Time indication</source>
-        <translation>Индикация времени</translation>
+        <translation type="vanished">Индикация времени</translation>
     </message>
     <message>
         <source>Wrap</source>
-        <translation>Перенос строки</translation>
+        <translation type="vanished">Перенос строки</translation>
     </message>
     <message>
         <source>Markdown css not found.</source>
@@ -1240,6 +1320,18 @@
         <source>Disable file type detecting</source>
         <translation type="unfinished">Отключить обнаружение типов файлов</translation>
     </message>
+    <message>
+        <source>Remember playback position</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Archive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image</source>
+        <translation type="unfinished">Изображение</translation>
+    </message>
 </context>
 <context>
     <name>CSettingsWnd4General</name>
@@ -1253,7 +1345,7 @@
     </message>
     <message>
         <source>Double click to open file with system default application</source>
-        <translation>Двойной щелчок, чтобы открыть файл в программе по умолчанию</translation>
+        <translation type="vanished">Двойной щелчок, чтобы открыть файл в программе по умолчанию</translation>
     </message>
     <message>
         <source>Language</source>
@@ -1265,11 +1357,11 @@
     </message>
     <message>
         <source>Track selected file in Explorer</source>
-        <translation>Отслеживать выбранный файл в проводнике</translation>
+        <translation type="vanished">Отслеживать выбранный файл в проводнике</translation>
     </message>
     <message>
         <source>Use the trigger key to close window</source>
-        <translation>Использовать клавишу просмотра, чтобы закрыть окно</translation>
+        <translation type="vanished">Использовать клавишу просмотра, чтобы закрыть окно</translation>
     </message>
     <message>
         <source>Keep window size and position</source>
@@ -1503,14 +1595,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Previous type file:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Next type file:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Details View:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1556,6 +1640,14 @@
     </message>
     <message>
         <source>Alt + Arrow Key</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous Type File:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next Type File:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1736,6 +1828,34 @@
     <message>
         <source>&amp;Cancel</source>
         <translation type="unfinished">&amp;Отмена</translation>
+    </message>
+    <message>
+        <source>Folder</source>
+        <translation type="unfinished">Папка</translation>
+    </message>
+    <message>
+        <source>Image</source>
+        <translation type="unfinished">Изображение</translation>
+    </message>
+    <message>
+        <source>Meida</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation type="unfinished">Текст</translation>
+    </message>
+    <message>
+        <source>PDF</source>
+        <translation type="unfinished">PDF</translation>
+    </message>
+    <message>
+        <source>HTML</source>
+        <translation type="unfinished">HTML</translation>
+    </message>
+    <message>
+        <source>Unknown</source>
+        <translation type="unfinished">Неизвестно</translation>
     </message>
 </context>
 <context>

@@ -133,6 +133,10 @@
         <source>Render Markdown</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Loading</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CCompressedParse</name>
@@ -980,6 +984,26 @@
         <source>Invalid License</source>
         <translation>Błędna licencja</translation>
     </message>
+    <message>
+        <source>Redeem</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Redeem code:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Back</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to activate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Verifying</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CSettingsDlg</name>
@@ -1165,6 +1189,62 @@
         <source>Enable &quot;Delete&quot; key</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Text</source>
+        <translation type="obsolete">Tekst</translation>
+    </message>
+    <message>
+        <source>Picture</source>
+        <translation type="obsolete">Obraz</translation>
+    </message>
+    <message>
+        <source>Folder</source>
+        <translation type="obsolete">Folder</translation>
+    </message>
+    <message>
+        <source>Image</source>
+        <translation type="obsolete">Obraz</translation>
+    </message>
+    <message>
+        <source>PDF</source>
+        <translation type="obsolete">PDF</translation>
+    </message>
+    <message>
+        <source>HTML</source>
+        <translation type="obsolete">HTML</translation>
+    </message>
+    <message>
+        <source>Unknown</source>
+        <translation type="obsolete">Nieznany</translation>
+    </message>
+    <message>
+        <source>Constant</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dynamic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Visibility</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Title bar &amp; Control bar:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double click to open file with system default application</source>
+        <translation type="unfinished">Dwukrotne kliknięcie otwiera plik za pomocą domyślnej aplikacji</translation>
+    </message>
+    <message>
+        <source>Track selected file in Explorer</source>
+        <translation type="unfinished">Śledź wybrany plik w Eksploratorze plików</translation>
+    </message>
+    <message>
+        <source>Use the trigger key to close window</source>
+        <translation type="unfinished">Użyj klawisza przeglądania do zamykania okna</translation>
+    </message>
 </context>
 <context>
     <name>CSettingsWnd4FileType</name>
@@ -1178,15 +1258,15 @@
     </message>
     <message>
         <source>Compressed</source>
-        <translation>Archiwum</translation>
+        <translation type="vanished">Archiwum</translation>
     </message>
     <message>
         <source>Line Number</source>
-        <translation>Numer linii</translation>
+        <translation type="vanished">Numer linii</translation>
     </message>
     <message>
         <source>Loop</source>
-        <translation>Zapętlenie</translation>
+        <translation type="vanished">Zapętlenie</translation>
     </message>
     <message>
         <source>Media</source>
@@ -1194,7 +1274,7 @@
     </message>
     <message>
         <source>Mute</source>
-        <translation>Wyciszenie</translation>
+        <translation type="vanished">Wyciszenie</translation>
     </message>
     <message>
         <source>Other</source>
@@ -1202,7 +1282,7 @@
     </message>
     <message>
         <source>Picture</source>
-        <translation>Obraz</translation>
+        <translation type="vanished">Obraz</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -1222,11 +1302,11 @@
     </message>
     <message>
         <source>Time indication</source>
-        <translation>Wskazanie czasu</translation>
+        <translation type="vanished">Wskazanie czasu</translation>
     </message>
     <message>
         <source>Wrap</source>
-        <translation>Zawijaj linie</translation>
+        <translation type="vanished">Zawijaj linie</translation>
     </message>
     <message>
         <source>Markdown stylesheet path</source>
@@ -1256,6 +1336,18 @@
         <source>Will display property only for extensions in this field, e.g.:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Remember playback position</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Archive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image</source>
+        <translation type="unfinished">Obraz</translation>
+    </message>
 </context>
 <context>
     <name>CSettingsWnd4General</name>
@@ -1269,7 +1361,7 @@
     </message>
     <message>
         <source>Double click to open file with system default application</source>
-        <translation>Dwukrotne kliknięcie otwiera plik za pomocą domyślnej aplikacji</translation>
+        <translation type="vanished">Dwukrotne kliknięcie otwiera plik za pomocą domyślnej aplikacji</translation>
     </message>
     <message>
         <source>Language</source>
@@ -1281,11 +1373,11 @@
     </message>
     <message>
         <source>Track selected file in Explorer</source>
-        <translation>Śledź wybrany plik w Eksploratorze plików</translation>
+        <translation type="vanished">Śledź wybrany plik w Eksploratorze plików</translation>
     </message>
     <message>
         <source>Use the trigger key to close window</source>
-        <translation>Użyj klawisza przeglądania do zamykania okna</translation>
+        <translation type="vanished">Użyj klawisza przeglądania do zamykania okna</translation>
     </message>
     <message>
         <source>Keep window size and position</source>
@@ -1476,11 +1568,11 @@
     </message>
     <message>
         <source>Previous type file:</source>
-        <translation>Poprzedni typ pliku:</translation>
+        <translation type="vanished">Poprzedni typ pliku:</translation>
     </message>
     <message>
         <source>Next type file:</source>
-        <translation>Następny typ pliku:</translation>
+        <translation type="vanished">Następny typ pliku:</translation>
     </message>
     <message>
         <source>Separate:</source>
@@ -1576,6 +1668,14 @@
     </message>
     <message>
         <source>Alt + Arrow Key</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous Type File:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next Type File:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1756,6 +1856,34 @@
     <message>
         <source>&amp;Cancel</source>
         <translation type="unfinished">&amp;Anuluj</translation>
+    </message>
+    <message>
+        <source>Folder</source>
+        <translation type="unfinished">Folder</translation>
+    </message>
+    <message>
+        <source>Image</source>
+        <translation type="unfinished">Obraz</translation>
+    </message>
+    <message>
+        <source>Meida</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation type="unfinished">Tekst</translation>
+    </message>
+    <message>
+        <source>PDF</source>
+        <translation type="unfinished">PDF</translation>
+    </message>
+    <message>
+        <source>HTML</source>
+        <translation type="unfinished">HTML</translation>
+    </message>
+    <message>
+        <source>Unknown</source>
+        <translation type="unfinished">Nieznany</translation>
     </message>
 </context>
 <context>

@@ -228,6 +228,10 @@
         <source>Render Markdown</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Loading</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CComLineEditBtn</name>
@@ -1100,6 +1104,26 @@
         <source>Invalid License</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Redeem</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Redeem code:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Back</source>
+        <translation type="unfinished">Tillbaka</translation>
+    </message>
+    <message>
+        <source>Unable to activate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Verifying</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CSettingsDlg</name>
@@ -1269,6 +1293,58 @@
         <source>Enable &quot;Delete&quot; key</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Text</source>
+        <translation type="obsolete">Text</translation>
+    </message>
+    <message>
+        <source>Picture</source>
+        <translation type="obsolete">Bild</translation>
+    </message>
+    <message>
+        <source>Folder</source>
+        <translation type="obsolete">Mapp</translation>
+    </message>
+    <message>
+        <source>Image</source>
+        <translation type="obsolete">Bild</translation>
+    </message>
+    <message>
+        <source>PDF</source>
+        <translation type="obsolete">PDF</translation>
+    </message>
+    <message>
+        <source>Unknown</source>
+        <translation type="obsolete">Ok?nd</translation>
+    </message>
+    <message>
+        <source>Constant</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dynamic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Visibility</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Title bar &amp; Control bar:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double click to open file with system default application</source>
+        <translation type="unfinished">Dubbelklicka f?r att ?ppna en fil med systemets standardprogram</translation>
+    </message>
+    <message>
+        <source>Track selected file in Explorer</source>
+        <translation type="unfinished">Sp?ra markerad fil i Utforskaren</translation>
+    </message>
+    <message>
+        <source>Use the trigger key to close window</source>
+        <translation type="unfinished">Anv?nd snabbtangenten f?r att st?nga f?nster</translation>
+    </message>
 </context>
 <context>
     <name>CSettingsWnd4FileType</name>
@@ -1298,11 +1374,11 @@
     </message>
     <message>
         <source>Picture</source>
-        <translation>Bild</translation>
+        <translation type="vanished">Bild</translation>
     </message>
     <message>
         <source>Compressed</source>
-        <translation>Komprimerad</translation>
+        <translation type="vanished">Komprimerad</translation>
     </message>
     <message>
         <source>Select your Text format file</source>
@@ -1322,15 +1398,7 @@
     </message>
     <message>
         <source>Wrap</source>
-        <translation type="unfinished">Radbryt</translation>
-    </message>
-    <message>
-        <source>Line Number</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Mute</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Radbryt</translation>
     </message>
     <message>
         <source>Show time indication</source>
@@ -1338,14 +1406,6 @@
     </message>
     <message>
         <source>Search extension, e.g.: psd</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Loop</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Time indication</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1376,6 +1436,18 @@
         <source>Disable file type detecting</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Remember playback position</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Archive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image</source>
+        <translation type="unfinished">Bild</translation>
+    </message>
 </context>
 <context>
     <name>CSettingsWnd4General</name>
@@ -1393,7 +1465,7 @@
     </message>
     <message>
         <source>Track selected file in Explorer</source>
-        <translation>Sp?ra markerad fil i Utforskaren</translation>
+        <translation type="vanished">Sp?ra markerad fil i Utforskaren</translation>
     </message>
     <message>
         <source>Show time indication</source>
@@ -1409,7 +1481,7 @@
     </message>
     <message>
         <source>Use the trigger key to close window</source>
-        <translation>Anv?nd snabbtangenten f?r att st?nga f?nster</translation>
+        <translation type="vanished">Anv?nd snabbtangenten f?r att st?nga f?nster</translation>
     </message>
     <message>
         <source>Line number</source>
@@ -1417,7 +1489,7 @@
     </message>
     <message>
         <source>Double click to open file with system default application</source>
-        <translation>Dubbelklicka f?r att ?ppna en fil med systemets standardprogram</translation>
+        <translation type="vanished">Dubbelklicka f?r att ?ppna en fil med systemets standardprogram</translation>
     </message>
     <message>
         <source>Display titlebar</source>
@@ -1679,14 +1751,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Previous type file:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Next type file:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Details View:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1732,6 +1796,14 @@
     </message>
     <message>
         <source>Alt + Arrow Key</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous Type File:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next Type File:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1996,6 +2068,34 @@
     <message>
         <source>&amp;Cancel</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Folder</source>
+        <translation type="unfinished">Mapp</translation>
+    </message>
+    <message>
+        <source>Image</source>
+        <translation type="unfinished">Bild</translation>
+    </message>
+    <message>
+        <source>Meida</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation type="unfinished">Text</translation>
+    </message>
+    <message>
+        <source>PDF</source>
+        <translation type="unfinished">PDF</translation>
+    </message>
+    <message>
+        <source>HTML</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unknown</source>
+        <translation type="unfinished">Ok?nd</translation>
     </message>
 </context>
 <context>
