@@ -719,6 +719,14 @@
         <source>Annotation: Off</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Thumbnail</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Outline</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CPicWnd</name>
@@ -1157,7 +1165,7 @@
     </message>
     <message>
         <source>Temp Folder</source>
-        <translation>임시 폴더</translation>
+        <translation type="vanished">임시 폴더</translation>
     </message>
     <message>
         <source>Others</source>
@@ -1165,7 +1173,7 @@
     </message>
     <message>
         <source>Save plugin temp files after Seer exited</source>
-        <translation>Seer를 종료한 뒤에도 플러그인의 임시 파일 보존하기</translation>
+        <translation type="vanished">Seer를 종료한 뒤에도 플러그인의 임시 파일 보존하기</translation>
     </message>
     <message>
         <source>Disable folder contents loading</source>
@@ -1213,7 +1221,7 @@
     </message>
     <message>
         <source>Open temp folder failed.</source>
-        <translation>임시 폴더를 열지 못했습니다.</translation>
+        <translation type="vanished">임시 폴더를 열지 못했습니다.</translation>
     </message>
     <message>
         <source>Reveal Settings.exe failed.</source>
@@ -1786,6 +1794,10 @@
     </message>
     <message>
         <source>Next Type File:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Outline:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

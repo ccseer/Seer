@@ -818,6 +818,14 @@
         <source>Annotation: Off</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Thumbnail</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Outline</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CPicWnd</name>
@@ -1276,7 +1284,7 @@
     </message>
     <message>
         <source>Temp Folder</source>
-        <translation>Dossier Temp</translation>
+        <translation type="vanished">Dossier Temp</translation>
     </message>
     <message>
         <source>Others</source>
@@ -1289,7 +1297,7 @@
     </message>
     <message>
         <source>Save plugin temp files after Seer exited</source>
-        <translation>Enregistrer les fichiers temporaires des extensions à la fermeture de Seer</translation>
+        <translation type="vanished">Enregistrer les fichiers temporaires des extensions à la fermeture de Seer</translation>
     </message>
     <message>
         <source>Disable folder contents loading</source>
@@ -1321,10 +1329,6 @@
     </message>
     <message>
         <source>Tray Icon</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Open temp folder failed.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1867,6 +1871,10 @@
     </message>
     <message>
         <source>Next Type File:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Outline:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

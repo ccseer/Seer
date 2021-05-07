@@ -670,6 +670,14 @@
         <source>Annotation: Off</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Thumbnail</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Outline</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CPicWnd</name>
@@ -1135,11 +1143,11 @@
     </message>
     <message>
         <source>Save plugin temp files after Seer exited</source>
-        <translation>Zapisz pliki tymczasowe wtyczek po wyjściu z programu Seer</translation>
+        <translation type="vanished">Zapisz pliki tymczasowe wtyczek po wyjściu z programu Seer</translation>
     </message>
     <message>
         <source>Temp Folder</source>
-        <translation>Folder tymczasowy</translation>
+        <translation type="vanished">Folder tymczasowy</translation>
     </message>
     <message>
         <source>Keep window size and position</source>
@@ -1163,7 +1171,7 @@
     </message>
     <message>
         <source>Open temp folder failed.</source>
-        <translation>Otworzenie folderu tymczasowego nie powiodło się.</translation>
+        <translation type="vanished">Otworzenie folderu tymczasowego nie powiodło się.</translation>
     </message>
     <message>
         <source>Reveal Settings.exe failed.</source>
@@ -1676,6 +1684,10 @@
     </message>
     <message>
         <source>Next Type File:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Outline:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

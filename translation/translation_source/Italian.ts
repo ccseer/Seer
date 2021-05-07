@@ -737,6 +737,14 @@
         <source>Annotation: Off</source>
         <translation>Annotazioni: off</translation>
     </message>
+    <message>
+        <source>Thumbnail</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Outline</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CPicWnd</name>
@@ -1174,7 +1182,7 @@
     </message>
     <message>
         <source>Temp Folder</source>
-        <translation>Cartella Temporanea</translation>
+        <translation type="vanished">Cartella Temporanea</translation>
     </message>
     <message>
         <source>Others</source>
@@ -1182,7 +1190,7 @@
     </message>
     <message>
         <source>Save plugin temp files after Seer exited</source>
-        <translation>Salva i file temporanei dei plugin dopo la chiusura di Seer</translation>
+        <translation type="vanished">Salva i file temporanei dei plugin dopo la chiusura di Seer</translation>
     </message>
     <message>
         <source>Reset settings to default</source>
@@ -1210,7 +1218,7 @@
     </message>
     <message>
         <source>Open temp folder failed.</source>
-        <translation>Apertura file temporaneo fallita</translation>
+        <translation type="vanished">Apertura file temporaneo fallita</translation>
     </message>
     <message>
         <source>Hide tray icon</source>
@@ -1739,6 +1747,10 @@
     </message>
     <message>
         <source>Next Type File:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Outline:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

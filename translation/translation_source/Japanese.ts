@@ -748,6 +748,14 @@
         <source>Annotation: Off</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Thumbnail</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Outline</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CPicWnd</name>
@@ -1190,7 +1198,7 @@
     </message>
     <message>
         <source>Temp Folder</source>
-        <translation>一時フォルダ</translation>
+        <translation type="vanished">一時フォルダ</translation>
     </message>
     <message>
         <source>Others</source>
@@ -1198,7 +1206,7 @@
     </message>
     <message>
         <source>Save plugin temp files after Seer exited</source>
-        <translation>Seer終了時に一時ファイルを削除しない</translation>
+        <translation type="vanished">Seer終了時に一時ファイルを削除しない</translation>
     </message>
     <message>
         <source>Disable folder contents loading</source>
@@ -1247,7 +1255,7 @@
     </message>
     <message>
         <source>Open temp folder failed.</source>
-        <translation>一時フォルダのオープン失敗。</translation>
+        <translation type="vanished">一時フォルダのオープン失敗。</translation>
     </message>
     <message>
         <source>Reveal Settings.exe failed.</source>
@@ -1816,6 +1824,10 @@
     </message>
     <message>
         <source>Next Type File:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Outline:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

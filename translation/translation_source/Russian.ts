@@ -678,6 +678,14 @@
         <source>Annotation: Off</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Thumbnail</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Outline</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CPicWnd</name>
@@ -1143,11 +1151,11 @@
     </message>
     <message>
         <source>Save plugin temp files after Seer exited</source>
-        <translation>Сохранять временные файлы плагина после закрытия Seer</translation>
+        <translation type="vanished">Сохранять временные файлы плагина после закрытия Seer</translation>
     </message>
     <message>
         <source>Temp Folder</source>
-        <translation>Папка Temp</translation>
+        <translation type="vanished">Папка Temp</translation>
     </message>
     <message>
         <source>Keep window size and position</source>
@@ -1155,10 +1163,6 @@
     </message>
     <message>
         <source>Tray Icon</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Open temp folder failed.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1648,6 +1652,10 @@
     </message>
     <message>
         <source>Next Type File:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Outline:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
