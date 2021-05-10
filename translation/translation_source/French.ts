@@ -141,15 +141,15 @@
     </message>
     <message>
         <source>Cisa</source>
-        <translation type="unfinished"></translation>
+        <translation>Cisa</translation>
     </message>
     <message>
         <source>Tobey</source>
-        <translation type="unfinished"></translation>
+        <translation>Tobey</translation>
     </message>
     <message>
         <source>Contributor</source>
-        <translation type="unfinished"></translation>
+        <translation>Contributeur</translation>
     </message>
 </context>
 <context>
@@ -192,8 +192,7 @@
     </message>
     <message>
         <source>Reason:</source>
-        <translatorcomment>The english expression seems to be widely used in the domain. This is the only translation that makes sense I have found on Microsoft&apos;s website.</translatorcomment>
-        <translation>Code motif:</translation>
+        <translation>Motif :</translation>
     </message>
     <message>
         <source>Format failed.</source>
@@ -201,43 +200,43 @@
     </message>
     <message>
         <source>Line:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ligne :</translation>
     </message>
     <message>
         <source>Column:</source>
-        <translation type="unfinished"></translation>
+        <translation>Colonne : </translation>
     </message>
     <message>
         <source>Render HTML</source>
-        <translation type="unfinished"></translation>
+        <translation>Rendu HTML</translation>
     </message>
     <message>
         <source>Character count</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre de caractères</translation>
     </message>
     <message>
         <source>Line count</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre de lignes</translation>
     </message>
     <message>
         <source>Ln</source>
-        <translation type="unfinished"></translation>
+        <translation>Ln</translation>
     </message>
     <message>
         <source>Col</source>
-        <translation type="unfinished"></translation>
+        <translation>Col</translation>
     </message>
     <message>
         <source>Render Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Rendu de l&apos;image</translation>
     </message>
     <message>
         <source>Render Markdown</source>
-        <translation type="unfinished"></translation>
+        <translation>Rendu Markdown</translation>
     </message>
     <message>
         <source>Loading</source>
-        <translation type="unfinished"></translation>
+        <translation>Chargement</translation>
     </message>
 </context>
 <context>
@@ -335,7 +334,7 @@
     </message>
     <message>
         <source>Filename</source>
-        <translation>Nom de fichier</translation>
+        <translation>Nom du fichier</translation>
     </message>
     <message>
         <source>Ratio</source>
@@ -371,7 +370,7 @@
     </message>
     <message>
         <source>Loading</source>
-        <translation type="unfinished"></translation>
+        <translation>Chargement</translation>
     </message>
     <message>
         <source>Name</source>
@@ -391,11 +390,11 @@
     </message>
     <message>
         <source>File is encrypted</source>
-        <translation type="unfinished"></translation>
+        <translation>Le fichier est chiffré</translation>
     </message>
     <message>
         <source>Folder</source>
-        <translation type="unfinished">Dossier</translation>
+        <translation>Dossier</translation>
     </message>
 </context>
 <context>
@@ -451,7 +450,7 @@
     </message>
     <message>
         <source>Company Name</source>
-        <translation>Nom d&apos;entreprise</translation>
+        <translation>Nom de l&apos;entreprise</translation>
     </message>
     <message>
         <source>Legal Copyright</source>
@@ -463,7 +462,7 @@
     </message>
     <message>
         <source>File Description</source>
-        <translation>Description de fichier</translation>
+        <translation>Description du fichier</translation>
     </message>
     <message>
         <source>Legal Trademarks</source>
@@ -495,11 +494,11 @@
     </message>
     <message>
         <source>Folder</source>
-        <translation type="unfinished">Dossier</translation>
+        <translation>Dossier</translation>
     </message>
     <message>
         <source>Pin</source>
-        <translation type="unfinished"></translation>
+        <translation>Épingler</translation>
     </message>
     <message>
         <source>Open Selected Item With Default Application</source>
@@ -511,19 +510,19 @@
     </message>
     <message>
         <source>Total bytes</source>
-        <translation type="unfinished"></translation>
+        <translation>Total des Octets</translation>
     </message>
     <message>
         <source>Available bytes</source>
-        <translation type="unfinished"></translation>
+        <translation>Octets disponibles</translation>
     </message>
     <message>
         <source>Free bytes</source>
-        <translation type="unfinished"></translation>
+        <translation>Octets libres</translation>
     </message>
     <message>
         <source>Block size</source>
-        <translation type="unfinished"></translation>
+        <translation>Taille de bloc</translation>
     </message>
 </context>
 <context>
@@ -576,7 +575,7 @@
     </message>
     <message>
         <source>Markdown Source</source>
-        <translation type="unfinished"></translation>
+        <translation>Source Markdown</translation>
     </message>
 </context>
 <context>
@@ -606,11 +605,11 @@
     </message>
     <message>
         <source>Like Seer?</source>
-        <translation>Vous aimez Seer?</translation>
+        <translation>Vous aimez Seer ?</translation>
     </message>
     <message>
         <source> is registered by other application.</source>
-        <translation> est enregistré par une autre application.</translation>
+        <translation> est assigné à une autre application.</translation>
     </message>
     <message>
         <source>Restart Failed</source>
@@ -630,7 +629,7 @@
     </message>
     <message>
         <source>Register shortcut failed</source>
-        <translation>La saisie du raccourci a échouée</translation>
+        <translation>La saisie du raccourci a échoué</translation>
     </message>
     <message>
         <source>The system default application not found.</source>
@@ -654,19 +653,19 @@
     </message>
     <message>
         <source>Invalid license</source>
-        <translation type="unfinished"></translation>
+        <translation>Licence non valide</translation>
     </message>
     <message>
         <source>This license is not available any more.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cette licence n&apos;est plus disponible.</translation>
     </message>
     <message>
         <source>About</source>
-        <translation type="unfinished">À propos</translation>
+        <translation>À propos</translation>
     </message>
     <message>
         <source>Activation</source>
-        <translation type="unfinished"></translation>
+        <translation>Activation</translation>
     </message>
 </context>
 <context>
@@ -681,7 +680,7 @@
     </message>
     <message>
         <source>Separate</source>
-        <translation type="unfinished"></translation>
+        <translation>Séparer</translation>
     </message>
 </context>
 <context>
@@ -746,34 +745,34 @@
     </message>
     <message>
         <source>Mute: On</source>
-        <translation>Muet: Activé</translation>
+        <translation>Muet : Activé</translation>
     </message>
     <message>
         <source>Mute: Off</source>
-        <translation>Muet: Désactivé</translation>
+        <translation>Muet : Désactivé</translation>
     </message>
     <message>
         <source>Capture failed</source>
-        <translation type="unfinished"></translation>
+        <translation>La capture a échoué</translation>
     </message>
     <message>
         <source>Loop: On</source>
-        <translation type="unfinished"></translation>
+        <translation>Boucle : Marche</translation>
     </message>
     <message>
         <source>Loop: Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Boucle : Arrêt</translation>
     </message>
     <message>
         <source>Start Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Début</translation>
     </message>
 </context>
 <context>
     <name>CPDFPwdWnd</name>
     <message>
         <source>Password required</source>
-        <translation type="unfinished"></translation>
+        <translation>Mot de passe obligatoire</translation>
     </message>
     <message>
         <source>OK</source>
@@ -800,31 +799,31 @@
     </message>
     <message>
         <source>Encrypted</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiffré</translation>
     </message>
     <message>
         <source>Rotate Right</source>
-        <translation type="unfinished">Rotation à droite</translation>
+        <translation>Rotation à droite</translation>
     </message>
     <message>
         <source>Please choose a page first</source>
-        <translation type="unfinished"></translation>
+        <translation>Merci de choisir une page d&apos;abord</translation>
     </message>
     <message>
         <source>Annotation: On</source>
-        <translation type="unfinished"></translation>
+        <translation>Annotation : On</translation>
     </message>
     <message>
         <source>Annotation: Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Annotation : Off</translation>
     </message>
     <message>
         <source>Thumbnail</source>
-        <translation type="unfinished"></translation>
+        <translation>Vignette</translation>
     </message>
     <message>
         <source>Outline</source>
-        <translation type="unfinished"></translation>
+        <translation>Aperçu</translation>
     </message>
 </context>
 <context>
@@ -859,11 +858,11 @@
     </message>
     <message>
         <source>Camera make</source>
-        <translation>Fabriquant de la caméra</translation>
+        <translation>Fabriquant de l&apos;appareil</translation>
     </message>
     <message>
         <source>Camera model</source>
-        <translation>Modèle de la caméra</translation>
+        <translation>Modèle de l&apos;appareil</translation>
     </message>
     <message>
         <source>Software</source>
@@ -992,111 +991,111 @@
     </message>
     <message>
         <source>Play / Pause</source>
-        <translation type="unfinished">Lecture / Pause</translation>
+        <translation>Lecture / Pause</translation>
     </message>
     <message>
         <source>Loop Count</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre de boucles</translation>
     </message>
     <message>
         <source>XML</source>
-        <translation type="unfinished"></translation>
+        <translation>XML</translation>
     </message>
     <message>
         <source>Manual</source>
-        <translation type="unfinished"></translation>
+        <translation>Manuel</translation>
     </message>
     <message>
         <source>Normal program</source>
-        <translation type="unfinished"></translation>
+        <translation>Normal</translation>
     </message>
     <message>
         <source>Aperture priority</source>
-        <translation type="unfinished"></translation>
+        <translation>Priorité à l&apos;ouverture</translation>
     </message>
     <message>
         <source>Shutter priority</source>
-        <translation type="unfinished"></translation>
+        <translation>Priorité à l&apos;obturateur</translation>
     </message>
     <message>
         <source>Creative program</source>
-        <translation type="unfinished"></translation>
+        <translation>Créatif</translation>
     </message>
     <message>
         <source>Action program</source>
-        <translation type="unfinished"></translation>
+        <translation>Action</translation>
     </message>
     <message>
         <source>Portrait mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Portrait</translation>
     </message>
     <message>
         <source>Landscape mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Paysage</translation>
     </message>
     <message>
         <source>Exposure program</source>
-        <translation type="unfinished"></translation>
+        <translation>Exposition</translation>
     </message>
     <message>
         <source>Shutter speed</source>
-        <translation type="unfinished"></translation>
+        <translation>Vitesse d&apos;obturation</translation>
     </message>
     <message>
         <source>Reserved</source>
-        <translation type="unfinished"></translation>
+        <translation>Réservé</translation>
     </message>
     <message>
         <source>Strobe return light not detected</source>
-        <translation type="unfinished"></translation>
+        <translation>Lumière de retour stroboscopique non détectée</translation>
     </message>
     <message>
         <source>Strobe return light detected</source>
-        <translation type="unfinished"></translation>
+        <translation>Lumière de retour stroboscopique détectée</translation>
     </message>
     <message>
         <source>Flash returned light</source>
-        <translation type="unfinished"></translation>
+        <translation>Le flash a renvoyé la lumière</translation>
     </message>
     <message>
         <source>Unknown mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Inconnu</translation>
     </message>
     <message>
         <source>Compulsory flash firing</source>
-        <translation type="unfinished"></translation>
+        <translation>Flash déclenché</translation>
     </message>
     <message>
         <source>Compulsory flash suppression</source>
-        <translation type="unfinished"></translation>
+        <translation>Suppression du flash</translation>
     </message>
     <message>
         <source>Automatic mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Mode automatique</translation>
     </message>
     <message>
         <source>Flash mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Mode du flash</translation>
     </message>
     <message>
         <source>average</source>
-        <translation type="unfinished"></translation>
+        <translation>moyenne</translation>
     </message>
     <message>
         <source>center weighted average</source>
-        <translation type="unfinished"></translation>
+        <translation>Moyenne centrale pondérée</translation>
     </message>
     <message>
         <source>spot</source>
-        <translation type="unfinished"></translation>
+        <translation>point</translation>
     </message>
     <message>
         <source>multi-spot</source>
-        <translation type="unfinished"></translation>
+        <translation>multi-spots</translation>
     </message>
     <message>
         <source>multi-segment</source>
-        <translation type="unfinished"></translation>
+        <translation>multi-segments</translation>
     </message>
 </context>
 <context>
@@ -1112,7 +1111,7 @@
     </message>
     <message>
         <source>License:</source>
-        <translation>License:</translation>
+        <translation>License :</translation>
     </message>
     <message>
         <source>Order</source>
@@ -1121,7 +1120,7 @@
     <message>
         <source>Licensed</source>
         <translatorcomment>&quot;Licensé&quot; could also be used. If it really means &quot;This software is activated&quot;, &quot;Activé&quot; is preferred.If it is followed by a name : &quot;Licensed to ...&quot;, use &quot;Enregistré par&quot;</translatorcomment>
-        <translation>Licensé</translation>
+        <translation>Enregistré</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -1146,23 +1145,25 @@
     </message>
     <message>
         <source>Redeem</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>it is clearer to use the term activate here</translatorcomment>
+        <translation>Activer</translation>
     </message>
     <message>
         <source>Redeem code:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>it is clearer to use the term activation here</translatorcomment>
+        <translation>Code d&apos;activation :</translation>
     </message>
     <message>
         <source>Back</source>
-        <translation type="unfinished">Tillbaka</translation>
+        <translation>Retour</translation>
     </message>
     <message>
         <source>Unable to activate</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossible d&apos;activer</translation>
     </message>
     <message>
         <source>Verifying</source>
-        <translation type="unfinished"></translation>
+        <translation>Vérification</translation>
     </message>
 </context>
 <context>
@@ -1212,11 +1213,11 @@
     <name>CSettingsWnd4Controls</name>
     <message>
         <source>Show &quot;Display in explorer&quot; button</source>
-        <translation>Montrer le bouton «Afficher dans l&apos;Explorateur»</translation>
+        <translation>Afficher le bouton «Afficher dans l&apos;Explorateur»</translation>
     </message>
     <message>
         <source>Show &quot;Open with default application&quot; button</source>
-        <translation>Montrer le bouton «Ouvrir avec le programme par défaut»</translation>
+        <translation>Afficher le bouton «Ouvrir avec le programme par défaut»</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -1257,7 +1258,7 @@
     <message>
         <source>equals triggered file path</source>
         <translatorcomment>Not sure about this one.</translatorcomment>
-        <translation type="unfinished">égal au chemin d&apos;accès déclenché</translation>
+        <translation>équivaut au chemin du fichier déclenché</translation>
     </message>
     <message>
         <source>Edit</source>
@@ -1265,7 +1266,7 @@
     </message>
     <message>
         <source>Show &quot;Navigation&quot; button</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher le bouton &quot;Navigation&quot;</translation>
     </message>
 </context>
 <context>
@@ -1325,23 +1326,23 @@
     </message>
     <message>
         <source>Keep window size and position</source>
-        <translation type="unfinished"></translation>
+        <translation>Conserver la taille et la position de la fenêtre</translation>
     </message>
     <message>
         <source>Tray Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Icône dans la barre d&apos;état</translation>
     </message>
     <message>
         <source>Hide tray icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Cacher l&apos;icône de la barre d&apos;état</translation>
     </message>
     <message>
         <source>Use white icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Utiliser une icône blanche</translation>
     </message>
     <message>
         <source>Enable &quot;Delete&quot; key</source>
-        <translation type="unfinished"></translation>
+        <translation>Activer la touche &quot;Supprimer&quot;</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -1369,31 +1370,31 @@
     </message>
     <message>
         <source>Constant</source>
-        <translation type="unfinished"></translation>
+        <translation>Fixe</translation>
     </message>
     <message>
         <source>Dynamic</source>
-        <translation type="unfinished"></translation>
+        <translation>Dynamique</translation>
     </message>
     <message>
         <source>Visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>Visibilité</translation>
     </message>
     <message>
         <source>Title bar &amp; Control bar:</source>
-        <translation type="unfinished"></translation>
+        <translation>Barre de titre et barre de contrôle :</translation>
     </message>
     <message>
         <source>Double click to open file with system default application</source>
-        <translation type="unfinished">Double-cliquer pour ouvrir le fichier avec le programme par défaut</translation>
+        <translation>Double-cliquez pour ouvrir le fichier avec le programme par défaut</translation>
     </message>
     <message>
         <source>Track selected file in Explorer</source>
-        <translation type="unfinished">Suivre la sélection des fichiers dans l&apos;Explorateur</translation>
+        <translation>Suivre la sélection des fichiers dans l&apos;Explorateur</translation>
     </message>
     <message>
         <source>Use the trigger key to close window</source>
-        <translation type="unfinished">Utiliser la touche de déclenchement pour fermer la fenêtre</translation>
+        <translation>Utiliser la touche de déclenchement pour fermer la fenêtre</translation>
     </message>
 </context>
 <context>
@@ -1464,7 +1465,7 @@
     </message>
     <message>
         <source>Search extension, e.g.: psd</source>
-        <translation>Rechercher une extension, p. ex : psd</translation>
+        <translation>Rechercher une extension, par ex : psd</translation>
     </message>
     <message>
         <source>Loop</source>
@@ -1476,43 +1477,43 @@
     </message>
     <message>
         <source>Markdown css not found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Markdown css introuvable.</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;:(&lt;/p&gt;&lt;p&gt;Oops!&lt;/p&gt;&lt;p&gt;No extensions matched.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;:(&lt;/p&gt;&lt;p&gt;Oops!&lt;/p&gt;&lt;p&gt;Aucune extension ne correspond.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Désactivé</translation>
     </message>
     <message>
         <source>Markdown stylesheet path</source>
-        <translation type="unfinished"></translation>
+        <translation>Chemin de la feuille de style Markdown</translation>
     </message>
     <message>
         <source>Will display property only for extensions in this field, e.g.:</source>
-        <translation type="unfinished"></translation>
+        <translation>N&apos;affichera la propriété que pour les extensions dans ce champ, par ex :</translation>
     </message>
     <message>
         <source>Disable folder contents loading</source>
-        <translation type="unfinished">Désactiver le chargement du contenu des dossiers</translation>
+        <translation>Désactiver le chargement du contenu des dossiers</translation>
     </message>
     <message>
         <source>Disable file type detecting</source>
-        <translation type="unfinished">Désactiver la détection du type de fichier</translation>
+        <translation>Désactiver la détection du type de fichier</translation>
     </message>
     <message>
         <source>Remember playback position</source>
-        <translation type="unfinished"></translation>
+        <translation>Mémoriser la position de lecture</translation>
     </message>
     <message>
         <source>Archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Archive</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished">Image</translation>
+        <translation>Image</translation>
     </message>
 </context>
 <context>
@@ -1583,20 +1584,20 @@
     </message>
     <message>
         <source>Application behavior</source>
-        <translatorcomment>The direct translation would be &quot;Comportements de l&apos;application&quot;, but this is never really said in frenché</translatorcomment>
-        <translation>Paramètres généraux</translation>
+        <translatorcomment>The direct translation would be &quot;Comportements de l&apos;application&quot;, but this is never really said in french</translatorcomment>
+        <translation>Préférences</translation>
     </message>
     <message>
         <source>Theme:</source>
-        <translation type="unfinished"></translation>
+        <translation>Thème :</translation>
     </message>
     <message>
         <source>Run Seer when system boots</source>
-        <translation type="unfinished"></translation>
+        <translation>Lancer Seer au démarrage</translation>
     </message>
     <message>
         <source>Run as administrator</source>
-        <translation type="unfinished"></translation>
+        <translation>Exécuter en tant qu&apos;administrateur</translation>
     </message>
 </context>
 <context>
@@ -1615,7 +1616,7 @@
     </message>
     <message>
         <source>Loop:</source>
-        <translation>Lecture en boucle:</translation>
+        <translation>Lecture en boucle :</translation>
     </message>
     <message>
         <source>Media</source>
@@ -1623,7 +1624,7 @@
     </message>
     <message>
         <source>Mute:</source>
-        <translation>Muet:</translation>
+        <translation>Couper le son :</translation>
     </message>
     <message>
         <source>Shift</source>
@@ -1639,15 +1640,15 @@
     </message>
     <message>
         <source>Play / Pause:</source>
-        <translation>Lecture / Pause:</translation>
+        <translation>Lecture / Pause :</translation>
     </message>
     <message>
         <source>Rotate Left:</source>
-        <translation>Rotation à gauche:</translation>
+        <translation>Rotation à gauche :</translation>
     </message>
     <message>
         <source>Close:</source>
-        <translation>Fermer:</translation>
+        <translation>Fermer :</translation>
     </message>
     <message>
         <source>Common</source>
@@ -1659,7 +1660,7 @@
     </message>
     <message>
         <source>Column View:</source>
-        <translation>Affichage par colonnes:</translation>
+        <translation>Affichage par colonnes  :</translation>
     </message>
     <message>
         <source>Title:</source>
@@ -1667,31 +1668,31 @@
     </message>
     <message>
         <source>Fit Width:</source>
-        <translation>Ajuster à la largeur:</translation>
+        <translation>Ajuster à la largeur :</translation>
     </message>
     <message>
         <source>File Property:</source>
-        <translation>Propriétés de fichier:</translation>
+        <translation>Propriétés de fichier :</translation>
     </message>
     <message>
         <source>Forward:</source>
-        <translation>Avancer:</translation>
+        <translation>Avancer :</translation>
     </message>
     <message>
         <source>Tree View:</source>
-        <translation>Affichage par arborescence:</translation>
+        <translation>Affichage par arborescence :</translation>
     </message>
     <message>
         <source>Open With Default App:</source>
-        <translation>Ouvrir avec le programme par défaut:</translation>
+        <translation>Ouvrir avec le programme par défaut :</translation>
     </message>
     <message>
         <source>Open Selected Item:</source>
-        <translation>Ouvrir les objets sélectionnés:</translation>
+        <translation>Ouvrir les objets sélectionnés :</translation>
     </message>
     <message>
         <source>Focus (global):</source>
-        <translation>Focus (global):</translation>
+        <translation>Focus (global) :</translation>
     </message>
     <message>
         <source>Trigger Keys</source>
@@ -1699,11 +1700,11 @@
     </message>
     <message>
         <source>Actual Size:</source>
-        <translation>Taille réelle:</translation>
+        <translation>Taille réelle :</translation>
     </message>
     <message>
         <source>Backward:</source>
-        <translation>Reculer:</translation>
+        <translation>Reculer :</translation>
     </message>
     <message>
         <source>Control</source>
@@ -1715,11 +1716,11 @@
     </message>
     <message>
         <source>Reveal In Explorer:</source>
-        <translation>Afficher dans l&apos;Explorateur:</translation>
+        <translation>Afficher dans l&apos;Explorateur :</translation>
     </message>
     <message>
         <source>Rotate Right:</source>
-        <translation>Rotation à droite:</translation>
+        <translation>Rotation à droite :</translation>
     </message>
     <message>
         <source>Trigger Keys:  </source>
@@ -1727,155 +1728,155 @@
     </message>
     <message>
         <source>Time Indication:</source>
-        <translation>Indicateur de temps:</translation>
+        <translation>Indicateur de temps :</translation>
     </message>
     <message>
         <source>Open Selected Item With Seer:</source>
-        <translation>Ouvrir les objets sélectionnés avec Seer:</translation>
+        <translation>Ouvrir les objets sélectionnés avec Seer :</translation>
     </message>
     <message>
         <source>Reveal Selected Item:</source>
-        <translation>Révéler les objets sélectionnés:</translation>
+        <translation>Afficher les objets sélectionnés :</translation>
     </message>
     <message>
         <source>Maximize / Restore:</source>
-        <translation>Maximiser / Restaurer:</translation>
+        <translation>Maximiser / Restaurer :</translation>
     </message>
     <message>
         <source>Reload:</source>
-        <translation type="unfinished"></translation>
+        <translation>Recharger :</translation>
     </message>
     <message>
         <source>Normal:</source>
-        <translation type="unfinished"></translation>
+        <translation>Normal :</translation>
     </message>
     <message>
         <source>Fullscreen:</source>
-        <translation type="unfinished"></translation>
+        <translation>Plein écran :</translation>
     </message>
     <message>
         <source>Go To Beginning:</source>
-        <translation type="unfinished"></translation>
+        <translation>Aller au début :</translation>
     </message>
     <message>
         <source>Invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>Invalide</translation>
     </message>
     <message>
         <source>Next:</source>
-        <translation type="unfinished"></translation>
+        <translation>Suivant :</translation>
     </message>
     <message>
         <source>Previous:</source>
-        <translation type="unfinished"></translation>
+        <translation>Précédent :</translation>
     </message>
     <message>
         <source>Reveal Clicked Item:</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher l&apos;élément cliqué  :</translation>
     </message>
     <message>
         <source>Alt + Click</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt + Clic</translation>
     </message>
     <message>
         <source>Open Clicked Item:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ouvrir l&apos;élément cliqué :</translation>
     </message>
     <message>
         <source>Shift + Click</source>
-        <translation type="unfinished"></translation>
+        <translation>Shift + Clic</translation>
     </message>
     <message>
         <source>Open Clicked Item With Seer:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ouvrir l&apos;élément cliqué avec Seer :</translation>
     </message>
     <message>
         <source>Shift + Alt + Click</source>
-        <translation type="unfinished"></translation>
+        <translation>Shift + Alt + Clic</translation>
     </message>
     <message>
         <source>Restore:</source>
-        <translation type="unfinished"></translation>
+        <translation>Restaurer :</translation>
     </message>
     <message>
         <source>Double click</source>
-        <translation type="unfinished"></translation>
+        <translation>Double-clic</translation>
     </message>
     <message>
         <source>Percent Locate:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pourcentage :</translation>
     </message>
     <message>
         <source>0-9</source>
-        <translation type="unfinished"></translation>
+        <translation>0-9</translation>
     </message>
     <message>
         <source>Separate:</source>
-        <translation type="unfinished"></translation>
+        <translation>Séparer :</translation>
     </message>
     <message>
         <source>Fit Height:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajuster à la hauteur :</translation>
     </message>
     <message>
         <source>Details View:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vue détaillée :</translation>
     </message>
     <message>
         <source>Goto:</source>
-        <translation type="unfinished"></translation>
+        <translation>Aller à :</translation>
     </message>
     <message>
         <source>Ctrl + Click</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl + Clic</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Texte</translation>
     </message>
     <message>
         <source>Render:</source>
-        <translation type="unfinished"></translation>
+        <translation>Rendu :</translation>
     </message>
     <message>
         <source>Format:</source>
-        <translation type="unfinished"></translation>
+        <translation>Format:</translation>
     </message>
     <message>
         <source>Locate:</source>
-        <translation type="unfinished"></translation>
+        <translation>Localiser :</translation>
     </message>
     <message>
         <source>Annotation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Annotation :</translation>
     </message>
     <message>
         <source>Word Wrap:</source>
-        <translation type="unfinished"></translation>
+        <translation>Retour automatique à la ligne :</translation>
     </message>
     <message>
         <source>Line Number:</source>
-        <translation type="unfinished"></translation>
+        <translation>Numéro de ligne :</translation>
     </message>
     <message>
         <source>Navigation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Navigation :</translation>
     </message>
     <message>
         <source>Alt + Arrow Key</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt + flèche</translation>
     </message>
     <message>
         <source>Previous Type File:</source>
-        <translation type="unfinished"></translation>
+        <translation>Fichier précédent :</translation>
     </message>
     <message>
         <source>Next Type File:</source>
-        <translation type="unfinished"></translation>
+        <translation>Fichier suivant :</translation>
     </message>
     <message>
         <source>Outline:</source>
-        <translation type="unfinished"></translation>
+        <translation>Aperçu :</translation>
     </message>
 </context>
 <context>
@@ -1930,7 +1931,7 @@
     </message>
     <message>
         <source>Internal handled plugins will be used first.</source>
-        <translation type="unfinished"></translation>
+        <translation>Les plugins gérés en interne seront utilisés en premier.</translation>
     </message>
 </context>
 <context>
@@ -1964,7 +1965,7 @@
     </message>
     <message>
         <source>Description:</source>
-        <translation>Description:</translation>
+        <translation>Description :</translation>
     </message>
     <message>
         <source>Download</source>
@@ -1984,11 +1985,11 @@
     </message>
     <message>
         <source>Extension:</source>
-        <translation>Extension:</translation>
+        <translation>Extension :</translation>
     </message>
     <message>
         <source>Search available plugin</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechercher une extension disponible</translation>
     </message>
 </context>
 <context>
@@ -2015,7 +2016,7 @@
     </message>
     <message>
         <source>Found a bug?</source>
-        <translation>Trouvé un bug?</translation>
+        <translation>Trouvé un bug ?</translation>
     </message>
     <message>
         <source>Donate</source>
@@ -2031,23 +2032,23 @@
     </message>
     <message>
         <source>Register</source>
-        <translation>Activer Seer</translation>
+        <translation>Enregistrer Seer</translation>
     </message>
     <message>
         <source>Stay on top</source>
-        <translation type="unfinished"></translation>
+        <translation>Garder au premier plan</translation>
     </message>
     <message>
         <source>EXPIRED</source>
-        <translation type="unfinished"></translation>
+        <translation>EXPIRÉ</translation>
     </message>
     <message>
         <source>TRIAL</source>
-        <translation type="unfinished"></translation>
+        <translation>ESSAI</translation>
     </message>
     <message>
         <source>Deactivated</source>
-        <translation type="unfinished"></translation>
+        <translation>Désactivé</translation>
     </message>
 </context>
 <context>
@@ -2114,7 +2115,7 @@
     </message>
     <message>
         <source>Please check your &quot;i18n&quot; folder.</source>
-        <translation>S&apos;il vous plaît, vérifier votre dossier «i18n-mapp».</translation>
+        <translation>Veuillez vérifier votre dossier &quot;i18n&quot;.</translation>
     </message>
     <message>
         <source> not found.</source>
@@ -2134,39 +2135,39 @@
     </message>
     <message>
         <source>Update language failed</source>
-        <translation type="unfinished"></translation>
+        <translation>La mise à jour de la langue a échoué</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Annuler</translation>
     </message>
     <message>
         <source>Folder</source>
-        <translation type="unfinished">Dossier</translation>
+        <translation>Dossier</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished">Image</translation>
+        <translation>Image</translation>
     </message>
     <message>
         <source>Meida</source>
-        <translation type="unfinished"></translation>
+        <translation>Media</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Texte</translation>
     </message>
     <message>
         <source>PDF</source>
-        <translation type="unfinished">PDF</translation>
+        <translation>PDF</translation>
     </message>
     <message>
         <source>HTML</source>
-        <translation type="unfinished">HTML</translation>
+        <translation>HTML</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">Inconnu</translation>
+        <translation>Inconnu</translation>
     </message>
 </context>
 <context>
