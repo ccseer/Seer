@@ -1753,6 +1753,18 @@
         <source>Outline:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Center:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter / Return</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Duplicated shortcut:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CSettingsWnd4Plugins</name>
