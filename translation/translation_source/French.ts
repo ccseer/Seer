@@ -767,6 +767,10 @@
         <source>Start Time</source>
         <translation>Début</translation>
     </message>
+    <message>
+        <source>Rotation</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CPDFPwdWnd</name>
