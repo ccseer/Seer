@@ -2890,14 +2890,18 @@ Reason:</source>
         <translation>图片</translation>
     </message>
     <message>
-        <location filename="../../../../Seer/src/settings/csettingswnd4explorer.cpp" line="159"/>
         <source>Meida</source>
-        <translation>多媒体</translation>
+        <translation type="vanished">多媒体</translation>
     </message>
     <message>
         <location filename="../../../../Seer/src/settings/csettingswnd4explorer.cpp" line="159"/>
         <source>Text</source>
         <translation>文本</translation>
+    </message>
+    <message>
+        <location filename="../../../../Seer/src/settings/csettingswnd4explorer.cpp" line="159"/>
+        <source>Media</source>
+        <translation>多媒体</translation>
     </message>
     <message>
         <location filename="../../../../Seer/src/settings/csettingswnd4explorer.cpp" line="160"/>

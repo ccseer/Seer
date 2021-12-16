@@ -2094,10 +2094,6 @@
         <translation type="unfinished">이미지</translation>
     </message>
     <message>
-        <source>Meida</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Text</source>
         <translation type="unfinished">텍스트</translation>
     </message>
@@ -2112,6 +2108,10 @@
     <message>
         <source>Unknown</source>
         <translation type="unfinished">알 수 없는 오류</translation>
+    </message>
+    <message>
+        <source>Media</source>
+        <translation type="unfinished">멀티미디어</translation>
     </message>
 </context>
 <context>

@@ -2125,10 +2125,6 @@
         <translation type="unfinished">画像</translation>
     </message>
     <message>
-        <source>Meida</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Text</source>
         <translation type="unfinished">テキスト</translation>
     </message>
@@ -2143,6 +2139,10 @@
     <message>
         <source>Unknown</source>
         <translation type="unfinished">不明</translation>
+    </message>
+    <message>
+        <source>Media</source>
+        <translation type="unfinished">マルチメディア</translation>
     </message>
 </context>
 <context>

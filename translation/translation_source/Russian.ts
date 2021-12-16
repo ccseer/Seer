@@ -1866,10 +1866,6 @@
         <translation type="unfinished">Изображение</translation>
     </message>
     <message>
-        <source>Meida</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Text</source>
         <translation type="unfinished">Текст</translation>
     </message>
@@ -1884,6 +1880,10 @@
     <message>
         <source>Unknown</source>
         <translation type="unfinished">Неизвестно</translation>
+    </message>
+    <message>
+        <source>Media</source>
+        <translation type="unfinished">Медиа</translation>
     </message>
 </context>
 <context>

@@ -2106,10 +2106,6 @@
         <translation type="unfinished">Bild</translation>
     </message>
     <message>
-        <source>Meida</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Text</source>
         <translation type="unfinished">Text</translation>
     </message>
@@ -2124,6 +2120,10 @@
     <message>
         <source>Unknown</source>
         <translation type="unfinished">Ok?nd</translation>
+    </message>
+    <message>
+        <source>Media</source>
+        <translation type="unfinished">Media</translation>
     </message>
 </context>
 <context>

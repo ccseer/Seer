@@ -2761,13 +2761,13 @@ Reason:</source>
     </message>
     <message>
         <location filename="../../../../Seer/src/settings/csettingswnd4explorer.cpp" line="159"/>
-        <source>Meida</source>
-        <translation type="unfinished"></translation>
+        <source>Text</source>
+        <translation type="unfinished">文本</translation>
     </message>
     <message>
         <location filename="../../../../Seer/src/settings/csettingswnd4explorer.cpp" line="159"/>
-        <source>Text</source>
-        <translation type="unfinished">文本</translation>
+        <source>Media</source>
+        <translation type="unfinished">多媒體</translation>
     </message>
     <message>
         <location filename="../../../../Seer/src/settings/csettingswnd4explorer.cpp" line="160"/>

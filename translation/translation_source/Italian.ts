@@ -2048,10 +2048,6 @@
         <translation type="unfinished">Immagine</translation>
     </message>
     <message>
-        <source>Meida</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Text</source>
         <translation type="unfinished">Testo</translation>
     </message>
@@ -2066,6 +2062,10 @@
     <message>
         <source>Unknown</source>
         <translation type="unfinished">Sconosciuto</translation>
+    </message>
+    <message>
+        <source>Media</source>
+        <translation type="unfinished">Multimedia</translation>
     </message>
 </context>
 <context>

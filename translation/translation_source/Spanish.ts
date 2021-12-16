@@ -69,23 +69,23 @@
     </message>
     <message>
         <source>Translator</source>
-        <translation type="unfinished"></translation>
+        <translation>Transductor</translation>
     </message>
     <message>
         <source>1218.io</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Cisa</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Tobey</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Contributor</source>
-        <translation type="unfinished"></translation>
+        <translation>Colaborador</translation>
     </message>
 </context>
 <context>
@@ -134,43 +134,43 @@
     </message>
     <message>
         <source>Line:</source>
-        <translation type="unfinished"></translation>
+        <translation>Linea:</translation>
     </message>
     <message>
         <source>Column:</source>
-        <translation type="unfinished"></translation>
+        <translation>Columna:</translation>
     </message>
     <message>
         <source>Render HTML</source>
-        <translation type="unfinished"></translation>
+        <translation>Representa HTML</translation>
     </message>
     <message>
         <source>Character count</source>
-        <translation type="unfinished"></translation>
+        <translation>Numero de Letras</translation>
     </message>
     <message>
         <source>Line count</source>
-        <translation type="unfinished"></translation>
+        <translation>Numero de Lineas</translation>
     </message>
     <message>
         <source>Ln</source>
-        <translation type="unfinished"></translation>
+        <translation>Linea</translation>
     </message>
     <message>
         <source>Col</source>
-        <translation type="unfinished"></translation>
+        <translation>Columna</translation>
     </message>
     <message>
         <source>Render Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Representa Imagen</translation>
     </message>
     <message>
         <source>Render Markdown</source>
-        <translation type="unfinished"></translation>
+        <translation>Representa Markdown</translation>
     </message>
     <message>
         <source>Loading</source>
-        <translation type="unfinished"></translation>
+        <translation>Cargando</translation>
     </message>
 </context>
 <context>
@@ -218,15 +218,15 @@
     <name>CControlWnd</name>
     <message>
         <source>Open With Default Application</source>
-        <translation type="unfinished">Abrir con la Aplicacion por Defecto</translation>
+        <translation>Abrir con la Aplicacion por Defecto</translation>
     </message>
     <message>
         <source>Reveal In Explorer</source>
-        <translation type="unfinished">Mostrar en el Explorador</translation>
+        <translation>Mostrar en el Explorador</translation>
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished">Mas</translation>
+        <translation>Mas</translation>
     </message>
 </context>
 <context>
@@ -299,7 +299,7 @@
     </message>
     <message>
         <source>Loading</source>
-        <translation type="unfinished"></translation>
+        <translation>Cargando</translation>
     </message>
     <message>
         <source>Name</source>
@@ -319,11 +319,11 @@
     </message>
     <message>
         <source>File is encrypted</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo esta cifrado</translation>
     </message>
     <message>
         <source>Folder</source>
-        <translation type="unfinished">Carpeta</translation>
+        <translation>Carpeta</translation>
     </message>
 </context>
 <context>
@@ -418,15 +418,15 @@
     </message>
     <message>
         <source>Extension</source>
-        <translation type="unfinished">Extension</translation>
+        <translation>Extension</translation>
     </message>
     <message>
         <source>Folder</source>
-        <translation type="unfinished">Carpeta</translation>
+        <translation>Carpeta</translation>
     </message>
     <message>
         <source>Pin</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Open Selected Item With Default Application</source>
@@ -499,11 +499,11 @@
     <name>CHtmlWnd</name>
     <message>
         <source>HTML</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Markdown Source</source>
-        <translation type="unfinished"></translation>
+        <translation>Markdown Origen</translation>
     </message>
 </context>
 <context>
@@ -559,27 +559,27 @@
     </message>
     <message>
         <source>The system default application not found.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se encontro la aplicacion defecto del sistema.</translation>
     </message>
     <message>
         <source>Please share with your friends.</source>
-        <translation type="unfinished"></translation>
+        <translation>Por favor comparte con tus amigos.</translation>
     </message>
     <message>
         <source>Invalid license</source>
-        <translation type="unfinished"></translation>
+        <translation>Licencia Invalido</translation>
     </message>
     <message>
         <source>This license is not available any more.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esta licencia no esta disponible.</translation>
     </message>
     <message>
         <source>About</source>
-        <translation type="unfinished">Acerca</translation>
+        <translation>Acerca</translation>
     </message>
     <message>
         <source>Activation</source>
-        <translation type="unfinished"></translation>
+        <translation>Activacion</translation>
     </message>
 </context>
 <context>
@@ -594,7 +594,7 @@
     </message>
     <message>
         <source>Separate</source>
-        <translation type="unfinished"></translation>
+        <translation>Copia Ventana</translation>
     </message>
 </context>
 <context>
@@ -657,58 +657,58 @@
     </message>
     <message>
         <source>Mute: On</source>
-        <translation type="unfinished"></translation>
+        <translation>Silencio Activado</translation>
     </message>
     <message>
         <source>Mute: Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Silencio Desactivado</translation>
     </message>
     <message>
         <source>Capture failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Captura fallida</translation>
     </message>
     <message>
         <source>Loop: On</source>
-        <translation type="unfinished"></translation>
+        <translation>Circulo Activado</translation>
     </message>
     <message>
         <source>Loop: Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Circulo Desactivado</translation>
     </message>
     <message>
         <source>Start Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Hora de inicio</translation>
     </message>
     <message>
         <source>Rotation</source>
-        <translation type="unfinished"></translation>
+        <translation>Orientacion</translation>
     </message>
     <message>
         <source>Forward:</source>
-        <translation type="unfinished">Adelantar:</translation>
+        <translation>Adelantar:</translation>
     </message>
     <message>
         <source>Backward:</source>
-        <translation type="unfinished">Retroceder:</translation>
+        <translation>Retroceder:</translation>
     </message>
     <message>
         <source>The system is muted</source>
-        <translation type="unfinished"></translation>
+        <translation>La sistema esta silenciado</translation>
     </message>
 </context>
 <context>
     <name>CPDFPwdWnd</name>
     <message>
         <source>Password required</source>
-        <translation type="unfinished"></translation>
+        <translation>Contraseña requerido</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
 </context>
 <context>
@@ -727,31 +727,31 @@
     </message>
     <message>
         <source>Encrypted</source>
-        <translation type="unfinished"></translation>
+        <translation>Cifrado</translation>
     </message>
     <message>
         <source>Rotate Right</source>
-        <translation type="unfinished">Girar a la Derecha</translation>
+        <translation>Girar a la Derecha</translation>
     </message>
     <message>
         <source>Please choose a page first</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccione la pagina primero</translation>
     </message>
     <message>
         <source>Annotation: On</source>
-        <translation type="unfinished"></translation>
+        <translation>Anotaction Activado</translation>
     </message>
     <message>
         <source>Annotation: Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Anotacion Desactivado</translation>
     </message>
     <message>
         <source>Thumbnail</source>
-        <translation type="unfinished"></translation>
+        <translation>Miniatura</translation>
     </message>
     <message>
         <source>Outline</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabla de Contenido</translation>
     </message>
 </context>
 <context>
@@ -914,7 +914,7 @@
     </message>
     <message>
         <source>Play / Pause</source>
-        <translation type="unfinished">Reproducir / Pausa</translation>
+        <translation>Reproducir / Pausa</translation>
     </message>
     <message>
         <source>Loop Count</source>
@@ -922,7 +922,7 @@
     </message>
     <message>
         <source>XML</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Manual</source>
@@ -1025,59 +1025,59 @@
     <name>CRegDlg</name>
     <message>
         <source>ID:</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar</translation>
     </message>
     <message>
         <source>License:</source>
-        <translation type="unfinished"></translation>
+        <translation>Licencia:</translation>
     </message>
     <message>
         <source>Order</source>
-        <translation type="unfinished"></translation>
+        <translation>Compra</translation>
     </message>
     <message>
         <source>Licensed</source>
-        <translation type="unfinished"></translation>
+        <translation>Licencia Activado</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Copied</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiado</translation>
     </message>
     <message>
         <source>Invalid License</source>
-        <translation type="unfinished"></translation>
+        <translation>Licencia Invalido</translation>
     </message>
     <message>
         <source>Redeem</source>
-        <translation type="unfinished"></translation>
+        <translation>Redimir</translation>
     </message>
     <message>
         <source>Redeem code:</source>
-        <translation type="unfinished"></translation>
+        <translation>Redimi Codigo:</translation>
     </message>
     <message>
         <source>Back</source>
-        <translation type="unfinished">Atras</translation>
+        <translation>Atras</translation>
     </message>
     <message>
         <source>Unable to activate</source>
-        <translation type="unfinished"></translation>
+        <translation>Incapaz de activar</translation>
     </message>
     <message>
         <source>Verifying</source>
-        <translation type="unfinished"></translation>
+        <translation>Verificando</translation>
     </message>
 </context>
 <context>
@@ -1108,15 +1108,15 @@
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajustes</translation>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Restart</source>
-        <translation type="unfinished"></translation>
+        <translation>Reiniciar</translation>
     </message>
 </context>
 <context>
@@ -1155,27 +1155,27 @@
     </message>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished">Apariencia</translation>
+        <translation>Apariencia</translation>
     </message>
     <message>
         <source>Extension</source>
-        <translation type="unfinished">Extension</translation>
+        <translation>Extension</translation>
     </message>
     <message>
         <source>Select executable file path</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleciona la ruta del archivo ejecutable</translation>
     </message>
     <message>
         <source>equals triggered file path</source>
-        <translation type="unfinished"></translation>
+        <translation>la entrada es igual a la ruta del archivo activado</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished">Editar</translation>
+        <translation>Editar</translation>
     </message>
     <message>
         <source>Show &quot;Navigation&quot; button</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar el boton de &quot;Navigacion&quot;</translation>
     </message>
 </context>
 <context>
@@ -1206,31 +1206,31 @@
     </message>
     <message>
         <source>Reset settings to default</source>
-        <translation type="unfinished"></translation>
+        <translation>Restablecer la configuracion a la predeterminada</translation>
     </message>
     <message>
         <source>Confirm &amp; Restart :</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirma y Reiniciar :</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished"></translation>
+        <translation>Reiniciar</translation>
     </message>
     <message>
         <source>Keep window size and position</source>
-        <translation type="unfinished"></translation>
+        <translation>Mantene el tamaño y la posicion de la ventana</translation>
     </message>
     <message>
         <source>Hide tray icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Esconde icono</translation>
     </message>
     <message>
         <source>Enable &quot;Delete&quot; key</source>
-        <translation type="unfinished"></translation>
+        <translation>Activa tecla &quot;Supr&quot;</translation>
     </message>
     <message>
         <source>Text</source>
@@ -1254,31 +1254,31 @@
     </message>
     <message>
         <source>Constant</source>
-        <translation type="unfinished"></translation>
+        <translation>Constante</translation>
     </message>
     <message>
         <source>Dynamic</source>
-        <translation type="unfinished"></translation>
+        <translation>Dinamico</translation>
     </message>
     <message>
         <source>Visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>Visibilidad</translation>
     </message>
     <message>
         <source>Title bar &amp; Control bar:</source>
-        <translation type="unfinished"></translation>
+        <translation>Barra de titulo y control:</translation>
     </message>
     <message>
         <source>Double click to open file with system default application</source>
-        <translation type="unfinished">Doble click para abrir el archivo con la aplicacion por defecto del sistema</translation>
+        <translation>Doble click para abrir el archivo con la aplicacion por defecto del sistema</translation>
     </message>
     <message>
         <source>Track selected file in Explorer</source>
-        <translation type="unfinished">Rastrear archivo seleccionado en el Explorador</translation>
+        <translation>Rastrear archivo seleccionado en el Explorador</translation>
     </message>
     <message>
         <source>Use the trigger key to close window</source>
-        <translation type="unfinished">Usar la tecla de activacion para cerrar la ventana</translation>
+        <translation>Usar la tecla de activacion para cerrar la ventana</translation>
     </message>
 </context>
 <context>
@@ -1301,7 +1301,7 @@
     </message>
     <message>
         <source> already exist.</source>
-        <translation>ya existe.</translation>
+        <translation> ya existe.</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -1341,47 +1341,47 @@
     </message>
     <message>
         <source>Search extension, e.g.: psd</source>
-        <translation type="unfinished"></translation>
+        <translation>Buscar extension, e.g.: psd</translation>
     </message>
     <message>
         <source>Markdown css not found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Markdown css no encontrado.</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;:(&lt;/p&gt;&lt;p&gt;Oops!&lt;/p&gt;&lt;p&gt;No extensions matched.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;:(&lt;/p&gt;&lt;p&gt;Oops!&lt;/p&gt;&lt;p&gt;No extensions encontrado.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Deactivado</translation>
     </message>
     <message>
         <source>Markdown stylesheet path</source>
-        <translation type="unfinished"></translation>
+        <translation>Markdown css locacion</translation>
     </message>
     <message>
         <source>Will display property only for extensions in this field, e.g.:</source>
-        <translation type="unfinished"></translation>
+        <translation>No analizara los contenidos de los archivos para las extensiones en este campo, e.g.:</translation>
     </message>
     <message>
         <source>Disable folder contents loading</source>
-        <translation type="unfinished"></translation>
+        <translation>Desactivar mostrando contenidos</translation>
     </message>
     <message>
         <source>Disable file type detecting</source>
-        <translation type="unfinished"></translation>
+        <translation>Desactivar deteccion de tipo de archivo</translation>
     </message>
     <message>
         <source>Remember playback position</source>
-        <translation type="unfinished"></translation>
+        <translation>Recordar la posicion de reproduccion</translation>
     </message>
     <message>
         <source>Archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo Comprimido</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished">Imagen</translation>
+        <translation>Imagen</translation>
     </message>
 </context>
 <context>
@@ -1448,23 +1448,23 @@
     </message>
     <message>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Idioma</translation>
     </message>
     <message>
         <source>Application behavior</source>
-        <translation type="unfinished"></translation>
+        <translation>Comportamiento de la applicacion</translation>
     </message>
     <message>
         <source>Theme:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tema:</translation>
     </message>
     <message>
         <source>Run Seer when system boots</source>
-        <translation type="unfinished"></translation>
+        <translation>Ejecutar Seer al iniciar sistema</translation>
     </message>
     <message>
         <source>Run as administrator</source>
-        <translation type="unfinished"></translation>
+        <translation>Ejecutar como administrador</translation>
     </message>
 </context>
 <context>
@@ -1611,151 +1611,151 @@
     </message>
     <message>
         <source>Reload:</source>
-        <translation type="unfinished"></translation>
+        <translation>Recargar:</translation>
     </message>
     <message>
         <source>Normal:</source>
-        <translation type="unfinished"></translation>
+        <translation>Normal:</translation>
     </message>
     <message>
         <source>Fullscreen:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pantalla Completa:</translation>
     </message>
     <message>
         <source>Go To Beginning:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ir al principio:</translation>
     </message>
     <message>
         <source>Invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>Invalido</translation>
     </message>
     <message>
         <source>Next:</source>
-        <translation type="unfinished"></translation>
+        <translation>Proximo:</translation>
     </message>
     <message>
         <source>Previous:</source>
-        <translation type="unfinished"></translation>
+        <translation>Anterior:</translation>
     </message>
     <message>
         <source>Reveal Clicked Item:</source>
-        <translation type="unfinished"></translation>
+        <translation>Revelar Elemento:</translation>
     </message>
     <message>
         <source>Alt + Click</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Open Clicked Item:</source>
-        <translation type="unfinished"></translation>
+        <translation>Abri Elemento:</translation>
     </message>
     <message>
         <source>Shift + Click</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Open Clicked Item With Seer:</source>
-        <translation type="unfinished"></translation>
+        <translation>Abri Elemento con Seer:</translation>
     </message>
     <message>
         <source>Shift + Alt + Click</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Restore:</source>
-        <translation type="unfinished"></translation>
+        <translation>Restaurar:</translation>
     </message>
     <message>
         <source>Double click</source>
-        <translation type="unfinished"></translation>
+        <translation>Doble click</translation>
     </message>
     <message>
         <source>Percent Locate:</source>
-        <translation type="unfinished"></translation>
+        <translation>Porcentaje Locado:</translation>
     </message>
     <message>
         <source>0-9</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Separate:</source>
-        <translation type="unfinished"></translation>
+        <translation>Copia Ventana:</translation>
     </message>
     <message>
         <source>Fit Height:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajustar a la Altura:</translation>
     </message>
     <message>
         <source>Details View:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ver Detalles:</translation>
     </message>
     <message>
         <source>Goto:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ir:</translation>
     </message>
     <message>
         <source>Ctrl + Click</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished">Texto</translation>
+        <translation>Texto</translation>
     </message>
     <message>
         <source>Render:</source>
-        <translation type="unfinished"></translation>
+        <translation>Representar:</translation>
     </message>
     <message>
         <source>Format:</source>
-        <translation type="unfinished"></translation>
+        <translation>Formato:</translation>
     </message>
     <message>
         <source>Locate:</source>
-        <translation type="unfinished"></translation>
+        <translation>Volver a Cursor:</translation>
     </message>
     <message>
         <source>Annotation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Anotacion:</translation>
     </message>
     <message>
         <source>Word Wrap:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajuste de Linea:</translation>
     </message>
     <message>
         <source>Line Number:</source>
-        <translation type="unfinished"></translation>
+        <translation>Numero de Linea:</translation>
     </message>
     <message>
         <source>Navigation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Navigacion:</translation>
     </message>
     <message>
         <source>Alt + Arrow Key</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt + Tecla de Flecha</translation>
     </message>
     <message>
         <source>Previous Type File:</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo Anterior del mismo Tipo:</translation>
     </message>
     <message>
         <source>Next Type File:</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo Proximo del mismo Tipo:</translation>
     </message>
     <message>
         <source>Outline:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabla de Contenido:</translation>
     </message>
     <message>
         <source>Center:</source>
-        <translation type="unfinished"></translation>
+        <translation>Centrar:</translation>
     </message>
     <message>
         <source>Enter / Return</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Duplicated shortcut:</source>
-        <translation type="unfinished"></translation>
+        <translation>Atajo Duplicado:</translation>
     </message>
 </context>
 <context>
@@ -1810,7 +1810,7 @@
     </message>
     <message>
         <source>Internal handled plugins will be used first.</source>
-        <translation type="unfinished"></translation>
+        <translation>Los plugins manejados internamente se usaran primero.</translation>
     </message>
 </context>
 <context>
@@ -1868,7 +1868,7 @@
     </message>
     <message>
         <source>Search available plugin</source>
-        <translation type="unfinished"></translation>
+        <translation>Buscar plugin disponible</translation>
     </message>
 </context>
 <context>
@@ -1911,23 +1911,23 @@
     </message>
     <message>
         <source>Register</source>
-        <translation type="unfinished"></translation>
+        <translation>Registra</translation>
     </message>
     <message>
         <source>Stay on top</source>
-        <translation type="unfinished"></translation>
+        <translation>Permanecer en la capa superior</translation>
     </message>
     <message>
         <source>EXPIRED</source>
-        <translation type="unfinished"></translation>
+        <translation>CADUCADO</translation>
     </message>
     <message>
         <source>TRIAL</source>
-        <translation type="unfinished"></translation>
+        <translation>PRUEBA</translation>
     </message>
     <message>
         <source>Deactivated</source>
-        <translation type="unfinished"></translation>
+        <translation>Desactivado</translation>
     </message>
 </context>
 <context>
@@ -2010,43 +2010,43 @@
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Update language failed</source>
-        <translation type="unfinished"></translation>
+        <translation>La actualizacion del idioma fallo</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished">&amp;Cancelar</translation>
+        <translation>&amp;Cancelar</translation>
     </message>
     <message>
         <source>Folder</source>
-        <translation type="unfinished">Carpeta</translation>
+        <translation>Carpeta</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished">Imagen</translation>
-    </message>
-    <message>
-        <source>Meida</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagen</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished">Texto</translation>
+        <translation>Texto</translation>
     </message>
     <message>
         <source>PDF</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>HTML</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">Desconocido</translation>
+        <translation>Desconocido</translation>
+    </message>
+    <message>
+        <source>Media</source>
+        <translation>Medios</translation>
     </message>
 </context>
 <context>

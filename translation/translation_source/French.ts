@@ -2179,7 +2179,7 @@
     </message>
     <message>
         <source>Meida</source>
-        <translation>Media</translation>
+        <translation type="vanished">Media</translation>
     </message>
     <message>
         <source>Text</source>
@@ -2196,6 +2196,10 @@
     <message>
         <source>Unknown</source>
         <translation>Inconnu</translation>
+    </message>
+    <message>
+        <source>Media</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

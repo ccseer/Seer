@@ -1902,10 +1902,6 @@
         <translation type="unfinished">Obraz</translation>
     </message>
     <message>
-        <source>Meida</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Text</source>
         <translation type="unfinished">Tekst</translation>
     </message>
@@ -1920,6 +1916,10 @@
     <message>
         <source>Unknown</source>
         <translation type="unfinished">Nieznany</translation>
+    </message>
+    <message>
+        <source>Media</source>
+        <translation type="unfinished">Media</translation>
     </message>
 </context>
 <context>
