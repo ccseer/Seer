@@ -669,6 +669,18 @@
         <source>Rotation</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Forward:</source>
+        <translation type="unfinished">앞으로:</translation>
+    </message>
+    <message>
+        <source>Backward:</source>
+        <translation type="unfinished">뒤로:</translation>
+    </message>
+    <message>
+        <source>The system is muted</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CPDFPwdWnd</name>
@@ -1209,7 +1221,7 @@
     </message>
     <message>
         <source>Tray Icon</source>
-        <translation>트레이 아이콘</translation>
+        <translation type="vanished">트레이 아이콘</translation>
     </message>
     <message>
         <source>Hide Tray Icon</source>
@@ -1245,7 +1257,7 @@
     </message>
     <message>
         <source>Use white icon</source>
-        <translation>흰색 아이콘 사용</translation>
+        <translation type="vanished">흰색 아이콘 사용</translation>
     </message>
     <message>
         <source>Enable &quot;Delete&quot; key</source>

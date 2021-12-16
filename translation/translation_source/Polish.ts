@@ -624,6 +624,18 @@
         <source>Rotation</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Forward:</source>
+        <translation type="unfinished">Do przodu:</translation>
+    </message>
+    <message>
+        <source>Backward:</source>
+        <translation type="unfinished">Do tyłu:</translation>
+    </message>
+    <message>
+        <source>The system is muted</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CPDFPwdWnd</name>
@@ -1159,7 +1171,7 @@
     </message>
     <message>
         <source>Tray Icon</source>
-        <translation>Obszar powiadomień</translation>
+        <translation type="vanished">Obszar powiadomień</translation>
     </message>
     <message>
         <source>Hide Tray Icon</source>
@@ -1191,10 +1203,6 @@
     </message>
     <message>
         <source>Hide tray icon</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Use white icon</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

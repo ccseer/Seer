@@ -691,6 +691,18 @@
         <source>Rotation</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Forward:</source>
+        <translation type="unfinished">Avanti：</translation>
+    </message>
+    <message>
+        <source>Backward:</source>
+        <translation type="unfinished">Indietro：</translation>
+    </message>
+    <message>
+        <source>The system is muted</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CPDFPwdWnd</name>
@@ -1218,7 +1230,7 @@
     </message>
     <message>
         <source>Tray Icon</source>
-        <translation>Tray Icon</translation>
+        <translation type="vanished">Tray Icon</translation>
     </message>
     <message>
         <source>Open temp folder failed.</source>
@@ -1226,10 +1238,6 @@
     </message>
     <message>
         <source>Hide tray icon</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Use white icon</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

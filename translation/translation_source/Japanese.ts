@@ -698,6 +698,18 @@
         <source>Rotation</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Forward:</source>
+        <translation type="unfinished">早送り：</translation>
+    </message>
+    <message>
+        <source>Backward:</source>
+        <translation type="unfinished">巻き戻し：</translation>
+    </message>
+    <message>
+        <source>The system is muted</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CPDFPwdWnd</name>
@@ -1242,7 +1254,7 @@
     </message>
     <message>
         <source>Tray Icon</source>
-        <translation>トレイアイコン</translation>
+        <translation type="vanished">トレイアイコン</translation>
     </message>
     <message>
         <source>Hide Tray Icon</source>
@@ -1276,10 +1288,6 @@
     <message>
         <source>Hide tray icon</source>
         <translation>トレイアイコンを隠す</translation>
-    </message>
-    <message>
-        <source>Use white icon</source>
-        <translation></translation>
     </message>
     <message>
         <source>Enable &quot;Delete&quot; key</source>

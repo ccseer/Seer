@@ -632,6 +632,18 @@
         <source>Rotation</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Forward:</source>
+        <translation type="unfinished">Вперед:</translation>
+    </message>
+    <message>
+        <source>Backward:</source>
+        <translation type="unfinished">Назад:</translation>
+    </message>
+    <message>
+        <source>The system is muted</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CPDFPwdWnd</name>
@@ -1166,15 +1178,7 @@
         <translation>Сохранять размер и положение окна</translation>
     </message>
     <message>
-        <source>Tray Icon</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Hide tray icon</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Use white icon</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

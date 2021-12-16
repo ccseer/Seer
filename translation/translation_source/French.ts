@@ -771,6 +771,18 @@
         <source>Rotation</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Forward:</source>
+        <translation type="unfinished">Avancer :</translation>
+    </message>
+    <message>
+        <source>Backward:</source>
+        <translation type="unfinished">Reculer :</translation>
+    </message>
+    <message>
+        <source>The system is muted</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CPDFPwdWnd</name>
@@ -1334,7 +1346,7 @@
     </message>
     <message>
         <source>Tray Icon</source>
-        <translation>Icône dans la barre d&apos;état</translation>
+        <translation type="vanished">Icône dans la barre d&apos;état</translation>
     </message>
     <message>
         <source>Hide tray icon</source>
@@ -1342,7 +1354,7 @@
     </message>
     <message>
         <source>Use white icon</source>
-        <translation>Utiliser une icône blanche</translation>
+        <translation type="vanished">Utiliser une icône blanche</translation>
     </message>
     <message>
         <source>Enable &quot;Delete&quot; key</source>
