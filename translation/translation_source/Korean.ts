@@ -154,11 +154,11 @@
     </message>
     <message>
         <source>Render Markdown</source>
-        <translation type="unfinished"></translation>
+        <translation>마크다운 보기</translation>
     </message>
     <message>
         <source>Loading</source>
-        <translation type="unfinished"></translation>
+        <translation>읽는중</translation>
     </message>
 </context>
 <context>
@@ -295,7 +295,7 @@
     </message>
     <message>
         <source>File is encrypted</source>
-        <translation type="unfinished"></translation>
+        <translation>파일이 암호화되었습니다</translation>
     </message>
     <message>
         <source>Folder</source>
@@ -303,7 +303,7 @@
     </message>
     <message>
         <source>Loading</source>
-        <translation type="unfinished"></translation>
+        <translation>읽는중</translation>
     </message>
 </context>
 <context>
@@ -417,23 +417,23 @@
     </message>
     <message>
         <source>Pin</source>
-        <translation type="unfinished"></translation>
+        <translation>핀</translation>
     </message>
     <message>
         <source>Total bytes</source>
-        <translation type="unfinished"></translation>
+        <translation>전체 크기 (바이트)</translation>
     </message>
     <message>
         <source>Available bytes</source>
-        <translation type="unfinished"></translation>
+        <translation>사용가능한 크기 (바이트)</translation>
     </message>
     <message>
         <source>Free bytes</source>
-        <translation type="unfinished"></translation>
+        <translation>빈 공간 (바이트)</translation>
     </message>
     <message>
         <source>Block size</source>
-        <translation type="unfinished"></translation>
+        <translation>블록 크기</translation>
     </message>
 </context>
 <context>
@@ -549,19 +549,19 @@
     </message>
     <message>
         <source>About</source>
-        <translation type="unfinished">정보</translation>
+        <translation>정보</translation>
     </message>
     <message>
         <source>Activation</source>
-        <translation type="unfinished"></translation>
+        <translation>라이센스 등록</translation>
     </message>
     <message>
         <source>Invalid license</source>
-        <translation type="unfinished"></translation>
+        <translation>유효하지 않은 라이센스</translation>
     </message>
     <message>
         <source>This license is not available any more.</source>
-        <translation type="unfinished"></translation>
+        <translation>이 라이센스는 더이상 사용가능하지 않습니다</translation>
     </message>
 </context>
 <context>
@@ -663,23 +663,23 @@
     </message>
     <message>
         <source>Start Time</source>
-        <translation type="unfinished"></translation>
+        <translation>시작시간</translation>
     </message>
     <message>
         <source>Rotation</source>
-        <translation type="unfinished"></translation>
+        <translation>회전</translation>
     </message>
     <message>
         <source>Forward:</source>
-        <translation type="unfinished">앞으로:</translation>
+        <translation>앞으로:</translation>
     </message>
     <message>
         <source>Backward:</source>
-        <translation type="unfinished">뒤로:</translation>
+        <translation>뒤로:</translation>
     </message>
     <message>
         <source>The system is muted</source>
-        <translation type="unfinished"></translation>
+        <translation>시스템 음소거됨</translation>
     </message>
 </context>
 <context>
@@ -725,23 +725,23 @@
     </message>
     <message>
         <source>Please choose a page first</source>
-        <translation type="unfinished"></translation>
+        <translation>우선 페이지를 선택하세요</translation>
     </message>
     <message>
         <source>Annotation: On</source>
-        <translation type="unfinished"></translation>
+        <translation>주석: 켬</translation>
     </message>
     <message>
         <source>Annotation: Off</source>
-        <translation type="unfinished"></translation>
+        <translation>주석: 끔</translation>
     </message>
     <message>
         <source>Thumbnail</source>
-        <translation type="unfinished"></translation>
+        <translation>미리보기</translation>
     </message>
     <message>
         <source>Outline</source>
-        <translation type="unfinished"></translation>
+        <translation>아웃라인</translation>
     </message>
 </context>
 <context>
@@ -916,99 +916,100 @@
     </message>
     <message>
         <source>Manual</source>
-        <translation type="unfinished"></translation>
+        <translation>매뉴얼</translation>
     </message>
     <message>
         <source>Normal program</source>
-        <translation type="unfinished"></translation>
+        <translation>보통 프로그램</translation>
     </message>
     <message>
         <source>Aperture priority</source>
-        <translation type="unfinished"></translation>
+        <translation>조리개 우선</translation>
     </message>
     <message>
         <source>Shutter priority</source>
-        <translation type="unfinished"></translation>
+        <translation>셔터우선</translation>
     </message>
     <message>
         <source>Creative program</source>
-        <translation type="unfinished"></translation>
+        <translation>크리에이티브 프로그램</translation>
     </message>
     <message>
         <source>Action program</source>
-        <translation type="unfinished"></translation>
+        <translation>실행 프로그램</translation>
     </message>
     <message>
         <source>Portrait mode</source>
-        <translation type="unfinished"></translation>
+        <translation>세로모드</translation>
     </message>
     <message>
         <source>Landscape mode</source>
-        <translation type="unfinished"></translation>
+        <translation>가로 모드</translation>
     </message>
     <message>
         <source>Exposure program</source>
-        <translation type="unfinished"></translation>
+        <translation>노출 프로그램</translation>
     </message>
     <message>
         <source>Shutter speed</source>
-        <translation type="unfinished"></translation>
+        <translation>셔터속도</translation>
     </message>
     <message>
         <source>Reserved</source>
-        <translation type="unfinished"></translation>
+        <translation>보관</translation>
     </message>
     <message>
         <source>Strobe return light not detected</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Strobe return light detected</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>스트로브 라이트 빛반환 감이안</translatorcomment>
+        <translation>스트로브 라이트 빛반환 감지됨</translation>
     </message>
     <message>
         <source>Flash returned light</source>
-        <translation type="unfinished"></translation>
+        <translation>플래쉬가 빛을 반환함</translation>
     </message>
     <message>
         <source>Unknown mode</source>
-        <translation type="unfinished"></translation>
+        <translation>알 수 없는 모드</translation>
     </message>
     <message>
         <source>Compulsory flash firing</source>
-        <translation type="unfinished"></translation>
+        <translation>강제 플래쉬 사용</translation>
     </message>
     <message>
         <source>Compulsory flash suppression</source>
-        <translation type="unfinished"></translation>
+        <translation>강제 플래쉬 끄기</translation>
     </message>
     <message>
         <source>Automatic mode</source>
-        <translation type="unfinished"></translation>
+        <translation>자동 모드</translation>
     </message>
     <message>
         <source>Flash mode</source>
-        <translation type="unfinished"></translation>
+        <translation>플래쉬 모드</translation>
     </message>
     <message>
         <source>average</source>
-        <translation type="unfinished"></translation>
+        <translation>측광</translation>
     </message>
     <message>
         <source>center weighted average</source>
-        <translation type="unfinished"></translation>
+        <translation>중앙 중점부 측광</translation>
     </message>
     <message>
         <source>spot</source>
-        <translation type="unfinished"></translation>
+        <translation>스팟</translation>
     </message>
     <message>
         <source>multi-spot</source>
-        <translation type="unfinished"></translation>
+        <translation>멀티스팟</translation>
     </message>
     <message>
         <source>multi-segment</source>
-        <translation type="unfinished"></translation>
+        <translation>다중 세그먼트</translation>
     </message>
 </context>
 <context>
@@ -1047,27 +1048,27 @@
     </message>
     <message>
         <source>Invalid License</source>
-        <translation>라이센스가 정확하지 않습니다.</translation>
+        <translation>올바르지 않은 라이센스</translation>
     </message>
     <message>
         <source>Redeem</source>
-        <translation type="unfinished"></translation>
+        <translation>등록하기</translation>
     </message>
     <message>
         <source>Redeem code:</source>
-        <translation type="unfinished"></translation>
+        <translation>등록 코드</translation>
     </message>
     <message>
         <source>Back</source>
-        <translation type="unfinished">뒤로</translation>
+        <translation>뒤로</translation>
     </message>
     <message>
         <source>Unable to activate</source>
-        <translation type="unfinished"></translation>
+        <translation>활성화할 수 없습니다</translation>
     </message>
     <message>
         <source>Verifying</source>
-        <translation type="unfinished"></translation>
+        <translation>확인중</translation>
     </message>
 </context>
 <context>
@@ -1145,7 +1146,7 @@
     </message>
     <message>
         <source>Appearance</source>
-        <translation>모양</translation>
+        <translation>모양새</translation>
     </message>
     <message>
         <source>Extension</source>
@@ -1221,11 +1222,11 @@
     </message>
     <message>
         <source>Tray Icon</source>
-        <translation type="vanished">트레이 아이콘</translation>
+        <translation type="vanished">시스템 아이콘</translation>
     </message>
     <message>
         <source>Hide Tray Icon</source>
-        <translation type="vanished">트레이 아이콘 숨기기</translation>
+        <translation type="vanished">시스템 아이콘 숨기기</translation>
     </message>
     <message>
         <source>Use White Icon</source>
@@ -1233,7 +1234,7 @@
     </message>
     <message>
         <source>Run Settings.exe to display tray icon when it&apos;s hidden.</source>
-        <translation type="vanished">트레이 아이콘이 숨겨져 있을 때 아이콘을 다시 표시하려면 Settings.exe를 실행하세요.</translation>
+        <translation type="vanished">시스템 아이콘이 숨겨져 있을 때 아이콘을 다시 표시하려면 Settings.exe를 실행하세요.</translation>
     </message>
     <message>
         <source>Open temp folder failed.</source>
@@ -1249,7 +1250,7 @@
     </message>
     <message>
         <source>Directory Opus:</source>
-        <translation type="vanished">디렉토리 오푸스:</translation>
+        <translation type="vanished">Directory Opus:</translation>
     </message>
     <message>
         <source>Hide tray icon</source>
@@ -1261,7 +1262,7 @@
     </message>
     <message>
         <source>Enable &quot;Delete&quot; key</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;지우기&quot;키 사용</translation>
     </message>
     <message>
         <source>Text</source>
@@ -1293,31 +1294,31 @@
     </message>
     <message>
         <source>Constant</source>
-        <translation type="unfinished"></translation>
+        <translation>고정</translation>
     </message>
     <message>
         <source>Dynamic</source>
-        <translation type="unfinished"></translation>
+        <translation>동적</translation>
     </message>
     <message>
         <source>Visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>보이기</translation>
     </message>
     <message>
         <source>Title bar &amp; Control bar:</source>
-        <translation type="unfinished"></translation>
+        <translation>제목 바 &amp; 제어 바</translation>
     </message>
     <message>
         <source>Double click to open file with system default application</source>
-        <translation type="unfinished">더블 클릭할 때 시스템 기본 응용 프로그램으로 파일 열기</translation>
+        <translation>더블 클릭할 때 시스템 기본 응용 프로그램으로 파일 열기</translation>
     </message>
     <message>
         <source>Track selected file in Explorer</source>
-        <translation type="unfinished">선택한 파일을 탐색기에서 추적</translation>
+        <translation>선택한 파일을 탐색기에서 추적</translation>
     </message>
     <message>
         <source>Use the trigger key to close window</source>
-        <translation type="unfinished">바로가기 키로 창 닫기 사용</translation>
+        <translation>바로가기 키로 창 닫기 사용</translation>
     </message>
 </context>
 <context>
@@ -1356,7 +1357,7 @@
     </message>
     <message>
         <source>Select your Text format file</source>
-        <translation>텍스트 포맷 파일을 선택하세요.</translation>
+        <translation>텍스트 포맷 파일을 선택하세요</translation>
     </message>
     <message>
         <source>Confirm</source>
@@ -1432,15 +1433,15 @@
     </message>
     <message>
         <source>Remember playback position</source>
-        <translation type="unfinished"></translation>
+        <translation>재생위치 기억하기</translation>
     </message>
     <message>
         <source>Archive</source>
-        <translation type="unfinished"></translation>
+        <translation>압축파일</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished">이미지</translation>
+        <translation>이미지</translation>
     </message>
 </context>
 <context>
@@ -1499,7 +1500,7 @@
     </message>
     <message>
         <source>Appearance</source>
-        <translation type="vanished">모습</translation>
+        <translation type="vanished">모양새</translation>
     </message>
     <message>
         <source>Seer will restart</source>
@@ -1523,7 +1524,7 @@
     </message>
     <message>
         <source>Run as administrator</source>
-        <translation type="unfinished"></translation>
+        <translation>관리자 권한으로 실행</translation>
     </message>
 </context>
 <context>
@@ -1746,87 +1747,87 @@
     </message>
     <message>
         <source>Details View:</source>
-        <translation type="unfinished"></translation>
+        <translation>자세히 보기:</translation>
     </message>
     <message>
         <source>Percent Locate:</source>
-        <translation type="unfinished"></translation>
+        <translation>퍼센트 위치:</translation>
     </message>
     <message>
         <source>0-9</source>
-        <translation type="unfinished"></translation>
+        <translation>0-9</translation>
     </message>
     <message>
         <source>Fit Height:</source>
-        <translation type="unfinished"></translation>
+        <translation>높이 맞추기:</translation>
     </message>
     <message>
         <source>Goto:</source>
-        <translation type="unfinished"></translation>
+        <translation>바로가기:</translation>
     </message>
     <message>
         <source>Ctrl + Click</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl + 클릭</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished">텍스트</translation>
+        <translation>텍스트</translation>
     </message>
     <message>
         <source>Render:</source>
-        <translation type="unfinished"></translation>
+        <translation>표시하기</translation>
     </message>
     <message>
         <source>Format:</source>
-        <translation type="unfinished"></translation>
+        <translation>형식:</translation>
     </message>
     <message>
         <source>Locate:</source>
-        <translation type="unfinished"></translation>
+        <translation>위치:</translation>
     </message>
     <message>
         <source>Annotation:</source>
-        <translation type="unfinished"></translation>
+        <translation>주석</translation>
     </message>
     <message>
         <source>Word Wrap:</source>
-        <translation type="unfinished"></translation>
+        <translation>자동 줄바꿈</translation>
     </message>
     <message>
         <source>Line Number:</source>
-        <translation type="unfinished"></translation>
+        <translation>행 번호:</translation>
     </message>
     <message>
         <source>Navigation:</source>
-        <translation type="unfinished"></translation>
+        <translation>찾아가기:</translation>
     </message>
     <message>
         <source>Alt + Arrow Key</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt + 화살표 키</translation>
     </message>
     <message>
         <source>Previous Type File:</source>
-        <translation type="unfinished"></translation>
+        <translation>이전 형식 파일:</translation>
     </message>
     <message>
         <source>Next Type File:</source>
-        <translation type="unfinished"></translation>
+        <translation>다음 형식 파일:</translation>
     </message>
     <message>
         <source>Outline:</source>
-        <translation type="unfinished"></translation>
+        <translation>아웃라인:</translation>
     </message>
     <message>
         <source>Center:</source>
-        <translation type="unfinished"></translation>
+        <translation>중앙</translation>
     </message>
     <message>
         <source>Enter / Return</source>
-        <translation type="unfinished"></translation>
+        <translation>엔터/리턴</translation>
     </message>
     <message>
         <source>Duplicated shortcut:</source>
-        <translation type="unfinished"></translation>
+        <translation>중복된 단축키</translation>
     </message>
 </context>
 <context>
@@ -1881,7 +1882,7 @@
     </message>
     <message>
         <source>Internal handled plugins will be used first.</source>
-        <translation type="unfinished"></translation>
+        <translation>내장 플러그인이 우선 사용됩니다</translation>
     </message>
 </context>
 <context>
@@ -1994,11 +1995,11 @@
     </message>
     <message>
         <source>TRIAL</source>
-        <translation>맛보기판</translation>
+        <translation>평가판</translation>
     </message>
     <message>
         <source>Deactivated</source>
-        <translation type="unfinished"></translation>
+        <translation>비활성화됨</translation>
     </message>
 </context>
 <context>
@@ -2083,35 +2084,35 @@
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished">취소(&amp;C)</translation>
+        <translation>취소(&amp;C)</translation>
     </message>
     <message>
         <source>Folder</source>
-        <translation type="unfinished">폴더</translation>
+        <translation>폴더</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished">이미지</translation>
+        <translation>이미지</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished">텍스트</translation>
+        <translation>텍스트</translation>
     </message>
     <message>
         <source>PDF</source>
-        <translation type="unfinished">PDF</translation>
+        <translation>PDF</translation>
     </message>
     <message>
         <source>HTML</source>
-        <translation type="unfinished">HTML</translation>
+        <translation>HTML</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">알 수 없는 오류</translation>
+        <translation>알 수 없음</translation>
     </message>
     <message>
         <source>Media</source>
-        <translation type="unfinished">멀티미디어</translation>
+        <translation>멀티미디어</translation>
     </message>
 </context>
 <context>
