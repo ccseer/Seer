@@ -1163,7 +1163,7 @@
     </message>
     <message>
         <source>Reset settings to default</source>
-        <translation>Сброс к параметрам по умолчанию</translation>
+        <translation type="vanished">Сброс к параметрам по умолчанию</translation>
     </message>
     <message>
         <source>Save plugin temp files after Seer exited</source>
@@ -1240,6 +1240,26 @@
     <message>
         <source>Use the trigger key to close window</source>
         <translation type="unfinished">Использовать клавишу просмотра, чтобы закрыть окно</translation>
+    </message>
+    <message>
+        <source>Video decoder:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Settings:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Import</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reset to default</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1707,7 +1727,7 @@
     </message>
     <message>
         <source>Plugin already exists</source>
-        <translation>Плагин уже существует</translation>
+        <translation type="vanished">Плагин уже существует</translation>
     </message>
     <message>
         <source>Search plugin</source>

@@ -1234,7 +1234,7 @@
     </message>
     <message>
         <source>Reset settings to default</source>
-        <translation>設定をデフォルトに戻す</translation>
+        <translation type="vanished">設定をデフォルトに戻す</translation>
     </message>
     <message>
         <source>Confirm &amp; Restart :</source>
@@ -1348,6 +1348,26 @@
     <message>
         <source>Use the trigger key to close window</source>
         <translation type="unfinished">トリガーキーでウィンドウを閉じる</translation>
+    </message>
+    <message>
+        <source>Video decoder:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Settings:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Import</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reset to default</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1899,7 +1919,7 @@
     </message>
     <message>
         <source>Plugin already exists</source>
-        <translation>プラグインはすでに存在します</translation>
+        <translation type="vanished">プラグインはすでに存在します</translation>
     </message>
     <message>
         <source>Search plugin</source>

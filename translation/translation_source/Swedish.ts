@@ -1278,10 +1278,6 @@
         <translation type="vanished">Spara tempor?ra insticksfiler n?r Seer avslutas</translation>
     </message>
     <message>
-        <source>Reset settings to default</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Confirm &amp; Restart :</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1356,6 +1352,26 @@
     <message>
         <source>Use the trigger key to close window</source>
         <translation type="unfinished">Anv?nd snabbtangenten f?r att st?nga f?nster</translation>
+    </message>
+    <message>
+        <source>Video decoder:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Settings:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Import</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reset to default</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1879,7 +1895,7 @@
     </message>
     <message>
         <source>Plugin already exists</source>
-        <translation>Insticket finns redan</translation>
+        <translation type="vanished">Insticket finns redan</translation>
     </message>
     <message>
         <source>Search plugin</source>

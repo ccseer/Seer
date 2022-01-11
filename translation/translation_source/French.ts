@@ -1326,7 +1326,7 @@
     </message>
     <message>
         <source>Reset settings to default</source>
-        <translation>Restaurer les paramètres par défaut</translation>
+        <translation type="vanished">Restaurer les paramètres par défaut</translation>
     </message>
     <message>
         <source>Confirm &amp; Restart :</source>
@@ -1411,6 +1411,26 @@
     <message>
         <source>Use the trigger key to close window</source>
         <translation>Utiliser la touche de déclenchement pour fermer la fenêtre</translation>
+    </message>
+    <message>
+        <source>Video decoder:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Settings:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Import</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reset to default</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1951,7 +1971,7 @@
     </message>
     <message>
         <source>Plugin already exists</source>
-        <translation>L&apos;extension existe déjà</translation>
+        <translation type="vanished">L&apos;extension existe déjà</translation>
     </message>
     <message>
         <source>Search plugin</source>

@@ -1206,7 +1206,7 @@
     </message>
     <message>
         <source>Reset settings to default</source>
-        <translation>Restablecer la configuracion a la predeterminada</translation>
+        <translation type="vanished">Restablecer la configuracion a la predeterminada</translation>
     </message>
     <message>
         <source>Confirm &amp; Restart :</source>
@@ -1279,6 +1279,26 @@
     <message>
         <source>Use the trigger key to close window</source>
         <translation>Usar la tecla de activacion para cerrar la ventana</translation>
+    </message>
+    <message>
+        <source>Video decoder:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Settings:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Import</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reset to default</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1802,7 +1822,7 @@
     </message>
     <message>
         <source>Plugin already exists</source>
-        <translation>El plugin ya existe</translation>
+        <translation type="vanished">El plugin ya existe</translation>
     </message>
     <message>
         <source>Search plugin</source>

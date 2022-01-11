@@ -1155,7 +1155,7 @@
     </message>
     <message>
         <source>Reset settings to default</source>
-        <translation>Przywróć ustawienia domyślne</translation>
+        <translation type="vanished">Przywróć ustawienia domyślne</translation>
     </message>
     <message>
         <source>Save plugin temp files after Seer exited</source>
@@ -1264,6 +1264,26 @@
     <message>
         <source>Use the trigger key to close window</source>
         <translation type="unfinished">Użyj klawisza przeglądania do zamykania okna</translation>
+    </message>
+    <message>
+        <source>Video decoder:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Settings:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Import</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reset to default</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1743,7 +1763,7 @@
     </message>
     <message>
         <source>Plugin already exists</source>
-        <translation>Wtyczka już istnieje</translation>
+        <translation type="vanished">Wtyczka już istnieje</translation>
     </message>
     <message>
         <source>Search plugin</source>

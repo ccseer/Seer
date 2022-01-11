@@ -1202,7 +1202,7 @@
     </message>
     <message>
         <source>Reset settings to default</source>
-        <translation>기본 값으로 재설정</translation>
+        <translation type="vanished">기본 값으로 재설정</translation>
     </message>
     <message>
         <source>Confirm &amp; Restart :</source>
@@ -1319,6 +1319,26 @@
     <message>
         <source>Use the trigger key to close window</source>
         <translation>바로가기 키로 창 닫기 사용</translation>
+    </message>
+    <message>
+        <source>Video decoder:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Settings:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Import</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reset to default</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1874,7 +1894,7 @@
     </message>
     <message>
         <source>Plugin already exists</source>
-        <translation>플러그인이 이미 있습니다.</translation>
+        <translation type="vanished">플러그인이 이미 있습니다.</translation>
     </message>
     <message>
         <source>Search plugin</source>
