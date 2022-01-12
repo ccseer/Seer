@@ -767,17 +767,17 @@ Reason:</source>
 <context>
     <name>CMainWnd</name>
     <message>
-        <location filename="../../../../Seer/src/ui/cmainwnd.cpp" line="162"/>
+        <location filename="../../../../Seer/src/ui/cmainwnd.cpp" line="167"/>
         <source>Close</source>
         <translation>关闭</translation>
     </message>
     <message>
-        <location filename="../../../../Seer/src/ui/cmainwnd.cpp" line="179"/>
+        <location filename="../../../../Seer/src/ui/cmainwnd.cpp" line="184"/>
         <source>Properties</source>
         <translation>属性</translation>
     </message>
     <message>
-        <location filename="../../../../Seer/src/ui/cmainwnd.cpp" line="213"/>
+        <location filename="../../../../Seer/src/ui/cmainwnd.cpp" line="218"/>
         <source>Separate</source>
         <translation>分离</translation>
     </message>
