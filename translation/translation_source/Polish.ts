@@ -1108,7 +1108,7 @@
     </message>
     <message>
         <source>equals triggered file path</source>
-        <translation>равно вызванному пути к файлу</translation>
+        <translation type="vanished">равно вызванному пути к файлу</translation>
     </message>
     <message>
         <source>extension</source>
@@ -1117,6 +1117,10 @@
     <message>
         <source>Show &quot;Navigation&quot; button</source>
         <translation>Pokaż przycisk „Nawigacja”</translation>
+    </message>
+    <message>
+        <source>triggered file path</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1266,10 +1270,6 @@
         <translation type="unfinished">Użyj klawisza przeglądania do zamykania okna</translation>
     </message>
     <message>
-        <source>Video decoder:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Settings:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1283,6 +1283,10 @@
     </message>
     <message>
         <source>Reset to default</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Maximum window size:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

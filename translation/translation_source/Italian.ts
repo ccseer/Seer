@@ -1174,16 +1174,16 @@
         <translation>Seleziona percorso file eseguibile</translation>
     </message>
     <message>
-        <source>equals triggered file path</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Edit</source>
         <translation>Modifica</translation>
     </message>
     <message>
         <source>Show &quot;Navigation&quot; button</source>
         <translation>Visualizza tasto &quot;Naviga&quot;</translation>
+    </message>
+    <message>
+        <source>triggered file path</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1297,10 +1297,6 @@
         <translation type="unfinished">Utilizza un tasto d&apos; attivazione per chiudere la finestra</translation>
     </message>
     <message>
-        <source>Video decoder:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Settings:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1314,6 +1310,10 @@
     </message>
     <message>
         <source>Reset to default</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Maximum window size:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

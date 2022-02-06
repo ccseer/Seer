@@ -1167,7 +1167,7 @@
     </message>
     <message>
         <source>equals triggered file path</source>
-        <translation>la entrada es igual a la ruta del archivo activado</translation>
+        <translation type="vanished">la entrada es igual a la ruta del archivo activado</translation>
     </message>
     <message>
         <source>Edit</source>
@@ -1176,6 +1176,10 @@
     <message>
         <source>Show &quot;Navigation&quot; button</source>
         <translation>Mostrar el boton de &quot;Navigacion&quot;</translation>
+    </message>
+    <message>
+        <source>triggered file path</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1281,10 +1285,6 @@
         <translation>Usar la tecla de activacion para cerrar la ventana</translation>
     </message>
     <message>
-        <source>Video decoder:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Settings:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1298,6 +1298,10 @@
     </message>
     <message>
         <source>Reset to default</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Maximum window size:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

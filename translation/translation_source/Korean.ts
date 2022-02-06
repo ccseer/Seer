@@ -1159,7 +1159,7 @@
     </message>
     <message>
         <source>equals triggered file path</source>
-        <translation>트리거 파일 경로</translation>
+        <translation type="vanished">트리거 파일 경로</translation>
     </message>
     <message>
         <source>Edit</source>
@@ -1168,6 +1168,10 @@
     <message>
         <source>Show &quot;Navigation&quot; button</source>
         <translation>&quot;탐색&quot; 버튼 표시</translation>
+    </message>
+    <message>
+        <source>triggered file path</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1321,10 +1325,6 @@
         <translation>바로가기 키로 창 닫기 사용</translation>
     </message>
     <message>
-        <source>Video decoder:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Settings:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1338,6 +1338,10 @@
     </message>
     <message>
         <source>Reset to default</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Maximum window size:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

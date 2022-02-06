@@ -903,7 +903,7 @@
     </message>
     <message>
         <source>equals triggered file path</source>
-        <translation>равно вызванному пути к файлу</translation>
+        <translation type="vanished">равно вызванному пути к файлу</translation>
     </message>
     <message>
         <source>Extension</source>
@@ -924,6 +924,10 @@
     <message>
         <source>Choose Application</source>
         <translation>Выберите приложение</translation>
+    </message>
+    <message>
+        <source>triggered file path</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -997,10 +1001,6 @@
         <translation>Подтвердить и перезапустить:</translation>
     </message>
     <message>
-        <source>Video decoder:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Settings:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1014,6 +1014,10 @@
     </message>
     <message>
         <source>Reset to default</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Maximum window size:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

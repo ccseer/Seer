@@ -1274,7 +1274,7 @@
     <message>
         <source>equals triggered file path</source>
         <translatorcomment>Not sure about this one.</translatorcomment>
-        <translation>équivaut au chemin du fichier déclenché</translation>
+        <translation type="vanished">équivaut au chemin du fichier déclenché</translation>
     </message>
     <message>
         <source>Edit</source>
@@ -1283,6 +1283,10 @@
     <message>
         <source>Show &quot;Navigation&quot; button</source>
         <translation>Afficher le bouton &quot;Navigation&quot;</translation>
+    </message>
+    <message>
+        <source>triggered file path</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1413,10 +1417,6 @@
         <translation>Utiliser la touche de déclenchement pour fermer la fenêtre</translation>
     </message>
     <message>
-        <source>Video decoder:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Settings:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1430,6 +1430,10 @@
     </message>
     <message>
         <source>Reset to default</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Maximum window size:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

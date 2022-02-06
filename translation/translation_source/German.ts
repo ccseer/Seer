@@ -1159,15 +1159,15 @@
         <translation>Ausführbare Datei auswählen</translation>
     </message>
     <message>
-        <source>equals triggered file path</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Edit</source>
         <translation>Bearbeiten</translation>
     </message>
     <message>
         <source>Show &quot;Navigation&quot; button</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>triggered file path</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1278,10 +1278,6 @@
         <translation type="unfinished">Aktionstaste zum Schließen nutzen</translation>
     </message>
     <message>
-        <source>Video decoder:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Settings:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1295,6 +1291,10 @@
     </message>
     <message>
         <source>Reset to default</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Maximum window size:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
