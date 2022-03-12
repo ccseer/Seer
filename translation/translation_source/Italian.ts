@@ -1313,7 +1313,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Maximum window size:</source>
+        <source>Maximum preview size:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
