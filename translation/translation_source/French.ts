@@ -682,6 +682,18 @@
         <source>Separate</source>
         <translation>Séparer</translation>
     </message>
+    <message>
+        <source>1</source>
+        <translation type="obsolete">1</translation>
+    </message>
+    <message>
+        <source>Please try again in a separated window.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Minimize</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CMediaWnd</name>
@@ -1457,7 +1469,7 @@
     </message>
     <message>
         <source> already exist.</source>
-        <translation> existe déjà.</translation>
+        <translation type="vanished"> existe déjà.</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -1930,6 +1942,14 @@
         <source>Duplicated shortcut:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Dark:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Normalize Window:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CSettingsWnd4Plugins</name>
@@ -2101,6 +2121,10 @@
     <message>
         <source>Deactivated</source>
         <translation>Désactivé</translation>
+    </message>
+    <message>
+        <source>What&apos;s New</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

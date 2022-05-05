@@ -611,6 +611,14 @@
         <source>Separate</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Please try again in a separated window.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Minimize</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CMediaWnd</name>
@@ -1394,7 +1402,7 @@
     </message>
     <message>
         <source> already exist.</source>
-        <translation>既に存在します。</translation>
+        <translation type="vanished">既に存在します。</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -1878,6 +1886,14 @@
         <source>Duplicated shortcut:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Dark:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Normalize Window:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CSettingsWnd4Plugins</name>
@@ -2048,6 +2064,10 @@
     </message>
     <message>
         <source>Deactivated</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>What&apos;s New</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

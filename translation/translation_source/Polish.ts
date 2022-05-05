@@ -545,6 +545,14 @@
         <source>Separate</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Please try again in a separated window.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Minimize</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CMediaWnd</name>
@@ -1294,7 +1302,7 @@
     <name>CSettingsWnd4FileType</name>
     <message>
         <source> already exist.</source>
-        <translation> już istnieje.</translation>
+        <translation type="vanished"> już istnieje.</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;:/face_nohappy.png&quot;/&gt;&lt;span style=&quot; font-size:18pt; font-weight:496; color:#333;&quot;&gt; Oops! &lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:18pt; font-weight:496; color:#333;&quot;&gt;No extensions matched.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -1738,6 +1746,14 @@
         <source>Duplicated shortcut:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Dark:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Normalize Window:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CSettingsWnd4Plugins</name>
@@ -1880,6 +1896,10 @@
     </message>
     <message>
         <source>Deactivated</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>What&apos;s New</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -582,6 +582,18 @@
         <source>Separate</source>
         <translation>새 하위 창에 분리</translation>
     </message>
+    <message>
+        <source>1</source>
+        <translation type="obsolete">1</translation>
+    </message>
+    <message>
+        <source>Please try again in a separated window.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Minimize</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CMediaWnd</name>
@@ -1365,7 +1377,7 @@
     </message>
     <message>
         <source> already exist.</source>
-        <translation>이(가) 이미 있습니다.</translation>
+        <translation type="vanished">이(가) 이미 있습니다.</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -1853,6 +1865,14 @@
         <source>Duplicated shortcut:</source>
         <translation>중복된 단축키</translation>
     </message>
+    <message>
+        <source>Dark:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Normalize Window:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CSettingsWnd4Plugins</name>
@@ -2024,6 +2044,10 @@
     <message>
         <source>Deactivated</source>
         <translation>비활성화됨</translation>
+    </message>
+    <message>
+        <source>What&apos;s New</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
