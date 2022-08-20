@@ -15,7 +15,7 @@
 #pragma comment(lib, "User32.lib")
 #pragma comment(lib, "Shlwapi.lib")
 
-#define WND_TEXT "SeerExplorerTester"
+#define WND_TEXT "ACustomExplorer_Title"
 // Qt internal defined, not unique, so we need window text
 #define WND_CLASSNAME "Qt5152QWindowIcon"
 
