@@ -3,10 +3,12 @@
 
 #define SEER_CLASS_NAME L"SeerWindowClass"
 
+// sent from Seer
 #define SEER_REQUEST_PATH 4000
+// sent back to Seer
 #define SEER_RESPONSE_PATH 4001
 
-/// sent to Seer directly
+/// sent to Seer directly without request
 #define SEER_INVOKE_W32 5000
 #define SEER_INVOKE_W32_SEP 5001
 #define SEER_INVOKE_QT 5002

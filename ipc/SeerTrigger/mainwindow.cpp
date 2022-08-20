@@ -5,7 +5,6 @@
 #include <Windows.h>
 #include <tchar.h>
 
-#include <QDebug>
 #include <QDir>
 #include <QEvent>
 #include <QFileSystemModel>
@@ -59,7 +58,7 @@ void MainWindow::initSeer()
     ///
     /// 5. Finally, Seer gets the SEER_RESPONSE_PATH then preview the file.
 
-    TCHAR filename[256]  = _T("tester.json");
+    TCHAR filename[256]  = _T("your_unique_file.json");
     TCHAR classname[256] = _T(WND_CLASSNAME);
     // if your classname is unique, then no need to pass windowtext
     // TCHAR windowtext[256] ={0};
@@ -135,27 +134,27 @@ void MainWindow::initSeer()
 void MainWindow::onCopyDataMsg(PCOPYDATASTRUCT cds)
 {
     // msg received from Seer
-    if (cds->dwData == SEER_REQUEST_PATH) {
-        if (HWND h = FindWindowEx(nullptr, nullptr, SEER_CLASS_NAME, nullptr)) {
-            // send selected file path to Seer
-            const QString path_qt = getSelectedFilePath();
+    if (cds->dwData != SEER_REQUEST_PATH) {
+        return;
+    }
+    if (HWND h = FindWindowEx(nullptr, nullptr, SEER_CLASS_NAME, nullptr)) {
+        // send selected file path to Seer
+        const QString path_qt = getSelectedFilePath();
+        // target file
+        TCHAR path[MAX_PATH] = {0};
+        path_qt.toWCharArray(path);
+        // _tcscpy(path, L"C:\\D\\7z.exe");
 
-            // target file
-            TCHAR path[MAX_PATH] = {0};
-            path_qt.toWCharArray(path);
-            // _tcscpy(path, L"C:\\D\\7z.exe");
-
-            COPYDATASTRUCT cd;
-            cd.cbData = MAX_PATH;
-            cd.lpData = (LPVOID)path;
-            cd.dwData = SEER_RESPONSE_PATH;
-            if (FAILED(SendMessage(h, WM_COPYDATA, 0, (LPARAM)&cd))) {
-                qDebug() << "SendMessage error";
-            }
+        COPYDATASTRUCT cd;
+        cd.cbData = MAX_PATH;
+        cd.lpData = (LPVOID)path;
+        cd.dwData = SEER_RESPONSE_PATH;
+        if (FAILED(SendMessage(h, WM_COPYDATA, 0, (LPARAM)&cd))) {
+            OutputDebugString(TEXT("SendMessage error\n"));
         }
-        else {
-            qDebug() << "SEER_CLASS_NAME not found";
-        }
+    }
+    else {
+        OutputDebugString(TEXT("SEER_CLASS_NAME not found\n"));
     }
 }
 
