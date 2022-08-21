@@ -2,7 +2,6 @@
 
 #include <Shlobj.h>
 #include <Shlwapi.h>
-#include <Windows.h>
 #include <tchar.h>
 
 #include <QDir>
@@ -67,7 +66,7 @@ void MainWindow::initSeer()
     TCHAR path_json[MAX_PATH] = {0};
     if (FAILED(SHGetFolderPath(NULL, CSIDL_MYDOCUMENTS, NULL, 0, path_json))) {
         // should not happen
-        OutputDebugString(TEXT("SHGetFolderPath error\n"));
+        OutputDebugString(_T("SHGetFolderPath error\n"));
         return;
     }
     // path_doc = %USERPROFILE%\Documents
@@ -80,7 +79,7 @@ void MainWindow::initSeer()
         // Seer will try to create the folder everytime it starts.
         // If the folder is not found, then Seer is not installed,
         // or Seer has never been run.
-        OutputDebugString(TEXT("folder not found\n"));
+        OutputDebugString(_T("folder not found\n"));
         return;
     }
     _tcscat(path_json, _T("\\"));
@@ -88,7 +87,7 @@ void MainWindow::initSeer()
     // path_doc = %USERPROFILE%\Documents\Seer\explorers\file_name
     if (PathFileExists(path_json)) {
         // no need to write again
-        OutputDebugString(TEXT("file exists\n"));
+        OutputDebugString(_T("file exists\n"));
         return;
     }
 
@@ -97,7 +96,7 @@ void MainWindow::initSeer()
                                FILE_ATTRIBUTE_NORMAL, NULL);
     if (handle == INVALID_HANDLE_VALUE) {
         // should not happen
-        OutputDebugString(TEXT("CreateFile error\n"));
+        OutputDebugString(_T("CreateFile error\n"));
         return;
     }
 
@@ -119,7 +118,7 @@ void MainWindow::initSeer()
     buf.append("}");
     bool ret = WriteFile(handle, buf.c_str(), buf.length(), nullptr, nullptr);
     if (!ret) {
-        OutputDebugString(TEXT("WriteFile error\n"));
+        OutputDebugString(_T("WriteFile error\n"));
     }
     else {
         /// {
@@ -150,11 +149,11 @@ void MainWindow::onCopyDataMsg(PCOPYDATASTRUCT cds)
         cd.lpData = (LPVOID)path;
         cd.dwData = SEER_RESPONSE_PATH;
         if (FAILED(SendMessage(h, WM_COPYDATA, 0, (LPARAM)&cd))) {
-            OutputDebugString(TEXT("SendMessage error\n"));
+            OutputDebugString(_T("SendMessage error\n"));
         }
     }
     else {
-        OutputDebugString(TEXT("SEER_CLASS_NAME not found\n"));
+        OutputDebugString(_T("SEER_CLASS_NAME not found\n"));
     }
 }
 
@@ -162,7 +161,6 @@ void MainWindow::onCopyDataMsg(PCOPYDATASTRUCT cds)
 /// UI Related
 bool MainWindow::nativeEvent(const QByteArray &, void *m, long *)
 {
-    //
     const auto msg = (MSG *)m;
     if (msg->message == WM_COPYDATA) {
         if (auto cds = (PCOPYDATASTRUCT)msg->lParam) {
@@ -174,16 +172,13 @@ bool MainWindow::nativeEvent(const QByteArray &, void *m, long *)
 
 void MainWindow::changeEvent(QEvent *e)
 {
-    if (e->type() == QEvent::ActivationChange) {
-        if (!isActiveWindow()) {
-            return;
-        }
+    if (e->type() == QEvent::ActivationChange && isActiveWindow()) {
         auto hwnd           = GetForegroundWindow();
         TCHAR buf[MAX_PATH] = {'\0'};
         if (GetWindowText(hwnd, buf, MAX_PATH)) {
             QString info = "WindowText:" + QString::fromWCharArray(buf);
             info.append("\t");
-            buf[0] = TEXT('\0');
+            buf[0] = _T('\0');
             GetClassName(hwnd, buf, MAX_PATH);
             info.append("ClassName:" + QString::fromWCharArray(buf));
             ui->label_info->setText(info);
