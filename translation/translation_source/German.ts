@@ -586,11 +586,11 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Please try again in a separated window.</source>
+        <source>Minimize</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Minimize</source>
+        <source>Please try again with separated window.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1286,10 +1286,6 @@
         <translation type="unfinished">Aktionstaste zum Schließen nutzen</translation>
     </message>
     <message>
-        <source>Settings:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Export</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1303,6 +1299,10 @@
     </message>
     <message>
         <source>Maximum preview size:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Backup:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1928,7 +1928,7 @@
     </message>
     <message>
         <source>Menu</source>
-        <translation>Menü</translation>
+        <translation type="vanished">Menü</translation>
     </message>
     <message>
         <source>Quit</source>
@@ -1980,6 +1980,10 @@
     </message>
     <message>
         <source>What&apos;s New</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Get PinStack</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -145,7 +145,7 @@ void MainWindow::onCopyDataMsg(PCOPYDATASTRUCT cds)
         // _tcscpy(path, L"C:\\D\\7z.exe");
 
         COPYDATASTRUCT cd;
-        cd.cbData = MAX_PATH;
+        cd.cbData = (_tcslen(path) + 1) * sizeof(TCHAR);
         cd.lpData = (LPVOID)path;
         cd.dwData = SEER_RESPONSE_PATH;
         if (FAILED(SendMessage(h, WM_COPYDATA, 0, (LPARAM)&cd))) {

@@ -12,12 +12,12 @@ bool invokeWithWin32()
 {
     // make sure Seer is running
     if (HWND h = FindWindowEx(nullptr, nullptr, SEER_CLASS_NAME, nullptr)) {
-        WCHAR path[MAX_PATH] = {0};
+        TCHAR path[MAX_PATH] = {0};
         // target file
         _tcscpy(path, L"C:\\D\\7z.exe");
 
         COPYDATASTRUCT cd;
-        cd.cbData = MAX_PATH;
+        cd.cbData = (_tcslen(path) + 1) * sizeof(TCHAR);
         cd.lpData = (LPVOID)path;
         cd.dwData = SEER_INVOKE_W32;
         auto err  = SendMessage(h, WM_COPYDATA, 0, (LPARAM)&cd);
