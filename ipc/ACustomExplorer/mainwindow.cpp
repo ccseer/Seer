@@ -130,12 +130,9 @@ void MainWindow::initSeer()
     CloseHandle(handle);
 }
 
-void MainWindow::onCopyDataMsg(PCOPYDATASTRUCT cds)
+void MainWindow::onCopyDataFromSeer()
 {
-    // msg received from Seer
-    if (cds->dwData != SEER_REQUEST_PATH) {
-        return;
-    }
+    //***function has to be done in 150ms, otherwise it fails***
     if (HWND h = FindWindowEx(nullptr, nullptr, SEER_CLASS_NAME, nullptr)) {
         // send selected file path to Seer
         const QString path_qt = getSelectedFilePath();
@@ -159,12 +156,17 @@ void MainWindow::onCopyDataMsg(PCOPYDATASTRUCT cds)
 
 ///////////////////////////////////////////////////////////////////
 /// UI Related
-bool MainWindow::nativeEvent(const QByteArray &, void *m, long *)
+bool MainWindow::nativeEvent(const QByteArray &, void *m, long *result)
 {
     const auto msg = (MSG *)m;
     if (msg->message == WM_COPYDATA) {
         if (auto cds = (PCOPYDATASTRUCT)msg->lParam) {
-            onCopyDataMsg(cds);
+            if (cds->dwData == SEER_REQUEST_PATH) {
+                onCopyDataFromSeer();
+                // LRESULT returns to Seer, but not used currently
+                // *result = 1;
+                return true;
+            }
         }
     }
     return false;

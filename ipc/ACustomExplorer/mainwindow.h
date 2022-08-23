@@ -21,10 +21,10 @@ public:
     // QWidget interface
 protected:
     virtual void changeEvent(QEvent *) override;
-    virtual bool nativeEvent(const QByteArray &e, void *m, long *r) override;
+    virtual bool nativeEvent(const QByteArray &e, void *m, long *result) override;
 
 private:
-    void onCopyDataMsg(PCOPYDATASTRUCT p);
+    void onCopyDataFromSeer();
     QString getSelectedFilePath() const;
     void initSeer();
     void initView();
