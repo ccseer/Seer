@@ -89,6 +89,8 @@ void MainWindow::onSelectedFileChanged()
 
     // Seer is visible and the selected file is changed,
     // then feed Seer with the new file path.
+    // a. Sending an empty string has no effect.
+    // b. Sending the previewing path closes the Seer window.
     TCHAR path[MAX_PATH]  = {0};
     const QString path_qt = getSelectedFilePath();
     path_qt.toWCharArray(path);
