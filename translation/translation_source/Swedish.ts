@@ -635,14 +635,6 @@
         <translation type="obsolete">Ett snabbtittverktyg f?r Windows</translation>
     </message>
     <message>
-        <source>Invalid license</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This license is not available any more.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>About</source>
         <translation type="unfinished">Om</translation>
     </message>

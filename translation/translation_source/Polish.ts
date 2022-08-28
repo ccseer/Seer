@@ -518,14 +518,6 @@
         <source>Activation</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Invalid license</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This license is not available any more.</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>CMainWnd</name>

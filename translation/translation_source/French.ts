@@ -653,11 +653,11 @@
     </message>
     <message>
         <source>Invalid license</source>
-        <translation>Licence non valide</translation>
+        <translation type="vanished">Licence non valide</translation>
     </message>
     <message>
         <source>This license is not available any more.</source>
-        <translation>Cette licence n&apos;est plus disponible.</translation>
+        <translation type="vanished">Cette licence n&apos;est plus disponible.</translation>
     </message>
     <message>
         <source>About</source>

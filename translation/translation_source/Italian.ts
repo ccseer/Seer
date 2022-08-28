@@ -575,11 +575,11 @@
     </message>
     <message>
         <source>Invalid license</source>
-        <translation>Licenza non valida</translation>
+        <translation type="vanished">Licenza non valida</translation>
     </message>
     <message>
         <source>This license is not available any more.</source>
-        <translation>Questa licenza non è più disponibile.</translation>
+        <translation type="vanished">Questa licenza non è più disponibile.</translation>
     </message>
     <message>
         <source>About</source>

@@ -555,14 +555,6 @@
         <translation>Teile Seer mit deinen Freunden.</translation>
     </message>
     <message>
-        <source>Invalid license</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This license is not available any more.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>About</source>
         <translation type="unfinished">Über</translation>
     </message>

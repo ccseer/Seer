@@ -557,11 +557,11 @@
     </message>
     <message>
         <source>Invalid license</source>
-        <translation>유효하지 않은 라이센스</translation>
+        <translation type="vanished">유효하지 않은 라이센스</translation>
     </message>
     <message>
         <source>This license is not available any more.</source>
-        <translation>이 라이센스는 더이상 사용가능하지 않습니다</translation>
+        <translation type="vanished">이 라이센스는 더이상 사용가능하지 않습니다</translation>
     </message>
 </context>
 <context>

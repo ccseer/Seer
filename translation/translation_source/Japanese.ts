@@ -577,14 +577,6 @@
         <translation>お友達と共有しましょう。</translation>
     </message>
     <message>
-        <source>Invalid license</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This license is not available any more.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>About</source>
         <translation type="unfinished">About</translation>
     </message>

@@ -567,11 +567,11 @@
     </message>
     <message>
         <source>Invalid license</source>
-        <translation>Licencia Invalido</translation>
+        <translation type="vanished">Licencia Invalido</translation>
     </message>
     <message>
         <source>This license is not available any more.</source>
-        <translation>Esta licencia no esta disponible.</translation>
+        <translation type="vanished">Esta licencia no esta disponible.</translation>
     </message>
     <message>
         <source>About</source>
