@@ -9,6 +9,7 @@
 #define SEER_RESPONSE_PATH 4001
 
 // send to Seer directly without request
+// the minimum call interval for SEER_INVOKE_* should be 200ms
 #define SEER_INVOKE_W32 5000
 #define SEER_INVOKE_W32_SEP 5001
 #define SEER_INVOKE_QT 5002
@@ -19,6 +20,9 @@
 #define SEER_IS_VISIBLE 5004
 #define SEER_IS_VISIBLE_TRUE 1
 #define SEER_IS_VISIBLE_FALSE 0
+
+// Hide main window if it is visible
+#define SEER_HIDE 5005
 
 // json file
 // file should be located at  %USERPROFILE%/Documents/Seer/explorers/
