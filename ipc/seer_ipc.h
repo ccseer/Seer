@@ -14,6 +14,12 @@
 #define SEER_INVOKE_QT 5002
 #define SEER_INVOKE_QT_SEP 5003
 
+// Seer can have multiple windows(main + separated) at the same time
+// this is checking for visibility of main window
+#define SEER_IS_VISIBLE 5004
+#define SEER_IS_VISIBLE_TRUE 1
+#define SEER_IS_VISIBLE_FALSE 0
+
 // json file
 // file should be located at  %USERPROFILE%/Documents/Seer/explorers/
 #define SEER_EXPLORER_FOLDER "explorers"

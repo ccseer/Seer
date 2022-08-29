@@ -28,14 +28,13 @@ MainWindow::~MainWindow()
     delete ui;
 }
 
-bool sendPath2Seer(HWND seer, LPCWSTR path)
+void sendPath2Seer(HWND seer, LPCWSTR path)
 {
     COPYDATASTRUCT cd;
     cd.cbData = (_tcslen(path) + 1) * sizeof(TCHAR);
     cd.lpData = (LPVOID)path;
     cd.dwData = SEER_INVOKE_W32;
-    auto err  = SendMessage(seer, WM_COPYDATA, 0, (LPARAM)&cd);
-    return SUCCEEDED(err);
+    SendMessage(seer, WM_COPYDATA, 0, (LPARAM)&cd);
 
     /*********************
     * invoke with Qt
@@ -83,7 +82,12 @@ void MainWindow::onSelectedFileChanged()
         return;
     }
     // Seer is not visible
-    if (!IsWindowVisible(seer)) {
+    COPYDATASTRUCT cd;
+    cd.cbData = 0;
+    cd.lpData = nullptr;
+    cd.dwData = SEER_IS_VISIBLE;
+    if (SEER_IS_VISIBLE_FALSE
+        == SendMessage(seer, WM_COPYDATA, 0, (LPARAM)&cd)) {
         return;
     }
 
