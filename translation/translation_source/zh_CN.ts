@@ -771,7 +771,7 @@ Reason:</source>
     <message>
         <location filename="../../../../Seer/src/ui/cmainwnd.cpp" line="302"/>
         <source>Please try again with separated window.</source>
-        <translation type="unfinished"></translation>
+        <translation>请在分离窗口中使用此功能。</translation>
     </message>
     <message>
         <location filename="../../../../Seer/src/ui/cmainwnd.cpp" line="625"/>
@@ -1641,7 +1641,7 @@ Reason:</source>
     <message>
         <location filename="../../../../Seer/src/settings/csettingswnd4explorer.ui" line="383"/>
         <source>Backup:</source>
-        <translation type="unfinished"></translation>
+        <translation>备份：</translation>
     </message>
     <message>
         <source>Maximum window size:</source>
@@ -2716,7 +2716,7 @@ Reason:</source>
     <message>
         <location filename="../../../../Seer/src/ui/csystemtrayicon.cpp" line="140"/>
         <source>Get PinStack</source>
-        <translation type="unfinished"></translation>
+        <translation>获取 PinStack</translation>
     </message>
     <message>
         <location filename="../../../../Seer/src/ui/csystemtrayicon.cpp" line="249"/>
