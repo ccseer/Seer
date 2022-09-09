@@ -521,6 +521,10 @@
         <source>Please choose a page first</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Annotated</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CPicWnd</name>
@@ -1045,7 +1049,7 @@
     </message>
     <message>
         <source>Remove</source>
-        <translation>Удалить</translation>
+        <translation type="vanished">Удалить</translation>
     </message>
     <message>
         <source>Markdown css not found.</source>
@@ -1555,6 +1559,13 @@
     </message>
     <message>
         <source>Get PinStack</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CatalogueWnd</name>
+    <message>
+        <source>Loading...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

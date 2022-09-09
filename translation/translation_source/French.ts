@@ -853,6 +853,10 @@
         <source>Outline</source>
         <translation>Aperçu</translation>
     </message>
+    <message>
+        <source>Annotated</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CPicWnd</name>
@@ -1473,7 +1477,7 @@
     </message>
     <message>
         <source>Remove</source>
-        <translation>Supprimer</translation>
+        <translation type="vanished">Supprimer</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -2128,6 +2132,13 @@
     </message>
     <message>
         <source>Get PinStack</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CatalogueWnd</name>
+    <message>
+        <source>Loading...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

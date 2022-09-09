@@ -755,6 +755,10 @@
         <source>Outline</source>
         <translation>아웃라인</translation>
     </message>
+    <message>
+        <source>Annotated</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CPicWnd</name>
@@ -1381,7 +1385,7 @@
     </message>
     <message>
         <source>Remove</source>
-        <translation>삭제</translation>
+        <translation type="vanished">삭제</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -2051,6 +2055,13 @@
     </message>
     <message>
         <source>Get PinStack</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CatalogueWnd</name>
+    <message>
+        <source>Loading...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
