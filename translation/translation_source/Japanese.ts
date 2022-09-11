@@ -149,11 +149,11 @@
         <translation>桁</translation>
     </message>
     <message>
-        <source>Render Image</source>
+        <source>Render Markdown</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Render Markdown</source>
+        <source>Render Image</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -302,10 +302,6 @@
         <translation type="obsolete">フォルダー</translation>
     </message>
     <message>
-        <source>Loading</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Name</source>
         <translation type="obsolete">名前</translation>
     </message>
@@ -318,12 +314,16 @@
         <translation type="obsolete">更新日時</translation>
     </message>
     <message>
+        <source>Folder</source>
+        <translation type="unfinished">フォルダー</translation>
+    </message>
+    <message>
         <source>File is encrypted</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Folder</source>
-        <translation type="unfinished">フォルダー</translation>
+        <source>Loading</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -691,20 +691,20 @@
         <translation>ループ: オフ</translation>
     </message>
     <message>
-        <source>Start Time</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Rotation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Forward:</source>
         <translation type="unfinished">早送り：</translation>
     </message>
     <message>
         <source>Backward:</source>
         <translation type="unfinished">巻き戻し：</translation>
+    </message>
+    <message>
+        <source>Start Time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotation</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The system is muted</source>
@@ -753,7 +753,15 @@
         <translation>右に回転</translation>
     </message>
     <message>
-        <source>Please choose a page first</source>
+        <source>Outline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Thumbnail</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Annotated</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -765,15 +773,11 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Thumbnail</source>
+        <source>Please choose a page first</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Outline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Annotated</source>
+        <source>Loading...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2068,13 +2072,6 @@
     </message>
     <message>
         <source>Get PinStack</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>CatalogueWnd</name>
-    <message>
-        <source>Loading...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

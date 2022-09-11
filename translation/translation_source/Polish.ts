@@ -126,11 +126,11 @@
         <translation>Kol</translation>
     </message>
     <message>
-        <source>Render Image</source>
+        <source>Render Markdown</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Render Markdown</source>
+        <source>Render Image</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -249,12 +249,12 @@
         <translation>Widok drzewa</translation>
     </message>
     <message>
-        <source>File is encrypted</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Folder</source>
         <translation type="unfinished">Folder</translation>
+    </message>
+    <message>
+        <source>File is encrypted</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Loading</source>
@@ -617,20 +617,20 @@
         <translation>Zapętlenie: Wył.</translation>
     </message>
     <message>
-        <source>Start Time</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Rotation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Forward:</source>
         <translation type="unfinished">Do przodu:</translation>
     </message>
     <message>
         <source>Backward:</source>
         <translation type="unfinished">Do tyłu:</translation>
+    </message>
+    <message>
+        <source>Start Time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotation</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The system is muted</source>
@@ -675,7 +675,15 @@
         <translation>Obróć w prawo</translation>
     </message>
     <message>
-        <source>Please choose a page first</source>
+        <source>Outline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Thumbnail</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Annotated</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -687,15 +695,11 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Thumbnail</source>
+        <source>Please choose a page first</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Outline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Annotated</source>
+        <source>Loading...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1900,13 +1904,6 @@
     </message>
     <message>
         <source>Get PinStack</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>CatalogueWnd</name>
-    <message>
-        <source>Loading...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

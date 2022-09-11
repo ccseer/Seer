@@ -780,16 +780,16 @@
         <translation>Début</translation>
     </message>
     <message>
-        <source>Rotation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Forward:</source>
         <translation type="unfinished">Avancer :</translation>
     </message>
     <message>
         <source>Backward:</source>
         <translation type="unfinished">Reculer :</translation>
+    </message>
+    <message>
+        <source>Rotation</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The system is muted</source>
@@ -855,6 +855,10 @@
     </message>
     <message>
         <source>Annotated</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Loading...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2132,13 +2136,6 @@
     </message>
     <message>
         <source>Get PinStack</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>CatalogueWnd</name>
-    <message>
-        <source>Loading...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

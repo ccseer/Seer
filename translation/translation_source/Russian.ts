@@ -444,6 +444,14 @@
         <translation>Ошибка захвата</translation>
     </message>
     <message>
+        <source>Forward:</source>
+        <translation type="unfinished">Вперед:</translation>
+    </message>
+    <message>
+        <source>Backward:</source>
+        <translation type="unfinished">Назад:</translation>
+    </message>
+    <message>
         <source>Start Time</source>
         <translation type="unfinished"></translation>
     </message>
@@ -454,14 +462,6 @@
     <message>
         <source>The system is muted</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Forward:</source>
-        <translation type="unfinished">Вперед:</translation>
-    </message>
-    <message>
-        <source>Backward:</source>
-        <translation type="unfinished">Назад:</translation>
     </message>
 </context>
 <context>
@@ -498,11 +498,15 @@
         <translation>Фактический размер</translation>
     </message>
     <message>
+        <source>Outline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Thumbnail</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Outline</source>
+        <source>Annotated</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -522,7 +526,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Annotated</source>
+        <source>Loading...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1559,13 +1563,6 @@
     </message>
     <message>
         <source>Get PinStack</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>CatalogueWnd</name>
-    <message>
-        <source>Loading...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

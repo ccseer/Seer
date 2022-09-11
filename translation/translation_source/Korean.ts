@@ -759,6 +759,10 @@
         <source>Annotated</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Loading...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CPicWnd</name>
@@ -2055,13 +2059,6 @@
     </message>
     <message>
         <source>Get PinStack</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>CatalogueWnd</name>
-    <message>
-        <source>Loading...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -193,6 +193,10 @@
         <translation>Formatering misslyckades.</translation>
     </message>
     <message>
+        <source>Line count</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Line:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -201,15 +205,15 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Render Markdown</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Render HTML</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Character count</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Line count</source>
+        <source>Render Image</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -221,11 +225,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Render Image</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Render Markdown</source>
+        <source>Character count</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -362,10 +362,6 @@
         <translation type="obsolete">Filmapp</translation>
     </message>
     <message>
-        <source>Loading</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Name</source>
         <translation type="obsolete">Namn</translation>
     </message>
@@ -382,12 +378,16 @@
         <translation type="obsolete">?ndrad</translation>
     </message>
     <message>
+        <source>Folder</source>
+        <translation type="unfinished">Mapp</translation>
+    </message>
+    <message>
         <source>File is encrypted</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Folder</source>
-        <translation type="unfinished">Mapp</translation>
+        <source>Loading</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -562,11 +562,11 @@
 <context>
     <name>CHtmlWnd</name>
     <message>
-        <source>HTML</source>
+        <source>Markdown Source</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Markdown Source</source>
+        <source>HTML</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -725,16 +725,12 @@
         <translation>Kanaler</translation>
     </message>
     <message>
-        <source>Mute: On</source>
-        <translation type="unfinished"></translation>
+        <source>Forward:</source>
+        <translation type="unfinished">Fram?t:</translation>
     </message>
     <message>
-        <source>Mute: Off</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Capture failed</source>
-        <translation type="unfinished"></translation>
+        <source>Backward:</source>
+        <translation type="unfinished">Tillbaka:</translation>
     </message>
     <message>
         <source>Loop: On</source>
@@ -753,20 +749,28 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Forward:</source>
-        <translation type="unfinished">Fram?t:</translation>
-    </message>
-    <message>
-        <source>Backward:</source>
-        <translation type="unfinished">Tillbaka:</translation>
+        <source>Capture failed</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The system is muted</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Mute: On</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mute: Off</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CPDFPwdWnd</name>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Avbryt</translation>
+    </message>
     <message>
         <source>Password required</source>
         <translation type="unfinished"></translation>
@@ -774,10 +778,6 @@
     <message>
         <source>OK</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="unfinished">Avbryt</translation>
     </message>
 </context>
 <context>
@@ -795,15 +795,23 @@
         <translation>Faktisk storlek</translation>
     </message>
     <message>
-        <source>Encrypted</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Rotate Right</source>
         <translation type="unfinished">Rotera ?t h?ger</translation>
     </message>
     <message>
-        <source>Please choose a page first</source>
+        <source>Outline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Thumbnail</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Annotated</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encrypted</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -815,15 +823,11 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Thumbnail</source>
+        <source>Please choose a page first</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Outline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Annotated</source>
+        <source>Loading...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2040,13 +2044,6 @@
     </message>
     <message>
         <source>Get PinStack</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>CatalogueWnd</name>
-    <message>
-        <source>Loading...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

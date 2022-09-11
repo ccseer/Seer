@@ -498,12 +498,12 @@
 <context>
     <name>CHtmlWnd</name>
     <message>
-        <source>HTML</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Markdown Source</source>
         <translation>Markdown Origen</translation>
+    </message>
+    <message>
+        <source>HTML</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -711,12 +711,12 @@
         <translation>Contraseña requerido</translation>
     </message>
     <message>
-        <source>OK</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Cancel</source>
         <translation>Cancelar</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -763,6 +763,10 @@
     </message>
     <message>
         <source>Annotated</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Loading...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1979,13 +1983,6 @@
     </message>
     <message>
         <source>Get PinStack</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>CatalogueWnd</name>
-    <message>
-        <source>Loading...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

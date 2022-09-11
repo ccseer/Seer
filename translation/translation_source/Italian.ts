@@ -146,10 +146,6 @@
         <translation>Numero Righe</translation>
     </message>
     <message>
-        <source>Ln</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Col</source>
         <translation>Col</translation>
     </message>
@@ -158,12 +154,16 @@
         <translation>Render Immagine</translation>
     </message>
     <message>
+        <source>Loading</source>
+        <translation type="unfinished">Caricamento</translation>
+    </message>
+    <message>
         <source>Render Markdown</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Loading</source>
-        <translation type="unfinished">Caricamento</translation>
+        <source>Ln</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -700,16 +700,16 @@
         <translation>Inizio</translation>
     </message>
     <message>
-        <source>Rotation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Forward:</source>
         <translation type="unfinished">Avanti：</translation>
     </message>
     <message>
         <source>Backward:</source>
         <translation type="unfinished">Indietro：</translation>
+    </message>
+    <message>
+        <source>Rotation</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The system is muted</source>
@@ -766,15 +766,19 @@
         <translation>Annotazioni: off</translation>
     </message>
     <message>
-        <source>Thumbnail</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Outline</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Thumbnail</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Annotated</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Loading...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1999,13 +2003,6 @@
     </message>
     <message>
         <source>Get PinStack</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>CatalogueWnd</name>
-    <message>
-        <source>Loading...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
