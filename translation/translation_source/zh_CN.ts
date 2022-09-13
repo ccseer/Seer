@@ -448,7 +448,7 @@ Reason:</source>
         <translation>位置</translation>
     </message>
     <message>
-        <location filename="../../../../Seer/src/ui/cfileproperty.cpp" line="196"/>
+        <location filename="../../../../Seer/src/ui/cfileproperty.cpp" line="194"/>
         <source>Original location</source>
         <translation>原始位置</translation>
     </message>
@@ -458,12 +458,12 @@ Reason:</source>
         <translation>文件类型</translation>
     </message>
     <message>
-        <location filename="../../../../Seer/src/ui/cfileproperty.cpp" line="230"/>
+        <location filename="../../../../Seer/src/ui/cfileproperty.cpp" line="228"/>
         <source>Opens with</source>
         <translation>打开方式</translation>
     </message>
     <message>
-        <location filename="../../../../Seer/src/ui/cfileproperty.cpp" line="199"/>
+        <location filename="../../../../Seer/src/ui/cfileproperty.cpp" line="197"/>
         <source>Folder</source>
         <translation>文件夹</translation>
     </message>
@@ -483,7 +483,7 @@ Reason:</source>
         <translation>最后读取时间</translation>
     </message>
     <message>
-        <location filename="../../../../Seer/src/ui/cfileproperty.cpp" line="222"/>
+        <location filename="../../../../Seer/src/ui/cfileproperty.cpp" line="220"/>
         <source>Extension</source>
         <translation>后缀名</translation>
     </message>
@@ -548,22 +548,22 @@ Reason:</source>
         <translation>产品版本</translation>
     </message>
     <message>
-        <location filename="../../../../Seer/src/ui/cfileproperty.cpp" line="180"/>
+        <location filename="../../../../Seer/src/ui/cfileproperty.cpp" line="178"/>
         <source>Total bytes</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../../../Seer/src/ui/cfileproperty.cpp" line="182"/>
+        <location filename="../../../../Seer/src/ui/cfileproperty.cpp" line="180"/>
         <source>Available bytes</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../../../Seer/src/ui/cfileproperty.cpp" line="184"/>
+        <location filename="../../../../Seer/src/ui/cfileproperty.cpp" line="182"/>
         <source>Free bytes</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../../../Seer/src/ui/cfileproperty.cpp" line="188"/>
+        <location filename="../../../../Seer/src/ui/cfileproperty.cpp" line="186"/>
         <source>Block size</source>
         <translation></translation>
     </message>
@@ -769,27 +769,27 @@ Reason:</source>
         <translation type="vanished">请在分离窗口中使用此功能。</translation>
     </message>
     <message>
-        <location filename="../../../../Seer/src/ui/cmainwnd.cpp" line="310"/>
+        <location filename="../../../../Seer/src/ui/cmainwnd.cpp" line="313"/>
         <source>Please try again with separated window.</source>
         <translation>请在分离窗口中使用此功能。</translation>
     </message>
     <message>
-        <location filename="../../../../Seer/src/ui/cmainwnd.cpp" line="633"/>
+        <location filename="../../../../Seer/src/ui/cmainwnd.cpp" line="635"/>
         <source>Close</source>
         <translation>关闭</translation>
     </message>
     <message>
-        <location filename="../../../../Seer/src/ui/cmainwnd.cpp" line="640"/>
+        <location filename="../../../../Seer/src/ui/cmainwnd.cpp" line="642"/>
         <source>Minimize</source>
         <translation>最小化</translation>
     </message>
     <message>
-        <location filename="../../../../Seer/src/ui/cmainwnd.cpp" line="650"/>
+        <location filename="../../../../Seer/src/ui/cmainwnd.cpp" line="652"/>
         <source>Properties</source>
         <translation>属性</translation>
     </message>
     <message>
-        <location filename="../../../../Seer/src/ui/cmainwnd.cpp" line="658"/>
+        <location filename="../../../../Seer/src/ui/cmainwnd.cpp" line="660"/>
         <source>Separate</source>
         <translation>分离</translation>
     </message>

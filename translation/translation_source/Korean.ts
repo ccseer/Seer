@@ -1346,23 +1346,23 @@
     </message>
     <message>
         <source>Export</source>
-        <translation type="unfinished"></translation>
+        <translation>내보내기</translation>
     </message>
     <message>
         <source>Import</source>
-        <translation type="unfinished"></translation>
+        <translation>가져오기</translation>
     </message>
     <message>
         <source>Reset to default</source>
-        <translation type="unfinished"></translation>
+        <translation>초기화</translation>
     </message>
     <message>
         <source>Maximum preview size:</source>
-        <translation type="unfinished"></translation>
+        <translation>미리보기 최대 크기:</translation>
     </message>
     <message>
         <source>Backup:</source>
-        <translation type="unfinished"></translation>
+        <translation>백업:</translation>
     </message>
 </context>
 <context>
@@ -2055,11 +2055,11 @@
     </message>
     <message>
         <source>What&apos;s New</source>
-        <translation type="unfinished"></translation>
+        <translation>새로운 소식</translation>
     </message>
     <message>
         <source>Get PinStack</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
