@@ -24,6 +24,7 @@
 // Hide main window if it is visible
 #define SEER_HIDE 5005
 
+//////////////////////////////////////////
 // json file
 // file should be located at  %USERPROFILE%/Documents/Seer/explorers/
 #define SEER_EXPLORER_FOLDER "explorers"
