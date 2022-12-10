@@ -145,11 +145,19 @@
     </message>
     <message>
         <source>Tobey</source>
-        <translation>Tobey</translation>
+        <translation type="vanished">Tobey</translation>
     </message>
     <message>
         <source>Contributor</source>
-        <translation>Contributeur</translation>
+        <translation type="vanished">Contributeur</translation>
+    </message>
+    <message>
+        <source>FOSS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open Source Software in Seer</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -667,6 +675,10 @@
         <source>Activation</source>
         <translation>Activation</translation>
     </message>
+    <message>
+        <source>Seer is already running.</source>
+        <translation type="unfinished">Seer est déjà en cours d&apos;exécution.</translation>
+    </message>
 </context>
 <context>
     <name>CMainWnd</name>
@@ -1138,16 +1150,16 @@
     <name>CRegDlg</name>
     <message>
         <source>ID:</source>
-        <translation>ID:</translation>
+        <translation type="vanished">ID:</translation>
     </message>
     <message>
         <source>Copy</source>
         <translatorcomment>If it is to show the copy number of the software, this translation is OK. If it is the verb  &quot;to copy&quot;, then &quot;Copier&quot; must be used.</translatorcomment>
-        <translation>Copier</translation>
+        <translation type="vanished">Copier</translation>
     </message>
     <message>
         <source>License:</source>
-        <translation>License :</translation>
+        <translation type="vanished">License :</translation>
     </message>
     <message>
         <source>Order</source>
@@ -1156,7 +1168,7 @@
     <message>
         <source>Licensed</source>
         <translatorcomment>&quot;Licensé&quot; could also be used. If it really means &quot;This software is activated&quot;, &quot;Activé&quot; is preferred.If it is followed by a name : &quot;Licensed to ...&quot;, use &quot;Enregistré par&quot;</translatorcomment>
-        <translation>Enregistré</translation>
+        <translation type="vanished">Enregistré</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -1164,11 +1176,11 @@
     </message>
     <message>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation type="vanished">OK</translation>
     </message>
     <message>
         <source>Copied</source>
-        <translation>Copié</translation>
+        <translation type="vanished">Copié</translation>
     </message>
     <message>
         <source>Not Match</source>
@@ -1177,29 +1189,49 @@
     </message>
     <message>
         <source>Invalid License</source>
-        <translation>equals triggered file path</translation>
+        <translation type="vanished">equals triggered file path</translation>
     </message>
     <message>
         <source>Redeem</source>
         <translatorcomment>it is clearer to use the term activate here</translatorcomment>
-        <translation>Activer</translation>
+        <translation type="vanished">Activer</translation>
     </message>
     <message>
         <source>Redeem code:</source>
         <translatorcomment>it is clearer to use the term activation here</translatorcomment>
-        <translation>Code d&apos;activation :</translation>
+        <translation type="vanished">Code d&apos;activation :</translation>
     </message>
     <message>
         <source>Back</source>
-        <translation>Retour</translation>
+        <translation type="vanished">Retour</translation>
     </message>
     <message>
         <source>Unable to activate</source>
-        <translation>Impossible d&apos;activer</translation>
+        <translation type="vanished">Impossible d&apos;activer</translation>
     </message>
     <message>
         <source>Verifying</source>
         <translation>Vérification</translation>
+    </message>
+    <message>
+        <source>Seer will stop running in %1 day(s).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please enter your license key.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Activated</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The evaluation period has ended.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to activate</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1434,7 +1466,7 @@
     </message>
     <message>
         <source>Use the trigger key to close window</source>
-        <translation>Utiliser la touche de déclenchement pour fermer la fenêtre</translation>
+        <translation type="vanished">Utiliser la touche de déclenchement pour fermer la fenêtre</translation>
     </message>
     <message>
         <source>Export</source>
@@ -1454,6 +1486,10 @@
     </message>
     <message>
         <source>Backup:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User defined</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1493,7 +1529,7 @@
     </message>
     <message>
         <source>Select your Text format file</source>
-        <translation>Sélectionner votre format de fichier texte</translation>
+        <translation type="vanished">Sélectionner votre format de fichier texte</translation>
     </message>
     <message>
         <source>Confirm</source>
@@ -1537,7 +1573,7 @@
     </message>
     <message>
         <source>Markdown css not found.</source>
-        <translation>Markdown css introuvable.</translation>
+        <translation type="vanished">Markdown css introuvable.</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;:(&lt;/p&gt;&lt;p&gt;Oops!&lt;/p&gt;&lt;p&gt;No extensions matched.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -1565,7 +1601,7 @@
     </message>
     <message>
         <source>Remember playback position</source>
-        <translation>Mémoriser la position de lecture</translation>
+        <translation type="vanished">Mémoriser la position de lecture</translation>
     </message>
     <message>
         <source>Archive</source>
@@ -1574,6 +1610,10 @@
     <message>
         <source>Image</source>
         <translation>Image</translation>
+    </message>
+    <message>
+        <source>Invalid</source>
+        <translation type="unfinished">Invalide</translation>
     </message>
 </context>
 <context>
@@ -1788,7 +1828,7 @@
     </message>
     <message>
         <source>Time Indication:</source>
-        <translation>Indicateur de temps :</translation>
+        <translation type="vanished">Indicateur de temps :</translation>
     </message>
     <message>
         <source>Open Selected Item With Seer:</source>
@@ -1958,6 +1998,30 @@
         <source>Normalize Window:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Increase Speed:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Forward 5x:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Backward 15x:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Decrease Speed:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Backward 5x:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Forward 15x:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CSettingsWnd4Plugins</name>
@@ -2120,15 +2184,15 @@
     </message>
     <message>
         <source>EXPIRED</source>
-        <translation>EXPIRÉ</translation>
+        <translation type="vanished">EXPIRÉ</translation>
     </message>
     <message>
         <source>TRIAL</source>
-        <translation>ESSAI</translation>
+        <translation type="vanished">ESSAI</translation>
     </message>
     <message>
         <source>Deactivated</source>
-        <translation>Désactivé</translation>
+        <translation type="vanished">Désactivé</translation>
     </message>
     <message>
         <source>What&apos;s New</source>
@@ -2137,6 +2201,10 @@
     <message>
         <source>Get PinStack</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Like Seer?</source>
+        <translation type="obsolete">Vous aimez Seer ?</translation>
     </message>
 </context>
 <context>
@@ -2211,7 +2279,7 @@
     </message>
     <message>
         <source>Seer is already running.</source>
-        <translation>Seer est déjà en cours d&apos;exécution.</translation>
+        <translation type="vanished">Seer est déjà en cours d&apos;exécution.</translation>
     </message>
     <message>
         <source>Set language failed</source>

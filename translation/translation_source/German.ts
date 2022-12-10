@@ -76,11 +76,11 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Tobey</source>
+        <source>FOSS</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Contributor</source>
+        <source>Open Source Software in Seer</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -562,6 +562,10 @@
         <source>Activation</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Seer is already running.</source>
+        <translation type="unfinished">Seer läuft bereits.</translation>
+    </message>
 </context>
 <context>
     <name>CMainWnd</name>
@@ -1017,16 +1021,12 @@
 <context>
     <name>CRegDlg</name>
     <message>
-        <source>ID:</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Copy</source>
-        <translation>Kopieren</translation>
+        <translation type="vanished">Kopieren</translation>
     </message>
     <message>
         <source>License:</source>
-        <translation>Lizenz:</translation>
+        <translation type="vanished">Lizenz:</translation>
     </message>
     <message>
         <source>Order</source>
@@ -1034,46 +1034,46 @@
     </message>
     <message>
         <source>Licensed</source>
-        <translation>Lizensiert</translation>
+        <translation type="vanished">Lizensiert</translation>
     </message>
     <message>
         <source>Cancel</source>
         <translation>Abbrechen</translation>
     </message>
     <message>
-        <source>OK</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Copied</source>
-        <translation>Kopiert</translation>
+        <translation type="vanished">Kopiert</translation>
     </message>
     <message>
         <source>Not Match</source>
         <translation type="vanished">Keine Übereinstimmung</translation>
     </message>
     <message>
-        <source>Invalid License</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Redeem</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Redeem code:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Back</source>
-        <translation type="unfinished">Zurück</translation>
-    </message>
-    <message>
-        <source>Unable to activate</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Zurück</translation>
     </message>
     <message>
         <source>Verifying</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Seer will stop running in %1 day(s).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please enter your license key.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Activated</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The evaluation period has ended.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to activate</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1283,7 +1283,7 @@
     </message>
     <message>
         <source>Use the trigger key to close window</source>
-        <translation type="unfinished">Aktionstaste zum Schließen nutzen</translation>
+        <translation type="obsolete">Aktionstaste zum Schließen nutzen</translation>
     </message>
     <message>
         <source>Export</source>
@@ -1303,6 +1303,10 @@
     </message>
     <message>
         <source>Backup:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User defined</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1342,7 +1346,7 @@
     </message>
     <message>
         <source>Select your Text format file</source>
-        <translation>Wähle deine Textformat-Datei aus</translation>
+        <translation type="vanished">Wähle deine Textformat-Datei aus</translation>
     </message>
     <message>
         <source>Confirm</source>
@@ -1385,10 +1389,6 @@
         <translation type="vanished">Zeitanzeige</translation>
     </message>
     <message>
-        <source>Markdown css not found.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;:(&lt;/p&gt;&lt;p&gt;Oops!&lt;/p&gt;&lt;p&gt;No extensions matched.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1413,16 +1413,16 @@
         <translation type="unfinished">Deaktiviere Dateityperkennung</translation>
     </message>
     <message>
-        <source>Remember playback position</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Archive</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Image</source>
         <translation type="unfinished">Bilder</translation>
+    </message>
+    <message>
+        <source>Invalid</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1628,7 +1628,7 @@
     </message>
     <message>
         <source>Time Indication:</source>
-        <translation>Zeitanzeige:</translation>
+        <translation type="vanished">Zeitanzeige:</translation>
     </message>
     <message>
         <source>Open Selected Item With Seer:</source>
@@ -1806,6 +1806,30 @@
         <source>Normalize Window:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Increase Speed:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Forward 5x:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Backward 15x:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Decrease Speed:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Backward 5x:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Forward 15x:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CSettingsWnd4Plugins</name>
@@ -1967,24 +1991,16 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>EXPIRED</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>TRIAL</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Deactivated</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>What&apos;s New</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Get PinStack</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Like Seer?</source>
+        <translation type="obsolete">Gefällt dir Seer?</translation>
     </message>
 </context>
 <context>
@@ -2058,7 +2074,7 @@
     </message>
     <message>
         <source>Seer is already running.</source>
-        <translation>Seer läuft bereits.</translation>
+        <translation type="vanished">Seer läuft bereits.</translation>
     </message>
     <message>
         <source>Set language failed</source>

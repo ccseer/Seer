@@ -72,13 +72,16 @@
         <translation>Cisa</translation>
     </message>
     <message>
-        <source>Tobey</source>
-        <translatorcomment>I guess it&apos;s a company name,right?</translatorcomment>
-        <translation></translation>
+        <source>Contributor</source>
+        <translation type="vanished">Collaboratori</translation>
     </message>
     <message>
-        <source>Contributor</source>
-        <translation>Collaboratori</translation>
+        <source>FOSS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open Source Software in Seer</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -589,6 +592,10 @@
         <source>Activation</source>
         <translation>Attivazione prodotto</translation>
     </message>
+    <message>
+        <source>Seer is already running.</source>
+        <translation type="unfinished">Seer è già in esecuzione.</translation>
+    </message>
 </context>
 <context>
     <name>CMainWnd</name>
@@ -1053,15 +1060,15 @@
     <name>CRegDlg</name>
     <message>
         <source>ID:</source>
-        <translation>ID: </translation>
+        <translation type="vanished">ID: </translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation>Copia</translation>
+        <translation type="vanished">Copia</translation>
     </message>
     <message>
         <source>License:</source>
-        <translation>Licenza:</translation>
+        <translation type="vanished">Licenza:</translation>
     </message>
     <message>
         <source>Order</source>
@@ -1069,7 +1076,7 @@
     </message>
     <message>
         <source>Licensed</source>
-        <translation>Licenza effettuata</translation>
+        <translation type="vanished">Licenza effettuata</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -1077,34 +1084,42 @@
     </message>
     <message>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation type="vanished">OK</translation>
     </message>
     <message>
         <source>Copied</source>
-        <translation>Copiato</translation>
+        <translation type="vanished">Copiato</translation>
     </message>
     <message>
         <source>Invalid License</source>
-        <translation>Licenza non valida</translation>
-    </message>
-    <message>
-        <source>Redeem</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Redeem code:</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Licenza non valida</translation>
     </message>
     <message>
         <source>Back</source>
-        <translation type="unfinished">Indietro</translation>
-    </message>
-    <message>
-        <source>Unable to activate</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Indietro</translation>
     </message>
     <message>
         <source>Verifying</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Seer will stop running in %1 day(s).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please enter your license key.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Activated</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The evaluation period has ended.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to activate</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1314,7 +1329,7 @@
     </message>
     <message>
         <source>Use the trigger key to close window</source>
-        <translation type="unfinished">Utilizza un tasto d&apos; attivazione per chiudere la finestra</translation>
+        <translation type="obsolete">Utilizza un tasto d&apos; attivazione per chiudere la finestra</translation>
     </message>
     <message>
         <source>Export</source>
@@ -1334,6 +1349,10 @@
     </message>
     <message>
         <source>Backup:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User defined</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1373,7 +1392,7 @@
     </message>
     <message>
         <source>Select your Text format file</source>
-        <translation>Selezione il formato di Testo</translation>
+        <translation type="vanished">Selezione il formato di Testo</translation>
     </message>
     <message>
         <source>Confirm</source>
@@ -1397,10 +1416,6 @@
     </message>
     <message>
         <source>Search extension, e.g.: psd</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Markdown css not found.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1428,16 +1443,16 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Remember playback position</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Archive</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Image</source>
         <translation type="unfinished">Immagine</translation>
+    </message>
+    <message>
+        <source>Invalid</source>
+        <translation type="unfinished">Non valido</translation>
     </message>
 </context>
 <context>
@@ -1651,7 +1666,7 @@
     </message>
     <message>
         <source>Time Indication:</source>
-        <translation>Indicazione del Tempo：</translation>
+        <translation type="vanished">Indicazione del Tempo：</translation>
     </message>
     <message>
         <source>Open Selected Item With Seer:</source>
@@ -1825,6 +1840,30 @@
         <source>Normalize Window:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Increase Speed:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Forward 5x:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Backward 15x:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Decrease Speed:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Backward 5x:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Forward 15x:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CSettingsWnd4Plugins</name>
@@ -1987,15 +2026,15 @@
     </message>
     <message>
         <source>EXPIRED</source>
-        <translation>SCADUTA</translation>
+        <translation type="vanished">SCADUTA</translation>
     </message>
     <message>
         <source>TRIAL</source>
-        <translation>VERSIONE DI PROVA</translation>
+        <translation type="vanished">VERSIONE DI PROVA</translation>
     </message>
     <message>
         <source>Deactivated</source>
-        <translation>Non attivato</translation>
+        <translation type="vanished">Non attivato</translation>
     </message>
     <message>
         <source>What&apos;s New</source>
@@ -2004,6 +2043,10 @@
     <message>
         <source>Get PinStack</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Like Seer?</source>
+        <translation type="obsolete">Ti piace Seer?</translation>
     </message>
 </context>
 <context>
@@ -2077,7 +2120,7 @@
     </message>
     <message>
         <source>Seer is already running.</source>
-        <translation>Seer è già in esecuzione.</translation>
+        <translation type="vanished">Seer è già in esecuzione.</translation>
     </message>
     <message>
         <source>Set language failed</source>

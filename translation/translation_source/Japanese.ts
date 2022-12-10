@@ -65,11 +65,19 @@
     </message>
     <message>
         <source>Tobey</source>
-        <translation>Tobey</translation>
+        <translation type="vanished">Tobey</translation>
     </message>
     <message>
         <source>Contributor</source>
-        <translation>貢献者</translation>
+        <translation type="vanished">貢献者</translation>
+    </message>
+    <message>
+        <source>FOSS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open Source Software in Seer</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -584,6 +592,10 @@
         <source>Activation</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Seer is already running.</source>
+        <translation type="unfinished">Seerは既に起動しています。</translation>
+    </message>
 </context>
 <context>
     <name>CMainWnd</name>
@@ -1056,15 +1068,15 @@
     <name>CRegDlg</name>
     <message>
         <source>ID:</source>
-        <translation>ID:</translation>
+        <translation type="vanished">ID:</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation>コピー</translation>
+        <translation type="vanished">コピー</translation>
     </message>
     <message>
         <source>License:</source>
-        <translation>ライセンスキー:</translation>
+        <translation type="vanished">ライセンスキー:</translation>
     </message>
     <message>
         <source>Order</source>
@@ -1072,7 +1084,7 @@
     </message>
     <message>
         <source>Licensed</source>
-        <translation>登録完了</translation>
+        <translation type="vanished">登録完了</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -1080,34 +1092,42 @@
     </message>
     <message>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation type="vanished">OK</translation>
     </message>
     <message>
         <source>Copied</source>
-        <translation>コピー済</translation>
+        <translation type="vanished">コピー済</translation>
     </message>
     <message>
         <source>Invalid License</source>
-        <translation>ライセンスキーが正しくありません</translation>
-    </message>
-    <message>
-        <source>Redeem</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Redeem code:</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">ライセンスキーが正しくありません</translation>
     </message>
     <message>
         <source>Back</source>
-        <translation type="unfinished">戻る</translation>
-    </message>
-    <message>
-        <source>Unable to activate</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">戻る</translation>
     </message>
     <message>
         <source>Verifying</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Seer will stop running in %1 day(s).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please enter your license key.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Activated</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The evaluation period has ended.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to activate</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1359,7 +1379,7 @@
     </message>
     <message>
         <source>Use the trigger key to close window</source>
-        <translation type="unfinished">トリガーキーでウィンドウを閉じる</translation>
+        <translation type="obsolete">トリガーキーでウィンドウを閉じる</translation>
     </message>
     <message>
         <source>Export</source>
@@ -1379,6 +1399,10 @@
     </message>
     <message>
         <source>Backup:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User defined</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1418,7 +1442,7 @@
     </message>
     <message>
         <source>Select your Text format file</source>
-        <translation>テキスト整形設定ファイルを選択</translation>
+        <translation type="vanished">テキスト整形設定ファイルを選択</translation>
     </message>
     <message>
         <source>Confirm</source>
@@ -1462,7 +1486,7 @@
     </message>
     <message>
         <source>Markdown css not found.</source>
-        <translation>Markdown CSSが見つかりません。</translation>
+        <translation type="vanished">Markdown CSSが見つかりません。</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;:(&lt;/p&gt;&lt;p&gt;Oops!&lt;/p&gt;&lt;p&gt;No extensions matched.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -1489,16 +1513,16 @@
         <translation type="unfinished">ファイル種類の検知を無効化</translation>
     </message>
     <message>
-        <source>Remember playback position</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Archive</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Image</source>
         <translation type="unfinished">画像</translation>
+    </message>
+    <message>
+        <source>Invalid</source>
+        <translation type="unfinished">正しくありません</translation>
     </message>
 </context>
 <context>
@@ -1712,7 +1736,7 @@
     </message>
     <message>
         <source>Time Indication:</source>
-        <translation>時間表示：</translation>
+        <translation type="vanished">時間表示：</translation>
     </message>
     <message>
         <source>Open Selected Item With Seer:</source>
@@ -1894,6 +1918,30 @@
         <source>Normalize Window:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Increase Speed:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Forward 5x:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Backward 15x:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Decrease Speed:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Backward 5x:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Forward 15x:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CSettingsWnd4Plugins</name>
@@ -2056,15 +2104,11 @@
     </message>
     <message>
         <source>EXPIRED</source>
-        <translation>期限切れ</translation>
+        <translation type="vanished">期限切れ</translation>
     </message>
     <message>
         <source>TRIAL</source>
-        <translation>トライアル</translation>
-    </message>
-    <message>
-        <source>Deactivated</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">トライアル</translation>
     </message>
     <message>
         <source>What&apos;s New</source>
@@ -2073,6 +2117,10 @@
     <message>
         <source>Get PinStack</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Like Seer?</source>
+        <translation type="obsolete">Seer を気に入りましたか?</translation>
     </message>
 </context>
 <context>
@@ -2146,7 +2194,7 @@
     </message>
     <message>
         <source>Seer is already running.</source>
-        <translation>Seerは既に起動しています。</translation>
+        <translation type="vanished">Seerは既に起動しています。</translation>
     </message>
     <message>
         <source>Set language failed</source>

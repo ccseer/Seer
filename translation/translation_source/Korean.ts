@@ -65,11 +65,19 @@
     </message>
     <message>
         <source>Tobey</source>
-        <translation>Tobey</translation>
+        <translation type="vanished">Tobey</translation>
     </message>
     <message>
         <source>Contributor</source>
-        <translation>공헌자</translation>
+        <translation type="vanished">공헌자</translation>
+    </message>
+    <message>
+        <source>FOSS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open Source Software in Seer</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -563,6 +571,10 @@
         <source>This license is not available any more.</source>
         <translation type="vanished">이 라이센스는 더이상 사용가능하지 않습니다</translation>
     </message>
+    <message>
+        <source>Seer is already running.</source>
+        <translation type="unfinished">Seer가 이미 실행 중입니다.</translation>
+    </message>
 </context>
 <context>
     <name>CMainWnd</name>
@@ -1036,15 +1048,15 @@
     <name>CRegDlg</name>
     <message>
         <source>ID:</source>
-        <translation>ID:</translation>
+        <translation type="vanished">ID:</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation>복사</translation>
+        <translation type="vanished">복사</translation>
     </message>
     <message>
         <source>License:</source>
-        <translation>라이센스:</translation>
+        <translation type="vanished">라이센스:</translation>
     </message>
     <message>
         <source>Order</source>
@@ -1052,7 +1064,7 @@
     </message>
     <message>
         <source>Licensed</source>
-        <translation>등록됨</translation>
+        <translation type="vanished">등록됨</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -1060,35 +1072,55 @@
     </message>
     <message>
         <source>OK</source>
-        <translation>확인</translation>
+        <translation type="vanished">확인</translation>
     </message>
     <message>
         <source>Copied</source>
-        <translation>복사됨</translation>
+        <translation type="vanished">복사됨</translation>
     </message>
     <message>
         <source>Invalid License</source>
-        <translation>올바르지 않은 라이센스</translation>
+        <translation type="vanished">올바르지 않은 라이센스</translation>
     </message>
     <message>
         <source>Redeem</source>
-        <translation>등록하기</translation>
+        <translation type="vanished">등록하기</translation>
     </message>
     <message>
         <source>Redeem code:</source>
-        <translation>등록 코드</translation>
+        <translation type="vanished">등록 코드</translation>
     </message>
     <message>
         <source>Back</source>
-        <translation>뒤로</translation>
+        <translation type="vanished">뒤로</translation>
     </message>
     <message>
         <source>Unable to activate</source>
-        <translation>활성화할 수 없습니다</translation>
+        <translation type="vanished">활성화할 수 없습니다</translation>
     </message>
     <message>
         <source>Verifying</source>
         <translation>확인중</translation>
+    </message>
+    <message>
+        <source>Seer will stop running in %1 day(s).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please enter your license key.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Activated</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The evaluation period has ended.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to activate</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1342,7 +1374,7 @@
     </message>
     <message>
         <source>Use the trigger key to close window</source>
-        <translation>바로가기 키로 창 닫기 사용</translation>
+        <translation type="vanished">바로가기 키로 창 닫기 사용</translation>
     </message>
     <message>
         <source>Export</source>
@@ -1363,6 +1395,10 @@
     <message>
         <source>Backup:</source>
         <translation>백업:</translation>
+    </message>
+    <message>
+        <source>User defined</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1401,7 +1437,7 @@
     </message>
     <message>
         <source>Select your Text format file</source>
-        <translation>텍스트 포맷 파일을 선택하세요</translation>
+        <translation type="vanished">텍스트 포맷 파일을 선택하세요</translation>
     </message>
     <message>
         <source>Confirm</source>
@@ -1445,7 +1481,7 @@
     </message>
     <message>
         <source>Markdown css not found.</source>
-        <translation>마크다운 CSS를 찾지 못했습니다.</translation>
+        <translation type="vanished">마크다운 CSS를 찾지 못했습니다.</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;:(&lt;/p&gt;&lt;p&gt;Oops!&lt;/p&gt;&lt;p&gt;No extensions matched.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -1477,7 +1513,7 @@
     </message>
     <message>
         <source>Remember playback position</source>
-        <translation>재생위치 기억하기</translation>
+        <translation type="vanished">재생위치 기억하기</translation>
     </message>
     <message>
         <source>Archive</source>
@@ -1486,6 +1522,10 @@
     <message>
         <source>Image</source>
         <translation>이미지</translation>
+    </message>
+    <message>
+        <source>Invalid</source>
+        <translation type="unfinished">잘못됨</translation>
     </message>
 </context>
 <context>
@@ -1699,7 +1739,7 @@
     </message>
     <message>
         <source>Time Indication:</source>
-        <translation>시간 표시기:</translation>
+        <translation type="vanished">시간 표시기:</translation>
     </message>
     <message>
         <source>Open Selected Item With Seer:</source>
@@ -1881,6 +1921,30 @@
         <source>Normalize Window:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Increase Speed:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Forward 5x:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Backward 15x:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Decrease Speed:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Backward 5x:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Forward 15x:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CSettingsWnd4Plugins</name>
@@ -2043,15 +2107,15 @@
     </message>
     <message>
         <source>EXPIRED</source>
-        <translation>만료됨</translation>
+        <translation type="vanished">만료됨</translation>
     </message>
     <message>
         <source>TRIAL</source>
-        <translation>평가판</translation>
+        <translation type="vanished">평가판</translation>
     </message>
     <message>
         <source>Deactivated</source>
-        <translation>비활성화됨</translation>
+        <translation type="vanished">비활성화됨</translation>
     </message>
     <message>
         <source>What&apos;s New</source>
@@ -2060,6 +2124,10 @@
     <message>
         <source>Get PinStack</source>
         <translation></translation>
+    </message>
+    <message>
+        <source>Like Seer?</source>
+        <translation type="obsolete">Seer가 마음에 드나요?</translation>
     </message>
 </context>
 <context>
@@ -2132,7 +2200,7 @@
     </message>
     <message>
         <source>Seer is already running.</source>
-        <translation>Seer가 이미 실행 중입니다.</translation>
+        <translation type="vanished">Seer가 이미 실행 중입니다.</translation>
     </message>
     <message>
         <source>Set language failed</source>

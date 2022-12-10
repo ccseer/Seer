@@ -52,11 +52,11 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Tobey</source>
+        <source>FOSS</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Contributor</source>
+        <source>Open Source Software in Seer</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -360,6 +360,10 @@
     <message>
         <source>Register shortcut failed</source>
         <translation>Сбой записи комбинации клавиш</translation>
+    </message>
+    <message>
+        <source>Seer is already running.</source>
+        <translation type="unfinished">Seer уже запущен.</translation>
     </message>
 </context>
 <context>
@@ -793,15 +797,15 @@
     <name>CRegDlg</name>
     <message>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation type="vanished">OK</translation>
     </message>
     <message>
         <source>ID:</source>
-        <translation>ID:</translation>
+        <translation type="vanished">ID:</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation>Копировать</translation>
+        <translation type="vanished">Копировать</translation>
     </message>
     <message>
         <source>Order</source>
@@ -813,38 +817,42 @@
     </message>
     <message>
         <source>Copied</source>
-        <translation>Копирование</translation>
+        <translation type="vanished">Копирование</translation>
     </message>
     <message>
         <source>Invalid License</source>
-        <translation>Неверная лицензия</translation>
+        <translation type="vanished">Неверная лицензия</translation>
     </message>
     <message>
         <source>Licensed</source>
-        <translation>Лицензированный</translation>
+        <translation type="vanished">Лицензированный</translation>
     </message>
     <message>
         <source>License:</source>
-        <translation>Лицензия:</translation>
-    </message>
-    <message>
-        <source>Redeem</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Redeem code:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Back</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unable to activate</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Лицензия:</translation>
     </message>
     <message>
         <source>Verifying</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Seer will stop running in %1 day(s).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please enter your license key.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Activated</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The evaluation period has ended.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to activate</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -970,7 +978,7 @@
     </message>
     <message>
         <source>Use the trigger key to close window</source>
-        <translation>Использовать клавишу просмотра, чтобы закрыть окно</translation>
+        <translation type="vanished">Использовать клавишу просмотра, чтобы закрыть окно</translation>
     </message>
     <message>
         <source>Reset settings to default</source>
@@ -1028,6 +1036,10 @@
         <source>Backup:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>User defined</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CSettingsWnd4FileType</name>
@@ -1057,11 +1069,11 @@
     </message>
     <message>
         <source>Markdown css not found.</source>
-        <translation>Markdown css не найден.</translation>
+        <translation type="vanished">Markdown css не найден.</translation>
     </message>
     <message>
         <source>Select your Text format file</source>
-        <translation>Выберите формат текстового файла</translation>
+        <translation type="vanished">Выберите формат текстового файла</translation>
     </message>
     <message>
         <source>Disable folder contents loading</source>
@@ -1074,10 +1086,6 @@
     <message>
         <source>Disable file type detecting</source>
         <translation>Отключить обнаружение типов файлов</translation>
-    </message>
-    <message>
-        <source>Remember playback position</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Archive</source>
@@ -1097,6 +1105,10 @@
     </message>
     <message>
         <source>Will display property only for extensions in this field, e.g.:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1255,7 +1267,7 @@
     </message>
     <message>
         <source>Time Indication:</source>
-        <translation>Индикация времени:</translation>
+        <translation type="vanished">Индикация времени:</translation>
     </message>
     <message>
         <source>Open Selected Item With Seer:</source>
@@ -1413,6 +1425,30 @@
         <source>Normalize Window:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Increase Speed:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Forward 5x:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Backward 15x:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Decrease Speed:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Backward 5x:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Forward 15x:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CSettingsWnd4Plugins</name>
@@ -1546,24 +1582,16 @@
         <translation>Настройки</translation>
     </message>
     <message>
-        <source>EXPIRED</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>TRIAL</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Deactivated</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>What&apos;s New</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Get PinStack</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Like Seer?</source>
+        <translation type="obsolete">Нравится Seer?</translation>
     </message>
 </context>
 <context>
@@ -1598,7 +1626,7 @@
     </message>
     <message>
         <source>Seer is already running.</source>
-        <translation>Seer уже запущен.</translation>
+        <translation type="vanished">Seer уже запущен.</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
