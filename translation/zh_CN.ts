@@ -779,27 +779,27 @@ Reason:</source>
         <translation type="vanished">请在分离窗口中使用此功能。</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="292"/>
+        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="294"/>
         <source>Please try again with separated window.</source>
         <translation>请在分离窗口中使用此功能。</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="639"/>
+        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="641"/>
         <source>Close</source>
         <translation>关闭</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="646"/>
+        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="648"/>
         <source>Minimize</source>
         <translation>最小化</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="656"/>
+        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="658"/>
         <source>Properties</source>
         <translation>属性</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="664"/>
+        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="666"/>
         <source>Separate</source>
         <translation>分离</translation>
     </message>
@@ -811,7 +811,7 @@ Reason:</source>
 <context>
     <name>CMediaWnd</name>
     <message>
-        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="403"/>
+        <location filename="../../../Seer/src/media/cmediawnd_p.cpp" line="288"/>
         <source>Play / Pause</source>
         <oldsource>Play/Pause</oldsource>
         <translation>播放 / 暂停</translation>
@@ -825,52 +825,52 @@ Reason:</source>
         <translation type="vanished">重复：关</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="352"/>
+        <location filename="../../../Seer/src/media/cmediawnd_p.cpp" line="237"/>
         <source>Capture failed</source>
         <translation>截屏失败</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="180"/>
+        <location filename="../../../Seer/src/media/cmediawnd_p.cpp" line="135"/>
         <source>Loop: On</source>
         <translation>循环：开</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="180"/>
+        <location filename="../../../Seer/src/media/cmediawnd_p.cpp" line="135"/>
         <source>Loop: Off</source>
         <translation>循环：关</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="207"/>
+        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="67"/>
         <source>Duration</source>
         <translation>时长</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="209"/>
+        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="69"/>
         <source>Bit Rate</source>
         <translation>比特率</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="210"/>
+        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="70"/>
         <source>Format</source>
         <translation>格式</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="213"/>
+        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="73"/>
         <source>Start Time</source>
         <translation>开始时间</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="518"/>
+        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="290"/>
         <source>The system is muted</source>
         <translation>系统处于静音状态</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="677"/>
+        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="383"/>
         <source>Forward:</source>
         <translation>快进：</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="682"/>
+        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="388"/>
         <source>Backward:</source>
         <translation>后退：</translation>
     </message>
@@ -879,22 +879,22 @@ Reason:</source>
         <translation type="vanished">解码</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="218"/>
+        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="78"/>
         <source>Width</source>
         <translation>宽</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="219"/>
+        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="79"/>
         <source>Height</source>
         <translation>高</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="221"/>
+        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="81"/>
         <source>Rotation</source>
         <translation>旋转</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="225"/>
+        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="85"/>
         <source>Frame Size</source>
         <translation>帧尺寸</translation>
     </message>
@@ -903,12 +903,12 @@ Reason:</source>
         <translation type="vanished">采样格式</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="226"/>
+        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="86"/>
         <source>Sample Rate</source>
         <translation>采样率</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="227"/>
+        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="87"/>
         <source>Channels</source>
         <translation>通道</translation>
     </message>
@@ -917,14 +917,14 @@ Reason:</source>
         <translation type="vanished">通道布局</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="167"/>
-        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="566"/>
+        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="338"/>
+        <location filename="../../../Seer/src/media/cmediawnd_p.cpp" line="122"/>
         <source>Mute: On</source>
         <translation>静音：开</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="167"/>
-        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="566"/>
+        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="338"/>
+        <location filename="../../../Seer/src/media/cmediawnd_p.cpp" line="122"/>
         <source>Mute: Off</source>
         <translation>静音：关</translation>
     </message>
