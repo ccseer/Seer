@@ -125,23 +125,23 @@
     </message>
     <message>
         <source>Cisa</source>
-        <translation type="unfinished"></translation>
+        <translation>Cisa</translation>
     </message>
     <message>
         <source>Translator</source>
-        <translation type="unfinished"></translation>
+        <translation>Oversetter</translation>
     </message>
     <message>
         <source>FOSS</source>
-        <translation type="unfinished"></translation>
+        <translation>FOSS</translation>
     </message>
     <message>
         <source>1218.io</source>
-        <translation type="unfinished"></translation>
+        <translation>1218.io</translation>
     </message>
     <message>
         <source>Open Source Software in Seer</source>
-        <translation type="unfinished"></translation>
+        <translation>Programvare med åpen kildekode i Seer</translation>
     </message>
 </context>
 <context>
@@ -190,43 +190,43 @@
     </message>
     <message>
         <source>Line count</source>
-        <translation type="unfinished"></translation>
+        <translation>Linjeantall</translation>
     </message>
     <message>
         <source>Line:</source>
-        <translation type="unfinished"></translation>
+        <translation>Linje:</translation>
     </message>
     <message>
         <source>Column:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolonne:</translation>
     </message>
     <message>
         <source>Render Markdown</source>
-        <translation type="unfinished"></translation>
+        <translation>Gjengi Markdown</translation>
     </message>
     <message>
         <source>Render HTML</source>
-        <translation type="unfinished"></translation>
+        <translation>Gjengi HTML</translation>
     </message>
     <message>
         <source>Render Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Gjengi bilde</translation>
     </message>
     <message>
         <source>Ln</source>
-        <translation type="unfinished"></translation>
+        <translation>Ln</translation>
     </message>
     <message>
         <source>Col</source>
-        <translation type="unfinished"></translation>
+        <translation>Col</translation>
     </message>
     <message>
         <source>Character count</source>
-        <translation type="unfinished"></translation>
+        <translation>Antall tegn</translation>
     </message>
     <message>
         <source>Loading</source>
-        <translation type="unfinished"></translation>
+        <translation>Åpner</translation>
     </message>
 </context>
 <context>
@@ -255,15 +255,15 @@
     <name>CControlWnd</name>
     <message>
         <source>Open With Default Application</source>
-        <translation type="unfinished">Åpne med standardprogrammet</translation>
+        <translation>Åpne med standardprogrammet</translation>
     </message>
     <message>
         <source>Reveal In Explorer</source>
-        <translation type="unfinished">Vis i Utforskeren</translation>
+        <translation>Vis i utforskeren</translation>
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished">Mer</translation>
+        <translation>Mer</translation>
     </message>
 </context>
 <context>
@@ -321,15 +321,15 @@
     </message>
     <message>
         <source>File is encrypted</source>
-        <translation type="unfinished"></translation>
+        <translation>Filen er kryptert</translation>
     </message>
     <message>
         <source>Folder</source>
-        <translation type="unfinished">Mappe</translation>
+        <translation>Mappe</translation>
     </message>
     <message>
         <source>Loading</source>
-        <translation type="unfinished"></translation>
+        <translation>Åpner</translation>
     </message>
 </context>
 <context>
@@ -372,83 +372,83 @@
     </message>
     <message>
         <source>Comments</source>
-        <translation type="unfinished"></translation>
+        <translation>Kommentarer</translation>
     </message>
     <message>
         <source>Internal Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Internt navn</translation>
     </message>
     <message>
         <source>Product Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Produktnavn</translation>
     </message>
     <message>
         <source>Company Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Bedriftsnavn</translation>
     </message>
     <message>
         <source>Legal Copyright</source>
-        <translation type="unfinished"></translation>
+        <translation>Juridisk opphavsrett</translation>
     </message>
     <message>
         <source>Product Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Produktversjon</translation>
     </message>
     <message>
         <source>File Description</source>
-        <translation type="unfinished"></translation>
+        <translation>Filbeskrivelse</translation>
     </message>
     <message>
         <source>Legal Trademarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Juridiske varemerker</translation>
     </message>
     <message>
         <source>Private Build</source>
-        <translation type="unfinished"></translation>
+        <translation>Privat bygg</translation>
     </message>
     <message>
         <source>File Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Filversjon</translation>
     </message>
     <message>
         <source>Original Filename</source>
-        <translation type="unfinished"></translation>
+        <translation>Opprinnelig filnavn</translation>
     </message>
     <message>
         <source>Special Build</source>
-        <translation type="unfinished"></translation>
+        <translation>Spesialbygg</translation>
     </message>
     <message>
         <source>Total bytes</source>
-        <translation type="unfinished"></translation>
+        <translation>Totalt antall bytes</translation>
     </message>
     <message>
         <source>Available bytes</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilgjengelige bytes</translation>
     </message>
     <message>
         <source>Free bytes</source>
-        <translation type="unfinished"></translation>
+        <translation>Gratis bytes</translation>
     </message>
     <message>
         <source>Block size</source>
-        <translation type="unfinished"></translation>
+        <translation>Blokkstørrelse</translation>
     </message>
     <message>
         <source>Folder</source>
-        <translation type="unfinished">Mappe</translation>
+        <translation>Mappe</translation>
     </message>
     <message>
         <source>Extension</source>
-        <translation type="unfinished">Filutvidelse</translation>
+        <translation>Filutvidelse</translation>
     </message>
     <message>
         <source>Pin</source>
-        <translation type="unfinished"></translation>
+        <translation>Pin</translation>
     </message>
     <message>
         <source>Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Detaljer</translation>
     </message>
 </context>
 <context>
@@ -497,7 +497,7 @@
     <name>CHtmlWnd</name>
     <message>
         <source>Markdown Source</source>
-        <translation type="unfinished"></translation>
+        <translation>Markdown-kilde</translation>
     </message>
     <message>
         <source>HTML</source>
@@ -558,23 +558,23 @@
     </message>
     <message>
         <source>About</source>
-        <translation type="unfinished">Om</translation>
+        <translation>Om</translation>
     </message>
     <message>
         <source>Activation</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivering</translation>
     </message>
     <message>
         <source>The system default application not found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Systemets standardprogram ble ikke funnet.</translation>
     </message>
     <message>
         <source>Seer is already running.</source>
-        <translation type="unfinished">Seer kjører allerede.</translation>
+        <translation>Seer kjører allerede.</translation>
     </message>
     <message>
         <source>Please share with your friends.</source>
-        <translation type="unfinished"></translation>
+        <translation>Del gjerne med vennene dine.</translation>
     </message>
 </context>
 <context>
@@ -589,15 +589,15 @@
     </message>
     <message>
         <source>Please try again with separated window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vennligst prøv igjen med atskilt vindu.</translation>
     </message>
     <message>
         <source>Minimize</source>
-        <translation type="unfinished"></translation>
+        <translation>Minimer</translation>
     </message>
     <message>
         <source>Separate</source>
-        <translation type="unfinished"></translation>
+        <translation>Skille</translation>
     </message>
 </context>
 <context>
@@ -616,7 +616,7 @@
     </message>
     <message>
         <source>Frame Size</source>
-        <translation>Bildestørrelse</translation>
+        <translation>Rammestørrelse</translation>
     </message>
     <message>
         <source>Play / Pause</source>
@@ -660,58 +660,58 @@
     </message>
     <message>
         <source>Start Time</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Rotation</source>
-        <translation type="unfinished"></translation>
+        <translation>Rotasjon</translation>
     </message>
     <message>
         <source>The system is muted</source>
-        <translation type="unfinished"></translation>
+        <translation>Systemet er dempet</translation>
     </message>
     <message>
         <source>Mute: On</source>
-        <translation type="unfinished"></translation>
+        <translation>Demp: På</translation>
     </message>
     <message>
         <source>Mute: Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Demp: Av</translation>
     </message>
     <message>
         <source>Forward:</source>
-        <translation type="unfinished">Framover:</translation>
+        <translation>Framover:</translation>
     </message>
     <message>
         <source>Backward:</source>
-        <translation type="unfinished">Bakover:</translation>
+        <translation>Bakover:</translation>
     </message>
     <message>
         <source>Loop: On</source>
-        <translation type="unfinished"></translation>
+        <translation>Sløyfe: På</translation>
     </message>
     <message>
         <source>Loop: Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Sløyfe: Av</translation>
     </message>
     <message>
         <source>Capture failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Opptaket mislyktes</translation>
     </message>
 </context>
 <context>
     <name>CPDFPwdWnd</name>
     <message>
         <source>Password required</source>
-        <translation type="unfinished"></translation>
+        <translation>Passord påkrevd</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Avbryt</translation>
+        <translation>Avbryt</translation>
     </message>
 </context>
 <context>
@@ -730,39 +730,39 @@
     </message>
     <message>
         <source>Loading...</source>
-        <translation type="unfinished"></translation>
+        <translation>Åpner</translation>
     </message>
     <message>
         <source>Outline</source>
-        <translation type="unfinished"></translation>
+        <translation>Disposisjon</translation>
     </message>
     <message>
         <source>Thumbnail</source>
-        <translation type="unfinished"></translation>
+        <translation>Miniatyrbilde</translation>
     </message>
     <message>
         <source>Annotated</source>
-        <translation type="unfinished"></translation>
+        <translation>Kommentert</translation>
     </message>
     <message>
         <source>Encrypted</source>
-        <translation type="unfinished"></translation>
+        <translation>Kryptert</translation>
     </message>
     <message>
         <source>Rotate Right</source>
-        <translation type="unfinished">Roter høyre</translation>
+        <translation>Roter høyre</translation>
     </message>
     <message>
         <source>Annotation: On</source>
-        <translation type="unfinished"></translation>
+        <translation>Merknad: På</translation>
     </message>
     <message>
         <source>Annotation: Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Merknad: Av</translation>
     </message>
     <message>
         <source>Please choose a page first</source>
-        <translation type="unfinished"></translation>
+        <translation>Velg en side først</translation>
     </message>
 </context>
 <context>
@@ -797,274 +797,274 @@
     </message>
     <message>
         <source>Play / Pause</source>
-        <translation type="unfinished">Spill / Pause</translation>
+        <translation>Spill / Pause</translation>
     </message>
     <message>
         <source>XML</source>
-        <translation type="unfinished"></translation>
+        <translation>XML</translation>
     </message>
     <message>
         <source>Loop Count</source>
-        <translation type="unfinished"></translation>
+        <translation>Antall sløyfer</translation>
     </message>
     <message>
         <source>Camera make</source>
-        <translation type="unfinished"></translation>
+        <translation>Kamera fabrikat</translation>
     </message>
     <message>
         <source>Camera model</source>
-        <translation type="unfinished"></translation>
+        <translation>Kameramodell</translation>
     </message>
     <message>
         <source>Software</source>
-        <translation type="unfinished"></translation>
+        <translation>Programvare</translation>
     </message>
     <message>
         <source>Bits per sample</source>
-        <translation type="unfinished"></translation>
+        <translation>Bit per sample</translation>
     </message>
     <message>
         <source>Image width</source>
-        <translation type="unfinished"></translation>
+        <translation>Bildebredde</translation>
     </message>
     <message>
         <source>Image height</source>
-        <translation type="unfinished"></translation>
+        <translation>Bildehøyde</translation>
     </message>
     <message>
         <source>Image description</source>
-        <translation type="unfinished"></translation>
+        <translation>Bildebeskrivelse</translation>
     </message>
     <message>
         <source>Image copyright</source>
-        <translation type="unfinished"></translation>
+        <translation>Bildeopphavsrett</translation>
     </message>
     <message>
         <source>Image datetime</source>
-        <translation type="unfinished"></translation>
+        <translation>Bilde dato og klokkeslett</translation>
     </message>
     <message>
         <source>Original datetime</source>
-        <translation type="unfinished"></translation>
+        <translation>Opprinnelig dato og klokkeslett</translation>
     </message>
     <message>
         <source>Digitize datetime</source>
-        <translation type="unfinished"></translation>
+        <translation>Digitaliser dato og klokkeslett</translation>
     </message>
     <message>
         <source>Exposure time</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksponeringstid</translation>
     </message>
     <message>
         <source>F-stop</source>
-        <translation type="unfinished"></translation>
+        <translation>F-stopp</translation>
     </message>
     <message>
         <source>Manual</source>
-        <translation type="unfinished"></translation>
+        <translation>Håndbok</translation>
     </message>
     <message>
         <source>Normal program</source>
-        <translation type="unfinished"></translation>
+        <translation>Vanlig program</translation>
     </message>
     <message>
         <source>Aperture priority</source>
-        <translation type="unfinished"></translation>
+        <translation>Blenderprioritet</translation>
     </message>
     <message>
         <source>Shutter priority</source>
-        <translation type="unfinished"></translation>
+        <translation>Lukkerprioritet</translation>
     </message>
     <message>
         <source>Creative program</source>
-        <translation type="unfinished"></translation>
+        <translation>Kreativt program</translation>
     </message>
     <message>
         <source>Action program</source>
-        <translation type="unfinished"></translation>
+        <translation>Handlingsprogram</translation>
     </message>
     <message>
         <source>Portrait mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Portrett-modus</translation>
     </message>
     <message>
         <source>Landscape mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Landskapsmodus</translation>
     </message>
     <message>
         <source>Exposure program</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksponeringsprogram</translation>
     </message>
     <message>
         <source>ISO speed</source>
-        <translation type="unfinished"></translation>
+        <translation>ISO-hastighet</translation>
     </message>
     <message>
         <source>Shutter speed</source>
-        <translation type="unfinished"></translation>
+        <translation>Lukkerhastighet</translation>
     </message>
     <message>
         <source>Subject distance</source>
-        <translation type="unfinished"></translation>
+        <translation>Emneavstand</translation>
     </message>
     <message>
         <source>Exposure bias</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksponeringskompensering</translation>
     </message>
     <message>
         <source>Flash</source>
-        <translation type="unfinished"></translation>
+        <translation>Blits</translation>
     </message>
     <message>
         <source>Reserved</source>
-        <translation type="unfinished"></translation>
+        <translation>Reservert</translation>
     </message>
     <message>
         <source>Strobe return light not detected</source>
-        <translation type="unfinished"></translation>
+        <translation>Strobe-returlys ble ikke oppdaget</translation>
     </message>
     <message>
         <source>Strobe return light detected</source>
-        <translation type="unfinished"></translation>
+        <translation>Strobe-returlys oppdaget</translation>
     </message>
     <message>
         <source>Flash returned light</source>
-        <translation type="unfinished"></translation>
+        <translation>Blitsreturnert lys</translation>
     </message>
     <message>
         <source>Unknown mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukjent modus</translation>
     </message>
     <message>
         <source>Compulsory flash firing</source>
-        <translation type="unfinished"></translation>
+        <translation>Obligatorisk blitsavfyring</translation>
     </message>
     <message>
         <source>Compulsory flash suppression</source>
-        <translation type="unfinished"></translation>
+        <translation>Obligatorisk blitsundertrykkelse</translation>
     </message>
     <message>
         <source>Automatic mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatisk modus</translation>
     </message>
     <message>
         <source>Flash mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Blitsmodus</translation>
     </message>
     <message>
         <source>average</source>
-        <translation type="unfinished"></translation>
+        <translation>gjennomsnitt</translation>
     </message>
     <message>
         <source>center weighted average</source>
-        <translation type="unfinished"></translation>
+        <translation>senterveid gjennomsnitt</translation>
     </message>
     <message>
         <source>spot</source>
-        <translation type="unfinished"></translation>
+        <translation>punkt</translation>
     </message>
     <message>
         <source>multi-spot</source>
-        <translation type="unfinished"></translation>
+        <translation>flerpunkt</translation>
     </message>
     <message>
         <source>multi-segment</source>
-        <translation type="unfinished"></translation>
+        <translation>fler-segment</translation>
     </message>
     <message>
         <source>Metering mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Målemodus</translation>
     </message>
     <message>
         <source>Lens focal length</source>
-        <translation type="unfinished"></translation>
+        <translation>Linsens brennvidde</translation>
     </message>
     <message>
         <source>35mm focal length</source>
-        <translation type="unfinished"></translation>
+        <translation>35 mm brennvidde</translation>
     </message>
     <message>
         <source>GPS Latitude</source>
-        <translation type="unfinished"></translation>
+        <translation>GPS-breddegrad</translation>
     </message>
     <message>
         <source>GPS Longitude</source>
-        <translation type="unfinished"></translation>
+        <translation>GPS-lengdegrad</translation>
     </message>
     <message>
         <source>GPS Altitude</source>
-        <translation type="unfinished"></translation>
+        <translation>GPS-høyde</translation>
     </message>
     <message>
         <source>GPS Precision (DOP)</source>
-        <translation type="unfinished"></translation>
+        <translation>GPS-presisjon (DOP)</translation>
     </message>
     <message>
         <source>Lens min focal length</source>
-        <translation type="unfinished"></translation>
+        <translation>Linse min brennvidde</translation>
     </message>
     <message>
         <source>Lens max focal length</source>
-        <translation type="unfinished"></translation>
+        <translation>Linse maks brennvidde</translation>
     </message>
     <message>
         <source>Lens f-stop min</source>
-        <translation type="unfinished"></translation>
+        <translation>Linse f-stopp min</translation>
     </message>
     <message>
         <source>Lens f-stop max</source>
-        <translation type="unfinished"></translation>
+        <translation>Linse f-stopp maks</translation>
     </message>
     <message>
         <source>Lens make</source>
-        <translation type="unfinished"></translation>
+        <translation>Lens-fabrikat</translation>
     </message>
     <message>
         <source>Lens model</source>
-        <translation type="unfinished"></translation>
+        <translation>Linsemodell</translation>
     </message>
     <message>
         <source>Focal plane XRes</source>
-        <translation type="unfinished"></translation>
+        <translation>Fokalplan XRes</translation>
     </message>
     <message>
         <source>Focal plane YRes</source>
-        <translation type="unfinished"></translation>
+        <translation>Fokalplan YRes</translation>
     </message>
 </context>
 <context>
     <name>CRegDlg</name>
     <message>
         <source>Order</source>
-        <translation type="unfinished"></translation>
+        <translation>Rekkefølge</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Avbryt</translation>
+        <translation>Avbryt</translation>
     </message>
     <message>
         <source>Seer will stop running in %1 day(s).</source>
-        <translation type="unfinished"></translation>
+        <translation>Seer slutter å kjøre om %1 dag(er).</translation>
     </message>
     <message>
         <source>The evaluation period has ended.</source>
-        <translation type="unfinished"></translation>
+        <translation>Evalueringsperioden er avsluttet.</translation>
     </message>
     <message>
         <source>Please enter your license key.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vennligst skriv inn lisensnøkkelen din.</translation>
     </message>
     <message>
         <source>Verifying</source>
-        <translation type="unfinished"></translation>
+        <translation>Bekrefter</translation>
     </message>
     <message>
         <source>Activated</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivert</translation>
     </message>
     <message>
         <source>Failed to activate</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke aktivere</translation>
     </message>
 </context>
 <context>
@@ -1095,15 +1095,15 @@
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished">Instillinger</translation>
+        <translation>Instillinger</translation>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;OK</translation>
     </message>
     <message>
         <source>Restart</source>
-        <translation type="unfinished"></translation>
+        <translation>Omstart</translation>
     </message>
 </context>
 <context>
@@ -1142,27 +1142,27 @@
     </message>
     <message>
         <source>Extension</source>
-        <translation type="unfinished">Filutvidelse</translation>
+        <translation>Filutvidelse</translation>
     </message>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished">Utseende</translation>
+        <translation>Utseende</translation>
     </message>
     <message>
         <source>Show &quot;Navigation&quot; button</source>
-        <translation type="unfinished"></translation>
+        <translation>Vis &quot;Navigering&quot;-knappen</translation>
     </message>
     <message>
         <source>triggered file path</source>
-        <translation type="unfinished"></translation>
+        <translation>utløst filbane</translation>
     </message>
     <message>
         <source>Select executable file path</source>
-        <translation type="unfinished"></translation>
+        <translation>Velg kjørbar filbane</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished">Rediger</translation>
+        <translation>Rediger</translation>
     </message>
 </context>
 <context>
@@ -1197,75 +1197,75 @@
     </message>
     <message>
         <source>Visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>Synlighet</translation>
     </message>
     <message>
         <source>Hide tray icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Skjul oppgavelinjeikon</translation>
     </message>
     <message>
         <source>Title bar &amp; Control bar:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tittellinje og kontrollinje:</translation>
     </message>
     <message>
         <source>Constant</source>
-        <translation type="unfinished"></translation>
+        <translation>Konstant</translation>
     </message>
     <message>
         <source>Dynamic</source>
-        <translation type="unfinished"></translation>
+        <translation>Dynamisk</translation>
     </message>
     <message>
         <source>Double click to open file with system default application</source>
-        <translation type="unfinished">Dobbeltklikk for å åpne filen med systemets standardprogram</translation>
+        <translation>Dobbeltklikk for å åpne filen med systemets standardprogram</translation>
     </message>
     <message>
         <source>Track selected file in Explorer</source>
-        <translation type="unfinished">Spor valgt fil i Utforsker</translation>
+        <translation>Spor valgt fil i utforsker</translation>
     </message>
     <message>
         <source>Enable &quot;Delete&quot; key</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktiver &quot;Slette&quot;-tasten</translation>
     </message>
     <message>
         <source>Keep window size and position</source>
-        <translation type="unfinished"></translation>
+        <translation>Behold vinduets størrelse og plassering</translation>
     </message>
     <message>
         <source>Maximum preview size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Maksimal forhåndsvisningsstørrelse:</translation>
     </message>
     <message>
         <source>Backup:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sikkerhetskopi:</translation>
     </message>
     <message>
         <source>Export</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksport</translation>
     </message>
     <message>
         <source>Import</source>
-        <translation type="unfinished"></translation>
+        <translation>Import</translation>
     </message>
     <message>
         <source>Reset to default</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilbakestill til standard</translation>
     </message>
     <message>
         <source>Confirm &amp; Restart :</source>
-        <translation type="unfinished"></translation>
+        <translation>Bekreft &amp; start på nytt:</translation>
     </message>
     <message>
         <source>User defined</source>
-        <translation type="unfinished"></translation>
+        <translation>Brukerdefinert</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Avbryt</translation>
+        <translation>Avbryt</translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilbakestill</translation>
     </message>
 </context>
 <context>
@@ -1320,43 +1320,43 @@
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished">Bilde</translation>
+        <translation>Bilde</translation>
     </message>
     <message>
         <source>Archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Arkiv</translation>
     </message>
     <message>
         <source>Disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Deaktivert</translation>
     </message>
     <message>
         <source>Disable folder contents loading</source>
-        <translation type="unfinished"></translation>
+        <translation>Deaktiver lasting av mappeinnhold</translation>
     </message>
     <message>
         <source>Disable file type detecting</source>
-        <translation type="unfinished"></translation>
+        <translation>Deaktiver filtypegjenkjenning</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;:(&lt;/p&gt;&lt;p&gt;Oops!&lt;/p&gt;&lt;p&gt;No extensions matched.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;:(&lt;/p&gt;&lt;p&gt;Oops!&lt;/p&gt;&lt;p&gt;Ingen programutvidelser samsvarer.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Search extension, e.g.: psd</source>
-        <translation type="unfinished"></translation>
+        <translation>Søk programutvidelse, f.eks.: psd</translation>
     </message>
     <message>
         <source>Markdown stylesheet path</source>
-        <translation type="unfinished"></translation>
+        <translation>Markdown stilark-bane</translation>
     </message>
     <message>
         <source>Will display property only for extensions in this field, e.g.:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vil vise egenskap bare for utvidelser i dette feltet, f.eks.:</translation>
     </message>
     <message>
         <source>Invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>Ugyldig</translation>
     </message>
 </context>
 <context>
@@ -1423,23 +1423,23 @@
     </message>
     <message>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Språk</translation>
     </message>
     <message>
         <source>Application behavior</source>
-        <translation type="unfinished"></translation>
+        <translation>Program-adferd</translation>
     </message>
     <message>
         <source>Theme:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tema:</translation>
     </message>
     <message>
         <source>Run Seer when system boots</source>
-        <translation type="unfinished"></translation>
+        <translation>Kjør Seer når systemet starter</translation>
     </message>
     <message>
         <source>Run as administrator</source>
-        <translation type="unfinished"></translation>
+        <translation>Kjør som administrator</translation>
     </message>
 </context>
 <context>
@@ -1586,183 +1586,183 @@
     </message>
     <message>
         <source>Normal:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vanlig:</translation>
     </message>
     <message>
         <source>Fullscreen:</source>
-        <translation type="unfinished"></translation>
+        <translation>Fullskjerm:</translation>
     </message>
     <message>
         <source>Previous:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tidligere:</translation>
     </message>
     <message>
         <source>Next:</source>
-        <translation type="unfinished"></translation>
+        <translation>Neste:</translation>
     </message>
     <message>
         <source>Previous Type File:</source>
-        <translation type="unfinished"></translation>
+        <translation>Forrige type fil:</translation>
     </message>
     <message>
         <source>Reload:</source>
-        <translation type="unfinished"></translation>
+        <translation>Last inn på nytt:</translation>
     </message>
     <message>
         <source>Next Type File:</source>
-        <translation type="unfinished"></translation>
+        <translation>Neste type fil:</translation>
     </message>
     <message>
         <source>Separate:</source>
-        <translation type="unfinished"></translation>
+        <translation>Skille:</translation>
     </message>
     <message>
         <source>Normalize Window:</source>
-        <translation type="unfinished"></translation>
+        <translation>Normaliser vindu:</translation>
     </message>
     <message>
         <source>Details View:</source>
-        <translation type="unfinished"></translation>
+        <translation>Detaljvisning:</translation>
     </message>
     <message>
         <source>Open Clicked Item:</source>
-        <translation type="unfinished"></translation>
+        <translation>Åpne klikket element:</translation>
     </message>
     <message>
         <source>Shift + Click</source>
-        <translation type="unfinished"></translation>
+        <translation>Shift + klikk</translation>
     </message>
     <message>
         <source>Navigation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Navigasjon:</translation>
     </message>
     <message>
         <source>Alt + Arrow Key</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt + piltast</translation>
     </message>
     <message>
         <source>Goto:</source>
-        <translation type="unfinished"></translation>
+        <translation>Gå til:</translation>
     </message>
     <message>
         <source>Ctrl + Click</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl + klikk</translation>
     </message>
     <message>
         <source>Reveal Clicked Item:</source>
-        <translation type="unfinished"></translation>
+        <translation>Avslør klikket element:</translation>
     </message>
     <message>
         <source>Alt + Click</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt + klikk</translation>
     </message>
     <message>
         <source>Open Clicked Item With Seer:</source>
-        <translation type="unfinished"></translation>
+        <translation>Åpne klikket element med Seer:</translation>
     </message>
     <message>
         <source>Shift + Alt + Click</source>
-        <translation type="unfinished"></translation>
+        <translation>Shift + Alt + klikk</translation>
     </message>
     <message>
         <source>Restore:</source>
-        <translation type="unfinished"></translation>
+        <translation>Gjenopprett:</translation>
     </message>
     <message>
         <source>Double click</source>
-        <translation type="unfinished"></translation>
+        <translation>Dobbeltklikk</translation>
     </message>
     <message>
         <source>Fit Height:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilpass høyde:</translation>
     </message>
     <message>
         <source>Center:</source>
-        <translation type="unfinished"></translation>
+        <translation>Senter:</translation>
     </message>
     <message>
         <source>Enter / Return</source>
-        <translation type="unfinished"></translation>
+        <translation>Gå inn / gå tilbake</translation>
     </message>
     <message>
         <source>Go To Beginning:</source>
-        <translation type="unfinished"></translation>
+        <translation>Gå til begynnelsen:</translation>
     </message>
     <message>
         <source>Increase Speed:</source>
-        <translation type="unfinished"></translation>
+        <translation>Øk hastighet:</translation>
     </message>
     <message>
         <source>Forward 5x:</source>
-        <translation type="unfinished"></translation>
+        <translation>Framover 5x:</translation>
     </message>
     <message>
         <source>Percent Locate:</source>
-        <translation type="unfinished"></translation>
+        <translation>Prosentplassering:</translation>
     </message>
     <message>
         <source>0-9</source>
-        <translation type="unfinished"></translation>
+        <translation>0-9</translation>
     </message>
     <message>
         <source>Backward 15x:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bakover 15x:</translation>
     </message>
     <message>
         <source>Decrease Speed:</source>
-        <translation type="unfinished"></translation>
+        <translation>Reduser hastighet:</translation>
     </message>
     <message>
         <source>Backward 5x:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bakover 5x:</translation>
     </message>
     <message>
         <source>Forward 15x:</source>
-        <translation type="unfinished"></translation>
+        <translation>Framover 15x:</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished">Tekst</translation>
+        <translation>Tekst</translation>
     </message>
     <message>
         <source>Locate:</source>
-        <translation type="unfinished"></translation>
+        <translation>Lokaliser:</translation>
     </message>
     <message>
         <source>Render:</source>
-        <translation type="unfinished"></translation>
+        <translation>Gjengi:</translation>
     </message>
     <message>
         <source>Format:</source>
-        <translation type="unfinished"></translation>
+        <translation>Format:</translation>
     </message>
     <message>
         <source>Word Wrap:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordbryting:</translation>
     </message>
     <message>
         <source>Line Number:</source>
-        <translation type="unfinished"></translation>
+        <translation>Linjenummer:</translation>
     </message>
     <message>
         <source>Outline:</source>
-        <translation type="unfinished"></translation>
+        <translation>Disposisjon:</translation>
     </message>
     <message>
         <source>Annotation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Merknad:</translation>
     </message>
     <message>
         <source>Dark:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mørk:</translation>
     </message>
     <message>
         <source>Invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>Ugyldig</translation>
     </message>
     <message>
         <source>Duplicated shortcut:</source>
-        <translation type="unfinished"></translation>
+        <translation>Duplisert snarvei:</translation>
     </message>
 </context>
 <context>
@@ -1817,7 +1817,7 @@
     </message>
     <message>
         <source>Internal handled plugins will be used first.</source>
-        <translation type="unfinished"></translation>
+        <translation>Internt håndterte programtillegg vil bli brukt først.</translation>
     </message>
 </context>
 <context>
@@ -1875,7 +1875,7 @@
     </message>
     <message>
         <source>Search available plugin</source>
-        <translation type="unfinished"></translation>
+        <translation>Søk tilgjengelig programtillegg</translation>
     </message>
 </context>
 <context>
@@ -1918,19 +1918,19 @@
     </message>
     <message>
         <source>Register</source>
-        <translation type="unfinished"></translation>
+        <translation>Registrer</translation>
     </message>
     <message>
         <source>Stay on top</source>
-        <translation type="unfinished"></translation>
+        <translation>Bli på toppen</translation>
     </message>
     <message>
         <source>What&apos;s New</source>
-        <translation type="unfinished"></translation>
+        <translation>Hva er nytt</translation>
     </message>
     <message>
         <source>Get PinStack</source>
-        <translation type="unfinished"></translation>
+        <translation>Skaff deg PinStack</translation>
     </message>
 </context>
 <context>
@@ -1998,43 +1998,43 @@
     </message>
     <message>
         <source>Update language failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Oppdatering av språk mislyktes</translation>
     </message>
     <message>
         <source>Folder</source>
-        <translation type="unfinished">Mappe</translation>
+        <translation>Mappe</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished">Bilde</translation>
+        <translation>Bilde</translation>
     </message>
     <message>
         <source>Media</source>
-        <translation type="unfinished">Media</translation>
+        <translation>Media</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished">Tekst</translation>
+        <translation>Tekst</translation>
     </message>
     <message>
         <source>PDF</source>
-        <translation type="unfinished">PDF</translation>
+        <translation>PDF</translation>
     </message>
     <message>
         <source>HTML</source>
-        <translation type="unfinished"></translation>
+        <translation>HTML</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">Ukjent</translation>
+        <translation>Ukjent</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished">&amp;Avbryt</translation>
+        <translation>&amp;Avbryt</translation>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;OK</translation>
     </message>
 </context>
 </TS>
