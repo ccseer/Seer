@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="fr">
+<TS version="2.1" language="fr_FR">
 <context>
     <name>CAboutWnd</name>
     <message>
@@ -793,11 +793,11 @@
     </message>
     <message>
         <source>Forward:</source>
-        <translation type="unfinished">Avancer :</translation>
+        <translation>Avancer :</translation>
     </message>
     <message>
         <source>Backward:</source>
-        <translation type="unfinished">Reculer :</translation>
+        <translation>Reculer :</translation>
     </message>
     <message>
         <source>Rotation</source>
