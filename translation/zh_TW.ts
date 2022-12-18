@@ -725,27 +725,27 @@ Reason:</source>
 <context>
     <name>CMainWnd</name>
     <message>
-        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="294"/>
+        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="296"/>
         <source>Please try again with separated window.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="641"/>
+        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="643"/>
         <source>Close</source>
         <translation>關閉</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="648"/>
+        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="650"/>
         <source>Minimize</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="658"/>
+        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="660"/>
         <source>Properties</source>
         <translation>屬性</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="666"/>
+        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="668"/>
         <source>Separate</source>
         <translation type="unfinished"></translation>
     </message>

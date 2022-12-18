@@ -150,7 +150,7 @@
     </message>
     <message>
         <source>Render Image</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Ln</source>
@@ -503,7 +503,7 @@
     </message>
     <message>
         <source>Please share with your friends
-</source>
+            </source>
         <translation type="vanished">Bitte mit Freunden teilen</translation>
     </message>
     <message>
@@ -708,7 +708,7 @@
     </message>
     <message>
         <source>Fit Width</source>
-        <translation>Passende Breite</translation>
+        <translation>Breite anpassen</translation>
     </message>
     <message>
         <source>Actual Size</source>
@@ -767,7 +767,7 @@
     </message>
     <message>
         <source>Fit Width</source>
-        <translation type="vanished">Passende Breite</translation>
+        <translation type="vanished">Breite anpassen</translation>
     </message>
     <message>
         <source>Actual Size</source>
@@ -1410,11 +1410,11 @@
     </message>
     <message>
         <source>Disable file type detecting</source>
-        <translation>Deaktiviere Dateityperkennung</translation>
+        <translation>Deaktiviere Dateitypenerkennung</translation>
     </message>
     <message>
         <source>Archive</source>
-        <translation>Archiv</translation>
+        <translation>Archive</translation>
     </message>
     <message>
         <source>Image</source>
@@ -1568,7 +1568,7 @@
     </message>
     <message>
         <source>Fit Width:</source>
-        <translation>Passende Breite:</translation>
+        <translation>Breite anpassen:</translation>
     </message>
     <message>
         <source>File Property:</source>
@@ -1712,7 +1712,7 @@
     </message>
     <message>
         <source>Percent Locate:</source>
-        <translation type="unfinished"></translation>
+        <translation>Prozent anspringen:</translation>
     </message>
     <message>
         <source>0-9</source>
@@ -1720,15 +1720,15 @@
     </message>
     <message>
         <source>Separate:</source>
-        <translation type="unfinished"></translation>
+        <translation>Auswählen:</translation>
     </message>
     <message>
         <source>Fit Height:</source>
-        <translation type="unfinished"></translation>
+        <translation>Höhe anpassen:</translation>
     </message>
     <message>
         <source>Details View:</source>
-        <translation type="unfinished"></translation>
+        <translation>Detailansicht:</translation>
     </message>
     <message>
         <source>Goto:</source>
@@ -1756,7 +1756,7 @@
     </message>
     <message>
         <source>Annotation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Anmerkung/en:</translation>
     </message>
     <message>
         <source>Word Wrap:</source>
@@ -1996,7 +1996,7 @@
     </message>
     <message>
         <source>Get PinStack</source>
-        <translation>Anheften</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Like Seer?</source>
@@ -2007,7 +2007,7 @@
     <name>PdfViewPrivate</name>
     <message>
         <source>Cannot save image to:
-</source>
+            </source>
         <translation type="vanished">Kann Bild nicht speichern nach:</translation>
     </message>
     <message>
