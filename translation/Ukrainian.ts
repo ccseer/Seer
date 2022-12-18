@@ -1674,7 +1674,7 @@
     </message>
     <message>
         <source>Fit Height:</source>
-        <translation>Підійде висота:</translation>
+        <translation>По висоті:</translation>
     </message>
     <message>
         <source>Center:</source>
@@ -1758,7 +1758,7 @@
     </message>
     <message>
         <source>Invalid</source>
-        <translation>Недійсний</translation>
+        <translation type="unfinished">Недійсний</translation>
     </message>
     <message>
         <source>Duplicated shortcut:</source>
