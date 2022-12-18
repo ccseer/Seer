@@ -344,8 +344,7 @@
     </message>
     <message>
         <source>Type</source>
-        <translation>Тип
-            </translation>
+        <translation>Тип</translation>
     </message>
     <message>
         <source>Opens with</source>
@@ -535,7 +534,7 @@
     </message>
     <message>
         <source> is registered by other application.</source>
-        <translation>зареєстрований іншим додатком.</translation>
+        <translation> зареєстрований іншим додатком.</translation>
     </message>
     <message>
         <source>Restart Failed</source>
@@ -673,11 +672,11 @@
     </message>
     <message>
         <source>Mute: On</source>
-        <translation>Вимкнення звуку: увімкн.</translation>
+        <translation>Вимкнення звуку: увімкн</translation>
     </message>
     <message>
         <source>Mute: Off</source>
-        <translation>Вимкнення звуку: вимкн.</translation>
+        <translation>Вимкнення звуку: вимкн</translation>
     </message>
     <message>
         <source>Forward:</source>
@@ -1072,8 +1071,7 @@
     <name>CSettingsDlg</name>
     <message>
         <source>Type</source>
-        <translation>Тип
-            </translation>
+        <translation>Тип</translation>
     </message>
     <message>
         <source>Controls</source>
@@ -1207,7 +1205,7 @@
     </message>
     <message>
         <source>Title bar &amp; Control bar:</source>
-        <translation>Заголовок и панель управления </translation>
+        <translation>Заголовок и панель управления:</translation>
     </message>
     <message>
         <source>Constant</source>
@@ -1468,7 +1466,7 @@
     </message>
     <message>
         <source>Mute:</source>
-        <translation>Вимкнути звук：</translation>
+        <translation>Вимкнути звук:</translation>
     </message>
     <message>
         <source>Shift</source>
@@ -1524,7 +1522,7 @@
     </message>
     <message>
         <source>Tree View:</source>
-        <translation>У вигляду дерева</translation>
+        <translation>У вигляду дерева:</translation>
     </message>
     <message>
         <source>Open With Default App:</source>
@@ -1636,7 +1634,7 @@
     </message>
     <message>
         <source>Navigation:</source>
-        <translation>Навигація</translation>
+        <translation>Навигація:</translation>
     </message>
     <message>
         <source>Alt + Arrow Key</source>
