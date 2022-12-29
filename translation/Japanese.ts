@@ -1169,6 +1169,10 @@
         <source>Restart</source>
         <translation>再起動</translation>
     </message>
+    <message>
+        <source>Scripts</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CSettingsWnd4Controls</name>
@@ -1230,7 +1234,7 @@
         <translation>&quot;ナビゲーション&quot;ボタンを表示</translation>
     </message>
     <message>
-        <source>triggered file path</source>
+        <source>Preview</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2018,7 +2022,7 @@
     </message>
     <message>
         <source>matched extensions: png jpg bmp</source>
-        <translation>一致する拡張子:png jpg bmp</translation>
+        <translation type="vanished">一致する拡張子:png jpg bmp</translation>
     </message>
 </context>
 <context>
@@ -2054,6 +2058,33 @@
     <message>
         <source>Search available plugin</source>
         <translation>利用可能なプラグインを探す</translation>
+    </message>
+</context>
+<context>
+    <name>CSettingsWnd4Script</name>
+    <message>
+        <source>The path of interpreter has saved.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CSettingsWnd4Script</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Script</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Interpreter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extensions:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Command:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

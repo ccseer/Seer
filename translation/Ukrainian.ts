@@ -1105,6 +1105,10 @@
         <source>Restart</source>
         <translation>Перезапуск</translation>
     </message>
+    <message>
+        <source>Scripts</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CSettingsWnd4Controls</name>
@@ -1154,7 +1158,7 @@
     </message>
     <message>
         <source>triggered file path</source>
-        <translation>викликаний шлях до файлу</translation>
+        <translation type="vanished">викликаний шлях до файлу</translation>
     </message>
     <message>
         <source>Select executable file path</source>
@@ -1163,6 +1167,10 @@
     <message>
         <source>Edit</source>
         <translation>Виправлення</translation>
+    </message>
+    <message>
+        <source>Preview</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1836,7 +1844,7 @@
     </message>
     <message>
         <source>matched extensions: png jpg bmp</source>
-        <translation>відповідність розширень: png jpg bmp</translation>
+        <translation type="vanished">відповідність розширень: png jpg bmp</translation>
     </message>
 </context>
 <context>
@@ -1872,6 +1880,33 @@
     <message>
         <source>Search available plugin</source>
         <translation>Шукати доступні плагіни</translation>
+    </message>
+</context>
+<context>
+    <name>CSettingsWnd4Script</name>
+    <message>
+        <source>The path of interpreter has saved.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CSettingsWnd4Script</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Script</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Interpreter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extensions:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Command:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

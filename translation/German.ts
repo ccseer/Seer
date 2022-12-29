@@ -1119,6 +1119,10 @@
         <source>Restart</source>
         <translation>Neustart</translation>
     </message>
+    <message>
+        <source>Scripts</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CSettingsWnd4Controls</name>
@@ -1176,7 +1180,11 @@
     </message>
     <message>
         <source>triggered file path</source>
-        <translation>Ausgelesener Dateipfad</translation>
+        <translation type="vanished">Ausgelesener Dateipfad</translation>
+    </message>
+    <message>
+        <source>Preview</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1906,7 +1914,7 @@
     </message>
     <message>
         <source>matched extensions: png jpg bmp</source>
-        <translation>passende Dateiendungen: png jpg bmp</translation>
+        <translation type="vanished">passende Dateiendungen: png jpg bmp</translation>
     </message>
 </context>
 <context>
@@ -1942,6 +1950,33 @@
     <message>
         <source>Search available plugin</source>
         <translation>Suche nach verfügbarem Plugin</translation>
+    </message>
+</context>
+<context>
+    <name>CSettingsWnd4Script</name>
+    <message>
+        <source>The path of interpreter has saved.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CSettingsWnd4Script</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Script</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Interpreter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extensions:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Command:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -1095,6 +1095,10 @@
         <source>Restart</source>
         <translation>Uruchom ponownie</translation>
     </message>
+    <message>
+        <source>Scripts</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CSettingsWnd4Controls</name>
@@ -1143,7 +1147,7 @@
         <translation>Pokaż przycisk „Nawigacja”</translation>
     </message>
     <message>
-        <source>triggered file path</source>
+        <source>Preview</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1842,7 +1846,7 @@
     <name>CSettingsWnd4PluginsAdd</name>
     <message>
         <source>matched extensions: png jpg bmp</source>
-        <translation>pasujące rozszerzenia: png jpg bmp</translation>
+        <translation type="vanished">pasujące rozszerzenia: png jpg bmp</translation>
     </message>
     <message>
         <source>your plugin name</source>
@@ -1886,6 +1890,33 @@
     <message>
         <source>Search available plugin</source>
         <translation>Wyszukaj dostępne wtyczki</translation>
+    </message>
+</context>
+<context>
+    <name>CSettingsWnd4Script</name>
+    <message>
+        <source>The path of interpreter has saved.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CSettingsWnd4Script</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Script</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Interpreter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extensions:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Command:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

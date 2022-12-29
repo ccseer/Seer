@@ -1105,6 +1105,10 @@
         <source>Restart</source>
         <translation>Omstart</translation>
     </message>
+    <message>
+        <source>Scripts</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CSettingsWnd4Controls</name>
@@ -1154,7 +1158,7 @@
     </message>
     <message>
         <source>triggered file path</source>
-        <translation>utløst filbane</translation>
+        <translation type="vanished">utløst filbane</translation>
     </message>
     <message>
         <source>Select executable file path</source>
@@ -1163,6 +1167,10 @@
     <message>
         <source>Edit</source>
         <translation>Rediger</translation>
+    </message>
+    <message>
+        <source>Preview</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1840,7 +1848,7 @@
     </message>
     <message>
         <source>matched extensions: png jpg bmp</source>
-        <translation>samsvarende utvidelser: png jpg bmp</translation>
+        <translation type="vanished">samsvarende utvidelser: png jpg bmp</translation>
     </message>
 </context>
 <context>
@@ -1876,6 +1884,37 @@
     <message>
         <source>Search available plugin</source>
         <translation>Søk tilgjengelig programtillegg</translation>
+    </message>
+</context>
+<context>
+    <name>CSettingsWnd4Script</name>
+    <message>
+        <source>The path of interpreter has saved.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>11</source>
+        <translation type="obsolete">11</translation>
+    </message>
+    <message>
+        <source>CSettingsWnd4Script</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Script</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Interpreter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extensions:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Command:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

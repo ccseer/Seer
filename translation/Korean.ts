@@ -1161,6 +1161,10 @@
         <source>Restart</source>
         <translation>다시 시작</translation>
     </message>
+    <message>
+        <source>Scripts</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CSettingsWnd4Controls</name>
@@ -1222,7 +1226,7 @@
         <translation>&quot;탐색&quot; 버튼 표시</translation>
     </message>
     <message>
-        <source>triggered file path</source>
+        <source>Preview</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2021,7 +2025,7 @@
     </message>
     <message>
         <source>matched extensions: png jpg bmp</source>
-        <translation>연결된 확장자: png jpg bmp</translation>
+        <translation type="vanished">연결된 확장자: png jpg bmp</translation>
     </message>
 </context>
 <context>
@@ -2057,6 +2061,37 @@
     <message>
         <source>Search available plugin</source>
         <translation>사용 가능한 플러그인 검색</translation>
+    </message>
+</context>
+<context>
+    <name>CSettingsWnd4Script</name>
+    <message>
+        <source>The path of interpreter has saved.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>11</source>
+        <translation type="obsolete">11</translation>
+    </message>
+    <message>
+        <source>CSettingsWnd4Script</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Script</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Interpreter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extensions:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Command:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
