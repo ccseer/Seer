@@ -2727,54 +2727,59 @@ Reason:</source>
 <context>
     <name>CSettingsWnd4Script</name>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="48"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="49"/>
         <source>Locate script interpreter</source>
-        <translation type="unfinished"></translation>
+        <translation>定位脚本解释器</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="54"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="55"/>
         <source>Download script interpreter</source>
-        <translation type="unfinished"></translation>
+        <translation>下载脚本解释器</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="67"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="69"/>
         <source>Find scripts online</source>
-        <translation type="unfinished"></translation>
+        <translation>查找可用脚本</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="71"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="73"/>
         <source>Add from local</source>
-        <translation type="unfinished"></translation>
+        <translation>从本地添加脚本</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="170"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="174"/>
         <source>The path of interpreter has saved.</source>
-        <translation type="unfinished"></translation>
+        <translation>已成功保存解释器路径。</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4script.ui" line="14"/>
-        <source>CSettingsWnd4Script</source>
-        <translation type="unfinished"></translation>
+        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="207"/>
+        <source>Please configure the interpreter first</source>
+        <translation>请先设置解释器路径</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4script.ui" line="200"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="221"/>
+        <source>Failed to parse the script</source>
+        <translation>解析脚本信息失败</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/settings/csettingswnd4script.ui" line="197"/>
         <source>Script</source>
-        <translation type="unfinished"></translation>
+        <translation>脚本</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4script.ui" line="38"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4script.ui" line="35"/>
         <source>Interpreter</source>
-        <translation type="unfinished"></translation>
+        <translation>解释器</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4scriptitem.cpp" line="78"/>
         <source>Extensions:</source>
-        <translation type="unfinished"></translation>
+        <translation>后缀名：</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4scriptitem.cpp" line="90"/>
         <source>Command:</source>
-        <translation type="unfinished"></translation>
+        <translation>命令：</translation>
     </message>
 </context>
 <context>

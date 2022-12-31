@@ -2525,42 +2525,47 @@ Reason:</source>
 <context>
     <name>CSettingsWnd4Script</name>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="48"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="49"/>
         <source>Locate script interpreter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="54"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="55"/>
         <source>Download script interpreter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="67"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="69"/>
         <source>Find scripts online</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="71"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="73"/>
         <source>Add from local</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="170"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="174"/>
         <source>The path of interpreter has saved.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4script.ui" line="14"/>
-        <source>CSettingsWnd4Script</source>
+        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="207"/>
+        <source>Please configure the interpreter first</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4script.ui" line="200"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="221"/>
+        <source>Failed to parse the script</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/settings/csettingswnd4script.ui" line="197"/>
         <source>Script</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4script.ui" line="38"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4script.ui" line="35"/>
         <source>Interpreter</source>
         <translation type="unfinished"></translation>
     </message>

@@ -2070,10 +2070,6 @@
         <translation type="obsolete">11</translation>
     </message>
     <message>
-        <source>CSettingsWnd4Script</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Script</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2103,6 +2099,14 @@
     </message>
     <message>
         <source>Add from local</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please configure the interpreter first</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to parse the script</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
