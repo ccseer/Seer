@@ -1233,10 +1233,6 @@
         <source>Show &quot;Navigation&quot; button</source>
         <translation>&quot;ナビゲーション&quot;ボタンを表示</translation>
     </message>
-    <message>
-        <source>Preview</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>CSettingsWnd4Explorer</name>
@@ -2084,6 +2080,22 @@
     </message>
     <message>
         <source>Command:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Locate script interpreter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download script interpreter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Find scripts online</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add from local</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

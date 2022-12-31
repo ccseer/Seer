@@ -399,17 +399,17 @@ Reason:</source>
 <context>
     <name>CFileProperty</name>
     <message>
-        <location filename="../../../Seer/src/vars.h" line="74"/>
+        <location filename="../../../Seer/src/vars.h" line="71"/>
         <source>Name</source>
         <translation>名稱</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/vars.h" line="76"/>
+        <location filename="../../../Seer/src/vars.h" line="73"/>
         <source>Size</source>
         <translation>大小</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/vars.h" line="75"/>
+        <location filename="../../../Seer/src/vars.h" line="72"/>
         <source>Location</source>
         <translation>位置</translation>
     </message>
@@ -419,7 +419,7 @@ Reason:</source>
         <translation>原始位置</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/vars.h" line="77"/>
+        <location filename="../../../Seer/src/vars.h" line="74"/>
         <source>Type</source>
         <translation>文件類型</translation>
     </message>
@@ -434,17 +434,17 @@ Reason:</source>
         <translation>資料夾</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/vars.h" line="78"/>
+        <location filename="../../../Seer/src/vars.h" line="75"/>
         <source>Created</source>
         <translation>建立時間</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/vars.h" line="79"/>
+        <location filename="../../../Seer/src/vars.h" line="76"/>
         <source>Modified</source>
         <translation>最後修改時間</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/vars.h" line="80"/>
+        <location filename="../../../Seer/src/vars.h" line="77"/>
         <source>Accessed</source>
         <translation>最後讀取時間</translation>
     </message>
@@ -534,7 +534,7 @@ Reason:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/vars.h" line="73"/>
+        <location filename="../../../Seer/src/vars.h" line="70"/>
         <source>Details</source>
         <translation>詳細資訊</translation>
     </message>
@@ -725,27 +725,27 @@ Reason:</source>
 <context>
     <name>CMainWnd</name>
     <message>
-        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="324"/>
+        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="328"/>
         <source>Please try again with separated window.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="671"/>
+        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="675"/>
         <source>Close</source>
         <translation>關閉</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="678"/>
+        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="682"/>
         <source>Minimize</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="688"/>
+        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="692"/>
         <source>Properties</source>
         <translation>屬性</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="696"/>
+        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="700"/>
         <source>Separate</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1468,12 +1468,7 @@ Reason:</source>
         <translation>編輯</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4controlsedit.cpp" line="93"/>
-        <source>Preview</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4controlsedit.cpp" line="253"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4controlsedit.cpp" line="210"/>
         <source>Choose Application</source>
         <oldsource>Select Application</oldsource>
         <translation>選擇程式</translation>
@@ -2392,12 +2387,12 @@ Reason:</source>
         <translation type="vanished">插件已經存在</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4plugins.cpp" line="304"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4plugins.cpp" line="318"/>
         <source>Internal handled plugins will be used first.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4plugins.cpp" line="324"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4plugins.cpp" line="338"/>
         <source>Choose Seer plugin</source>
         <translation>選擇 Seer 插件</translation>
     </message>
@@ -2452,7 +2447,7 @@ Reason:</source>
         <translation type="vanished">確認</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4pluginsadd.cpp" line="15"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4pluginsadd.cpp" line="18"/>
         <source>your plugin name</source>
         <translation>插件名稱</translation>
     </message>
@@ -2462,7 +2457,7 @@ Reason:</source>
         <translation type="vanished">插件支持的文件副檔名:png jpg bmp</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4pluginsadd.cpp" line="18"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4pluginsadd.cpp" line="21"/>
         <source>your plugin.exe [argument] ...</source>
         <translation>插件路徑 [參數] ...</translation>
     </message>
@@ -2530,7 +2525,27 @@ Reason:</source>
 <context>
     <name>CSettingsWnd4Script</name>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="109"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="48"/>
+        <source>Locate script interpreter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="54"/>
+        <source>Download script interpreter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="67"/>
+        <source>Find scripts online</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="71"/>
+        <source>Add from local</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="170"/>
         <source>The path of interpreter has saved.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2540,24 +2555,22 @@ Reason:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4script.ui" line="104"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4script.ui" line="200"/>
         <source>Script</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4script.ui" line="209"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4script.ui" line="38"/>
         <source>Interpreter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4controlsedit.cpp" line="332"/>
-        <location filename="../../../Seer/src/settings/csettingswnd4scriptitem.cpp" line="83"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4scriptitem.cpp" line="78"/>
         <source>Extensions:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4controlsedit.cpp" line="338"/>
-        <location filename="../../../Seer/src/settings/csettingswnd4scriptitem.cpp" line="93"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4scriptitem.cpp" line="90"/>
         <source>Command:</source>
         <translation type="unfinished"></translation>
     </message>
