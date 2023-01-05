@@ -292,17 +292,17 @@ Reason:</source>
 <context>
     <name>CControlWnd</name>
     <message>
-        <location filename="../../../Seer/src/ui/ccontrolwnd.cpp" line="223"/>
+        <location filename="../../../Seer/src/ui/ccontrolwnd.cpp" line="224"/>
         <source>Open With Default Application</source>
         <translation>打开文件</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/ccontrolwnd.cpp" line="226"/>
+        <location filename="../../../Seer/src/ui/ccontrolwnd.cpp" line="227"/>
         <source>Reveal In Explorer</source>
         <translation>定位文件</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/ccontrolwnd.cpp" line="329"/>
+        <location filename="../../../Seer/src/ui/ccontrolwnd.cpp" line="330"/>
         <source>More</source>
         <translation>更多</translation>
     </message>
@@ -452,7 +452,7 @@ Reason:</source>
         <translation>位置</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/cfileproperty.cpp" line="337"/>
+        <location filename="../../../Seer/src/ui/cfileproperty.cpp" line="348"/>
         <source>Original location</source>
         <translation>原始位置</translation>
     </message>
@@ -462,12 +462,12 @@ Reason:</source>
         <translation>文件类型</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/cfileproperty.cpp" line="371"/>
+        <location filename="../../../Seer/src/ui/cfileproperty.cpp" line="382"/>
         <source>Opens with</source>
         <translation>打开方式</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/cfileproperty.cpp" line="340"/>
+        <location filename="../../../Seer/src/ui/cfileproperty.cpp" line="351"/>
         <source>Folder</source>
         <translation>文件夹</translation>
     </message>
@@ -487,7 +487,7 @@ Reason:</source>
         <translation>最后读取时间</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/cfileproperty.cpp" line="363"/>
+        <location filename="../../../Seer/src/ui/cfileproperty.cpp" line="374"/>
         <source>Extension</source>
         <translation>后缀名</translation>
     </message>
@@ -552,22 +552,22 @@ Reason:</source>
         <translation>产品版本</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/cfileproperty.cpp" line="321"/>
+        <location filename="../../../Seer/src/ui/cfileproperty.cpp" line="332"/>
         <source>Total bytes</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/cfileproperty.cpp" line="323"/>
+        <location filename="../../../Seer/src/ui/cfileproperty.cpp" line="334"/>
         <source>Available bytes</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/cfileproperty.cpp" line="325"/>
+        <location filename="../../../Seer/src/ui/cfileproperty.cpp" line="336"/>
         <source>Free bytes</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/cfileproperty.cpp" line="329"/>
+        <location filename="../../../Seer/src/ui/cfileproperty.cpp" line="340"/>
         <source>Block size</source>
         <translation></translation>
     </message>
@@ -643,12 +643,27 @@ Reason:</source>
 <context>
     <name>CHtmlWnd</name>
     <message>
-        <location filename="../../../Seer/src/html/chtmlwnd.cpp" line="83"/>
+        <location filename="../../../Seer/src/html/chtmlwnd.cpp" line="85"/>
         <source>Markdown Source</source>
         <translation>转到 Markdown 源码</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/html/chtmlwnd.cpp" line="86"/>
+        <location filename="../../../Seer/src/html/chtmlwnd.cpp" line="87"/>
+        <source>Save as PDF</source>
+        <translation>保存为 PDF</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/html/chtmlwnd.cpp" line="94"/>
+        <source>Failed to save as PDF</source>
+        <translation>保存为 PDF 失败</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/html/chtmlwnd.cpp" line="114"/>
+        <source>Successfully saved as PDF</source>
+        <translation>已成功保存为 PDF</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/html/chtmlwnd.cpp" line="123"/>
         <source>HTML</source>
         <translation>HTML</translation>
     </message>
@@ -779,27 +794,27 @@ Reason:</source>
         <translation type="vanished">请在分离窗口中使用此功能。</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="327"/>
+        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="337"/>
         <source>Please try again with separated window.</source>
         <translation>请在分离窗口中使用此功能。</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="674"/>
+        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="684"/>
         <source>Close</source>
         <translation>关闭</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="681"/>
+        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="691"/>
         <source>Minimize</source>
         <translation>最小化</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="691"/>
+        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="701"/>
         <source>Properties</source>
         <translation>属性</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="699"/>
+        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="709"/>
         <source>Separate</source>
         <translation>分离</translation>
     </message>
@@ -811,7 +826,7 @@ Reason:</source>
 <context>
     <name>CMediaWnd</name>
     <message>
-        <location filename="../../../Seer/src/media/cmediawnd_p.cpp" line="345"/>
+        <location filename="../../../Seer/src/media/cmediawnd_p.cpp" line="346"/>
         <source>Play / Pause</source>
         <oldsource>Play/Pause</oldsource>
         <translation>播放 / 暂停</translation>
@@ -830,12 +845,17 @@ Reason:</source>
         <translation>截屏失败</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/cmediawnd_p.cpp" line="175"/>
+        <location filename="../../../Seer/src/media/cmediawnd_p.cpp" line="114"/>
+        <source>Screenshot has saved to clipboard.</source>
+        <translation>截图已保存到剪贴板。</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/media/cmediawnd_p.cpp" line="176"/>
         <source>Loop: On</source>
         <translation>循环：开</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/cmediawnd_p.cpp" line="175"/>
+        <location filename="../../../Seer/src/media/cmediawnd_p.cpp" line="176"/>
         <source>Loop: Off</source>
         <translation>循环：关</translation>
     </message>
@@ -918,13 +938,13 @@ Reason:</source>
     </message>
     <message>
         <location filename="../../../Seer/src/media/cmediawnd.cpp" line="294"/>
-        <location filename="../../../Seer/src/media/cmediawnd_p.cpp" line="162"/>
+        <location filename="../../../Seer/src/media/cmediawnd_p.cpp" line="163"/>
         <source>Mute: On</source>
         <translation>静音：开</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/media/cmediawnd.cpp" line="294"/>
-        <location filename="../../../Seer/src/media/cmediawnd_p.cpp" line="162"/>
+        <location filename="../../../Seer/src/media/cmediawnd_p.cpp" line="163"/>
         <source>Mute: Off</source>
         <translation>静音：关</translation>
     </message>
@@ -1392,28 +1412,33 @@ Reason:</source>
         <translation type="vanished">激活失败</translation>
     </message>
     <message>
-        <location filename="../../../Seer/opt/licenser/cregdlg.cpp" line="41"/>
+        <location filename="../../../Seer/opt/licenser/cregdlg.cpp" line="22"/>
+        <source>Thanks for your support!!!</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/opt/licenser/cregdlg.cpp" line="45"/>
         <source>Seer will stop running in %1 day(s).</source>
         <translation>程序会在 %1 天后停止运行。</translation>
     </message>
     <message>
-        <location filename="../../../Seer/opt/licenser/cregdlg.cpp" line="45"/>
+        <location filename="../../../Seer/opt/licenser/cregdlg.cpp" line="49"/>
         <source>The evaluation period has ended.</source>
         <translation>试用期已结束。</translation>
     </message>
     <message>
-        <location filename="../../../Seer/opt/licenser/cregdlg.cpp" line="49"/>
+        <location filename="../../../Seer/opt/licenser/cregdlg.cpp" line="53"/>
         <source>Please enter your license key.</source>
         <translation>请将激活码粘贴到此处。</translation>
     </message>
     <message>
-        <location filename="../../../Seer/opt/licenser/cregdlg.cpp" line="120"/>
-        <location filename="../../../Seer/opt/licenser/cregdlg.cpp" line="159"/>
+        <location filename="../../../Seer/opt/licenser/cregdlg.cpp" line="124"/>
+        <location filename="../../../Seer/opt/licenser/cregdlg.cpp" line="163"/>
         <source>Activated</source>
         <translation>激活成功</translation>
     </message>
     <message>
-        <location filename="../../../Seer/opt/licenser/cregdlg.cpp" line="128"/>
+        <location filename="../../../Seer/opt/licenser/cregdlg.cpp" line="132"/>
         <source>Failed to activate</source>
         <translation>激活失败</translation>
     </message>
@@ -1426,8 +1451,8 @@ Reason:</source>
         <translation type="vanished">已复制</translation>
     </message>
     <message>
-        <location filename="../../../Seer/opt/licenser/cregdlg.cpp" line="117"/>
-        <location filename="../../../Seer/opt/licenser/cregdlg.cpp" line="136"/>
+        <location filename="../../../Seer/opt/licenser/cregdlg.cpp" line="121"/>
+        <location filename="../../../Seer/opt/licenser/cregdlg.cpp" line="140"/>
         <source>Verifying</source>
         <translation>校验中</translation>
     </message>
@@ -1443,37 +1468,37 @@ Reason:</source>
 <context>
     <name>CSettingsDlg</name>
     <message>
-        <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="59"/>
+        <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="62"/>
         <source>General</source>
         <translation>常规</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="63"/>
+        <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="66"/>
         <source>Type</source>
         <translation>类型</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="64"/>
+        <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="67"/>
         <source>Advanced</source>
         <translation>高级设置</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="65"/>
+        <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="68"/>
         <source>Scripts</source>
         <translation>脚本</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="79"/>
+        <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="82"/>
         <source>Settings</source>
         <translation>设置</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="147"/>
+        <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="150"/>
         <source>&amp;OK</source>
         <translation>确定(&amp;O)</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="147"/>
+        <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="150"/>
         <source>Restart</source>
         <translation>重新打开</translation>
     </message>
@@ -1482,17 +1507,17 @@ Reason:</source>
         <translation type="vanished"> &amp; 重新打开</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="61"/>
+        <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="64"/>
         <source>Keyboard</source>
         <translation>快捷键</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="62"/>
+        <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="65"/>
         <source>Plugins</source>
         <translation>插件</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="60"/>
+        <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="63"/>
         <source>Controls</source>
         <translation>控制栏</translation>
     </message>
@@ -1732,12 +1757,12 @@ Reason:</source>
         <translation type="vanished">选择 dopusrt.exe 文件</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="44"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="52"/>
         <source>Cancel</source>
         <translation>取消</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="45"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="53"/>
         <source>Reset</source>
         <translation>恢复</translation>
     </message>
@@ -1917,17 +1942,17 @@ Reason:</source>
         <translation type="vanished">查找文件后缀，例如：psd</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="20"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="42"/>
         <source>Search extension, e.g.: psd</source>
         <translation>查找文件后缀，例如：psd</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="26"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="46"/>
         <source>Markdown stylesheet path</source>
         <translation>Markdown 样式文件路径</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="261"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="263"/>
         <source>Invalid</source>
         <translation>无效</translation>
     </message>
@@ -1936,7 +1961,7 @@ Reason:</source>
         <translation type="vanished">此处的后缀名将仅显示文件属性,填写示例：pptx docx</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="28"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="48"/>
         <source>Will display property only for extensions in this field, e.g.:</source>
         <translation>此处的后缀名将仅显示文件属性,示例：</translation>
     </message>
@@ -2086,7 +2111,7 @@ Reason:</source>
     <name>CSettingsWnd4Key</name>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="47"/>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.cpp" line="138"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.cpp" line="143"/>
         <source>Trigger Keys</source>
         <translation>触发键</translation>
     </message>
@@ -2531,17 +2556,17 @@ Reason:</source>
         <translation type="vanished">触发键：</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.cpp" line="11"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.cpp" line="12"/>
         <source>Invalid</source>
         <translation>无效</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.cpp" line="262"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.cpp" line="268"/>
         <source>Can not have &apos;Space&apos; key.</source>
         <translation>无法使用空格键。</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.cpp" line="275"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.cpp" line="281"/>
         <source>Duplicated shortcut:</source>
         <translation>快捷键不可用：</translation>
     </message>
@@ -2575,12 +2600,12 @@ Reason:</source>
         <translation>所有可用插件</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4plugins.cpp" line="77"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4plugins.cpp" line="79"/>
         <source>Name</source>
         <translation>名称</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4plugins.cpp" line="77"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4plugins.cpp" line="79"/>
         <source>Extension</source>
         <translation>后缀名</translation>
     </message>
@@ -2589,12 +2614,12 @@ Reason:</source>
         <translation type="vanished">插件已经存在</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4plugins.cpp" line="318"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4plugins.cpp" line="320"/>
         <source>Internal handled plugins will be used first.</source>
         <translation>将会优先使用内部插件。</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4plugins.cpp" line="338"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4plugins.cpp" line="340"/>
         <source>Choose Seer plugin</source>
         <translation>选择 Seer 插件</translation>
     </message>
@@ -2603,7 +2628,7 @@ Reason:</source>
         <translation type="vanished">后缀名</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4plugins.cpp" line="77"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4plugins.cpp" line="79"/>
         <source>Command</source>
         <translation>命令</translation>
     </message>
@@ -2612,7 +2637,7 @@ Reason:</source>
         <translation type="vanished">插件</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4plugins.cpp" line="124"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4plugins.cpp" line="126"/>
         <source>Search plugin</source>
         <oldsource>Search plugins</oldsource>
         <translation>查找插件</translation>
@@ -2727,57 +2752,57 @@ Reason:</source>
 <context>
     <name>CSettingsWnd4Script</name>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="50"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="56"/>
         <source>Locate script interpreter</source>
         <translation>定位脚本解释器</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="56"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="62"/>
         <source>Download script interpreter</source>
         <translation>下载脚本解释器</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="72"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="79"/>
         <source>Find scripts online</source>
         <translation>查找可用脚本</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="77"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="84"/>
         <source>Add from local</source>
         <translation>从本地添加脚本</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="90"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="97"/>
         <source>All</source>
         <translation>全部</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="91"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="98"/>
         <source>Preview</source>
         <translation>预览</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="92"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="99"/>
         <source>Controls</source>
         <translation>控制栏</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="93"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="100"/>
         <source>Property</source>
         <translation>属性</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="200"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="199"/>
         <source>The path of interpreter has saved.</source>
         <translation>已成功保存解释器路径。</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="244"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="243"/>
         <source>Please configure the interpreter first</source>
         <translation>请先设置解释器路径</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="256"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="255"/>
         <source>Failed to parse the script</source>
         <translation>解析脚本信息失败</translation>
     </message>
@@ -2792,12 +2817,12 @@ Reason:</source>
         <translation>解释器</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4scriptitem.cpp" line="74"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4scriptitem.cpp" line="84"/>
         <source>Extensions:</source>
         <translation>后缀名：</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4scriptitem.cpp" line="86"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4scriptitem.cpp" line="96"/>
         <source>Command:</source>
         <translation>命令：</translation>
     </message>
@@ -3093,12 +3118,12 @@ Reason:</source>
         <translation>确定(&amp;O)</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="201"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="205"/>
         <source>Folder</source>
         <translation>文件夹</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="201"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="205"/>
         <source>Image</source>
         <translation>图片</translation>
     </message>
@@ -3107,27 +3132,27 @@ Reason:</source>
         <translation type="vanished">多媒体</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="202"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="206"/>
         <source>Text</source>
         <translation>文本</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="202"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="206"/>
         <source>Media</source>
         <translation>多媒体</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="203"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="207"/>
         <source>PDF</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="203"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="207"/>
         <source>HTML</source>
         <translation>网页</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="204"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="208"/>
         <source>Unknown</source>
         <translation>未知</translation>
     </message>

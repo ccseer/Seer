@@ -569,6 +569,18 @@
         <source>HTML</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Save as PDF</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to save as PDF</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Successfully saved as PDF</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CMain</name>
@@ -766,6 +778,10 @@
     </message>
     <message>
         <source>Mute: Off</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Screenshot has saved to clipboard.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1138,6 +1154,10 @@
     </message>
     <message>
         <source>Failed to activate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Thanks for your support!!!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

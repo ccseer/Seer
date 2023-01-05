@@ -492,6 +492,18 @@
         <source>Markdown Source</source>
         <translation>Markdown 소스</translation>
     </message>
+    <message>
+        <source>Save as PDF</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to save as PDF</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Successfully saved as PDF</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CMain</name>
@@ -704,6 +716,10 @@
     <message>
         <source>The system is muted</source>
         <translation>시스템 음소거됨</translation>
+    </message>
+    <message>
+        <source>Screenshot has saved to clipboard.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1120,6 +1136,10 @@
     </message>
     <message>
         <source>Failed to activate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Thanks for your support!!!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2195,6 +2215,13 @@
     <message>
         <source>Like Seer?</source>
         <translation type="obsolete">Seer가 마음에 드나요?</translation>
+    </message>
+</context>
+<context>
+    <name>I18nPopupWnd</name>
+    <message>
+        <source>Form</source>
+        <translation type="obsolete">양식</translation>
     </message>
 </context>
 <context>

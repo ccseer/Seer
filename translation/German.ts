@@ -486,6 +486,18 @@
         <source>HTML</source>
         <translation></translation>
     </message>
+    <message>
+        <source>Save as PDF</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to save as PDF</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Successfully saved as PDF</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CMain</name>
@@ -683,6 +695,10 @@
     <message>
         <source>The system is muted</source>
         <translation>Das System ist stummgeschaltet</translation>
+    </message>
+    <message>
+        <source>Screenshot has saved to clipboard.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1075,6 +1091,10 @@
     <message>
         <source>Failed to activate</source>
         <translation>Seer konnte nicht aktiviert werden</translation>
+    </message>
+    <message>
+        <source>Thanks for your support!!!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
