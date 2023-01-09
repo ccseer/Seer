@@ -951,7 +951,7 @@
     </message>
     <message>
         <source>extension</source>
-        <translation>расширение</translation>
+        <translation type="vanished">расширение</translation>
     </message>
     <message>
         <source>Show &quot;Navigation&quot; button</source>

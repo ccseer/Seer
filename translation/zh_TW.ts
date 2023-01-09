@@ -294,7 +294,7 @@ Reason:</source>
         <translation>打開所在位置資料夾</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/ccontrolwnd.cpp" line="330"/>
+        <location filename="../../../Seer/src/ui/ccontrolwnd.cpp" line="331"/>
         <source>More</source>
         <translation>更多</translation>
     </message>
@@ -399,57 +399,57 @@ Reason:</source>
 <context>
     <name>CFileProperty</name>
     <message>
-        <location filename="../../../Seer/src/vars.h" line="71"/>
+        <location filename="../../../Seer/src/vars.h" line="74"/>
         <source>Name</source>
         <translation>名稱</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/vars.h" line="73"/>
+        <location filename="../../../Seer/src/vars.h" line="76"/>
         <source>Size</source>
         <translation>大小</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/vars.h" line="72"/>
+        <location filename="../../../Seer/src/vars.h" line="75"/>
         <source>Location</source>
         <translation>位置</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/cfileproperty.cpp" line="348"/>
+        <location filename="../../../Seer/src/ui/cfileproperty.cpp" line="349"/>
         <source>Original location</source>
         <translation>原始位置</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/vars.h" line="74"/>
+        <location filename="../../../Seer/src/vars.h" line="77"/>
         <source>Type</source>
         <translation>文件類型</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/cfileproperty.cpp" line="382"/>
+        <location filename="../../../Seer/src/ui/cfileproperty.cpp" line="383"/>
         <source>Opens with</source>
         <translation>開啟方式</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/cfileproperty.cpp" line="351"/>
+        <location filename="../../../Seer/src/ui/cfileproperty.cpp" line="352"/>
         <source>Folder</source>
         <translation>資料夾</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/vars.h" line="75"/>
+        <location filename="../../../Seer/src/vars.h" line="78"/>
         <source>Created</source>
         <translation>建立時間</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/vars.h" line="76"/>
+        <location filename="../../../Seer/src/vars.h" line="79"/>
         <source>Modified</source>
         <translation>最後修改時間</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/vars.h" line="77"/>
+        <location filename="../../../Seer/src/vars.h" line="80"/>
         <source>Accessed</source>
         <translation>最後讀取時間</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/cfileproperty.cpp" line="374"/>
+        <location filename="../../../Seer/src/ui/cfileproperty.cpp" line="375"/>
         <source>Extension</source>
         <translation>副檔名</translation>
     </message>
@@ -514,27 +514,27 @@ Reason:</source>
         <translation>產品版本</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/cfileproperty.cpp" line="332"/>
+        <location filename="../../../Seer/src/ui/cfileproperty.cpp" line="333"/>
         <source>Total bytes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/cfileproperty.cpp" line="334"/>
+        <location filename="../../../Seer/src/ui/cfileproperty.cpp" line="335"/>
         <source>Available bytes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/cfileproperty.cpp" line="336"/>
+        <location filename="../../../Seer/src/ui/cfileproperty.cpp" line="337"/>
         <source>Free bytes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/cfileproperty.cpp" line="340"/>
+        <location filename="../../../Seer/src/ui/cfileproperty.cpp" line="341"/>
         <source>Block size</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/vars.h" line="70"/>
+        <location filename="../../../Seer/src/vars.h" line="73"/>
         <source>Details</source>
         <translation>詳細資訊</translation>
     </message>
@@ -692,13 +692,13 @@ Reason:</source>
         <translation>Seer 已啟動。</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="1014"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="1015"/>
         <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="135"/>
         <source>Like Seer?</source>
         <translation>喜歡 Seer ?</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="1015"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="1016"/>
         <source>Please share with your friends.</source>
         <translation>推薦給朋友吧~!</translation>
     </message>
@@ -1474,9 +1474,8 @@ Reason:</source>
         <translation type="vanished">副檔名</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4controlsedit.cpp" line="55"/>
         <source>extension</source>
-        <translation>副檔名</translation>
+        <translation type="vanished">副檔名</translation>
     </message>
     <message>
         <source>executable file path</source>

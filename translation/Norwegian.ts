@@ -1150,7 +1150,7 @@
     </message>
     <message>
         <source>extension</source>
-        <translation>utvidelse</translation>
+        <translation type="vanished">utvidelse</translation>
     </message>
     <message>
         <source>Display</source>

@@ -1160,7 +1160,7 @@
     </message>
     <message>
         <source>extension</source>
-        <translation>Rozszerzenie</translation>
+        <translation type="vanished">Rozszerzenie</translation>
     </message>
     <message>
         <source>Show &quot;Navigation&quot; button</source>

@@ -1150,7 +1150,7 @@
     </message>
     <message>
         <source>extension</source>
-        <translation>розширення</translation>
+        <translation type="vanished">розширення</translation>
     </message>
     <message>
         <source>Display</source>

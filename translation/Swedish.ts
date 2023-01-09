@@ -1224,7 +1224,7 @@
     </message>
     <message>
         <source>extension</source>
-        <translation>filtill?gg</translation>
+        <translation type="vanished">filtill?gg</translation>
     </message>
     <message>
         <source>Display</source>

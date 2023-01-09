@@ -1206,7 +1206,7 @@
     </message>
     <message>
         <source>extension</source>
-        <translation>estensione</translation>
+        <translation type="vanished">estensione</translation>
     </message>
     <message>
         <source>Display</source>

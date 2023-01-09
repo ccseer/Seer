@@ -1164,7 +1164,7 @@
     </message>
     <message>
         <source>extension</source>
-        <translation>Dateiendung</translation>
+        <translation type="vanished">Dateiendung</translation>
     </message>
     <message>
         <source>Display</source>

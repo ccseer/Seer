@@ -1199,7 +1199,7 @@
     </message>
     <message>
         <source>extension</source>
-        <translation>Extension</translation>
+        <translation type="vanished">Extension</translation>
     </message>
     <message>
         <source>Display</source>

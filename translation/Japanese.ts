@@ -1214,7 +1214,7 @@
     </message>
     <message>
         <source>extension</source>
-        <translation>拡張子</translation>
+        <translation type="vanished">拡張子</translation>
     </message>
     <message>
         <source>Display</source>

@@ -1206,7 +1206,7 @@
     </message>
     <message>
         <source>extension</source>
-        <translation>확장자</translation>
+        <translation type="vanished">확장자</translation>
     </message>
     <message>
         <source>Display</source>
