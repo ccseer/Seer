@@ -1962,6 +1962,14 @@
         <source>Forward 15x:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Next Page:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Previous Page:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CSettingsWnd4Plugins</name>
