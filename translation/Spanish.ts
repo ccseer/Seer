@@ -1885,6 +1885,14 @@
         <source>Previous Page:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Increase Window Size:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reduce Window Size:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CSettingsWnd4Plugins</name>
