@@ -1381,7 +1381,7 @@
     </message>
     <message>
         <source>Other</source>
-        <translation>Otro</translation>
+        <translation type="vanished">Otro</translation>
     </message>
     <message>
         <source> already exist.</source>
@@ -1470,6 +1470,14 @@
     <message>
         <source>Invalid</source>
         <translation type="unfinished">Invalido</translation>
+    </message>
+    <message>
+        <source>PDF</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Web</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1891,6 +1899,10 @@
     </message>
     <message>
         <source>Reduce Window Size:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Toggle Minimap:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

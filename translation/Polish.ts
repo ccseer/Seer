@@ -1370,7 +1370,7 @@
     </message>
     <message>
         <source>Other</source>
-        <translation>Inne</translation>
+        <translation type="vanished">Inne</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -1439,6 +1439,14 @@
     <message>
         <source>Invalid</source>
         <translation type="unfinished">Brak</translation>
+    </message>
+    <message>
+        <source>PDF</source>
+        <translation type="unfinished">PDF</translation>
+    </message>
+    <message>
+        <source>Web</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1832,6 +1840,10 @@
     </message>
     <message>
         <source>Reduce Window Size:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Toggle Minimap:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

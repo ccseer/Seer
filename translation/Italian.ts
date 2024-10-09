@@ -1104,7 +1104,7 @@
     </message>
     <message>
         <source>Other</source>
-        <translation>Altro</translation>
+        <translation type="vanished">Altro</translation>
     </message>
     <message>
         <source> already exist.</source>
@@ -1165,6 +1165,14 @@
     <message>
         <source>Invalid</source>
         <translation>Non valido</translation>
+    </message>
+    <message>
+        <source>PDF</source>
+        <translation type="unfinished">PDF</translation>
+    </message>
+    <message>
+        <source>Web</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1535,6 +1543,10 @@
     <message>
         <source>Duplicated shortcut:</source>
         <translation>Collegamento duplicato:</translation>
+    </message>
+    <message>
+        <source>Toggle Minimap:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
