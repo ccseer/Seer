@@ -153,7 +153,7 @@
     </message>
     <message>
         <source>FOSS</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Open Source Software in Seer</source>
@@ -208,7 +208,7 @@
     </message>
     <message>
         <source>Line:</source>
-        <translation>Ligne :</translation>
+        <translation>Ligne:</translation>
     </message>
     <message>
         <source>Column:</source>
@@ -1637,7 +1637,7 @@
     </message>
     <message>
         <source>PDF</source>
-        <translation type="unfinished">PDF</translation>
+        <translation>PDF</translation>
     </message>
     <message>
         <source>Web</source>
