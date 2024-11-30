@@ -315,27 +315,27 @@ Reason:</source>
 <context>
     <name>CDirWnd</name>
     <message>
-        <location filename="../../../Seer/src/dirs/archive/archivereader.cpp" line="213"/>
+        <location filename="../../../Seer/src/dirs/archive/archivereader.cpp" line="216"/>
         <source>Filename</source>
         <translation>文件名</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/dirs/archive/archivereader.cpp" line="214"/>
+        <location filename="../../../Seer/src/dirs/archive/archivereader.cpp" line="217"/>
         <source>Size</source>
         <translation>大小</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/dirs/archive/archivereader.cpp" line="215"/>
+        <location filename="../../../Seer/src/dirs/archive/archivereader.cpp" line="218"/>
         <source>Packed</source>
         <translation>壓縮大小</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/dirs/archive/archivereader.cpp" line="216"/>
+        <location filename="../../../Seer/src/dirs/archive/archivereader.cpp" line="219"/>
         <source>Ratio</source>
         <translation>壓縮比例</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/dirs/archive/archivereader.cpp" line="217"/>
+        <location filename="../../../Seer/src/dirs/archive/archivereader.cpp" line="220"/>
         <source>Time</source>
         <translation>時間</translation>
     </message>
