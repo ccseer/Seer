@@ -128,7 +128,7 @@
     <message>
         <location filename="../../../Seer/src/ui/caboutwnd.cpp" line="44"/>
         <source>Open Source Software in Seer</source>
-        <translation type="unfinished"></translation>
+        <translation>Seer 中的開源軟體</translation>
     </message>
 </context>
 <context>
@@ -193,22 +193,22 @@
     <message>
         <location filename="../../../Seer/src/code/FeaturedView/ccodewnd4featured.cpp" line="140"/>
         <source>Render Markdown</source>
-        <translation type="unfinished"></translation>
+        <translation>渲染 Markdown</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/code/FeaturedView/ccodewnd4featured.cpp" line="153"/>
         <source>Render HTML</source>
-        <translation type="unfinished"></translation>
+        <translation>渲染 HTML</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/code/FeaturedView/ccodewnd4featured.cpp" line="166"/>
         <source>Render Image</source>
-        <translation type="unfinished"></translation>
+        <translation>渲染圖片</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/code/FeaturedView/ccodewnd4featured.cpp" line="368"/>
         <source>Character count</source>
-        <translation type="unfinished"></translation>
+        <translation>字元計數</translation>
     </message>
     <message>
         <source>Line: </source>
@@ -228,12 +228,12 @@ Reason:</source>
         <location filename="../../../Seer/src/code/ChunkView/ccodewnd4chunk.cpp" line="68"/>
         <location filename="../../../Seer/src/code/FeaturedView/ccodewnd4featured.cpp" line="370"/>
         <source>Line count</source>
-        <translation type="unfinished"></translation>
+        <translation>行數</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/code/ccodewnd.cpp" line="69"/>
         <source>Loading</source>
-        <translation type="unfinished"></translation>
+        <translation>載入中</translation>
     </message>
 </context>
 <context>
@@ -375,12 +375,12 @@ Reason:</source>
     <message>
         <location filename="../../../Seer/src/dirs/folder/folderdatareader.cpp" line="107"/>
         <source>Folder</source>
-        <translation type="unfinished">資料夾</translation>
+        <translation>資料夾</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/dirs/folder/folderdatareader.cpp" line="141"/>
         <source>Loading</source>
-        <translation type="unfinished"></translation>
+        <translation>載入中</translation>
     </message>
     <message>
         <source>Date created</source>
@@ -2202,7 +2202,7 @@ Reason:</source>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1277"/>
         <source>Text</source>
-        <translation type="unfinished">文本</translation>
+        <translation>文本</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1340"/>
@@ -2613,7 +2613,7 @@ Reason:</source>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="99"/>
         <source>Controls</source>
-        <translation type="unfinished">控制欄</translation>
+        <translation>控制欄</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="100"/>

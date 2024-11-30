@@ -157,7 +157,7 @@
     </message>
     <message>
         <source>Open Source Software in Seer</source>
-        <translation type="unfinished"></translation>
+        <translation>Logiciel Open Source dans Seer</translation>
     </message>
 </context>
 <context>
@@ -587,15 +587,15 @@
     </message>
     <message>
         <source>Save as PDF</source>
-        <translation type="unfinished"></translation>
+        <translation>Enregistrer en PDF</translation>
     </message>
     <message>
         <source>Failed to save as PDF</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec de l&apos;enregistrement en PDF</translation>
     </message>
     <message>
         <source>Successfully saved as PDF</source>
-        <translation type="unfinished"></translation>
+        <translation>Enregistré en PDF avec succès</translation>
     </message>
 </context>
 <context>
@@ -689,7 +689,7 @@
     </message>
     <message>
         <source>Seer is already running.</source>
-        <translation type="unfinished">Seer est déjà en cours d&apos;exécution.</translation>
+        <translation>Seer est déjà en cours d&apos;exécution.</translation>
     </message>
 </context>
 <context>
@@ -1633,7 +1633,7 @@
     </message>
     <message>
         <source>Invalid</source>
-        <translation type="unfinished">Invalide</translation>
+        <translation>Invalide</translation>
     </message>
     <message>
         <source>PDF</source>
@@ -1641,7 +1641,7 @@
     </message>
     <message>
         <source>Web</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -2244,7 +2244,7 @@
     </message>
     <message>
         <source>Controls</source>
-        <translation type="unfinished">Contrôles</translation>
+        <translation>Contrôles</translation>
     </message>
     <message>
         <source>Property</source>
