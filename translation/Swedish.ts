@@ -228,10 +228,6 @@
         <source>Character count</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Loading</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>CComLineEditBtn</name>
@@ -383,10 +379,6 @@
     </message>
     <message>
         <source>File is encrypted</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Loading</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -844,10 +836,6 @@
     </message>
     <message>
         <source>Please choose a page first</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Loading...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2275,6 +2263,10 @@
     <message>
         <source>Media</source>
         <translation type="unfinished">Media</translation>
+    </message>
+    <message>
+        <source>Loading</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

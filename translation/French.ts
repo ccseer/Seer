@@ -244,7 +244,7 @@
     </message>
     <message>
         <source>Loading</source>
-        <translation>Chargement</translation>
+        <translation type="vanished">Chargement</translation>
     </message>
 </context>
 <context>
@@ -378,7 +378,7 @@
     </message>
     <message>
         <source>Loading</source>
-        <translation>Chargement</translation>
+        <translation type="vanished">Chargement</translation>
     </message>
     <message>
         <source>Name</source>
@@ -883,10 +883,6 @@
     </message>
     <message>
         <source>Annotated</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Loading...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2443,6 +2439,10 @@
     <message>
         <source>Media</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Loading</source>
+        <translation type="unfinished">Chargement</translation>
     </message>
 </context>
 <context>

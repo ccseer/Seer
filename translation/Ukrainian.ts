@@ -226,7 +226,7 @@
     </message>
     <message>
         <source>Loading</source>
-        <translation>Завантаження</translation>
+        <translation type="vanished">Завантаження</translation>
     </message>
 </context>
 <context>
@@ -329,7 +329,7 @@
     </message>
     <message>
         <source>Loading</source>
-        <translation>Завантаження</translation>
+        <translation type="vanished">Завантаження</translation>
     </message>
 </context>
 <context>
@@ -746,7 +746,7 @@
     </message>
     <message>
         <source>Loading...</source>
-        <translation>Завантаження...</translation>
+        <translation type="vanished">Завантаження...</translation>
     </message>
     <message>
         <source>Outline</source>
@@ -2100,6 +2100,10 @@
     <message>
         <source>&amp;OK</source>
         <translation>&amp;OK</translation>
+    </message>
+    <message>
+        <source>Loading</source>
+        <translation type="unfinished">Завантаження</translation>
     </message>
 </context>
 </TS>

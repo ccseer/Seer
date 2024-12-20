@@ -226,7 +226,7 @@
     </message>
     <message>
         <source>Loading</source>
-        <translation>Åpner</translation>
+        <translation type="vanished">Åpner</translation>
     </message>
 </context>
 <context>
@@ -329,7 +329,7 @@
     </message>
     <message>
         <source>Loading</source>
-        <translation>Åpner</translation>
+        <translation type="vanished">Åpner</translation>
     </message>
 </context>
 <context>
@@ -746,7 +746,7 @@
     </message>
     <message>
         <source>Loading...</source>
-        <translation>Åpner</translation>
+        <translation type="vanished">Åpner</translation>
     </message>
     <message>
         <source>Outline</source>
@@ -2154,6 +2154,10 @@
     <message>
         <source>&amp;OK</source>
         <translation>&amp;OK</translation>
+    </message>
+    <message>
+        <source>Loading</source>
+        <translation type="unfinished">Åpner</translation>
     </message>
 </context>
 </TS>

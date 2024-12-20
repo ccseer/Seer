@@ -174,7 +174,7 @@
     </message>
     <message>
         <source>Loading</source>
-        <translation>Cargando</translation>
+        <translation type="vanished">Cargando</translation>
     </message>
 </context>
 <context>
@@ -303,7 +303,7 @@
     </message>
     <message>
         <source>Loading</source>
-        <translation>Cargando</translation>
+        <translation type="vanished">Cargando</translation>
     </message>
     <message>
         <source>Name</source>
@@ -787,10 +787,6 @@
     </message>
     <message>
         <source>Annotated</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Loading...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2270,6 +2266,10 @@
     <message>
         <source>Media</source>
         <translation>Medios</translation>
+    </message>
+    <message>
+        <source>Loading</source>
+        <translation type="unfinished">Cargando</translation>
     </message>
 </context>
 <context>

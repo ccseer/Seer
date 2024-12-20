@@ -166,7 +166,7 @@
     </message>
     <message>
         <source>Loading</source>
-        <translation>읽는중</translation>
+        <translation type="vanished">읽는중</translation>
     </message>
 </context>
 <context>
@@ -311,7 +311,7 @@
     </message>
     <message>
         <source>Loading</source>
-        <translation>읽는중</translation>
+        <translation type="vanished">읽는중</translation>
     </message>
 </context>
 <context>
@@ -785,10 +785,6 @@
     </message>
     <message>
         <source>Annotated</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Loading...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2363,6 +2359,10 @@
     <message>
         <source>Media</source>
         <translation>멀티미디어</translation>
+    </message>
+    <message>
+        <source>Loading</source>
+        <translation type="unfinished">읽는중</translation>
     </message>
 </context>
 <context>

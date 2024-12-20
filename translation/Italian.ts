@@ -120,7 +120,7 @@
     </message>
     <message>
         <source>Loading</source>
-        <translation>Caricamento</translation>
+        <translation type="vanished">Caricamento</translation>
     </message>
 </context>
 <context>
@@ -158,7 +158,7 @@
     </message>
     <message>
         <source>Loading</source>
-        <translation>Caricamento</translation>
+        <translation type="vanished">Caricamento</translation>
     </message>
     <message>
         <source>Column View</source>
@@ -562,7 +562,7 @@
     </message>
     <message>
         <source>Loading...</source>
-        <translation>Caricamento...</translation>
+        <translation type="vanished">Caricamento...</translation>
     </message>
     <message>
         <source>Outline</source>
@@ -1813,6 +1813,10 @@
     <message>
         <source>Unknown</source>
         <translation>Sconosciuto</translation>
+    </message>
+    <message>
+        <source>Loading</source>
+        <translation type="unfinished">Caricamento</translation>
     </message>
 </context>
 </TS>

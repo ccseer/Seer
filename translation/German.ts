@@ -166,7 +166,7 @@
     </message>
     <message>
         <source>Loading</source>
-        <translation>Wird geladen</translation>
+        <translation type="vanished">Wird geladen</translation>
     </message>
 </context>
 <context>
@@ -304,7 +304,7 @@
     </message>
     <message>
         <source>Loading</source>
-        <translation>Wird geladen</translation>
+        <translation type="vanished">Wird geladen</translation>
     </message>
 </context>
 <context>
@@ -764,7 +764,7 @@
     </message>
     <message>
         <source>Loading...</source>
-        <translation>Wird geladen ...</translation>
+        <translation type="vanished">Wird geladen ...</translation>
     </message>
 </context>
 <context>
@@ -2234,6 +2234,10 @@
     <message>
         <source>Media</source>
         <translation>Medien</translation>
+    </message>
+    <message>
+        <source>Loading</source>
+        <translation type="unfinished">Wird geladen</translation>
     </message>
 </context>
 <context>

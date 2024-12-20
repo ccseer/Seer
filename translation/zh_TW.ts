@@ -231,9 +231,8 @@ Reason:</source>
         <translation>行數</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/code/ccodewnd.cpp" line="69"/>
         <source>Loading</source>
-        <translation>載入中</translation>
+        <translation type="vanished">載入中</translation>
     </message>
 </context>
 <context>
@@ -378,9 +377,8 @@ Reason:</source>
         <translation>資料夾</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/dirs/folder/folderdatareader.cpp" line="141"/>
         <source>Loading</source>
-        <translation>載入中</translation>
+        <translation type="vanished">載入中</translation>
     </message>
     <message>
         <source>Date created</source>
@@ -633,7 +631,7 @@ Reason:</source>
 <context>
     <name>CMain</name>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="516"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="517"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
@@ -646,12 +644,12 @@ Reason:</source>
         <translation type="vanished">退出</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="517"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="518"/>
         <source>Monitoring &apos;Space&apos; key failed, can&apos;t proceed.</source>
         <translation>監控 空白鍵 失敗，無法繼續。</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="790"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="791"/>
         <source>Settings</source>
         <translation>設定</translation>
     </message>
@@ -664,7 +662,7 @@ Reason:</source>
         <translation type="vanished">重啟失敗</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="964"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="965"/>
         <source>The system default application not found.</source>
         <translation>沒找到預設開啟程式。</translation>
     </message>
@@ -677,28 +675,28 @@ Reason:</source>
         <translation type="vanished">Hello~</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="938"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="939"/>
         <source>Activation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="1004"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="1005"/>
         <source>Seer is already running.</source>
         <translation type="unfinished">Seer 已經運行。</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="1034"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="1035"/>
         <source>Application started.</source>
         <translation>Seer 已啟動。</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="1049"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="1050"/>
         <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="135"/>
         <source>Like Seer?</source>
         <translation>喜歡 Seer ?</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="1050"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="1051"/>
         <source>Please share with your friends.</source>
         <translation>推薦給朋友吧~!</translation>
     </message>
@@ -718,17 +716,17 @@ Reason:</source>
         <translation type="vanished">: )</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="265"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="266"/>
         <source>Register shortcut failed</source>
         <translation>設定快捷鍵失敗</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="266"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="267"/>
         <source> is registered by other application.</source>
         <translation> 已被其他程式佔用。</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="886"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="887"/>
         <source>About</source>
         <translation>關於</translation>
     </message>
@@ -740,27 +738,27 @@ Reason:</source>
 <context>
     <name>CMainWnd</name>
     <message>
-        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="320"/>
+        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="307"/>
         <source>Please try again with separated window.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="404"/>
+        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="391"/>
         <source>Close</source>
         <translation>關閉</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="405"/>
+        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="392"/>
         <source>Minimize</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="406"/>
+        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="393"/>
         <source>Properties</source>
         <translation>屬性</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="407"/>
+        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="394"/>
         <source>Separate</source>
         <translation type="unfinished"></translation>
     </message>
@@ -956,11 +954,6 @@ Reason:</source>
     <message>
         <location filename="../../../Seer/src/pdf/cpdfwnd.cpp" line="311"/>
         <source>Please choose a page first</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/pdf/catalog/cataloguewnd.cpp" line="14"/>
-        <source>Loading...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2829,12 +2822,12 @@ Reason:</source>
         <translation type="vanished">設定翻譯文件失敗</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="352"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="353"/>
         <source>Update language failed</source>
         <translation>設定翻譯文件失敗</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="353"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="354"/>
         <source>Please check your &quot;i18n&quot; folder.</source>
         <oldsource>Please check your i18n folder.</oldsource>
         <translation>請檢查 i18n 資料夾。</translation>
@@ -2965,6 +2958,13 @@ Reason:</source>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="208"/>
         <source>Unknown</source>
         <translation type="unfinished">未知錯誤</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/code/ccodewnd.cpp" line="70"/>
+        <location filename="../../../Seer/src/dirs/folder/folderdatareader.cpp" line="141"/>
+        <location filename="../../../Seer/src/pdf/catalog/cataloguewnd.cpp" line="14"/>
+        <source>Loading</source>
+        <translation type="unfinished">載入中</translation>
     </message>
 </context>
 <context>
