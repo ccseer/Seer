@@ -4,23 +4,23 @@
 <context>
     <name>AppUpdater</name>
     <message>
-        <location filename="../../../Seer/src/opt/updater/appupdater.cpp" line="243"/>
-        <location filename="../../../Seer/src/opt/updater/appupdater.cpp" line="413"/>
+        <location filename="../../../Seer/src/opt/updater/appupdater.cpp" line="255"/>
+        <location filename="../../../Seer/src/opt/updater/appupdater.cpp" line="425"/>
         <source>Network Error:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/opt/updater/appupdater.cpp" line="331"/>
+        <location filename="../../../Seer/src/opt/updater/appupdater.cpp" line="343"/>
         <source>Invalid release notes URL</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/opt/updater/appupdater.cpp" line="354"/>
+        <location filename="../../../Seer/src/opt/updater/appupdater.cpp" line="366"/>
         <source>Failed to fetch release notes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/opt/updater/appupdater.cpp" line="386"/>
+        <location filename="../../../Seer/src/opt/updater/appupdater.cpp" line="398"/>
         <source>Failed to save download file.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -31,14 +31,14 @@
     </message>
     <message>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="52"/>
-        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="204"/>
+        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="211"/>
         <source>Checking for updates...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="68"/>
-        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="211"/>
-        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="275"/>
+        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="218"/>
+        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="292"/>
         <source>Downloading...</source>
         <translation type="unfinished"></translation>
     </message>
@@ -58,27 +58,27 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="224"/>
+        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="231"/>
         <source>%1 %2 is now available (you have %3).</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="243"/>
+        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="252"/>
         <source>You&apos;re up to date!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="244"/>
+        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="253"/>
         <source>%1 %2 is currently the newest version available.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="254"/>
-        <source>Update Error:</source>
+        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="266"/>
+        <source>Update Error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="265"/>
+        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="279"/>
         <source>The update package has been downloaded.
 Ready to install.</source>
         <translation type="unfinished"></translation>
@@ -277,38 +277,38 @@ Ready to install.</source>
         <translation type="vanished">Kolonne:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/code/FeaturedView/codewnd4featured.cpp" line="71"/>
+        <location filename="../../../Seer/src/code/FeaturedView/codewnd4featured.cpp" line="70"/>
         <source>Format Code</source>
         <translation>Форматування коду</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/code/FeaturedView/codewnd4featured.cpp" line="100"/>
+        <location filename="../../../Seer/src/code/FeaturedView/codewnd4featured.cpp" line="102"/>
         <source>Reason:</source>
         <translation>Обґрунтування:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/code/FeaturedView/codewnd4featured.cpp" line="99"/>
+        <location filename="../../../Seer/src/code/FeaturedView/codewnd4featured.cpp" line="101"/>
         <source>Format failed.</source>
         <translation>Збій Форматування.</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/code/ChunkView/codewnd4chunk.cpp" line="74"/>
-        <location filename="../../../Seer/src/code/FeaturedView/codewnd4featured.cpp" line="417"/>
+        <location filename="../../../Seer/src/code/ChunkView/codewnd4chunk.cpp" line="70"/>
+        <location filename="../../../Seer/src/code/FeaturedView/codewnd4featured.cpp" line="411"/>
         <source>Line count</source>
         <translation>Кількість рядків</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/code/FeaturedView/codewnd4featured.cpp" line="101"/>
+        <location filename="../../../Seer/src/code/FeaturedView/codewnd4featured.cpp" line="103"/>
         <source>Line:</source>
         <translation>Лінія:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/code/FeaturedView/codewnd4featured.cpp" line="103"/>
+        <location filename="../../../Seer/src/code/FeaturedView/codewnd4featured.cpp" line="105"/>
         <source>Column:</source>
         <translation>Колонка:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/code/FeaturedView/codewnd4featured.cpp" line="155"/>
+        <location filename="../../../Seer/src/code/FeaturedView/codewnd4featured.cpp" line="157"/>
         <source>Render Markdown</source>
         <translation>Відобразити Markdown</translation>
     </message>
@@ -318,22 +318,22 @@ Ready to install.</source>
         <translation>Відобразити HTML</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/code/FeaturedView/codewnd4featured.cpp" line="187"/>
+        <location filename="../../../Seer/src/code/FeaturedView/codewnd4featured.cpp" line="184"/>
         <source>Render Image</source>
         <translation>Відобразити зображення</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/code/FeaturedView/codewnd4featured.cpp" line="401"/>
+        <location filename="../../../Seer/src/code/FeaturedView/codewnd4featured.cpp" line="395"/>
         <source>Ln</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/code/FeaturedView/codewnd4featured.cpp" line="403"/>
+        <location filename="../../../Seer/src/code/FeaturedView/codewnd4featured.cpp" line="397"/>
         <source>Col</source>
         <translation>Колонка</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/code/FeaturedView/codewnd4featured.cpp" line="415"/>
+        <location filename="../../../Seer/src/code/FeaturedView/codewnd4featured.cpp" line="409"/>
         <source>Character count</source>
         <translation>Кількість символів</translation>
     </message>
@@ -408,53 +408,58 @@ Ready to install.</source>
         <translation type="vanished">Ім&apos;я файлу</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/dirs/archive/cdirwnd4archive.cpp" line="183"/>
+        <location filename="../../../Seer/src/dirs/archive/cdirwnd4archive.cpp" line="184"/>
         <source>Ratio</source>
         <translation>Коефіцієнт стиснення</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="88"/>
+        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="86"/>
         <source>Column View</source>
         <translation>У вигляді колонки</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/dirs/archive/cdirwnd4archive.cpp" line="182"/>
+        <location filename="../../../Seer/src/dirs/archive/cdirwnd4archive.cpp" line="183"/>
         <source>Packed</source>
         <translation>Стиснутий розмір</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/dirs/folder/cdirwnd4folder.cpp" line="165"/>
+        <location filename="../../../Seer/src/dirs/folder/cdirwnd4folder.cpp" line="160"/>
         <source>Display Selected Item In Explorer</source>
         <translation>Показати вибраний елемент у провіднику</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="114"/>
+        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="112"/>
         <source>Open Selected Item With Seer</source>
         <translation>Відкрити вибраний елемент із Seer</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="91"/>
+        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="89"/>
         <source>Tree View</source>
         <translation>У вигляду дерева</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/dirs/folder/cdirwnd4folder.cpp" line="151"/>
+        <location filename="../../../Seer/src/dirs/folder/cdirwnd4folder.cpp" line="146"/>
         <source>Open Selected Item With Default Application</source>
         <translation>Відкрити вибраний елемент у програмі за промовчанням</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/dirs/archive/cdirwnd4archive.cpp" line="45"/>
+        <location filename="../../../Seer/src/dirs/archive/cdirwnd4archive.cpp" line="44"/>
         <source>File is encrypted</source>
         <translation>Файл зашифрований</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/dirs/treemodel.cpp" line="13"/>
+        <location filename="../../../Seer/src/dirs/treemodel.cpp" line="14"/>
         <source>Folder</source>
         <translation>Папка</translation>
     </message>
     <message>
         <source>Loading</source>
         <translation type="vanished">Завантаження</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/dirs/dircolumnviewinfownd.cpp" line="42"/>
+        <source>Preview</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -475,12 +480,12 @@ Ready to install.</source>
         <translation>Тип</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="337"/>
+        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="321"/>
         <source>Opens with</source>
         <translation>Відкривається</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="302"/>
+        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="286"/>
         <source>Original location</source>
         <translation>Початкове розташування</translation>
     </message>
@@ -505,97 +510,97 @@ Ready to install.</source>
         <translation>Створений</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="62"/>
+        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="61"/>
         <source>Comments</source>
         <translation>Коментарі</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="64"/>
+        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="63"/>
         <source>Internal Name</source>
         <translation>Внутрішнє ім&apos;я</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="66"/>
+        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="65"/>
         <source>Product Name</source>
         <translation>Назва продукту</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="68"/>
+        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="67"/>
         <source>Company Name</source>
         <translation>Название компании</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="70"/>
+        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="69"/>
         <source>Legal Copyright</source>
         <translation>Авторскі права</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="72"/>
+        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="71"/>
         <source>Product Version</source>
         <translation>Версія продукту</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="74"/>
+        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="73"/>
         <source>File Description</source>
         <translation>Описание файла</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="76"/>
+        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="75"/>
         <source>Legal Trademarks</source>
         <translation>Товарні знаки</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="78"/>
+        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="77"/>
         <source>Private Build</source>
         <translation>Приватна збірка</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="80"/>
+        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="79"/>
         <source>File Version</source>
         <translation>Версія файлу</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="82"/>
+        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="81"/>
         <source>Original Filename</source>
         <translation>Исходное имя файла</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="84"/>
+        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="83"/>
         <source>Special Build</source>
         <translation>Спеціальне складання</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="280"/>
+        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="264"/>
         <source>Total bytes</source>
         <translation>Загальна кількість байтів</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="283"/>
+        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="267"/>
         <source>Available bytes</source>
         <translation>Доступні байти</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="286"/>
+        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="270"/>
         <source>Free bytes</source>
         <translation>Вільні байти</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="291"/>
+        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="275"/>
         <source>Block size</source>
         <translation>Розмір блоку</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="306"/>
+        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="290"/>
         <source>Folder</source>
         <translation>Папка</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="329"/>
+        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="313"/>
         <source>Extension</source>
         <translation>Розширення</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/tableview4property.cpp" line="14"/>
+        <location filename="../../../Seer/src/unknown/tableview4property.cpp" line="17"/>
         <source>Pin</source>
         <translation></translation>
     </message>
@@ -650,28 +655,32 @@ Ready to install.</source>
 <context>
     <name>CHtmlWnd</name>
     <message>
-        <location filename="../../../Seer/src/web/chtmlwnd.cpp" line="127"/>
+        <location filename="../../../Seer/src/web/chtmlwnd.cpp" line="129"/>
         <source>Markdown Source</source>
         <translation>Джерело уцінки</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/web/chtmlwnd.cpp" line="172"/>
         <source>HTML</source>
-        <translation>HTML</translation>
+        <translation type="vanished">HTML</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/web/chtmlwnd.cpp" line="130"/>
+        <location filename="../../../Seer/src/web/chtmlwnd.cpp" line="132"/>
         <source>Save as PDF</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/web/chtmlwnd.cpp" line="137"/>
+        <location filename="../../../Seer/src/web/chtmlwnd.cpp" line="139"/>
         <source>Failed to save as PDF</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/web/chtmlwnd.cpp" line="163"/>
+        <location filename="../../../Seer/src/web/chtmlwnd.cpp" line="165"/>
         <source>Successfully saved as PDF</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/web/chtmlwnd.cpp" line="174"/>
+        <source>HTML Source</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -682,7 +691,7 @@ Ready to install.</source>
         <translation type="vanished">Avslutt</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="293"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="292"/>
         <source>Error</source>
         <translation>Помилка</translation>
     </message>
@@ -697,18 +706,18 @@ Ready to install.</source>
             </translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="724"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="742"/>
         <source>Application started.</source>
         <translation>Seer запущено.</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="739"/>
-        <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="136"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="757"/>
+        <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="126"/>
         <source>Like Seer?</source>
         <translation>Подобається Seer?</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="150"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="149"/>
         <source> is registered by other application.</source>
         <translation> зареєстрований іншим додатком.</translation>
     </message>
@@ -717,12 +726,12 @@ Ready to install.</source>
         <translation type="vanished">Omstart mislyktes</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="294"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="293"/>
         <source>Monitoring &apos;Space&apos; key failed, can&apos;t proceed.</source>
         <translation>Збій моніторингу Пробілу продовжити неможливо.</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="527"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="532"/>
         <source>Settings</source>
         <translation>Налаштування</translation>
     </message>
@@ -731,32 +740,32 @@ Ready to install.</source>
         <translation type="vanished">Start Seer på nytt manuelt.</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="149"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="148"/>
         <source>Register shortcut failed</source>
         <translation>Збій запису комбінації клавіш</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="601"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="618"/>
         <source>About</source>
         <translation>Про програму</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="650"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="668"/>
         <source>Activation</source>
         <translation>Активація</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="669"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="687"/>
         <source>The system default application not found.</source>
         <translation>Програма за замовчуванням не знайдена.</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="696"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="714"/>
         <source>Seer is already running.</source>
         <translation>Seer вже запущено.</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="740"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="758"/>
         <source>Please share with your friends.</source>
         <translation>Будь ласка, поділіться з друзями.</translation>
     </message>
@@ -768,7 +777,7 @@ Ready to install.</source>
         <translation type="vanished">Закити</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="589"/>
+        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="590"/>
         <source>Properties</source>
         <translation>Властивості</translation>
     </message>
@@ -778,17 +787,17 @@ Ready to install.</source>
         <translation>Будь ласка, повторіть спробу з відокремленим вікном.</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="588"/>
+        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="589"/>
         <source>Minimize</source>
         <translation>Згорнути</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="590"/>
+        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="591"/>
         <source>Separate</source>
         <translation>Окремий</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="1214"/>
+        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="1215"/>
         <source>Viewer</source>
         <translation type="unfinished"></translation>
     </message>
@@ -816,7 +825,7 @@ Ready to install.</source>
         <translation>Розмір кадру</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/cmediawnd_p.cpp" line="434"/>
+        <location filename="../../../Seer/src/media/cmediawnd_p.cpp" line="443"/>
         <source>Play / Pause</source>
         <translation>Відтворення / Пауза</translation>
     </message>
@@ -871,47 +880,47 @@ Ready to install.</source>
         <translation>Обертання</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="259"/>
+        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="261"/>
         <source>The system is muted</source>
         <translation>Система вимкнена</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="317"/>
+        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="319"/>
         <source>Mute: On</source>
         <translation>Вимкнення звуку: увімкн</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="317"/>
+        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="319"/>
         <source>Mute: Off</source>
         <translation>Вимкнення звуку: вимкн</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="394"/>
+        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="396"/>
         <source>Forward:</source>
         <translation>Вперед:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="400"/>
+        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="402"/>
         <source>Backward:</source>
         <translation>Назад:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/cmediawnd_p.cpp" line="242"/>
+        <location filename="../../../Seer/src/media/cmediawnd_p.cpp" line="251"/>
         <source>Loop: On</source>
         <translation>Цикл: Увімк</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/cmediawnd_p.cpp" line="242"/>
+        <location filename="../../../Seer/src/media/cmediawnd_p.cpp" line="251"/>
         <source>Loop: Off</source>
         <translation>Цикл: Вимк</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/cmediawnd_p.cpp" line="172"/>
+        <location filename="../../../Seer/src/media/cmediawnd_p.cpp" line="181"/>
         <source>Capture failed</source>
         <translation>Помилка захоплення</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/cmediawnd_p.cpp" line="177"/>
+        <location filename="../../../Seer/src/media/cmediawnd_p.cpp" line="186"/>
         <source>Screenshot has saved to clipboard.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -935,7 +944,7 @@ Ready to install.</source>
     <name>CPdfWnd</name>
     <message>
         <location filename="../../../Seer/src/pdf/cpdfwnd.cpp" line="121"/>
-        <location filename="../../../Seer/src/pdf/cpdfwnd.cpp" line="436"/>
+        <location filename="../../../Seer/src/pdf/cpdfwnd.cpp" line="437"/>
         <source>Pages Count</source>
         <translation>Кількість сторінок</translation>
     </message>
@@ -990,7 +999,7 @@ Ready to install.</source>
         <translation>Анотація: вимкнено</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/pdf/cpdfwnd.cpp" line="390"/>
+        <location filename="../../../Seer/src/pdf/cpdfwnd.cpp" line="391"/>
         <source>Please choose a page first</source>
         <translation>Спочатку виберіть сторінку</translation>
     </message>
@@ -1003,17 +1012,17 @@ Ready to install.</source>
 <context>
     <name>CPicWnd</name>
     <message>
-        <location filename="../../../Seer/src/picture/cpicwnd.cpp" line="209"/>
+        <location filename="../../../Seer/src/picture/cpicwnd.cpp" line="240"/>
         <source>Width</source>
         <translation>Ширина</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/cpicwnd.cpp" line="149"/>
+        <location filename="../../../Seer/src/picture/cpicwnd.cpp" line="180"/>
         <source>Rotate Right</source>
         <translation>Поворот праворуч</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/cpicwnd.cpp" line="210"/>
+        <location filename="../../../Seer/src/picture/cpicwnd.cpp" line="241"/>
         <source>Height</source>
         <translation>Висота</translation>
     </message>
@@ -1022,12 +1031,12 @@ Ready to install.</source>
         <translation type="vanished">Tilpass bredde</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/cpicwnd.cpp" line="217"/>
+        <location filename="../../../Seer/src/picture/cpicwnd.cpp" line="248"/>
         <source>Image Count</source>
         <translation>Кількість зображень</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/cpicwnd.cpp" line="127"/>
+        <location filename="../../../Seer/src/picture/cpicwnd.cpp" line="157"/>
         <source>Actual Size</source>
         <translation>Фактичний розмір</translation>
     </message>
@@ -1036,17 +1045,17 @@ Ready to install.</source>
         <translation type="vanished">Roter venstre</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/cpicwnd.cpp" line="93"/>
+        <location filename="../../../Seer/src/picture/cpicwnd.cpp" line="113"/>
         <source>Play / Pause</source>
         <translation>Відтворення / Пауза</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/cpicwnd.cpp" line="110"/>
+        <location filename="../../../Seer/src/picture/cpicwnd.cpp" line="142"/>
         <source>XML</source>
         <translation>XML</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/cpicwnd.cpp" line="219"/>
+        <location filename="../../../Seer/src/picture/cpicwnd.cpp" line="250"/>
         <source>Loop Count</source>
         <translation>Кількість циклів</translation>
     </message>
@@ -1344,39 +1353,39 @@ Ready to install.</source>
         <translation>Скасувти</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/opt/licenser/cregdlg.cpp" line="68"/>
+        <location filename="../../../Seer/src/opt/licenser/cregdlg.cpp" line="69"/>
         <source>Seer will stop running in %1 day(s).</source>
         <translation>Seer припинить працювати через %1 днів.</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/opt/licenser/cregdlg.cpp" line="70"/>
+        <location filename="../../../Seer/src/opt/licenser/cregdlg.cpp" line="71"/>
         <source>The evaluation period has ended.</source>
         <translation>Період оцінювання закінчився.</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/opt/licenser/cregdlg.cpp" line="73"/>
+        <location filename="../../../Seer/src/opt/licenser/cregdlg.cpp" line="74"/>
         <source>Please enter your license key.</source>
         <translation>Будь ласка, введіть свій ліцензійний ключ.</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/opt/licenser/cregdlg.cpp" line="186"/>
-        <location filename="../../../Seer/src/opt/licenser/cregdlg.cpp" line="205"/>
+        <location filename="../../../Seer/src/opt/licenser/cregdlg.cpp" line="195"/>
+        <location filename="../../../Seer/src/opt/licenser/cregdlg.cpp" line="214"/>
         <source>Verifying</source>
         <translation>Перевірка</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/opt/licenser/cregdlg.cpp" line="189"/>
-        <location filename="../../../Seer/src/opt/licenser/cregdlg.cpp" line="228"/>
+        <location filename="../../../Seer/src/opt/licenser/cregdlg.cpp" line="198"/>
+        <location filename="../../../Seer/src/opt/licenser/cregdlg.cpp" line="237"/>
         <source>Activated</source>
         <translation>активовано</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/opt/licenser/cregdlg.cpp" line="197"/>
+        <location filename="../../../Seer/src/opt/licenser/cregdlg.cpp" line="206"/>
         <source>Failed to activate</source>
         <translation>Не вдалося активувати</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/opt/licenser/cregdlg.cpp" line="24"/>
+        <location filename="../../../Seer/src/opt/licenser/cregdlg.cpp" line="25"/>
         <source>Thanks for your support!!!</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1384,42 +1393,42 @@ Ready to install.</source>
 <context>
     <name>CSettingsDlg</name>
     <message>
-        <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="66"/>
+        <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="65"/>
         <source>Type</source>
         <translation>Тип</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="63"/>
+        <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="62"/>
         <source>Controls</source>
         <translation>Управління</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="65"/>
+        <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="64"/>
         <source>Plugins</source>
         <translation>Плагіни</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="67"/>
+        <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="66"/>
         <source>Advanced</source>
         <translation>Додатково</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="242"/>
+        <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="254"/>
         <source>Restarting to apply the new settings.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="64"/>
+        <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="63"/>
         <source>Keyboard</source>
         <translation>Поєднання клавіш</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="62"/>
+        <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="61"/>
         <source>General</source>
         <translation>Загальні</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="80"/>
+        <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="77"/>
         <source>Settings</source>
         <translation>Налаштування</translation>
     </message>
@@ -1432,7 +1441,7 @@ Ready to install.</source>
         <translation type="vanished">Перезапуск</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="68"/>
+        <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="67"/>
         <source>Scripts</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1440,12 +1449,12 @@ Ready to install.</source>
 <context>
     <name>CSettingsWnd4Controls</name>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4controls.ui" line="108"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4controls.ui" line="96"/>
         <source>Show &quot;Display in explorer&quot; button</source>
         <translation>Показати кнопку &quot;Відобразити у провіднику&quot;</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4controls.ui" line="84"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4controls.ui" line="82"/>
         <source>Show &quot;Open with default application&quot; button</source>
         <translation>Показати кнопку «Відкрити у програмі за замовчуванням»</translation>
     </message>
@@ -1476,7 +1485,7 @@ Ready to install.</source>
         <translation type="vanished">Om kontroller...</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4controls.ui" line="193"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4controls.ui" line="142"/>
         <source>Extension</source>
         <translation>Розширення</translation>
     </message>
@@ -1486,7 +1495,7 @@ Ready to install.</source>
         <translation>Зовнішній вигляд</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4controls.ui" line="132"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4controls.ui" line="89"/>
         <source>Show &quot;Navigation&quot; button</source>
         <translation>Показувати кнопку навігації</translation>
     </message>
@@ -1621,7 +1630,7 @@ Ready to install.</source>
         <translation type="vanished">Скасувти</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="66"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="67"/>
         <source>Reset</source>
         <translation>Скинути</translation>
     </message>
@@ -1633,14 +1642,12 @@ Ready to install.</source>
         <translation type="vanished">Legg til</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.ui" line="521"/>
         <source>Text</source>
-        <translation>Текст</translation>
+        <translation type="vanished">Текст</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.ui" line="584"/>
         <source>Media</source>
-        <translation>Медіа</translation>
+        <translation type="vanished">Медіа</translation>
     </message>
     <message>
         <source>Other</source>
@@ -1679,9 +1686,8 @@ Ready to install.</source>
         <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;:/face_nohappy.png&quot;/&gt;&lt;span style=&quot; font-size:18pt; font-weight:496; color:#333;&quot;&gt; Oops! &lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:18pt; font-weight:496; color:#333;&quot;&gt;Ingen filutvidelse samsvarer&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.ui" line="84"/>
         <source>Image</source>
-        <translation>Зображення</translation>
+        <translation type="vanished">Зображення</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.ui" line="335"/>
@@ -1689,9 +1695,8 @@ Ready to install.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.ui" line="418"/>
         <source>Archive</source>
-        <translation>Архів</translation>
+        <translation type="vanished">Архів</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.ui" line="220"/>
@@ -1728,28 +1733,27 @@ Ready to install.</source>
         <translation>Пошук розширення, наприклад: psd</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="78"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="85"/>
         <source>Markdown stylesheet path</source>
         <translation>Шлях таблиці стилів Markdown</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="80"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="87"/>
         <source>Will display property only for extensions in this field, e.g.:</source>
         <translation>Відображатиме властивості лише для розширень у цьому полі, наприклад:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="325"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="337"/>
         <source>Invalid</source>
         <translation>Недійсний</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.ui" line="150"/>
         <source>PDF</source>
-        <translation>PDF</translation>
+        <translation type="vanished">PDF</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.ui" line="654"/>
-        <source>Web</source>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.ui" line="636"/>
+        <source>Disable GPU decoding</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1800,7 +1804,7 @@ Ready to install.</source>
         <translation type="vanished">Vis tittellinjen</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4general.ui" line="214"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4general.ui" line="138"/>
         <source>Automatically check for updates</source>
         <translation>Автоперевірка оновлень</translation>
     </message>
@@ -1817,27 +1821,27 @@ Ready to install.</source>
         <translation type="vanished">Seer vil starte på nytt</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4general.ui" line="270"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4general.ui" line="191"/>
         <source>Language</source>
         <translation>Мова</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4general.ui" line="87"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4general.ui" line="74"/>
         <source>Application behavior</source>
         <translation>Загальні параметри</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4general.ui" line="112"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4general.ui" line="99"/>
         <source>Theme:</source>
         <translation>Тема:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4general.ui" line="152"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4general.ui" line="124"/>
         <source>Run Seer when system boots</source>
         <translation>Запускати Seer під час старту системи</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4general.ui" line="177"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4general.ui" line="131"/>
         <source>Run as administrator</source>
         <translation>Запускати від адміністратора</translation>
     </message>
@@ -1979,7 +1983,7 @@ Ready to install.</source>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1454"/>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.cpp" line="120"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.cpp" line="135"/>
         <source>Trigger Keys</source>
         <translation>Клавіша перегляду</translation>
     </message>
@@ -2001,7 +2005,7 @@ Ready to install.</source>
         <translation>Control</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.cpp" line="246"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.cpp" line="270"/>
         <source>Can not have &apos;Space&apos; key.</source>
         <translation>Не можна використовувати Пробіл.</translation>
     </message>
@@ -2263,12 +2267,12 @@ Ready to install.</source>
         <translation>Темний:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.cpp" line="16"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.cpp" line="17"/>
         <source>Invalid</source>
         <translation type="unfinished">Недійсний</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.cpp" line="259"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.cpp" line="283"/>
         <source>Duplicated shortcut:</source>
         <translation>Дубльований ярлик:</translation>
     </message>
@@ -2302,7 +2306,7 @@ Ready to install.</source>
 <context>
     <name>CSettingsWnd4Plugins</name>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4plugins.cpp" line="99"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4plugins.cpp" line="101"/>
         <source>Add</source>
         <translation>Legg til</translation>
     </message>
@@ -2311,7 +2315,7 @@ Ready to install.</source>
         <translation type="vanished">Del</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4plugins.cpp" line="103"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4plugins.cpp" line="105"/>
         <source>Edit</source>
         <translation>Rediger</translation>
     </message>
@@ -2326,7 +2330,7 @@ Ready to install.</source>
         <translation>Встановлені</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4plugins.cpp" line="337"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4plugins.cpp" line="339"/>
         <source>Choose Seer plugin</source>
         <translation>Виберіть плагін Seer</translation>
     </message>
@@ -2346,7 +2350,7 @@ Ready to install.</source>
         <translation>Розширення</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4plugins.cpp" line="107"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4plugins.cpp" line="109"/>
         <location filename="../../../Seer/src/settings/csettingswnd4scriptitem.cpp" line="74"/>
         <source>Delete</source>
         <translation type="unfinished"></translation>
@@ -2360,12 +2364,12 @@ Ready to install.</source>
         <translation type="vanished">Programtillegget finnes allrede</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4plugins.cpp" line="113"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4plugins.cpp" line="115"/>
         <source>Search plugin</source>
         <translation>Пошук плагіна</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4plugins.cpp" line="317"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4plugins.cpp" line="319"/>
         <source>Internal handled plugins will be used first.</source>
         <translation>Внутрішні оброблені плагіни будуть використані спочатку.</translation>
     </message>
@@ -2443,7 +2447,7 @@ Ready to install.</source>
 <context>
     <name>CSettingsWnd4Script</name>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="193"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="196"/>
         <source>The path of interpreter has saved.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2488,12 +2492,12 @@ Ready to install.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="236"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="239"/>
         <source>Please configure the interpreter first</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="248"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="251"/>
         <source>Failed to parse the script</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2521,7 +2525,7 @@ Ready to install.</source>
 <context>
     <name>CSystemTrayIcon</name>
     <message>
-        <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="125"/>
+        <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="115"/>
         <source>Help</source>
         <translation>Довідка</translation>
     </message>
@@ -2530,52 +2534,52 @@ Ready to install.</source>
         <translation type="vanished">Meny</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="147"/>
+        <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="137"/>
         <source>Quit</source>
         <translation>Вихід</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="120"/>
+        <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="110"/>
         <source>About</source>
         <translation>Про програму</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="131"/>
+        <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="121"/>
         <source>Check for updates</source>
         <translation>Перевірити оновлення</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="126"/>
+        <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="116"/>
         <source>Found a bug?</source>
         <translation>Знайшли помилку?</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="123"/>
+        <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="113"/>
         <source>About Seer</source>
         <translation>Про програму Seer</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="112"/>
+        <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="102"/>
         <source>Settings</source>
         <translation>Налаштування</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="101"/>
+        <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="91"/>
         <source>Register</source>
         <translation>Реєстрація Seer</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="108"/>
+        <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="98"/>
         <source>Stay on top</source>
         <translation>Поверх всіх вікон</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="115"/>
+        <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="105"/>
         <source>What&apos;s New</source>
         <translation>Що нового</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="141"/>
+        <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="131"/>
         <source>Get PinStack</source>
         <translation>Отримати PinStack</translation>
     </message>
@@ -2594,7 +2598,7 @@ Ready to install.</source>
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="164"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="163"/>
         <source>Please check your &quot;i18n&quot; folder.</source>
         <translation>Перевірте папку «i18n».</translation>
     </message>
@@ -2603,42 +2607,48 @@ Ready to install.</source>
         <translation type="vanished"> ikke funnet.</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="163"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="162"/>
         <source>Update language failed</source>
         <translation>Не вдалося оновити мову</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="195"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="209"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="59"/>
         <source>Folder</source>
         <translation>Папка</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="195"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="209"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="58"/>
         <source>Image</source>
         <translation>Зображення</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="196"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="210"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="57"/>
         <source>Media</source>
         <translation>Медіа</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="196"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="210"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="61"/>
         <source>Text</source>
         <translation>Текст</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="197"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="211"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="56"/>
         <source>PDF</source>
         <translation>PDF</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="197"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="211"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="60"/>
         <source>HTML</source>
         <translation>HTML</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="198"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="212"/>
         <source>Unknown</source>
         <translation>Невідомо</translation>
     </message>
@@ -2651,7 +2661,7 @@ Ready to install.</source>
         <translation type="vanished">&amp;OK</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/code/codewndbase.cpp" line="18"/>
+        <location filename="../../../Seer/src/code/codewndbase.cpp" line="19"/>
         <location filename="../../../Seer/src/dirs/nodes.cpp" line="21"/>
         <location filename="../../../Seer/src/pdf/catalog/cataloguewnd.cpp" line="17"/>
         <source>Loading</source>
@@ -2660,21 +2670,22 @@ Ready to install.</source>
     <message>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="47"/>
         <location filename="../../../Seer/src/pdf/cpdfpwdwnd.cpp" line="35"/>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="64"/>
+        <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="93"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="65"/>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsadd.cpp" line="31"/>
         <source>Cancel</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="114"/>
-        <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="96"/>
         <location filename="../../../Seer/src/ui/caboutwnd.cpp" line="55"/>
-        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="587"/>
+        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="588"/>
         <source>Close</source>
         <translation type="unfinished">Закити</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/pdf/cpdfpwdwnd.cpp" line="34"/>
+        <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="97"/>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsadd.cpp" line="33"/>
         <source>Okay</source>
         <translation type="unfinished"></translation>
