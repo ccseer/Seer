@@ -745,130 +745,6 @@ Ready to install.</source>
     </message>
 </context>
 <context>
-    <name>MediaViewer</name>
-    <message>
-        <location filename="../../../Seer/src/media/cmediawnd_p.cpp" line="443"/>
-        <source>Play / Pause</source>
-        <oldsource>Play/Pause</oldsource>
-        <translation>播放 / 暂停</translation>
-    </message>
-    <message>
-        <source>Repeat: On</source>
-        <translation type="vanished">重复：开</translation>
-    </message>
-    <message>
-        <source>Repeat: Off</source>
-        <translation type="vanished">重复：关</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/media/cmediawnd_p.cpp" line="181"/>
-        <source>Capture failed</source>
-        <translation>截屏失败</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/media/cmediawnd_p.cpp" line="186"/>
-        <source>Screenshot has saved to clipboard.</source>
-        <translation>截图已保存到剪贴板。</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/media/cmediawnd_p.cpp" line="251"/>
-        <source>Loop: On</source>
-        <translation>循环：开</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/media/cmediawnd_p.cpp" line="251"/>
-        <source>Loop: Off</source>
-        <translation>循环：关</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="67"/>
-        <source>Duration</source>
-        <translation>时长</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="69"/>
-        <source>Bit Rate</source>
-        <translation>比特率</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="70"/>
-        <source>Format</source>
-        <translation>格式</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="73"/>
-        <source>Start Time</source>
-        <translation>开始时间</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="261"/>
-        <source>The system is muted</source>
-        <translation>系统处于静音状态</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="396"/>
-        <source>Forward:</source>
-        <translation>快进：</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="402"/>
-        <source>Backward:</source>
-        <translation>后退：</translation>
-    </message>
-    <message>
-        <source>Decoder</source>
-        <translation type="vanished">解码</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="78"/>
-        <source>Width</source>
-        <translation>宽</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="79"/>
-        <source>Height</source>
-        <translation>高</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="81"/>
-        <source>Rotation</source>
-        <translation>旋转</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="85"/>
-        <source>Frame Size</source>
-        <translation>帧尺寸</translation>
-    </message>
-    <message>
-        <source>Sample Format</source>
-        <translation type="vanished">采样格式</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="86"/>
-        <source>Sample Rate</source>
-        <translation>采样率</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="87"/>
-        <source>Channels</source>
-        <translation>通道</translation>
-    </message>
-    <message>
-        <source>Channel Layout</source>
-        <translation type="vanished">通道布局</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="319"/>
-        <source>Mute: On</source>
-        <translation>静音：开</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="319"/>
-        <source>Mute: Off</source>
-        <translation>静音：关</translation>
-    </message>
-</context>
-<context>
     <name>CPDFPwdWnd</name>
     <message>
         <source>Password required</source>
@@ -881,102 +757,6 @@ Ready to install.</source>
     <message>
         <source>Cancel</source>
         <translation type="vanished">取消</translation>
-    </message>
-</context>
-<context>
-    <name>CPdfWnd</name>
-    <message>
-        <location filename="../../../Seer/src/pdf/cpdfwnd.cpp" line="127"/>
-        <location filename="../../../Seer/src/pdf/cpdfwnd.cpp" line="445"/>
-        <source>Pages Count</source>
-        <translation>页数</translation>
-    </message>
-    <message>
-        <source>Go To Previous Page</source>
-        <translation type="vanished">上一页</translation>
-    </message>
-    <message>
-        <source>Go To Next Page</source>
-        <translation type="vanished">下一页</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/pdf/cpdfwnd.cpp" line="163"/>
-        <source>Encrypted</source>
-        <translation>已加密</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/pdf/cpdfwnd.cpp" line="215"/>
-        <source>Sidebar</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/pdf/cpdfwnd.cpp" line="289"/>
-        <source>Annotation: On</source>
-        <translation>注解：显示</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/pdf/cpdfwnd.cpp" line="289"/>
-        <source>Annotation: Off</source>
-        <translation>注解：隐藏</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/pdf/cpdfwnd.cpp" line="399"/>
-        <source>Please choose a page first</source>
-        <translation>没有选中页面</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/pdf/cpdfwnd.cpp" line="170"/>
-        <source>Fit Width</source>
-        <translation>适应宽度</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/pdf/cpdfwnd.cpp" line="174"/>
-        <source>Actual Size</source>
-        <translation>实际大小</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/pdf/cpdfwnd.cpp" line="202"/>
-        <source>Rotate Right</source>
-        <translation>向右旋转</translation>
-    </message>
-    <message>
-        <source>Loading...</source>
-        <translation type="vanished">加载中...</translation>
-    </message>
-    <message>
-        <source>Thumbnail</source>
-        <translation type="vanished">缩略图</translation>
-    </message>
-    <message>
-        <source>Annotated</source>
-        <translation type="vanished">注解</translation>
-    </message>
-    <message>
-        <source>Outline</source>
-        <translation type="vanished">目录</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/pdf/cpdfpwdwnd.cpp" line="28"/>
-        <source>Password required</source>
-        <translation>文件密码</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/pdf/sidebar/pdfsidebarwnd.cpp" line="41"/>
-        <location filename="../../../Seer/src/pdf/sidebar/pdfsidebarwnd.cpp" line="43"/>
-        <source>Table of Contents</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/pdf/sidebar/pdfsidebarwnd.cpp" line="45"/>
-        <location filename="../../../Seer/src/pdf/sidebar/pdfsidebarwnd.cpp" line="47"/>
-        <source>Thumbnalils</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/pdf/sidebar/pdfsidebarwnd.cpp" line="49"/>
-        <location filename="../../../Seer/src/pdf/sidebar/pdfsidebarwnd.cpp" line="51"/>
-        <source>Highlight and Notes</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3075,6 +2855,130 @@ Ready to install.</source>
     </message>
 </context>
 <context>
+    <name>MediaViewer</name>
+    <message>
+        <location filename="../../../Seer/src/media/mediaviewer_p.cpp" line="444"/>
+        <source>Play / Pause</source>
+        <oldsource>Play/Pause</oldsource>
+        <translation>播放 / 暂停</translation>
+    </message>
+    <message>
+        <source>Repeat: On</source>
+        <translation type="vanished">重复：开</translation>
+    </message>
+    <message>
+        <source>Repeat: Off</source>
+        <translation type="vanished">重复：关</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/media/mediaviewer_p.cpp" line="182"/>
+        <source>Capture failed</source>
+        <translation>截屏失败</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/media/mediaviewer_p.cpp" line="187"/>
+        <source>Screenshot has saved to clipboard.</source>
+        <translation>截图已保存到剪贴板。</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/media/mediaviewer_p.cpp" line="252"/>
+        <source>Loop: On</source>
+        <translation>循环：开</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/media/mediaviewer_p.cpp" line="252"/>
+        <source>Loop: Off</source>
+        <translation>循环：关</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="67"/>
+        <source>Duration</source>
+        <translation>时长</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="69"/>
+        <source>Bit Rate</source>
+        <translation>比特率</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="70"/>
+        <source>Format</source>
+        <translation>格式</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="73"/>
+        <source>Start Time</source>
+        <translation>开始时间</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="261"/>
+        <source>The system is muted</source>
+        <translation>系统处于静音状态</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="396"/>
+        <source>Forward:</source>
+        <translation>快进：</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="402"/>
+        <source>Backward:</source>
+        <translation>后退：</translation>
+    </message>
+    <message>
+        <source>Decoder</source>
+        <translation type="vanished">解码</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="78"/>
+        <source>Width</source>
+        <translation>宽</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="79"/>
+        <source>Height</source>
+        <translation>高</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="81"/>
+        <source>Rotation</source>
+        <translation>旋转</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="85"/>
+        <source>Frame Size</source>
+        <translation>帧尺寸</translation>
+    </message>
+    <message>
+        <source>Sample Format</source>
+        <translation type="vanished">采样格式</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="86"/>
+        <source>Sample Rate</source>
+        <translation>采样率</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="87"/>
+        <source>Channels</source>
+        <translation>通道</translation>
+    </message>
+    <message>
+        <source>Channel Layout</source>
+        <translation type="vanished">通道布局</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="319"/>
+        <source>Mute: On</source>
+        <translation>静音：开</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="319"/>
+        <source>Mute: Off</source>
+        <translation>静音：关</translation>
+    </message>
+</context>
+<context>
     <name>PdfViewPrivate</name>
     <message>
         <source>Copy &amp;Image to Clipboard</source>
@@ -3111,6 +3015,102 @@ Ready to install.</source>
         <source>Cannot save image to:
 </source>
         <translation type="vanished">保存失败:</translation>
+    </message>
+</context>
+<context>
+    <name>PdfViewer</name>
+    <message>
+        <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="127"/>
+        <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="445"/>
+        <source>Pages Count</source>
+        <translation>页数</translation>
+    </message>
+    <message>
+        <source>Go To Previous Page</source>
+        <translation type="vanished">上一页</translation>
+    </message>
+    <message>
+        <source>Go To Next Page</source>
+        <translation type="vanished">下一页</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="163"/>
+        <source>Encrypted</source>
+        <translation>已加密</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="215"/>
+        <source>Sidebar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="289"/>
+        <source>Annotation: On</source>
+        <translation>注解：显示</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="289"/>
+        <source>Annotation: Off</source>
+        <translation>注解：隐藏</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="399"/>
+        <source>Please choose a page first</source>
+        <translation>没有选中页面</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="170"/>
+        <source>Fit Width</source>
+        <translation>适应宽度</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="174"/>
+        <source>Actual Size</source>
+        <translation>实际大小</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="202"/>
+        <source>Rotate Right</source>
+        <translation>向右旋转</translation>
+    </message>
+    <message>
+        <source>Loading...</source>
+        <translation type="vanished">加载中...</translation>
+    </message>
+    <message>
+        <source>Thumbnail</source>
+        <translation type="vanished">缩略图</translation>
+    </message>
+    <message>
+        <source>Annotated</source>
+        <translation type="vanished">注解</translation>
+    </message>
+    <message>
+        <source>Outline</source>
+        <translation type="vanished">目录</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/pdf/cpdfpwdwnd.cpp" line="28"/>
+        <source>Password required</source>
+        <translation>文件密码</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/pdf/sidebar/pdfsidebarwnd.cpp" line="41"/>
+        <location filename="../../../Seer/src/pdf/sidebar/pdfsidebarwnd.cpp" line="43"/>
+        <source>Table of Contents</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/pdf/sidebar/pdfsidebarwnd.cpp" line="45"/>
+        <location filename="../../../Seer/src/pdf/sidebar/pdfsidebarwnd.cpp" line="47"/>
+        <source>Thumbnalils</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/pdf/sidebar/pdfsidebarwnd.cpp" line="49"/>
+        <location filename="../../../Seer/src/pdf/sidebar/pdfsidebarwnd.cpp" line="51"/>
+        <source>Highlight and Notes</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

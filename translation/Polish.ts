@@ -612,121 +612,6 @@ Ready to install.</source>
     </message>
 </context>
 <context>
-    <name>MediaViewer</name>
-    <message>
-        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="69"/>
-        <source>Bit Rate</source>
-        <translation>Bitrate</translation>
-    </message>
-    <message>
-        <source>Channel Layout</source>
-        <translation type="vanished">Układ kanałów</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="87"/>
-        <source>Channels</source>
-        <translation>Kanały</translation>
-    </message>
-    <message>
-        <source>Decoder</source>
-        <translation type="vanished">Dekoder</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="67"/>
-        <source>Duration</source>
-        <translation>Czas trwania</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="70"/>
-        <source>Format</source>
-        <translation>Format</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="85"/>
-        <source>Frame Size</source>
-        <translation>Rozmiar ramki</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="79"/>
-        <source>Height</source>
-        <translation>Wysokość</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="319"/>
-        <source>Mute: Off</source>
-        <translation>Wyciszenie: wył.</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="319"/>
-        <source>Mute: On</source>
-        <translation>Wyciszenie: wł.</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/media/cmediawnd_p.cpp" line="443"/>
-        <source>Play / Pause</source>
-        <translation>Odtwórz / Pauza</translation>
-    </message>
-    <message>
-        <source>Sample Format</source>
-        <translation type="vanished">Format próbkowania</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="86"/>
-        <source>Sample Rate</source>
-        <translation>Częstotliwość próbkowania</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="78"/>
-        <source>Width</source>
-        <translation>Szerokość</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/media/cmediawnd_p.cpp" line="181"/>
-        <source>Capture failed</source>
-        <translation>Błąd przechytywania</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/media/cmediawnd_p.cpp" line="251"/>
-        <source>Loop: On</source>
-        <translation>Zapętlenie: Wł.</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/media/cmediawnd_p.cpp" line="251"/>
-        <source>Loop: Off</source>
-        <translation>Zapętlenie: Wył.</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="396"/>
-        <source>Forward:</source>
-        <translation type="unfinished">Do przodu:</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="402"/>
-        <source>Backward:</source>
-        <translation type="unfinished">Do tyłu:</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="73"/>
-        <source>Start Time</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="81"/>
-        <source>Rotation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="261"/>
-        <source>The system is muted</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/media/cmediawnd_p.cpp" line="186"/>
-        <source>Screenshot has saved to clipboard.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>CPDFPwdWnd</name>
     <message>
         <source>Password required</source>
@@ -739,78 +624,6 @@ Ready to install.</source>
     <message>
         <source>Cancel</source>
         <translation type="vanished">Anuluj</translation>
-    </message>
-</context>
-<context>
-    <name>CPdfWnd</name>
-    <message>
-        <location filename="../../../Seer/src/pdf/cpdfwnd.cpp" line="174"/>
-        <source>Actual Size</source>
-        <translation>Rzeczywisty rozmiar</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/pdf/cpdfwnd.cpp" line="170"/>
-        <source>Fit Width</source>
-        <translation>Dopasuj szerokość</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/pdf/cpdfwnd.cpp" line="127"/>
-        <location filename="../../../Seer/src/pdf/cpdfwnd.cpp" line="445"/>
-        <source>Pages Count</source>
-        <translation>Liczba stron</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/pdf/cpdfwnd.cpp" line="163"/>
-        <source>Encrypted</source>
-        <translation>Zaszyfrowany</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/pdf/cpdfwnd.cpp" line="202"/>
-        <source>Rotate Right</source>
-        <translation>Obróć w prawo</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/pdf/cpdfwnd.cpp" line="215"/>
-        <source>Sidebar</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/pdf/cpdfwnd.cpp" line="289"/>
-        <source>Annotation: On</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/pdf/cpdfwnd.cpp" line="289"/>
-        <source>Annotation: Off</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/pdf/cpdfwnd.cpp" line="399"/>
-        <source>Please choose a page first</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/pdf/cpdfpwdwnd.cpp" line="28"/>
-        <source>Password required</source>
-        <translation type="unfinished">Wymagane hasło</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/pdf/sidebar/pdfsidebarwnd.cpp" line="41"/>
-        <location filename="../../../Seer/src/pdf/sidebar/pdfsidebarwnd.cpp" line="43"/>
-        <source>Table of Contents</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/pdf/sidebar/pdfsidebarwnd.cpp" line="45"/>
-        <location filename="../../../Seer/src/pdf/sidebar/pdfsidebarwnd.cpp" line="47"/>
-        <source>Thumbnalils</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/pdf/sidebar/pdfsidebarwnd.cpp" line="49"/>
-        <location filename="../../../Seer/src/pdf/sidebar/pdfsidebarwnd.cpp" line="51"/>
-        <source>Highlight and Notes</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2526,6 +2339,193 @@ Ready to install.</source>
     <message>
         <location filename="../../../Seer/src/dirs/dircolumnviewinfownd.cpp" line="42"/>
         <source>Preview</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>MediaViewer</name>
+    <message>
+        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="69"/>
+        <source>Bit Rate</source>
+        <translation>Bitrate</translation>
+    </message>
+    <message>
+        <source>Channel Layout</source>
+        <translation type="vanished">Układ kanałów</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="87"/>
+        <source>Channels</source>
+        <translation>Kanały</translation>
+    </message>
+    <message>
+        <source>Decoder</source>
+        <translation type="vanished">Dekoder</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="67"/>
+        <source>Duration</source>
+        <translation>Czas trwania</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="70"/>
+        <source>Format</source>
+        <translation>Format</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="85"/>
+        <source>Frame Size</source>
+        <translation>Rozmiar ramki</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="79"/>
+        <source>Height</source>
+        <translation>Wysokość</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="319"/>
+        <source>Mute: Off</source>
+        <translation>Wyciszenie: wył.</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="319"/>
+        <source>Mute: On</source>
+        <translation>Wyciszenie: wł.</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/media/mediaviewer_p.cpp" line="444"/>
+        <source>Play / Pause</source>
+        <translation>Odtwórz / Pauza</translation>
+    </message>
+    <message>
+        <source>Sample Format</source>
+        <translation type="vanished">Format próbkowania</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="86"/>
+        <source>Sample Rate</source>
+        <translation>Częstotliwość próbkowania</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="78"/>
+        <source>Width</source>
+        <translation>Szerokość</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/media/mediaviewer_p.cpp" line="182"/>
+        <source>Capture failed</source>
+        <translation>Błąd przechytywania</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/media/mediaviewer_p.cpp" line="252"/>
+        <source>Loop: On</source>
+        <translation>Zapętlenie: Wł.</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/media/mediaviewer_p.cpp" line="252"/>
+        <source>Loop: Off</source>
+        <translation>Zapętlenie: Wył.</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="396"/>
+        <source>Forward:</source>
+        <translation type="unfinished">Do przodu:</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="402"/>
+        <source>Backward:</source>
+        <translation type="unfinished">Do tyłu:</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="73"/>
+        <source>Start Time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="81"/>
+        <source>Rotation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="261"/>
+        <source>The system is muted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/media/mediaviewer_p.cpp" line="187"/>
+        <source>Screenshot has saved to clipboard.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>PdfViewer</name>
+    <message>
+        <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="174"/>
+        <source>Actual Size</source>
+        <translation>Rzeczywisty rozmiar</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="170"/>
+        <source>Fit Width</source>
+        <translation>Dopasuj szerokość</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="127"/>
+        <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="445"/>
+        <source>Pages Count</source>
+        <translation>Liczba stron</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="163"/>
+        <source>Encrypted</source>
+        <translation>Zaszyfrowany</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="202"/>
+        <source>Rotate Right</source>
+        <translation>Obróć w prawo</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="215"/>
+        <source>Sidebar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="289"/>
+        <source>Annotation: On</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="289"/>
+        <source>Annotation: Off</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="399"/>
+        <source>Please choose a page first</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/pdf/cpdfpwdwnd.cpp" line="28"/>
+        <source>Password required</source>
+        <translation type="unfinished">Wymagane hasło</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/pdf/sidebar/pdfsidebarwnd.cpp" line="41"/>
+        <location filename="../../../Seer/src/pdf/sidebar/pdfsidebarwnd.cpp" line="43"/>
+        <source>Table of Contents</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/pdf/sidebar/pdfsidebarwnd.cpp" line="45"/>
+        <location filename="../../../Seer/src/pdf/sidebar/pdfsidebarwnd.cpp" line="47"/>
+        <source>Thumbnalils</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/pdf/sidebar/pdfsidebarwnd.cpp" line="49"/>
+        <location filename="../../../Seer/src/pdf/sidebar/pdfsidebarwnd.cpp" line="51"/>
+        <source>Highlight and Notes</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

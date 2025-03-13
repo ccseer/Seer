@@ -657,129 +657,6 @@ Ready to install.</source>
     </message>
 </context>
 <context>
-    <name>MediaViewer</name>
-    <message>
-        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="78"/>
-        <source>Width</source>
-        <translation>너비</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="69"/>
-        <source>Bit Rate</source>
-        <translation>비트 레이트</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="86"/>
-        <source>Sample Rate</source>
-        <translation>샘플 레이트</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="85"/>
-        <source>Frame Size</source>
-        <translation>프레임 크기</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/media/cmediawnd_p.cpp" line="443"/>
-        <source>Play / Pause</source>
-        <translation>재생 / 일시정지</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="70"/>
-        <source>Format</source>
-        <translation>포맷</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="79"/>
-        <source>Height</source>
-        <translation>높이</translation>
-    </message>
-    <message>
-        <source>Repeat: Off</source>
-        <translation type="vanished">반복: 끔</translation>
-    </message>
-    <message>
-        <source>Decoder</source>
-        <translation type="vanished">디코더</translation>
-    </message>
-    <message>
-        <source>Repeat: On</source>
-        <translation type="vanished">반복: 켬</translation>
-    </message>
-    <message>
-        <source>Channel Layout</source>
-        <translation type="vanished">채널 레이아웃</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="67"/>
-        <source>Duration</source>
-        <translation>길이</translation>
-    </message>
-    <message>
-        <source>Sample Format</source>
-        <translation type="vanished">샘플 포맷</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="87"/>
-        <source>Channels</source>
-        <translation>채널</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="319"/>
-        <source>Mute: On</source>
-        <translation>음 소거: 켬</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="319"/>
-        <source>Mute: Off</source>
-        <translation>음 소거: 끔</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/media/cmediawnd_p.cpp" line="181"/>
-        <source>Capture failed</source>
-        <translation>갈무리 실패</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/media/cmediawnd_p.cpp" line="251"/>
-        <source>Loop: On</source>
-        <translation>반복: 켬</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/media/cmediawnd_p.cpp" line="251"/>
-        <source>Loop: Off</source>
-        <translation>반복: 끔</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="73"/>
-        <source>Start Time</source>
-        <translation>시작시간</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="81"/>
-        <source>Rotation</source>
-        <translation>회전</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="396"/>
-        <source>Forward:</source>
-        <translation>앞으로:</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="402"/>
-        <source>Backward:</source>
-        <translation>뒤로:</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/media/cmediawnd.cpp" line="261"/>
-        <source>The system is muted</source>
-        <translation>시스템 음소거됨</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/media/cmediawnd_p.cpp" line="186"/>
-        <source>Screenshot has saved to clipboard.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>CPDFPwdWnd</name>
     <message>
         <source>Form</source>
@@ -796,86 +673,6 @@ Ready to install.</source>
     <message>
         <source>Cancel</source>
         <translation type="vanished">취소</translation>
-    </message>
-</context>
-<context>
-    <name>CPdfWnd</name>
-    <message>
-        <location filename="../../../Seer/src/pdf/cpdfwnd.cpp" line="127"/>
-        <location filename="../../../Seer/src/pdf/cpdfwnd.cpp" line="445"/>
-        <source>Pages Count</source>
-        <translation>쪽 수</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/pdf/cpdfwnd.cpp" line="170"/>
-        <source>Fit Width</source>
-        <translation>너비 맞추기</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/pdf/cpdfwnd.cpp" line="174"/>
-        <source>Actual Size</source>
-        <translation>실제 크기</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/pdf/cpdfwnd.cpp" line="163"/>
-        <source>Encrypted</source>
-        <translation>암호화됨</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/pdf/cpdfwnd.cpp" line="202"/>
-        <source>Rotate Right</source>
-        <translation>오른쪽으로 회전</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/pdf/cpdfwnd.cpp" line="215"/>
-        <source>Sidebar</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/pdf/cpdfwnd.cpp" line="399"/>
-        <source>Please choose a page first</source>
-        <translation>우선 페이지를 선택하세요</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/pdf/cpdfwnd.cpp" line="289"/>
-        <source>Annotation: On</source>
-        <translation>주석: 켬</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/pdf/cpdfwnd.cpp" line="289"/>
-        <source>Annotation: Off</source>
-        <translation>주석: 끔</translation>
-    </message>
-    <message>
-        <source>Thumbnail</source>
-        <translation type="vanished">미리보기</translation>
-    </message>
-    <message>
-        <source>Outline</source>
-        <translation type="vanished">아웃라인</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/pdf/cpdfpwdwnd.cpp" line="28"/>
-        <source>Password required</source>
-        <translation type="unfinished">비밀번호</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/pdf/sidebar/pdfsidebarwnd.cpp" line="41"/>
-        <location filename="../../../Seer/src/pdf/sidebar/pdfsidebarwnd.cpp" line="43"/>
-        <source>Table of Contents</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/pdf/sidebar/pdfsidebarwnd.cpp" line="45"/>
-        <location filename="../../../Seer/src/pdf/sidebar/pdfsidebarwnd.cpp" line="47"/>
-        <source>Thumbnalils</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/pdf/sidebar/pdfsidebarwnd.cpp" line="49"/>
-        <location filename="../../../Seer/src/pdf/sidebar/pdfsidebarwnd.cpp" line="51"/>
-        <source>Highlight and Notes</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2732,6 +2529,129 @@ Ready to install.</source>
     </message>
 </context>
 <context>
+    <name>MediaViewer</name>
+    <message>
+        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="78"/>
+        <source>Width</source>
+        <translation>너비</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="69"/>
+        <source>Bit Rate</source>
+        <translation>비트 레이트</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="86"/>
+        <source>Sample Rate</source>
+        <translation>샘플 레이트</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="85"/>
+        <source>Frame Size</source>
+        <translation>프레임 크기</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/media/mediaviewer_p.cpp" line="444"/>
+        <source>Play / Pause</source>
+        <translation>재생 / 일시정지</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="70"/>
+        <source>Format</source>
+        <translation>포맷</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="79"/>
+        <source>Height</source>
+        <translation>높이</translation>
+    </message>
+    <message>
+        <source>Repeat: Off</source>
+        <translation type="vanished">반복: 끔</translation>
+    </message>
+    <message>
+        <source>Decoder</source>
+        <translation type="vanished">디코더</translation>
+    </message>
+    <message>
+        <source>Repeat: On</source>
+        <translation type="vanished">반복: 켬</translation>
+    </message>
+    <message>
+        <source>Channel Layout</source>
+        <translation type="vanished">채널 레이아웃</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="67"/>
+        <source>Duration</source>
+        <translation>길이</translation>
+    </message>
+    <message>
+        <source>Sample Format</source>
+        <translation type="vanished">샘플 포맷</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="87"/>
+        <source>Channels</source>
+        <translation>채널</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="319"/>
+        <source>Mute: On</source>
+        <translation>음 소거: 켬</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="319"/>
+        <source>Mute: Off</source>
+        <translation>음 소거: 끔</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/media/mediaviewer_p.cpp" line="182"/>
+        <source>Capture failed</source>
+        <translation>갈무리 실패</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/media/mediaviewer_p.cpp" line="252"/>
+        <source>Loop: On</source>
+        <translation>반복: 켬</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/media/mediaviewer_p.cpp" line="252"/>
+        <source>Loop: Off</source>
+        <translation>반복: 끔</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="73"/>
+        <source>Start Time</source>
+        <translation>시작시간</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="81"/>
+        <source>Rotation</source>
+        <translation>회전</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="396"/>
+        <source>Forward:</source>
+        <translation>앞으로:</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="402"/>
+        <source>Backward:</source>
+        <translation>뒤로:</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="261"/>
+        <source>The system is muted</source>
+        <translation>시스템 음소거됨</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/media/mediaviewer_p.cpp" line="187"/>
+        <source>Screenshot has saved to clipboard.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>PdfViewPrivate</name>
     <message>
         <source>Cannot save image to:</source>
@@ -2775,6 +2695,86 @@ Ready to install.</source>
         <source>File save error</source>
         <comment>Message box title</comment>
         <translation type="obsolete">파일 저장 오류</translation>
+    </message>
+</context>
+<context>
+    <name>PdfViewer</name>
+    <message>
+        <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="127"/>
+        <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="445"/>
+        <source>Pages Count</source>
+        <translation>쪽 수</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="170"/>
+        <source>Fit Width</source>
+        <translation>너비 맞추기</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="174"/>
+        <source>Actual Size</source>
+        <translation>실제 크기</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="163"/>
+        <source>Encrypted</source>
+        <translation>암호화됨</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="202"/>
+        <source>Rotate Right</source>
+        <translation>오른쪽으로 회전</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="215"/>
+        <source>Sidebar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="399"/>
+        <source>Please choose a page first</source>
+        <translation>우선 페이지를 선택하세요</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="289"/>
+        <source>Annotation: On</source>
+        <translation>주석: 켬</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="289"/>
+        <source>Annotation: Off</source>
+        <translation>주석: 끔</translation>
+    </message>
+    <message>
+        <source>Thumbnail</source>
+        <translation type="vanished">미리보기</translation>
+    </message>
+    <message>
+        <source>Outline</source>
+        <translation type="vanished">아웃라인</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/pdf/cpdfpwdwnd.cpp" line="28"/>
+        <source>Password required</source>
+        <translation type="unfinished">비밀번호</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/pdf/sidebar/pdfsidebarwnd.cpp" line="41"/>
+        <location filename="../../../Seer/src/pdf/sidebar/pdfsidebarwnd.cpp" line="43"/>
+        <source>Table of Contents</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/pdf/sidebar/pdfsidebarwnd.cpp" line="45"/>
+        <location filename="../../../Seer/src/pdf/sidebar/pdfsidebarwnd.cpp" line="47"/>
+        <source>Thumbnalils</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/pdf/sidebar/pdfsidebarwnd.cpp" line="49"/>
+        <location filename="../../../Seer/src/pdf/sidebar/pdfsidebarwnd.cpp" line="51"/>
+        <source>Highlight and Notes</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
