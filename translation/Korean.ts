@@ -657,7 +657,7 @@ Ready to install.</source>
     </message>
 </context>
 <context>
-    <name>CMediaWnd</name>
+    <name>MediaViewer</name>
     <message>
         <location filename="../../../Seer/src/media/cmediawnd.cpp" line="78"/>
         <source>Width</source>

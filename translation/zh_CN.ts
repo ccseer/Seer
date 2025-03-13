@@ -745,7 +745,7 @@ Ready to install.</source>
     </message>
 </context>
 <context>
-    <name>CMediaWnd</name>
+    <name>MediaViewer</name>
     <message>
         <location filename="../../../Seer/src/media/cmediawnd_p.cpp" line="443"/>
         <source>Play / Pause</source>
