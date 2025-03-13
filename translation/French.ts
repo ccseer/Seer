@@ -284,83 +284,6 @@ Ready to install.</source>
     </message>
 </context>
 <context>
-    <name>CCodeWnd</name>
-    <message>
-        <source>Line: </source>
-        <translation type="vanished">Ligne: </translation>
-    </message>
-    <message>
-        <source>Column: </source>
-        <translation type="vanished">Colonne: </translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/code/FeaturedView/codewnd4featured.cpp" line="70"/>
-        <source>Format Code</source>
-        <translatorcomment>&quot;Formater le code&quot; is the action to format the code.</translatorcomment>
-        <translation>Formater le code</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/code/FeaturedView/codewnd4featured.cpp" line="102"/>
-        <source>Reason:</source>
-        <translation>Motif :</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/code/FeaturedView/codewnd4featured.cpp" line="101"/>
-        <source>Format failed.</source>
-        <translation>La formatage a échoué.</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/code/FeaturedView/codewnd4featured.cpp" line="103"/>
-        <source>Line:</source>
-        <translation>Ligne:</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/code/FeaturedView/codewnd4featured.cpp" line="105"/>
-        <source>Column:</source>
-        <translation>Colonne : </translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/code/FeaturedView/codewnd4featured.cpp" line="170"/>
-        <source>Render HTML</source>
-        <translation>Rendu HTML</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/code/FeaturedView/codewnd4featured.cpp" line="409"/>
-        <source>Character count</source>
-        <translation>Nombre de caractères</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/code/ChunkView/codewnd4chunk.cpp" line="70"/>
-        <location filename="../../../Seer/src/code/FeaturedView/codewnd4featured.cpp" line="411"/>
-        <source>Line count</source>
-        <translation>Nombre de lignes</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/code/FeaturedView/codewnd4featured.cpp" line="395"/>
-        <source>Ln</source>
-        <translation>Ln</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/code/FeaturedView/codewnd4featured.cpp" line="397"/>
-        <source>Col</source>
-        <translation>Col</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/code/FeaturedView/codewnd4featured.cpp" line="184"/>
-        <source>Render Image</source>
-        <translation>Rendu de l&apos;image</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/code/FeaturedView/codewnd4featured.cpp" line="157"/>
-        <source>Render Markdown</source>
-        <translation>Rendu Markdown</translation>
-    </message>
-    <message>
-        <source>Loading</source>
-        <translation type="vanished">Chargement</translation>
-    </message>
-</context>
-<context>
     <name>CComLineEditBtn</name>
     <message>
         <source>Input..</source>
@@ -3052,6 +2975,83 @@ Ready to install.</source>
         <location filename="../../../Seer/src/ui/caboutwnd.cpp" line="65"/>
         <source>Return</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>TextViewer</name>
+    <message>
+        <source>Line: </source>
+        <translation type="vanished">Ligne: </translation>
+    </message>
+    <message>
+        <source>Column: </source>
+        <translation type="vanished">Colonne: </translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/code/FeaturedView/codewnd4featured.cpp" line="70"/>
+        <source>Format Code</source>
+        <translatorcomment>&quot;Formater le code&quot; is the action to format the code.</translatorcomment>
+        <translation>Formater le code</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/code/FeaturedView/codewnd4featured.cpp" line="102"/>
+        <source>Reason:</source>
+        <translation>Motif :</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/code/FeaturedView/codewnd4featured.cpp" line="101"/>
+        <source>Format failed.</source>
+        <translation>La formatage a échoué.</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/code/FeaturedView/codewnd4featured.cpp" line="103"/>
+        <source>Line:</source>
+        <translation>Ligne:</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/code/FeaturedView/codewnd4featured.cpp" line="105"/>
+        <source>Column:</source>
+        <translation>Colonne : </translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/code/FeaturedView/codewnd4featured.cpp" line="170"/>
+        <source>Render HTML</source>
+        <translation>Rendu HTML</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/code/FeaturedView/codewnd4featured.cpp" line="409"/>
+        <source>Character count</source>
+        <translation>Nombre de caractères</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/code/ChunkView/codewnd4chunk.cpp" line="70"/>
+        <location filename="../../../Seer/src/code/FeaturedView/codewnd4featured.cpp" line="411"/>
+        <source>Line count</source>
+        <translation>Nombre de lignes</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/code/FeaturedView/codewnd4featured.cpp" line="395"/>
+        <source>Ln</source>
+        <translation>Ln</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/code/FeaturedView/codewnd4featured.cpp" line="397"/>
+        <source>Col</source>
+        <translation>Col</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/code/FeaturedView/codewnd4featured.cpp" line="184"/>
+        <source>Render Image</source>
+        <translation>Rendu de l&apos;image</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/code/FeaturedView/codewnd4featured.cpp" line="157"/>
+        <source>Render Markdown</source>
+        <translation>Rendu Markdown</translation>
+    </message>
+    <message>
+        <source>Loading</source>
+        <translation type="vanished">Chargement</translation>
     </message>
 </context>
 <context>

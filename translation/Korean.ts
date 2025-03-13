@@ -203,86 +203,6 @@ Ready to install.</source>
     </message>
 </context>
 <context>
-    <name>CCodeWnd</name>
-    <message>
-        <source>Line: </source>
-        <translation type="vanished">행:</translation>
-    </message>
-    <message>
-        <source>Column: </source>
-        <translation type="vanished">열:</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/code/FeaturedView/codewnd4featured.cpp" line="70"/>
-        <source>Format Code</source>
-        <translation>형식 코드</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/code/FeaturedView/codewnd4featured.cpp" line="102"/>
-        <source>Reason:</source>
-        <translation>오류 원인:</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/code/FeaturedView/codewnd4featured.cpp" line="101"/>
-        <source>Format failed.</source>
-        <translation>포맷 실패.</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/code/FeaturedView/codewnd4featured.cpp" line="103"/>
-        <source>Line:</source>
-        <translation>행:</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/code/FeaturedView/codewnd4featured.cpp" line="105"/>
-        <source>Column:</source>
-        <translation>열:</translation>
-    </message>
-    <message>
-        <source>Render markdown</source>
-        <translation type="vanished">마크다운 보기</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/code/FeaturedView/codewnd4featured.cpp" line="170"/>
-        <source>Render HTML</source>
-        <translation>HTML 보기</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/code/FeaturedView/codewnd4featured.cpp" line="409"/>
-        <source>Character count</source>
-        <translation>글자 수</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/code/ChunkView/codewnd4chunk.cpp" line="70"/>
-        <location filename="../../../Seer/src/code/FeaturedView/codewnd4featured.cpp" line="411"/>
-        <source>Line count</source>
-        <translation>줄 수</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/code/FeaturedView/codewnd4featured.cpp" line="395"/>
-        <source>Ln</source>
-        <translation>행</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/code/FeaturedView/codewnd4featured.cpp" line="397"/>
-        <source>Col</source>
-        <translation>열</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/code/FeaturedView/codewnd4featured.cpp" line="184"/>
-        <source>Render Image</source>
-        <translation>이미지 보기</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/code/FeaturedView/codewnd4featured.cpp" line="157"/>
-        <source>Render Markdown</source>
-        <translation>마크다운 보기</translation>
-    </message>
-    <message>
-        <source>Loading</source>
-        <translation type="vanished">읽는중</translation>
-    </message>
-</context>
-<context>
     <name>CComLineEditBtn</name>
     <message>
         <source>Clear Text</source>
@@ -2972,6 +2892,86 @@ Ready to install.</source>
         <location filename="../../../Seer/src/ui/caboutwnd.cpp" line="65"/>
         <source>Return</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>TextViewer</name>
+    <message>
+        <source>Line: </source>
+        <translation type="vanished">행:</translation>
+    </message>
+    <message>
+        <source>Column: </source>
+        <translation type="vanished">열:</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/code/FeaturedView/codewnd4featured.cpp" line="70"/>
+        <source>Format Code</source>
+        <translation>형식 코드</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/code/FeaturedView/codewnd4featured.cpp" line="102"/>
+        <source>Reason:</source>
+        <translation>오류 원인:</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/code/FeaturedView/codewnd4featured.cpp" line="101"/>
+        <source>Format failed.</source>
+        <translation>포맷 실패.</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/code/FeaturedView/codewnd4featured.cpp" line="103"/>
+        <source>Line:</source>
+        <translation>행:</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/code/FeaturedView/codewnd4featured.cpp" line="105"/>
+        <source>Column:</source>
+        <translation>열:</translation>
+    </message>
+    <message>
+        <source>Render markdown</source>
+        <translation type="vanished">마크다운 보기</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/code/FeaturedView/codewnd4featured.cpp" line="170"/>
+        <source>Render HTML</source>
+        <translation>HTML 보기</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/code/FeaturedView/codewnd4featured.cpp" line="409"/>
+        <source>Character count</source>
+        <translation>글자 수</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/code/ChunkView/codewnd4chunk.cpp" line="70"/>
+        <location filename="../../../Seer/src/code/FeaturedView/codewnd4featured.cpp" line="411"/>
+        <source>Line count</source>
+        <translation>줄 수</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/code/FeaturedView/codewnd4featured.cpp" line="395"/>
+        <source>Ln</source>
+        <translation>행</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/code/FeaturedView/codewnd4featured.cpp" line="397"/>
+        <source>Col</source>
+        <translation>열</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/code/FeaturedView/codewnd4featured.cpp" line="184"/>
+        <source>Render Image</source>
+        <translation>이미지 보기</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/code/FeaturedView/codewnd4featured.cpp" line="157"/>
+        <source>Render Markdown</source>
+        <translation>마크다운 보기</translation>
+    </message>
+    <message>
+        <source>Loading</source>
+        <translation type="vanished">읽는중</translation>
     </message>
 </context>
 <context>
