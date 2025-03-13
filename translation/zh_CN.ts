@@ -75,7 +75,7 @@
     <message>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="266"/>
         <source>Update Error</source>
-        <translation type="unfinished"></translation>
+        <translation>更新失败</translation>
     </message>
     <message>
         <source>Update Error:</source>
@@ -551,38 +551,6 @@ Ready to install.</source>
     <message>
         <source>Can not run </source>
         <translation type="vanished">无法运行</translation>
-    </message>
-</context>
-<context>
-    <name>CHtmlWnd</name>
-    <message>
-        <location filename="../../../Seer/src/web/chtmlwnd.cpp" line="129"/>
-        <source>Markdown Source</source>
-        <translation>转到 Markdown 源码</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/web/chtmlwnd.cpp" line="132"/>
-        <source>Save as PDF</source>
-        <translation>保存为 PDF</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/web/chtmlwnd.cpp" line="139"/>
-        <source>Failed to save as PDF</source>
-        <translation>保存为 PDF 失败</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/web/chtmlwnd.cpp" line="165"/>
-        <source>Successfully saved as PDF</source>
-        <translation>已成功保存为 PDF</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/web/chtmlwnd.cpp" line="174"/>
-        <source>HTML Source</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>HTML</source>
-        <translation type="vanished">HTML</translation>
     </message>
 </context>
 <context>
@@ -1905,7 +1873,7 @@ Ready to install.</source>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1279"/>
         <source>Sidebar:</source>
-        <translation type="unfinished"></translation>
+        <translation>侧边栏：</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1335"/>
@@ -2481,7 +2449,39 @@ Ready to install.</source>
     <message>
         <location filename="../../../Seer/src/dirs/dircolumnviewinfownd.cpp" line="42"/>
         <source>Preview</source>
-        <translation type="unfinished">预览</translation>
+        <translation>预览</translation>
+    </message>
+</context>
+<context>
+    <name>HtmlViewer</name>
+    <message>
+        <location filename="../../../Seer/src/web/htmlviewer.cpp" line="129"/>
+        <source>Markdown Source</source>
+        <translation>转到 Markdown 源码</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/web/htmlviewer.cpp" line="132"/>
+        <source>Save as PDF</source>
+        <translation>保存为 PDF</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/web/htmlviewer.cpp" line="139"/>
+        <source>Failed to save as PDF</source>
+        <translation>保存为 PDF 失败</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/web/htmlviewer.cpp" line="165"/>
+        <source>Successfully saved as PDF</source>
+        <translation>已成功保存为 PDF</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/web/htmlviewer.cpp" line="174"/>
+        <source>HTML Source</source>
+        <translation>HTML 源码</translation>
+    </message>
+    <message>
+        <source>HTML</source>
+        <translation type="vanished">HTML</translation>
     </message>
 </context>
 <context>
@@ -3002,7 +3002,7 @@ Ready to install.</source>
     <message>
         <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="215"/>
         <source>Sidebar</source>
-        <translation type="unfinished"></translation>
+        <translation>侧边栏</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="289"/>
@@ -3059,19 +3059,19 @@ Ready to install.</source>
         <location filename="../../../Seer/src/pdf/sidebar/pdfsidebarwnd.cpp" line="41"/>
         <location filename="../../../Seer/src/pdf/sidebar/pdfsidebarwnd.cpp" line="43"/>
         <source>Table of Contents</source>
-        <translation type="unfinished"></translation>
+        <translation>目录</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/pdf/sidebar/pdfsidebarwnd.cpp" line="45"/>
         <location filename="../../../Seer/src/pdf/sidebar/pdfsidebarwnd.cpp" line="47"/>
         <source>Thumbnalils</source>
-        <translation type="unfinished"></translation>
+        <translation>缩略图</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/pdf/sidebar/pdfsidebarwnd.cpp" line="49"/>
         <location filename="../../../Seer/src/pdf/sidebar/pdfsidebarwnd.cpp" line="51"/>
         <source>Highlight and Notes</source>
-        <translation type="unfinished"></translation>
+        <translation>批注</translation>
     </message>
 </context>
 <context>

@@ -568,38 +568,6 @@ Ready to install.</source>
     </message>
 </context>
 <context>
-    <name>CHtmlWnd</name>
-    <message>
-        <source>HTML</source>
-        <translation type="vanished">HTML</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/web/chtmlwnd.cpp" line="129"/>
-        <source>Markdown Source</source>
-        <translation>Source Markdown</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/web/chtmlwnd.cpp" line="132"/>
-        <source>Save as PDF</source>
-        <translation>Enregistrer en PDF</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/web/chtmlwnd.cpp" line="139"/>
-        <source>Failed to save as PDF</source>
-        <translation>Échec de l&apos;enregistrement en PDF</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/web/chtmlwnd.cpp" line="165"/>
-        <source>Successfully saved as PDF</source>
-        <translation>Enregistré en PDF avec succès</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/web/chtmlwnd.cpp" line="174"/>
-        <source>HTML Source</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>CMain</name>
     <message>
         <source>Quit</source>
@@ -2260,6 +2228,38 @@ Ready to install.</source>
     <message>
         <location filename="../../../Seer/src/dirs/dircolumnviewinfownd.cpp" line="42"/>
         <source>Preview</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>HtmlViewer</name>
+    <message>
+        <source>HTML</source>
+        <translation type="vanished">HTML</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/web/htmlviewer.cpp" line="129"/>
+        <source>Markdown Source</source>
+        <translation>Source Markdown</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/web/htmlviewer.cpp" line="132"/>
+        <source>Save as PDF</source>
+        <translation>Enregistrer en PDF</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/web/htmlviewer.cpp" line="139"/>
+        <source>Failed to save as PDF</source>
+        <translation>Échec de l&apos;enregistrement en PDF</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/web/htmlviewer.cpp" line="165"/>
+        <source>Successfully saved as PDF</source>
+        <translation>Enregistré en PDF avec succès</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/web/htmlviewer.cpp" line="174"/>
+        <source>HTML Source</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
