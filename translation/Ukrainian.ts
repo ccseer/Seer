@@ -673,337 +673,6 @@ Ready to install.</source>
     </message>
 </context>
 <context>
-    <name>CPicWnd</name>
-    <message>
-        <location filename="../../../Seer/src/picture/cpicwnd.cpp" line="240"/>
-        <source>Width</source>
-        <translation>Ширина</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/cpicwnd.cpp" line="180"/>
-        <source>Rotate Right</source>
-        <translation>Поворот праворуч</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/cpicwnd.cpp" line="241"/>
-        <source>Height</source>
-        <translation>Висота</translation>
-    </message>
-    <message>
-        <source>Fit Width</source>
-        <translation type="vanished">Tilpass bredde</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/cpicwnd.cpp" line="248"/>
-        <source>Image Count</source>
-        <translation>Кількість зображень</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/cpicwnd.cpp" line="157"/>
-        <source>Actual Size</source>
-        <translation>Фактичний розмір</translation>
-    </message>
-    <message>
-        <source>Rotate Left</source>
-        <translation type="vanished">Roter venstre</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/cpicwnd.cpp" line="113"/>
-        <source>Play / Pause</source>
-        <translation>Відтворення / Пауза</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/cpicwnd.cpp" line="142"/>
-        <source>XML</source>
-        <translation>XML</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/cpicwnd.cpp" line="250"/>
-        <source>Loop Count</source>
-        <translation>Кількість циклів</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="48"/>
-        <source>Camera make</source>
-        <translation>Марка камери</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="50"/>
-        <source>Camera model</source>
-        <translation>Модель камери</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="52"/>
-        <source>Software</source>
-        <translation>Модель об&apos;єктива</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="55"/>
-        <source>Bits per sample</source>
-        <translation>Глибина кольору</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="58"/>
-        <source>Image width</source>
-        <translation>Ширина зображення</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="61"/>
-        <source>Image height</source>
-        <translation>Висота зображення</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="65"/>
-        <source>Image description</source>
-        <translation>Опис зображення</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="67"/>
-        <source>Image copyright</source>
-        <translation>Авторські права</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="69"/>
-        <source>Image datetime</source>
-        <translation>Дата та час зображення</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="71"/>
-        <source>Original datetime</source>
-        <translation>Вихідна дата та час</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="73"/>
-        <source>Digitize datetime</source>
-        <translation>Дата та час оцифровки</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="76"/>
-        <source>Exposure time</source>
-        <translation>Час експозиції</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="79"/>
-        <source>F-stop</source>
-        <translation>Діафрагма</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="83"/>
-        <source>Manual</source>
-        <translation>Інструкція</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="84"/>
-        <source>Normal program</source>
-        <translation>Нормальна програма</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="85"/>
-        <source>Aperture priority</source>
-        <translation>Пріоритет діафрагми</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="86"/>
-        <source>Shutter priority</source>
-        <translation>Пріоритет витримки</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="87"/>
-        <source>Creative program</source>
-        <translation>Творча програма</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="88"/>
-        <source>Action program</source>
-        <translation>Програма дій</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="89"/>
-        <source>Portrait mode</source>
-        <translation>Портретний режим</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="90"/>
-        <source>Landscape mode</source>
-        <translation>Альбомний режим</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="91"/>
-        <source>Exposure program</source>
-        <translation>Програма експозиції</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="95"/>
-        <source>ISO speed</source>
-        <translation>Чутливість ISO</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="98"/>
-        <source>Shutter speed</source>
-        <translation>Швидкість затвора</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="102"/>
-        <source>Subject distance</source>
-        <translation>Відстань до об&apos;єкту</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="105"/>
-        <source>Exposure bias</source>
-        <translation>Зміщення експозиції</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="109"/>
-        <source>Flash</source>
-        <translation>Спалах</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="112"/>
-        <source>Reserved</source>
-        <translation>Зарезервований</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="113"/>
-        <source>Strobe return light not detected</source>
-        <translation>Зворотне світло стробоскопа не виявлено</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="116"/>
-        <source>Strobe return light detected</source>
-        <translation>Виявлено зворотне світло стробоскопа</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="117"/>
-        <source>Flash returned light</source>
-        <translation>Спалах повернув світло</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="122"/>
-        <source>Unknown mode</source>
-        <translation>Невідомий режим</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="123"/>
-        <source>Compulsory flash firing</source>
-        <translation>Обов’язкова вогнепальна стрільба</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="124"/>
-        <source>Compulsory flash suppression</source>
-        <translation>Примусове придушення спалаху</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="125"/>
-        <source>Automatic mode</source>
-        <translation>Автоматичний режим</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="126"/>
-        <source>Flash mode</source>
-        <translation>Режим спалаху</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="131"/>
-        <source>average</source>
-        <translation>середній</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="132"/>
-        <source>center weighted average</source>
-        <translation>середньозважене по центру</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="133"/>
-        <source>spot</source>
-        <translation>пляма</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="134"/>
-        <source>multi-spot</source>
-        <translation>багатоточковий</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="135"/>
-        <source>multi-segment</source>
-        <translation>багатосегментний</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="137"/>
-        <source>Metering mode</source>
-        <translation>Режим виміру експозиції</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="140"/>
-        <source>Lens focal length</source>
-        <translation>Фокусна відстань об&apos;єктива</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="143"/>
-        <source>35mm focal length</source>
-        <translation>Фокусна відстань (еквівалент 35мм)</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="151"/>
-        <source>GPS Latitude</source>
-        <translation>GPS Широта</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="158"/>
-        <source>GPS Longitude</source>
-        <translation>GPS Довгота</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="165"/>
-        <source>GPS Altitude</source>
-        <translation>GPS Висота</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="167"/>
-        <source>GPS Precision (DOP)</source>
-        <translation>GPS Точність (DOP)</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="173"/>
-        <source>Lens min focal length</source>
-        <translation>Мін. фокусна відстань об&apos;єктива</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="176"/>
-        <source>Lens max focal length</source>
-        <translation>Макс. фокусна відстань об&apos;єктива</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="179"/>
-        <source>Lens f-stop min</source>
-        <translation>Мін. значення діафрагми</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="182"/>
-        <source>Lens f-stop max</source>
-        <translation>Макс. значення діафрагми</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="184"/>
-        <source>Lens make</source>
-        <translation>Виробник об&apos;єктиву</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="186"/>
-        <source>Lens model</source>
-        <translation>Модель об&apos;єктива</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="189"/>
-        <source>Focal plane XRes</source>
-        <translation>X разр фокальної площини</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="192"/>
-        <source>Focal plane YRes</source>
-        <translation>Y розр фокальної площини</translation>
-    </message>
-</context>
-<context>
     <name>CRegDlg</name>
     <message>
         <location filename="../../../Seer/src/opt/licenser/cregdlg.ui" line="72"/>
@@ -2318,6 +1987,337 @@ Ready to install.</source>
         <location filename="../../../Seer/src/dirs/dircolumnviewinfownd.cpp" line="42"/>
         <source>Preview</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ImageViewer</name>
+    <message>
+        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="240"/>
+        <source>Width</source>
+        <translation>Ширина</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="180"/>
+        <source>Rotate Right</source>
+        <translation>Поворот праворуч</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="241"/>
+        <source>Height</source>
+        <translation>Висота</translation>
+    </message>
+    <message>
+        <source>Fit Width</source>
+        <translation type="vanished">Tilpass bredde</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="248"/>
+        <source>Image Count</source>
+        <translation>Кількість зображень</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="157"/>
+        <source>Actual Size</source>
+        <translation>Фактичний розмір</translation>
+    </message>
+    <message>
+        <source>Rotate Left</source>
+        <translation type="vanished">Roter venstre</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="113"/>
+        <source>Play / Pause</source>
+        <translation>Відтворення / Пауза</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="142"/>
+        <source>XML</source>
+        <translation>XML</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="250"/>
+        <source>Loop Count</source>
+        <translation>Кількість циклів</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="48"/>
+        <source>Camera make</source>
+        <translation>Марка камери</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="50"/>
+        <source>Camera model</source>
+        <translation>Модель камери</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="52"/>
+        <source>Software</source>
+        <translation>Модель об&apos;єктива</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="55"/>
+        <source>Bits per sample</source>
+        <translation>Глибина кольору</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="58"/>
+        <source>Image width</source>
+        <translation>Ширина зображення</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="61"/>
+        <source>Image height</source>
+        <translation>Висота зображення</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="65"/>
+        <source>Image description</source>
+        <translation>Опис зображення</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="67"/>
+        <source>Image copyright</source>
+        <translation>Авторські права</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="69"/>
+        <source>Image datetime</source>
+        <translation>Дата та час зображення</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="71"/>
+        <source>Original datetime</source>
+        <translation>Вихідна дата та час</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="73"/>
+        <source>Digitize datetime</source>
+        <translation>Дата та час оцифровки</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="76"/>
+        <source>Exposure time</source>
+        <translation>Час експозиції</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="79"/>
+        <source>F-stop</source>
+        <translation>Діафрагма</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="83"/>
+        <source>Manual</source>
+        <translation>Інструкція</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="84"/>
+        <source>Normal program</source>
+        <translation>Нормальна програма</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="85"/>
+        <source>Aperture priority</source>
+        <translation>Пріоритет діафрагми</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="86"/>
+        <source>Shutter priority</source>
+        <translation>Пріоритет витримки</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="87"/>
+        <source>Creative program</source>
+        <translation>Творча програма</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="88"/>
+        <source>Action program</source>
+        <translation>Програма дій</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="89"/>
+        <source>Portrait mode</source>
+        <translation>Портретний режим</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="90"/>
+        <source>Landscape mode</source>
+        <translation>Альбомний режим</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="91"/>
+        <source>Exposure program</source>
+        <translation>Програма експозиції</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="95"/>
+        <source>ISO speed</source>
+        <translation>Чутливість ISO</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="98"/>
+        <source>Shutter speed</source>
+        <translation>Швидкість затвора</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="102"/>
+        <source>Subject distance</source>
+        <translation>Відстань до об&apos;єкту</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="105"/>
+        <source>Exposure bias</source>
+        <translation>Зміщення експозиції</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="109"/>
+        <source>Flash</source>
+        <translation>Спалах</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="112"/>
+        <source>Reserved</source>
+        <translation>Зарезервований</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="113"/>
+        <source>Strobe return light not detected</source>
+        <translation>Зворотне світло стробоскопа не виявлено</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="115"/>
+        <source>Strobe return light detected</source>
+        <translation>Виявлено зворотне світло стробоскопа</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="117"/>
+        <source>Flash returned light</source>
+        <translation>Спалах повернув світло</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="122"/>
+        <source>Unknown mode</source>
+        <translation>Невідомий режим</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="123"/>
+        <source>Compulsory flash firing</source>
+        <translation>Обов’язкова вогнепальна стрільба</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="124"/>
+        <source>Compulsory flash suppression</source>
+        <translation>Примусове придушення спалаху</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="125"/>
+        <source>Automatic mode</source>
+        <translation>Автоматичний режим</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="126"/>
+        <source>Flash mode</source>
+        <translation>Режим спалаху</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="131"/>
+        <source>average</source>
+        <translation>середній</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="132"/>
+        <source>center weighted average</source>
+        <translation>середньозважене по центру</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="133"/>
+        <source>spot</source>
+        <translation>пляма</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="134"/>
+        <source>multi-spot</source>
+        <translation>багатоточковий</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="135"/>
+        <source>multi-segment</source>
+        <translation>багатосегментний</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="137"/>
+        <source>Metering mode</source>
+        <translation>Режим виміру експозиції</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="140"/>
+        <source>Lens focal length</source>
+        <translation>Фокусна відстань об&apos;єктива</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="143"/>
+        <source>35mm focal length</source>
+        <translation>Фокусна відстань (еквівалент 35мм)</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="151"/>
+        <source>GPS Latitude</source>
+        <translation>GPS Широта</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="158"/>
+        <source>GPS Longitude</source>
+        <translation>GPS Довгота</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="165"/>
+        <source>GPS Altitude</source>
+        <translation>GPS Висота</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="167"/>
+        <source>GPS Precision (DOP)</source>
+        <translation>GPS Точність (DOP)</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="173"/>
+        <source>Lens min focal length</source>
+        <translation>Мін. фокусна відстань об&apos;єктива</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="176"/>
+        <source>Lens max focal length</source>
+        <translation>Макс. фокусна відстань об&apos;єктива</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="179"/>
+        <source>Lens f-stop min</source>
+        <translation>Мін. значення діафрагми</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="182"/>
+        <source>Lens f-stop max</source>
+        <translation>Макс. значення діафрагми</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="184"/>
+        <source>Lens make</source>
+        <translation>Виробник об&apos;єктиву</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="186"/>
+        <source>Lens model</source>
+        <translation>Модель об&apos;єктива</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="189"/>
+        <source>Focal plane XRes</source>
+        <translation>X разр фокальної площини</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="192"/>
+        <source>Focal plane YRes</source>
+        <translation>Y розр фокальної площини</translation>
     </message>
 </context>
 <context>

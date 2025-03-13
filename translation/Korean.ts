@@ -676,338 +676,6 @@ Ready to install.</source>
     </message>
 </context>
 <context>
-    <name>CPicWnd</name>
-    <message>
-        <location filename="../../../Seer/src/picture/cpicwnd.cpp" line="240"/>
-        <source>Width</source>
-        <translation>너비</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/cpicwnd.cpp" line="180"/>
-        <source>Rotate Right</source>
-        <translation>오른쪽으로 회전</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/cpicwnd.cpp" line="241"/>
-        <source>Height</source>
-        <translation>높이</translation>
-    </message>
-    <message>
-        <source>Fit Width</source>
-        <translation type="vanished">너비 맞추기</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/cpicwnd.cpp" line="248"/>
-        <source>Image Count</source>
-        <translation>이미지 수</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/cpicwnd.cpp" line="157"/>
-        <source>Actual Size</source>
-        <translation>실제 크기</translation>
-    </message>
-    <message>
-        <source>Rotate Left</source>
-        <translation type="vanished">왼쪽으로 회전</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="48"/>
-        <source>Camera make</source>
-        <translation>카메라 제조 업체</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="50"/>
-        <source>Camera model</source>
-        <translation>카메라 모델</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="52"/>
-        <source>Software</source>
-        <translation>소프트웨어</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="55"/>
-        <source>Bits per sample</source>
-        <translation>샘플 당 비트</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="58"/>
-        <source>Image width</source>
-        <translation>이미지 너비</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="61"/>
-        <source>Image height</source>
-        <translation>이미지 높이</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="65"/>
-        <source>Image description</source>
-        <translation>이미지 설명</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="67"/>
-        <source>Image copyright</source>
-        <translation>이미지 저작권</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="69"/>
-        <source>Image datetime</source>
-        <translation>이미지 날짜</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="71"/>
-        <source>Original datetime</source>
-        <translation>찍은 날짜</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="73"/>
-        <source>Digitize datetime</source>
-        <translation>취득한 날짜</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="76"/>
-        <source>Exposure time</source>
-        <translation>노출 시간</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="79"/>
-        <source>F-stop</source>
-        <translation>F값</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="95"/>
-        <source>ISO speed</source>
-        <translation>ISO 속도</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="102"/>
-        <source>Subject distance</source>
-        <translation>피사체 거리</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="105"/>
-        <source>Exposure bias</source>
-        <translation>노출 바이어스</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="109"/>
-        <source>Flash</source>
-        <translation>플래쉬</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="137"/>
-        <source>Metering mode</source>
-        <translation>계측 모드</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="140"/>
-        <source>Lens focal length</source>
-        <translation>렌즈 촛점 거리</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="143"/>
-        <source>35mm focal length</source>
-        <translation>35mm 환산 촛점 거리</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="151"/>
-        <source>GPS Latitude</source>
-        <translation>GPS 위도</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="158"/>
-        <source>GPS Longitude</source>
-        <translation>GPS 경도</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="165"/>
-        <source>GPS Altitude</source>
-        <translation>GPS 고도</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="167"/>
-        <source>GPS Precision (DOP)</source>
-        <translation>GPS 정밀도 (DOP: 낮은 정밀도)</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="173"/>
-        <source>Lens min focal length</source>
-        <translation>렌즈 최단 초점 거리</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="176"/>
-        <source>Lens max focal length</source>
-        <translation>렌즈 최장 초점 거리</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="179"/>
-        <source>Lens f-stop min</source>
-        <translation>렌즈 F 값 최소</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="182"/>
-        <source>Lens f-stop max</source>
-        <translation>렌즈 F 값 최대</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="184"/>
-        <source>Lens make</source>
-        <translation>렌즈 제조 업체</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="186"/>
-        <source>Lens model</source>
-        <translation>렌즈 모델</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="189"/>
-        <source>Focal plane XRes</source>
-        <translation>초점면 가로 해상도</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="192"/>
-        <source>Focal plane YRes</source>
-        <translation>초점면 세로 해상도</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/cpicwnd.cpp" line="113"/>
-        <source>Play / Pause</source>
-        <translation>재생 / 일시정지</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/cpicwnd.cpp" line="250"/>
-        <source>Loop Count</source>
-        <translation>반복 횟수</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/cpicwnd.cpp" line="142"/>
-        <source>XML</source>
-        <translation>XML</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="83"/>
-        <source>Manual</source>
-        <translation>매뉴얼</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="84"/>
-        <source>Normal program</source>
-        <translation>보통 프로그램</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="85"/>
-        <source>Aperture priority</source>
-        <translation>조리개 우선</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="86"/>
-        <source>Shutter priority</source>
-        <translation>셔터우선</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="87"/>
-        <source>Creative program</source>
-        <translation>크리에이티브 프로그램</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="88"/>
-        <source>Action program</source>
-        <translation>실행 프로그램</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="89"/>
-        <source>Portrait mode</source>
-        <translation>세로모드</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="90"/>
-        <source>Landscape mode</source>
-        <translation>가로 모드</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="91"/>
-        <source>Exposure program</source>
-        <translation>노출 프로그램</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="98"/>
-        <source>Shutter speed</source>
-        <translation>셔터속도</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="112"/>
-        <source>Reserved</source>
-        <translation>보관</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="113"/>
-        <source>Strobe return light not detected</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="116"/>
-        <source>Strobe return light detected</source>
-        <translatorcomment>스트로브 라이트 빛반환 감이안</translatorcomment>
-        <translation>스트로브 라이트 빛반환 감지됨</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="117"/>
-        <source>Flash returned light</source>
-        <translation>플래쉬가 빛을 반환함</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="122"/>
-        <source>Unknown mode</source>
-        <translation>알 수 없는 모드</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="123"/>
-        <source>Compulsory flash firing</source>
-        <translation>강제 플래쉬 사용</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="124"/>
-        <source>Compulsory flash suppression</source>
-        <translation>강제 플래쉬 끄기</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="125"/>
-        <source>Automatic mode</source>
-        <translation>자동 모드</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="126"/>
-        <source>Flash mode</source>
-        <translation>플래쉬 모드</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="131"/>
-        <source>average</source>
-        <translation>측광</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="132"/>
-        <source>center weighted average</source>
-        <translation>중앙 중점부 측광</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="133"/>
-        <source>spot</source>
-        <translation>스팟</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="134"/>
-        <source>multi-spot</source>
-        <translation>멀티스팟</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="135"/>
-        <source>multi-segment</source>
-        <translation>다중 세그먼트</translation>
-    </message>
-</context>
-<context>
     <name>CRegDlg</name>
     <message>
         <source>ID:</source>
@@ -2526,6 +2194,338 @@ Ready to install.</source>
     <message>
         <source>Form</source>
         <translation type="obsolete">양식</translation>
+    </message>
+</context>
+<context>
+    <name>ImageViewer</name>
+    <message>
+        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="240"/>
+        <source>Width</source>
+        <translation>너비</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="180"/>
+        <source>Rotate Right</source>
+        <translation>오른쪽으로 회전</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="241"/>
+        <source>Height</source>
+        <translation>높이</translation>
+    </message>
+    <message>
+        <source>Fit Width</source>
+        <translation type="vanished">너비 맞추기</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="248"/>
+        <source>Image Count</source>
+        <translation>이미지 수</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="157"/>
+        <source>Actual Size</source>
+        <translation>실제 크기</translation>
+    </message>
+    <message>
+        <source>Rotate Left</source>
+        <translation type="vanished">왼쪽으로 회전</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="48"/>
+        <source>Camera make</source>
+        <translation>카메라 제조 업체</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="50"/>
+        <source>Camera model</source>
+        <translation>카메라 모델</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="52"/>
+        <source>Software</source>
+        <translation>소프트웨어</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="55"/>
+        <source>Bits per sample</source>
+        <translation>샘플 당 비트</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="58"/>
+        <source>Image width</source>
+        <translation>이미지 너비</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="61"/>
+        <source>Image height</source>
+        <translation>이미지 높이</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="65"/>
+        <source>Image description</source>
+        <translation>이미지 설명</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="67"/>
+        <source>Image copyright</source>
+        <translation>이미지 저작권</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="69"/>
+        <source>Image datetime</source>
+        <translation>이미지 날짜</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="71"/>
+        <source>Original datetime</source>
+        <translation>찍은 날짜</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="73"/>
+        <source>Digitize datetime</source>
+        <translation>취득한 날짜</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="76"/>
+        <source>Exposure time</source>
+        <translation>노출 시간</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="79"/>
+        <source>F-stop</source>
+        <translation>F값</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="95"/>
+        <source>ISO speed</source>
+        <translation>ISO 속도</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="102"/>
+        <source>Subject distance</source>
+        <translation>피사체 거리</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="105"/>
+        <source>Exposure bias</source>
+        <translation>노출 바이어스</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="109"/>
+        <source>Flash</source>
+        <translation>플래쉬</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="137"/>
+        <source>Metering mode</source>
+        <translation>계측 모드</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="140"/>
+        <source>Lens focal length</source>
+        <translation>렌즈 촛점 거리</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="143"/>
+        <source>35mm focal length</source>
+        <translation>35mm 환산 촛점 거리</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="151"/>
+        <source>GPS Latitude</source>
+        <translation>GPS 위도</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="158"/>
+        <source>GPS Longitude</source>
+        <translation>GPS 경도</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="165"/>
+        <source>GPS Altitude</source>
+        <translation>GPS 고도</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="167"/>
+        <source>GPS Precision (DOP)</source>
+        <translation>GPS 정밀도 (DOP: 낮은 정밀도)</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="173"/>
+        <source>Lens min focal length</source>
+        <translation>렌즈 최단 초점 거리</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="176"/>
+        <source>Lens max focal length</source>
+        <translation>렌즈 최장 초점 거리</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="179"/>
+        <source>Lens f-stop min</source>
+        <translation>렌즈 F 값 최소</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="182"/>
+        <source>Lens f-stop max</source>
+        <translation>렌즈 F 값 최대</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="184"/>
+        <source>Lens make</source>
+        <translation>렌즈 제조 업체</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="186"/>
+        <source>Lens model</source>
+        <translation>렌즈 모델</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="189"/>
+        <source>Focal plane XRes</source>
+        <translation>초점면 가로 해상도</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="192"/>
+        <source>Focal plane YRes</source>
+        <translation>초점면 세로 해상도</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="113"/>
+        <source>Play / Pause</source>
+        <translation>재생 / 일시정지</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="250"/>
+        <source>Loop Count</source>
+        <translation>반복 횟수</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="142"/>
+        <source>XML</source>
+        <translation>XML</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="83"/>
+        <source>Manual</source>
+        <translation>매뉴얼</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="84"/>
+        <source>Normal program</source>
+        <translation>보통 프로그램</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="85"/>
+        <source>Aperture priority</source>
+        <translation>조리개 우선</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="86"/>
+        <source>Shutter priority</source>
+        <translation>셔터우선</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="87"/>
+        <source>Creative program</source>
+        <translation>크리에이티브 프로그램</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="88"/>
+        <source>Action program</source>
+        <translation>실행 프로그램</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="89"/>
+        <source>Portrait mode</source>
+        <translation>세로모드</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="90"/>
+        <source>Landscape mode</source>
+        <translation>가로 모드</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="91"/>
+        <source>Exposure program</source>
+        <translation>노출 프로그램</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="98"/>
+        <source>Shutter speed</source>
+        <translation>셔터속도</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="112"/>
+        <source>Reserved</source>
+        <translation>보관</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="113"/>
+        <source>Strobe return light not detected</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="115"/>
+        <source>Strobe return light detected</source>
+        <translatorcomment>스트로브 라이트 빛반환 감이안</translatorcomment>
+        <translation>스트로브 라이트 빛반환 감지됨</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="117"/>
+        <source>Flash returned light</source>
+        <translation>플래쉬가 빛을 반환함</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="122"/>
+        <source>Unknown mode</source>
+        <translation>알 수 없는 모드</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="123"/>
+        <source>Compulsory flash firing</source>
+        <translation>강제 플래쉬 사용</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="124"/>
+        <source>Compulsory flash suppression</source>
+        <translation>강제 플래쉬 끄기</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="125"/>
+        <source>Automatic mode</source>
+        <translation>자동 모드</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="126"/>
+        <source>Flash mode</source>
+        <translation>플래쉬 모드</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="131"/>
+        <source>average</source>
+        <translation>측광</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="132"/>
+        <source>center weighted average</source>
+        <translation>중앙 중점부 측광</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="133"/>
+        <source>spot</source>
+        <translation>스팟</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="134"/>
+        <source>multi-spot</source>
+        <translation>멀티스팟</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="135"/>
+        <source>multi-segment</source>
+        <translation>다중 세그먼트</translation>
     </message>
 </context>
 <context>

@@ -669,337 +669,6 @@ Ready to install.</source>
     </message>
 </context>
 <context>
-    <name>CPicWnd</name>
-    <message>
-        <location filename="../../../Seer/src/picture/cpicwnd.cpp" line="240"/>
-        <source>Width</source>
-        <translation>Bredde</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/cpicwnd.cpp" line="180"/>
-        <source>Rotate Right</source>
-        <translation>Roter høyre</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/cpicwnd.cpp" line="241"/>
-        <source>Height</source>
-        <translation>Høyde</translation>
-    </message>
-    <message>
-        <source>Fit Width</source>
-        <translation type="vanished">Tilpass bredde</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/cpicwnd.cpp" line="248"/>
-        <source>Image Count</source>
-        <translation>Antall bilder</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/cpicwnd.cpp" line="157"/>
-        <source>Actual Size</source>
-        <translation>Faktisk størrelse</translation>
-    </message>
-    <message>
-        <source>Rotate Left</source>
-        <translation type="vanished">Roter venstre</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/cpicwnd.cpp" line="113"/>
-        <source>Play / Pause</source>
-        <translation>Spill / Pause</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/cpicwnd.cpp" line="142"/>
-        <source>XML</source>
-        <translation>XML</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/cpicwnd.cpp" line="250"/>
-        <source>Loop Count</source>
-        <translation>Antall sløyfer</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="48"/>
-        <source>Camera make</source>
-        <translation>Kamera fabrikat</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="50"/>
-        <source>Camera model</source>
-        <translation>Kameramodell</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="52"/>
-        <source>Software</source>
-        <translation>Programvare</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="55"/>
-        <source>Bits per sample</source>
-        <translation>Bit per sample</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="58"/>
-        <source>Image width</source>
-        <translation>Bildebredde</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="61"/>
-        <source>Image height</source>
-        <translation>Bildehøyde</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="65"/>
-        <source>Image description</source>
-        <translation>Bildebeskrivelse</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="67"/>
-        <source>Image copyright</source>
-        <translation>Bildeopphavsrett</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="69"/>
-        <source>Image datetime</source>
-        <translation>Bilde dato og klokkeslett</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="71"/>
-        <source>Original datetime</source>
-        <translation>Opprinnelig dato og klokkeslett</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="73"/>
-        <source>Digitize datetime</source>
-        <translation>Digitaliser dato og klokkeslett</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="76"/>
-        <source>Exposure time</source>
-        <translation>Eksponeringstid</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="79"/>
-        <source>F-stop</source>
-        <translation>F-stopp</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="83"/>
-        <source>Manual</source>
-        <translation>Håndbok</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="84"/>
-        <source>Normal program</source>
-        <translation>Vanlig program</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="85"/>
-        <source>Aperture priority</source>
-        <translation>Blenderprioritet</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="86"/>
-        <source>Shutter priority</source>
-        <translation>Lukkerprioritet</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="87"/>
-        <source>Creative program</source>
-        <translation>Kreativt program</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="88"/>
-        <source>Action program</source>
-        <translation>Handlingsprogram</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="89"/>
-        <source>Portrait mode</source>
-        <translation>Portrett-modus</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="90"/>
-        <source>Landscape mode</source>
-        <translation>Landskapsmodus</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="91"/>
-        <source>Exposure program</source>
-        <translation>Eksponeringsprogram</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="95"/>
-        <source>ISO speed</source>
-        <translation>ISO-hastighet</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="98"/>
-        <source>Shutter speed</source>
-        <translation>Lukkerhastighet</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="102"/>
-        <source>Subject distance</source>
-        <translation>Emneavstand</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="105"/>
-        <source>Exposure bias</source>
-        <translation>Eksponeringskompensering</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="109"/>
-        <source>Flash</source>
-        <translation>Blits</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="112"/>
-        <source>Reserved</source>
-        <translation>Reservert</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="113"/>
-        <source>Strobe return light not detected</source>
-        <translation>Strobe-returlys ble ikke oppdaget</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="116"/>
-        <source>Strobe return light detected</source>
-        <translation>Strobe-returlys oppdaget</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="117"/>
-        <source>Flash returned light</source>
-        <translation>Blitsreturnert lys</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="122"/>
-        <source>Unknown mode</source>
-        <translation>Ukjent modus</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="123"/>
-        <source>Compulsory flash firing</source>
-        <translation>Obligatorisk blitsavfyring</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="124"/>
-        <source>Compulsory flash suppression</source>
-        <translation>Obligatorisk blitsundertrykkelse</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="125"/>
-        <source>Automatic mode</source>
-        <translation>Automatisk modus</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="126"/>
-        <source>Flash mode</source>
-        <translation>Blitsmodus</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="131"/>
-        <source>average</source>
-        <translation>gjennomsnitt</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="132"/>
-        <source>center weighted average</source>
-        <translation>senterveid gjennomsnitt</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="133"/>
-        <source>spot</source>
-        <translation>punkt</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="134"/>
-        <source>multi-spot</source>
-        <translation>flerpunkt</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="135"/>
-        <source>multi-segment</source>
-        <translation>fler-segment</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="137"/>
-        <source>Metering mode</source>
-        <translation>Målemodus</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="140"/>
-        <source>Lens focal length</source>
-        <translation>Linsens brennvidde</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="143"/>
-        <source>35mm focal length</source>
-        <translation>35 mm brennvidde</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="151"/>
-        <source>GPS Latitude</source>
-        <translation>GPS-breddegrad</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="158"/>
-        <source>GPS Longitude</source>
-        <translation>GPS-lengdegrad</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="165"/>
-        <source>GPS Altitude</source>
-        <translation>GPS-høyde</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="167"/>
-        <source>GPS Precision (DOP)</source>
-        <translation>GPS-presisjon (DOP)</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="173"/>
-        <source>Lens min focal length</source>
-        <translation>Linse min brennvidde</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="176"/>
-        <source>Lens max focal length</source>
-        <translation>Linse maks brennvidde</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="179"/>
-        <source>Lens f-stop min</source>
-        <translation>Linse f-stopp min</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="182"/>
-        <source>Lens f-stop max</source>
-        <translation>Linse f-stopp maks</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="184"/>
-        <source>Lens make</source>
-        <translation>Lens-fabrikat</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="186"/>
-        <source>Lens model</source>
-        <translation>Linsemodell</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="189"/>
-        <source>Focal plane XRes</source>
-        <translation>Fokalplan XRes</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="192"/>
-        <source>Focal plane YRes</source>
-        <translation>Fokalplan YRes</translation>
-    </message>
-</context>
-<context>
     <name>CRegDlg</name>
     <message>
         <location filename="../../../Seer/src/opt/licenser/cregdlg.ui" line="72"/>
@@ -2326,6 +1995,337 @@ Ready to install.</source>
         <location filename="../../../Seer/src/dirs/dircolumnviewinfownd.cpp" line="42"/>
         <source>Preview</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ImageViewer</name>
+    <message>
+        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="240"/>
+        <source>Width</source>
+        <translation>Bredde</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="180"/>
+        <source>Rotate Right</source>
+        <translation>Roter høyre</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="241"/>
+        <source>Height</source>
+        <translation>Høyde</translation>
+    </message>
+    <message>
+        <source>Fit Width</source>
+        <translation type="vanished">Tilpass bredde</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="248"/>
+        <source>Image Count</source>
+        <translation>Antall bilder</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="157"/>
+        <source>Actual Size</source>
+        <translation>Faktisk størrelse</translation>
+    </message>
+    <message>
+        <source>Rotate Left</source>
+        <translation type="vanished">Roter venstre</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="113"/>
+        <source>Play / Pause</source>
+        <translation>Spill / Pause</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="142"/>
+        <source>XML</source>
+        <translation>XML</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="250"/>
+        <source>Loop Count</source>
+        <translation>Antall sløyfer</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="48"/>
+        <source>Camera make</source>
+        <translation>Kamera fabrikat</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="50"/>
+        <source>Camera model</source>
+        <translation>Kameramodell</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="52"/>
+        <source>Software</source>
+        <translation>Programvare</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="55"/>
+        <source>Bits per sample</source>
+        <translation>Bit per sample</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="58"/>
+        <source>Image width</source>
+        <translation>Bildebredde</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="61"/>
+        <source>Image height</source>
+        <translation>Bildehøyde</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="65"/>
+        <source>Image description</source>
+        <translation>Bildebeskrivelse</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="67"/>
+        <source>Image copyright</source>
+        <translation>Bildeopphavsrett</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="69"/>
+        <source>Image datetime</source>
+        <translation>Bilde dato og klokkeslett</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="71"/>
+        <source>Original datetime</source>
+        <translation>Opprinnelig dato og klokkeslett</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="73"/>
+        <source>Digitize datetime</source>
+        <translation>Digitaliser dato og klokkeslett</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="76"/>
+        <source>Exposure time</source>
+        <translation>Eksponeringstid</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="79"/>
+        <source>F-stop</source>
+        <translation>F-stopp</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="83"/>
+        <source>Manual</source>
+        <translation>Håndbok</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="84"/>
+        <source>Normal program</source>
+        <translation>Vanlig program</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="85"/>
+        <source>Aperture priority</source>
+        <translation>Blenderprioritet</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="86"/>
+        <source>Shutter priority</source>
+        <translation>Lukkerprioritet</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="87"/>
+        <source>Creative program</source>
+        <translation>Kreativt program</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="88"/>
+        <source>Action program</source>
+        <translation>Handlingsprogram</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="89"/>
+        <source>Portrait mode</source>
+        <translation>Portrett-modus</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="90"/>
+        <source>Landscape mode</source>
+        <translation>Landskapsmodus</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="91"/>
+        <source>Exposure program</source>
+        <translation>Eksponeringsprogram</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="95"/>
+        <source>ISO speed</source>
+        <translation>ISO-hastighet</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="98"/>
+        <source>Shutter speed</source>
+        <translation>Lukkerhastighet</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="102"/>
+        <source>Subject distance</source>
+        <translation>Emneavstand</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="105"/>
+        <source>Exposure bias</source>
+        <translation>Eksponeringskompensering</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="109"/>
+        <source>Flash</source>
+        <translation>Blits</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="112"/>
+        <source>Reserved</source>
+        <translation>Reservert</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="113"/>
+        <source>Strobe return light not detected</source>
+        <translation>Strobe-returlys ble ikke oppdaget</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="115"/>
+        <source>Strobe return light detected</source>
+        <translation>Strobe-returlys oppdaget</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="117"/>
+        <source>Flash returned light</source>
+        <translation>Blitsreturnert lys</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="122"/>
+        <source>Unknown mode</source>
+        <translation>Ukjent modus</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="123"/>
+        <source>Compulsory flash firing</source>
+        <translation>Obligatorisk blitsavfyring</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="124"/>
+        <source>Compulsory flash suppression</source>
+        <translation>Obligatorisk blitsundertrykkelse</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="125"/>
+        <source>Automatic mode</source>
+        <translation>Automatisk modus</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="126"/>
+        <source>Flash mode</source>
+        <translation>Blitsmodus</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="131"/>
+        <source>average</source>
+        <translation>gjennomsnitt</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="132"/>
+        <source>center weighted average</source>
+        <translation>senterveid gjennomsnitt</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="133"/>
+        <source>spot</source>
+        <translation>punkt</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="134"/>
+        <source>multi-spot</source>
+        <translation>flerpunkt</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="135"/>
+        <source>multi-segment</source>
+        <translation>fler-segment</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="137"/>
+        <source>Metering mode</source>
+        <translation>Målemodus</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="140"/>
+        <source>Lens focal length</source>
+        <translation>Linsens brennvidde</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="143"/>
+        <source>35mm focal length</source>
+        <translation>35 mm brennvidde</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="151"/>
+        <source>GPS Latitude</source>
+        <translation>GPS-breddegrad</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="158"/>
+        <source>GPS Longitude</source>
+        <translation>GPS-lengdegrad</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="165"/>
+        <source>GPS Altitude</source>
+        <translation>GPS-høyde</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="167"/>
+        <source>GPS Precision (DOP)</source>
+        <translation>GPS-presisjon (DOP)</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="173"/>
+        <source>Lens min focal length</source>
+        <translation>Linse min brennvidde</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="176"/>
+        <source>Lens max focal length</source>
+        <translation>Linse maks brennvidde</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="179"/>
+        <source>Lens f-stop min</source>
+        <translation>Linse f-stopp min</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="182"/>
+        <source>Lens f-stop max</source>
+        <translation>Linse f-stopp maks</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="184"/>
+        <source>Lens make</source>
+        <translation>Lens-fabrikat</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="186"/>
+        <source>Lens model</source>
+        <translation>Linsemodell</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="189"/>
+        <source>Focal plane XRes</source>
+        <translation>Fokalplan XRes</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="192"/>
+        <source>Focal plane YRes</source>
+        <translation>Fokalplan YRes</translation>
     </message>
 </context>
 <context>
