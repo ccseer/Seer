@@ -2162,45 +2162,6 @@ Ready to install.</source>
     </message>
 </context>
 <context>
-    <name>CUnknownWnd</name>
-    <message>
-        <source>Name</source>
-        <translation type="vanished">文件名</translation>
-    </message>
-    <message>
-        <source>Size</source>
-        <translation type="vanished">大小</translation>
-    </message>
-    <message>
-        <source>Path</source>
-        <translation type="vanished">路徑</translation>
-    </message>
-    <message>
-        <source>Original Path</source>
-        <translation type="vanished">原始路徑</translation>
-    </message>
-    <message>
-        <source>Type</source>
-        <translation type="vanished">類型</translation>
-    </message>
-    <message>
-        <source>Exec file</source>
-        <translation type="vanished">執行</translation>
-    </message>
-    <message>
-        <source>Created time</source>
-        <translation type="vanished">建立時間</translation>
-    </message>
-    <message>
-        <source>Last modified time</source>
-        <translation type="vanished">最後修改時間</translation>
-    </message>
-    <message>
-        <source>Last read time</source>
-        <translation type="vanished">最後讀取時間</translation>
-    </message>
-</context>
-<context>
     <name>DirViewer</name>
     <message>
         <source>Filename</source>
@@ -3128,6 +3089,45 @@ Reason:</source>
     <message>
         <source>Loading</source>
         <translation type="vanished">載入中</translation>
+    </message>
+</context>
+<context>
+    <name>UnknownViewer</name>
+    <message>
+        <source>Name</source>
+        <translation type="vanished">文件名</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="vanished">大小</translation>
+    </message>
+    <message>
+        <source>Path</source>
+        <translation type="vanished">路徑</translation>
+    </message>
+    <message>
+        <source>Original Path</source>
+        <translation type="vanished">原始路徑</translation>
+    </message>
+    <message>
+        <source>Type</source>
+        <translation type="vanished">類型</translation>
+    </message>
+    <message>
+        <source>Exec file</source>
+        <translation type="vanished">執行</translation>
+    </message>
+    <message>
+        <source>Created time</source>
+        <translation type="vanished">建立時間</translation>
+    </message>
+    <message>
+        <source>Last modified time</source>
+        <translation type="vanished">最後修改時間</translation>
+    </message>
+    <message>
+        <source>Last read time</source>
+        <translation type="vanished">最後讀取時間</translation>
     </message>
 </context>
 <context>

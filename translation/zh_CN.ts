@@ -2389,45 +2389,6 @@ Ready to install.</source>
     </message>
 </context>
 <context>
-    <name>CUnknownWnd</name>
-    <message>
-        <source>Name</source>
-        <translation type="vanished">文件名</translation>
-    </message>
-    <message>
-        <source>Size</source>
-        <translation type="vanished">大小</translation>
-    </message>
-    <message>
-        <source>Path</source>
-        <translation type="vanished">路径</translation>
-    </message>
-    <message>
-        <source>Original Path</source>
-        <translation type="vanished">原始路径</translation>
-    </message>
-    <message>
-        <source>Type</source>
-        <translation type="vanished">类型</translation>
-    </message>
-    <message>
-        <source>Exec file</source>
-        <translation type="vanished">执行文件</translation>
-    </message>
-    <message>
-        <source>Created time</source>
-        <translation type="vanished">创建时间</translation>
-    </message>
-    <message>
-        <source>Last modified time</source>
-        <translation type="vanished">最后修改时间</translation>
-    </message>
-    <message>
-        <source>Last read time</source>
-        <translation type="vanished">最后访问时间</translation>
-    </message>
-</context>
-<context>
     <name>CatalogueWnd</name>
     <message>
         <source>Loading...</source>
@@ -3390,6 +3351,45 @@ Ready to install.</source>
 
 Reason:</source>
         <translation type="obsolete">格式化失败。原因：</translation>
+    </message>
+</context>
+<context>
+    <name>UnknownViewer</name>
+    <message>
+        <source>Name</source>
+        <translation type="vanished">文件名</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="vanished">大小</translation>
+    </message>
+    <message>
+        <source>Path</source>
+        <translation type="vanished">路径</translation>
+    </message>
+    <message>
+        <source>Original Path</source>
+        <translation type="vanished">原始路径</translation>
+    </message>
+    <message>
+        <source>Type</source>
+        <translation type="vanished">类型</translation>
+    </message>
+    <message>
+        <source>Exec file</source>
+        <translation type="vanished">执行文件</translation>
+    </message>
+    <message>
+        <source>Created time</source>
+        <translation type="vanished">创建时间</translation>
+    </message>
+    <message>
+        <source>Last modified time</source>
+        <translation type="vanished">最后修改时间</translation>
+    </message>
+    <message>
+        <source>Last read time</source>
+        <translation type="vanished">最后访问时间</translation>
     </message>
 </context>
 <context>
