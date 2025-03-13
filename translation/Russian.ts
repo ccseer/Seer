@@ -179,71 +179,6 @@ Ready to install.</source>
     </message>
 </context>
 <context>
-    <name>CDirWnd</name>
-    <message>
-        <source>Size</source>
-        <translation type="vanished">Размер</translation>
-    </message>
-    <message>
-        <source>Time</source>
-        <translation type="vanished">Время</translation>
-    </message>
-    <message>
-        <source>Filename</source>
-        <translation type="vanished">Имя файла</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/dirs/archive/cdirwnd4archive.cpp" line="184"/>
-        <source>Ratio</source>
-        <translation>Коэффициент сжатия</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="86"/>
-        <source>Column View</source>
-        <translation>В виде колонки</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/dirs/treemodel.cpp" line="14"/>
-        <source>Folder</source>
-        <translation>Папка</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/dirs/archive/cdirwnd4archive.cpp" line="183"/>
-        <source>Packed</source>
-        <translation>Сжатый размер</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/dirs/folder/cdirwnd4folder.cpp" line="160"/>
-        <source>Display Selected Item In Explorer</source>
-        <translation>Показать выбранный элемент в проводнике</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="112"/>
-        <source>Open Selected Item With Seer</source>
-        <translation>Открыть выбранный элемент с Seer</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="89"/>
-        <source>Tree View</source>
-        <translation>В виде дерева</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/dirs/folder/cdirwnd4folder.cpp" line="146"/>
-        <source>Open Selected Item With Default Application</source>
-        <translation>Открыть выбранный элемент в программе по умолчанию</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/dirs/archive/cdirwnd4archive.cpp" line="44"/>
-        <source>File is encrypted</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/dirs/dircolumnviewinfownd.cpp" line="42"/>
-        <source>Preview</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>CFileProperty</name>
     <message>
         <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="44"/>
@@ -2178,6 +2113,71 @@ Ready to install.</source>
     <message>
         <source>Like Seer?</source>
         <translation type="obsolete">Нравится Seer?</translation>
+    </message>
+</context>
+<context>
+    <name>DirViewer</name>
+    <message>
+        <source>Size</source>
+        <translation type="vanished">Размер</translation>
+    </message>
+    <message>
+        <source>Time</source>
+        <translation type="vanished">Время</translation>
+    </message>
+    <message>
+        <source>Filename</source>
+        <translation type="vanished">Имя файла</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/dirs/archive/cdirwnd4archive.cpp" line="184"/>
+        <source>Ratio</source>
+        <translation>Коэффициент сжатия</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="86"/>
+        <source>Column View</source>
+        <translation>В виде колонки</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/dirs/treemodel.cpp" line="14"/>
+        <source>Folder</source>
+        <translation>Папка</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/dirs/archive/cdirwnd4archive.cpp" line="183"/>
+        <source>Packed</source>
+        <translation>Сжатый размер</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/dirs/folder/cdirwnd4folder.cpp" line="160"/>
+        <source>Display Selected Item In Explorer</source>
+        <translation>Показать выбранный элемент в проводнике</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="112"/>
+        <source>Open Selected Item With Seer</source>
+        <translation>Открыть выбранный элемент с Seer</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="89"/>
+        <source>Tree View</source>
+        <translation>В виде дерева</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/dirs/folder/cdirwnd4folder.cpp" line="146"/>
+        <source>Open Selected Item With Default Application</source>
+        <translation>Открыть выбранный элемент в программе по умолчанию</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/dirs/archive/cdirwnd4archive.cpp" line="44"/>
+        <source>File is encrypted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/dirs/dircolumnviewinfownd.cpp" line="42"/>
+        <source>Preview</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

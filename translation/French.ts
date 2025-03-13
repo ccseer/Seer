@@ -369,96 +369,6 @@ Ready to install.</source>
     </message>
 </context>
 <context>
-    <name>CDirWnd</name>
-    <message>
-        <source>Size</source>
-        <translation type="vanished">Taille</translation>
-    </message>
-    <message>
-        <source>Time</source>
-        <translatorcomment>If only the time is specified, &quot;Heure&quot; is OK. If the date is also included, &quot;Date&quot;would be a better choice&quot;</translatorcomment>
-        <translation type="vanished">Date</translation>
-    </message>
-    <message>
-        <source>Filename</source>
-        <translation type="vanished">Nom du fichier</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/dirs/archive/cdirwnd4archive.cpp" line="184"/>
-        <source>Ratio</source>
-        <translation>Ratio</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="86"/>
-        <source>Column View</source>
-        <translation>Affichage par colonnes</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/dirs/archive/cdirwnd4archive.cpp" line="183"/>
-        <source>Packed</source>
-        <translation>Compressé</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/dirs/folder/cdirwnd4folder.cpp" line="160"/>
-        <source>Display Selected Item In Explorer</source>
-        <translation>Afficher les objets sélectionnés dans l&apos;Explorateur</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="112"/>
-        <source>Open Selected Item With Seer</source>
-        <translation>Ouvrir les objets sélectionnés avec Seer</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="89"/>
-        <source>Tree View</source>
-        <translation>Affichage par arborescence</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/dirs/folder/cdirwnd4folder.cpp" line="146"/>
-        <source>Open Selected Item With Default Application</source>
-        <translation>Ouvrir les objets sélectionnés avec le programme par défaut</translation>
-    </message>
-    <message>
-        <source>File Folder</source>
-        <translation type="obsolete">Dossier du fichier</translation>
-    </message>
-    <message>
-        <source>Loading</source>
-        <translation type="vanished">Chargement</translation>
-    </message>
-    <message>
-        <source>Name</source>
-        <translation type="obsolete">Nom</translation>
-    </message>
-    <message>
-        <source>Type</source>
-        <translation type="obsolete">Type</translation>
-    </message>
-    <message>
-        <source>Date created</source>
-        <translation type="obsolete">Date de création</translation>
-    </message>
-    <message>
-        <source>Date modified</source>
-        <translation type="obsolete">Date de modification</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/dirs/archive/cdirwnd4archive.cpp" line="44"/>
-        <source>File is encrypted</source>
-        <translation>Le fichier est chiffré</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/dirs/treemodel.cpp" line="14"/>
-        <source>Folder</source>
-        <translation>Dossier</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/dirs/dircolumnviewinfownd.cpp" line="42"/>
-        <source>Preview</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>CFileProperty</name>
     <message>
         <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="44"/>
@@ -2802,6 +2712,96 @@ Ready to install.</source>
     <message>
         <source>Like Seer?</source>
         <translation type="obsolete">Vous aimez Seer ?</translation>
+    </message>
+</context>
+<context>
+    <name>DirViewer</name>
+    <message>
+        <source>Size</source>
+        <translation type="vanished">Taille</translation>
+    </message>
+    <message>
+        <source>Time</source>
+        <translatorcomment>If only the time is specified, &quot;Heure&quot; is OK. If the date is also included, &quot;Date&quot;would be a better choice&quot;</translatorcomment>
+        <translation type="vanished">Date</translation>
+    </message>
+    <message>
+        <source>Filename</source>
+        <translation type="vanished">Nom du fichier</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/dirs/archive/cdirwnd4archive.cpp" line="184"/>
+        <source>Ratio</source>
+        <translation>Ratio</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="86"/>
+        <source>Column View</source>
+        <translation>Affichage par colonnes</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/dirs/archive/cdirwnd4archive.cpp" line="183"/>
+        <source>Packed</source>
+        <translation>Compressé</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/dirs/folder/cdirwnd4folder.cpp" line="160"/>
+        <source>Display Selected Item In Explorer</source>
+        <translation>Afficher les objets sélectionnés dans l&apos;Explorateur</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="112"/>
+        <source>Open Selected Item With Seer</source>
+        <translation>Ouvrir les objets sélectionnés avec Seer</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="89"/>
+        <source>Tree View</source>
+        <translation>Affichage par arborescence</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/dirs/folder/cdirwnd4folder.cpp" line="146"/>
+        <source>Open Selected Item With Default Application</source>
+        <translation>Ouvrir les objets sélectionnés avec le programme par défaut</translation>
+    </message>
+    <message>
+        <source>File Folder</source>
+        <translation type="obsolete">Dossier du fichier</translation>
+    </message>
+    <message>
+        <source>Loading</source>
+        <translation type="vanished">Chargement</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation type="obsolete">Nom</translation>
+    </message>
+    <message>
+        <source>Type</source>
+        <translation type="obsolete">Type</translation>
+    </message>
+    <message>
+        <source>Date created</source>
+        <translation type="obsolete">Date de création</translation>
+    </message>
+    <message>
+        <source>Date modified</source>
+        <translation type="obsolete">Date de modification</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/dirs/archive/cdirwnd4archive.cpp" line="44"/>
+        <source>File is encrypted</source>
+        <translation>Le fichier est chiffré</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/dirs/treemodel.cpp" line="14"/>
+        <source>Folder</source>
+        <translation>Dossier</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/dirs/dircolumnviewinfownd.cpp" line="42"/>
+        <source>Preview</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

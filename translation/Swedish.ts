@@ -356,91 +356,6 @@ Ready to install.</source>
     </message>
 </context>
 <context>
-    <name>CDirWnd</name>
-    <message>
-        <source>Size</source>
-        <translation type="vanished">Storlek</translation>
-    </message>
-    <message>
-        <source>Time</source>
-        <translation type="vanished">Tid</translation>
-    </message>
-    <message>
-        <source>Filename</source>
-        <translation type="vanished">Filnamn</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/dirs/archive/cdirwnd4archive.cpp" line="184"/>
-        <source>Ratio</source>
-        <translation>Proportion</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="86"/>
-        <source>Column View</source>
-        <translation>Kolumnvy</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/dirs/archive/cdirwnd4archive.cpp" line="183"/>
-        <source>Packed</source>
-        <translation>Komprimerad</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/dirs/folder/cdirwnd4folder.cpp" line="160"/>
-        <source>Display Selected Item In Explorer</source>
-        <translation>Visa markerat objekt i Utforskaren</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="112"/>
-        <source>Open Selected Item With Seer</source>
-        <translation>?ppna markerat objekt med Seer</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="89"/>
-        <source>Tree View</source>
-        <translation>Tr?dvy</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/dirs/folder/cdirwnd4folder.cpp" line="146"/>
-        <source>Open Selected Item With Default Application</source>
-        <translation>?ppna markerat objekt med systemets standardprogram</translation>
-    </message>
-    <message>
-        <source>File Folder</source>
-        <translation type="obsolete">Filmapp</translation>
-    </message>
-    <message>
-        <source>Name</source>
-        <translation type="obsolete">Namn</translation>
-    </message>
-    <message>
-        <source>Type</source>
-        <translation type="obsolete">Typ</translation>
-    </message>
-    <message>
-        <source>Date created</source>
-        <translation type="obsolete">Skapad</translation>
-    </message>
-    <message>
-        <source>Date modified</source>
-        <translation type="obsolete">?ndrad</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/dirs/treemodel.cpp" line="14"/>
-        <source>Folder</source>
-        <translation type="unfinished">Mapp</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/dirs/archive/cdirwnd4archive.cpp" line="44"/>
-        <source>File is encrypted</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/dirs/dircolumnviewinfownd.cpp" line="42"/>
-        <source>Preview</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>CFileProperty</name>
     <message>
         <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="44"/>
@@ -2595,6 +2510,91 @@ Ready to install.</source>
     <message>
         <source>Like Seer?</source>
         <translation type="obsolete">Gillar du Seer?</translation>
+    </message>
+</context>
+<context>
+    <name>DirViewer</name>
+    <message>
+        <source>Size</source>
+        <translation type="vanished">Storlek</translation>
+    </message>
+    <message>
+        <source>Time</source>
+        <translation type="vanished">Tid</translation>
+    </message>
+    <message>
+        <source>Filename</source>
+        <translation type="vanished">Filnamn</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/dirs/archive/cdirwnd4archive.cpp" line="184"/>
+        <source>Ratio</source>
+        <translation>Proportion</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="86"/>
+        <source>Column View</source>
+        <translation>Kolumnvy</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/dirs/archive/cdirwnd4archive.cpp" line="183"/>
+        <source>Packed</source>
+        <translation>Komprimerad</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/dirs/folder/cdirwnd4folder.cpp" line="160"/>
+        <source>Display Selected Item In Explorer</source>
+        <translation>Visa markerat objekt i Utforskaren</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="112"/>
+        <source>Open Selected Item With Seer</source>
+        <translation>?ppna markerat objekt med Seer</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="89"/>
+        <source>Tree View</source>
+        <translation>Tr?dvy</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/dirs/folder/cdirwnd4folder.cpp" line="146"/>
+        <source>Open Selected Item With Default Application</source>
+        <translation>?ppna markerat objekt med systemets standardprogram</translation>
+    </message>
+    <message>
+        <source>File Folder</source>
+        <translation type="obsolete">Filmapp</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation type="obsolete">Namn</translation>
+    </message>
+    <message>
+        <source>Type</source>
+        <translation type="obsolete">Typ</translation>
+    </message>
+    <message>
+        <source>Date created</source>
+        <translation type="obsolete">Skapad</translation>
+    </message>
+    <message>
+        <source>Date modified</source>
+        <translation type="obsolete">?ndrad</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/dirs/treemodel.cpp" line="14"/>
+        <source>Folder</source>
+        <translation type="unfinished">Mapp</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/dirs/archive/cdirwnd4archive.cpp" line="44"/>
+        <source>File is encrypted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/dirs/dircolumnviewinfownd.cpp" line="42"/>
+        <source>Preview</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

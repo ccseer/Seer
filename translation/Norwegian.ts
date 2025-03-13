@@ -318,75 +318,6 @@ Ready to install.</source>
     </message>
 </context>
 <context>
-    <name>CDirWnd</name>
-    <message>
-        <source>Size</source>
-        <translation type="vanished">Størrelse</translation>
-    </message>
-    <message>
-        <source>Time</source>
-        <translation type="vanished">Tid</translation>
-    </message>
-    <message>
-        <source>Filename</source>
-        <translation type="vanished">Filnavn</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/dirs/archive/cdirwnd4archive.cpp" line="184"/>
-        <source>Ratio</source>
-        <translation>Forhold</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="86"/>
-        <source>Column View</source>
-        <translation>Kolonnevisning</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/dirs/archive/cdirwnd4archive.cpp" line="183"/>
-        <source>Packed</source>
-        <translation>Komprimert</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/dirs/folder/cdirwnd4folder.cpp" line="160"/>
-        <source>Display Selected Item In Explorer</source>
-        <translation>Vis valgt element i Utforsker</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="112"/>
-        <source>Open Selected Item With Seer</source>
-        <translation>Åpne valgt element med Seer</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="89"/>
-        <source>Tree View</source>
-        <translation>Vis tre</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/dirs/folder/cdirwnd4folder.cpp" line="146"/>
-        <source>Open Selected Item With Default Application</source>
-        <translation>Åpne valgt element med standardprogram</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/dirs/archive/cdirwnd4archive.cpp" line="44"/>
-        <source>File is encrypted</source>
-        <translation>Filen er kryptert</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/dirs/treemodel.cpp" line="14"/>
-        <source>Folder</source>
-        <translation>Mappe</translation>
-    </message>
-    <message>
-        <source>Loading</source>
-        <translation type="vanished">Åpner</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/dirs/dircolumnviewinfownd.cpp" line="42"/>
-        <source>Preview</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>CFileProperty</name>
     <message>
         <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="44"/>
@@ -2537,6 +2468,75 @@ Ready to install.</source>
         <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="131"/>
         <source>Get PinStack</source>
         <translation>Skaff deg PinStack</translation>
+    </message>
+</context>
+<context>
+    <name>DirViewer</name>
+    <message>
+        <source>Size</source>
+        <translation type="vanished">Størrelse</translation>
+    </message>
+    <message>
+        <source>Time</source>
+        <translation type="vanished">Tid</translation>
+    </message>
+    <message>
+        <source>Filename</source>
+        <translation type="vanished">Filnavn</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/dirs/archive/cdirwnd4archive.cpp" line="184"/>
+        <source>Ratio</source>
+        <translation>Forhold</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="86"/>
+        <source>Column View</source>
+        <translation>Kolonnevisning</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/dirs/archive/cdirwnd4archive.cpp" line="183"/>
+        <source>Packed</source>
+        <translation>Komprimert</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/dirs/folder/cdirwnd4folder.cpp" line="160"/>
+        <source>Display Selected Item In Explorer</source>
+        <translation>Vis valgt element i Utforsker</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="112"/>
+        <source>Open Selected Item With Seer</source>
+        <translation>Åpne valgt element med Seer</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="89"/>
+        <source>Tree View</source>
+        <translation>Vis tre</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/dirs/folder/cdirwnd4folder.cpp" line="146"/>
+        <source>Open Selected Item With Default Application</source>
+        <translation>Åpne valgt element med standardprogram</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/dirs/archive/cdirwnd4archive.cpp" line="44"/>
+        <source>File is encrypted</source>
+        <translation>Filen er kryptert</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/dirs/treemodel.cpp" line="14"/>
+        <source>Folder</source>
+        <translation>Mappe</translation>
+    </message>
+    <message>
+        <source>Loading</source>
+        <translation type="vanished">Åpner</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/dirs/dircolumnviewinfownd.cpp" line="42"/>
+        <source>Preview</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

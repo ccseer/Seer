@@ -292,79 +292,6 @@ Ready to install.</source>
     </message>
 </context>
 <context>
-    <name>CDirWnd</name>
-    <message>
-        <source>Size</source>
-        <translation type="vanished">크기</translation>
-    </message>
-    <message>
-        <source>Time</source>
-        <translation type="vanished">시각</translation>
-    </message>
-    <message>
-        <source>Filename</source>
-        <translation type="vanished">파일이름</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/dirs/archive/cdirwnd4archive.cpp" line="184"/>
-        <source>Ratio</source>
-        <translation>압축률</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="86"/>
-        <source>Column View</source>
-        <translation>열 보기</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/dirs/archive/cdirwnd4archive.cpp" line="183"/>
-        <source>Packed</source>
-        <translation>압축된 크기</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/dirs/folder/cdirwnd4folder.cpp" line="160"/>
-        <source>Display Selected Item In Explorer</source>
-        <translation>파일 위치 보기</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="112"/>
-        <source>Open Selected Item With Seer</source>
-        <translation>Seer로 선택한 항목 열기</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="89"/>
-        <source>Tree View</source>
-        <translation>트리 보기</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/dirs/folder/cdirwnd4folder.cpp" line="146"/>
-        <source>Open Selected Item With Default Application</source>
-        <translation>기본 프로그램으로 선택한 항목 열기</translation>
-    </message>
-    <message>
-        <source>File is encrypted.</source>
-        <translation type="vanished">파일이 암호화되어 있습니다.</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/dirs/archive/cdirwnd4archive.cpp" line="44"/>
-        <source>File is encrypted</source>
-        <translation>파일이 암호화되었습니다</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/dirs/treemodel.cpp" line="14"/>
-        <source>Folder</source>
-        <translation>폴더</translation>
-    </message>
-    <message>
-        <source>Loading</source>
-        <translation type="vanished">읽는중</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/dirs/dircolumnviewinfownd.cpp" line="42"/>
-        <source>Preview</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>CFileCollector</name>
     <message>
         <source>Previous same type file</source>
@@ -2722,6 +2649,79 @@ Ready to install.</source>
     <message>
         <source>Like Seer?</source>
         <translation type="obsolete">Seer가 마음에 드나요?</translation>
+    </message>
+</context>
+<context>
+    <name>DirViewer</name>
+    <message>
+        <source>Size</source>
+        <translation type="vanished">크기</translation>
+    </message>
+    <message>
+        <source>Time</source>
+        <translation type="vanished">시각</translation>
+    </message>
+    <message>
+        <source>Filename</source>
+        <translation type="vanished">파일이름</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/dirs/archive/cdirwnd4archive.cpp" line="184"/>
+        <source>Ratio</source>
+        <translation>압축률</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="86"/>
+        <source>Column View</source>
+        <translation>열 보기</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/dirs/archive/cdirwnd4archive.cpp" line="183"/>
+        <source>Packed</source>
+        <translation>압축된 크기</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/dirs/folder/cdirwnd4folder.cpp" line="160"/>
+        <source>Display Selected Item In Explorer</source>
+        <translation>파일 위치 보기</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="112"/>
+        <source>Open Selected Item With Seer</source>
+        <translation>Seer로 선택한 항목 열기</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="89"/>
+        <source>Tree View</source>
+        <translation>트리 보기</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/dirs/folder/cdirwnd4folder.cpp" line="146"/>
+        <source>Open Selected Item With Default Application</source>
+        <translation>기본 프로그램으로 선택한 항목 열기</translation>
+    </message>
+    <message>
+        <source>File is encrypted.</source>
+        <translation type="vanished">파일이 암호화되어 있습니다.</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/dirs/archive/cdirwnd4archive.cpp" line="44"/>
+        <source>File is encrypted</source>
+        <translation>파일이 암호화되었습니다</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/dirs/treemodel.cpp" line="14"/>
+        <source>Folder</source>
+        <translation>폴더</translation>
+    </message>
+    <message>
+        <source>Loading</source>
+        <translation type="vanished">읽는중</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/dirs/dircolumnviewinfownd.cpp" line="42"/>
+        <source>Preview</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -277,91 +277,6 @@ Ready to install.</source>
     </message>
 </context>
 <context>
-    <name>CDirWnd</name>
-    <message>
-        <source>Size</source>
-        <translation type="vanished">Größe</translation>
-    </message>
-    <message>
-        <source>Filename</source>
-        <translation type="vanished">Dateiname</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/dirs/archive/cdirwnd4archive.cpp" line="184"/>
-        <source>Ratio</source>
-        <translation>Verhältnis</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="86"/>
-        <source>Column View</source>
-        <translation>Spaltenansicht</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/dirs/folder/cdirwnd4folder.cpp" line="160"/>
-        <source>Display Selected Item In Explorer</source>
-        <translation>Ausgewählte Datei im Explorer anzeigen</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="112"/>
-        <source>Open Selected Item With Seer</source>
-        <translation>Ausgewählte Datei mit Seer öffnen</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="89"/>
-        <source>Tree View</source>
-        <translation>Baumansicht</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/dirs/folder/cdirwnd4folder.cpp" line="146"/>
-        <source>Open Selected Item With Default Application</source>
-        <translation>Ausgewählte Datei mit Standardanwendung öffnen</translation>
-    </message>
-    <message>
-        <source>File Folder</source>
-        <translation type="obsolete">Dateiordner</translation>
-    </message>
-    <message>
-        <source>Name</source>
-        <translation type="obsolete">Name</translation>
-    </message>
-    <message>
-        <source>Date created</source>
-        <translation type="obsolete">Erstellt am</translation>
-    </message>
-    <message>
-        <source>Date modified</source>
-        <translation type="obsolete">Geändert am</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/dirs/treemodel.cpp" line="14"/>
-        <source>Folder</source>
-        <translation>Ordner</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/dirs/archive/cdirwnd4archive.cpp" line="183"/>
-        <source>Packed</source>
-        <translation>Gepackt</translation>
-    </message>
-    <message>
-        <source>Time</source>
-        <translation type="vanished">Zeit</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/dirs/archive/cdirwnd4archive.cpp" line="44"/>
-        <source>File is encrypted</source>
-        <translation>Datei ist verschlüsselt</translation>
-    </message>
-    <message>
-        <source>Loading</source>
-        <translation type="vanished">Wird geladen</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/dirs/dircolumnviewinfownd.cpp" line="42"/>
-        <source>Preview</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>CFileProperty</name>
     <message>
         <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="44"/>
@@ -2591,6 +2506,91 @@ Ready to install.</source>
     <message>
         <source>Like Seer?</source>
         <translation type="obsolete">Gefällt dir Seer?</translation>
+    </message>
+</context>
+<context>
+    <name>DirViewer</name>
+    <message>
+        <source>Size</source>
+        <translation type="vanished">Größe</translation>
+    </message>
+    <message>
+        <source>Filename</source>
+        <translation type="vanished">Dateiname</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/dirs/archive/cdirwnd4archive.cpp" line="184"/>
+        <source>Ratio</source>
+        <translation>Verhältnis</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="86"/>
+        <source>Column View</source>
+        <translation>Spaltenansicht</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/dirs/folder/cdirwnd4folder.cpp" line="160"/>
+        <source>Display Selected Item In Explorer</source>
+        <translation>Ausgewählte Datei im Explorer anzeigen</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="112"/>
+        <source>Open Selected Item With Seer</source>
+        <translation>Ausgewählte Datei mit Seer öffnen</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="89"/>
+        <source>Tree View</source>
+        <translation>Baumansicht</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/dirs/folder/cdirwnd4folder.cpp" line="146"/>
+        <source>Open Selected Item With Default Application</source>
+        <translation>Ausgewählte Datei mit Standardanwendung öffnen</translation>
+    </message>
+    <message>
+        <source>File Folder</source>
+        <translation type="obsolete">Dateiordner</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation type="obsolete">Name</translation>
+    </message>
+    <message>
+        <source>Date created</source>
+        <translation type="obsolete">Erstellt am</translation>
+    </message>
+    <message>
+        <source>Date modified</source>
+        <translation type="obsolete">Geändert am</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/dirs/treemodel.cpp" line="14"/>
+        <source>Folder</source>
+        <translation>Ordner</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/dirs/archive/cdirwnd4archive.cpp" line="183"/>
+        <source>Packed</source>
+        <translation>Gepackt</translation>
+    </message>
+    <message>
+        <source>Time</source>
+        <translation type="vanished">Zeit</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/dirs/archive/cdirwnd4archive.cpp" line="44"/>
+        <source>File is encrypted</source>
+        <translation>Datei ist verschlüsselt</translation>
+    </message>
+    <message>
+        <source>Loading</source>
+        <translation type="vanished">Wird geladen</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/dirs/dircolumnviewinfownd.cpp" line="42"/>
+        <source>Preview</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -330,95 +330,6 @@ Ready to install.</source>
     </message>
 </context>
 <context>
-    <name>CDirWnd</name>
-    <message>
-        <source>Filename</source>
-        <translation type="vanished">文件名</translation>
-    </message>
-    <message>
-        <source>Size</source>
-        <translation type="vanished">大小</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/dirs/archive/cdirwnd4archive.cpp" line="183"/>
-        <source>Packed</source>
-        <translation>压缩大小</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/dirs/archive/cdirwnd4archive.cpp" line="184"/>
-        <source>Ratio</source>
-        <translation>压缩比例</translation>
-    </message>
-    <message>
-        <source>Time</source>
-        <translation type="vanished">时间</translation>
-    </message>
-    <message>
-        <source>File is encrypted.</source>
-        <translation type="vanished">文件被加密。</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/dirs/archive/cdirwnd4archive.cpp" line="44"/>
-        <source>File is encrypted</source>
-        <translation>文件被加密</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="86"/>
-        <source>Column View</source>
-        <translation>列视图</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="89"/>
-        <source>Tree View</source>
-        <translation>树视图</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/dirs/folder/cdirwnd4folder.cpp" line="146"/>
-        <source>Open Selected Item With Default Application</source>
-        <translation>打开选中文件</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/dirs/folder/cdirwnd4folder.cpp" line="160"/>
-        <source>Display Selected Item In Explorer</source>
-        <translation>定位选中文件</translation>
-    </message>
-    <message>
-        <source>Reveal Selected Item In Explorer</source>
-        <translation type="vanished">定位选中文件</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="112"/>
-        <source>Open Selected Item With Seer</source>
-        <translation>用 Seer 打开文件</translation>
-    </message>
-    <message>
-        <source>File Folder</source>
-        <translation type="vanished">文件夹</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/dirs/treemodel.cpp" line="14"/>
-        <source>Folder</source>
-        <translation>文件夹</translation>
-    </message>
-    <message>
-        <source>Loading</source>
-        <translation type="vanished">加载中..</translation>
-    </message>
-    <message>
-        <source>Date created</source>
-        <translation type="obsolete">创建时间</translation>
-    </message>
-    <message>
-        <source>Date modified</source>
-        <translation type="obsolete">最后修改时间</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/dirs/dircolumnviewinfownd.cpp" line="42"/>
-        <source>Preview</source>
-        <translation type="unfinished">预览</translation>
-    </message>
-</context>
-<context>
     <name>CDirWnd4Archive</name>
     <message>
         <source>File is encrypted</source>
@@ -3072,6 +2983,95 @@ Ready to install.</source>
     <message>
         <source>Loading...</source>
         <translation type="vanished">加载中...</translation>
+    </message>
+</context>
+<context>
+    <name>DirViewer</name>
+    <message>
+        <source>Filename</source>
+        <translation type="vanished">文件名</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="vanished">大小</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/dirs/archive/cdirwnd4archive.cpp" line="183"/>
+        <source>Packed</source>
+        <translation>压缩大小</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/dirs/archive/cdirwnd4archive.cpp" line="184"/>
+        <source>Ratio</source>
+        <translation>压缩比例</translation>
+    </message>
+    <message>
+        <source>Time</source>
+        <translation type="vanished">时间</translation>
+    </message>
+    <message>
+        <source>File is encrypted.</source>
+        <translation type="vanished">文件被加密。</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/dirs/archive/cdirwnd4archive.cpp" line="44"/>
+        <source>File is encrypted</source>
+        <translation>文件被加密</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="86"/>
+        <source>Column View</source>
+        <translation>列视图</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="89"/>
+        <source>Tree View</source>
+        <translation>树视图</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/dirs/folder/cdirwnd4folder.cpp" line="146"/>
+        <source>Open Selected Item With Default Application</source>
+        <translation>打开选中文件</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/dirs/folder/cdirwnd4folder.cpp" line="160"/>
+        <source>Display Selected Item In Explorer</source>
+        <translation>定位选中文件</translation>
+    </message>
+    <message>
+        <source>Reveal Selected Item In Explorer</source>
+        <translation type="vanished">定位选中文件</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="112"/>
+        <source>Open Selected Item With Seer</source>
+        <translation>用 Seer 打开文件</translation>
+    </message>
+    <message>
+        <source>File Folder</source>
+        <translation type="vanished">文件夹</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/dirs/treemodel.cpp" line="14"/>
+        <source>Folder</source>
+        <translation>文件夹</translation>
+    </message>
+    <message>
+        <source>Loading</source>
+        <translation type="vanished">加载中..</translation>
+    </message>
+    <message>
+        <source>Date created</source>
+        <translation type="obsolete">创建时间</translation>
+    </message>
+    <message>
+        <source>Date modified</source>
+        <translation type="obsolete">最后修改时间</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/dirs/dircolumnviewinfownd.cpp" line="42"/>
+        <source>Preview</source>
+        <translation type="unfinished">预览</translation>
     </message>
 </context>
 <context>
