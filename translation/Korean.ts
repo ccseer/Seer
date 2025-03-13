@@ -954,66 +954,81 @@ Ready to install.</source>
 <context>
     <name>CPdfWnd</name>
     <message>
-        <location filename="../../../Seer/src/pdf/cpdfwnd.cpp" line="121"/>
-        <location filename="../../../Seer/src/pdf/cpdfwnd.cpp" line="437"/>
+        <location filename="../../../Seer/src/pdf/cpdfwnd.cpp" line="127"/>
+        <location filename="../../../Seer/src/pdf/cpdfwnd.cpp" line="445"/>
         <source>Pages Count</source>
         <translation>쪽 수</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/pdf/cpdfwnd.cpp" line="164"/>
+        <location filename="../../../Seer/src/pdf/cpdfwnd.cpp" line="170"/>
         <source>Fit Width</source>
         <translation>너비 맞추기</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/pdf/cpdfwnd.cpp" line="168"/>
+        <location filename="../../../Seer/src/pdf/cpdfwnd.cpp" line="174"/>
         <source>Actual Size</source>
         <translation>실제 크기</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/pdf/cpdfwnd.cpp" line="157"/>
+        <location filename="../../../Seer/src/pdf/cpdfwnd.cpp" line="163"/>
         <source>Encrypted</source>
         <translation>암호화됨</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/pdf/cpdfwnd.cpp" line="196"/>
+        <location filename="../../../Seer/src/pdf/cpdfwnd.cpp" line="202"/>
         <source>Rotate Right</source>
         <translation>오른쪽으로 회전</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/pdf/cpdfwnd.cpp" line="391"/>
+        <location filename="../../../Seer/src/pdf/cpdfwnd.cpp" line="215"/>
+        <source>Sidebar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/pdf/cpdfwnd.cpp" line="399"/>
         <source>Please choose a page first</source>
         <translation>우선 페이지를 선택하세요</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/pdf/cpdfwnd.cpp" line="281"/>
+        <location filename="../../../Seer/src/pdf/cpdfwnd.cpp" line="289"/>
         <source>Annotation: On</source>
         <translation>주석: 켬</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/pdf/cpdfwnd.cpp" line="281"/>
+        <location filename="../../../Seer/src/pdf/cpdfwnd.cpp" line="289"/>
         <source>Annotation: Off</source>
         <translation>주석: 끔</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/pdf/catalog/cataloguewnd.cpp" line="40"/>
         <source>Thumbnail</source>
-        <translation>미리보기</translation>
+        <translation type="vanished">미리보기</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/pdf/catalog/cataloguewnd.cpp" line="39"/>
-        <location filename="../../../Seer/src/pdf/cpdfwnd.cpp" line="206"/>
         <source>Outline</source>
-        <translation>아웃라인</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/pdf/catalog/cataloguewnd.cpp" line="41"/>
-        <source>Annotated</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">아웃라인</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/pdf/cpdfpwdwnd.cpp" line="28"/>
         <source>Password required</source>
         <translation type="unfinished">비밀번호</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/pdf/sidebar/pdfsidebarwnd.cpp" line="41"/>
+        <location filename="../../../Seer/src/pdf/sidebar/pdfsidebarwnd.cpp" line="43"/>
+        <source>Table of Contents</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/pdf/sidebar/pdfsidebarwnd.cpp" line="45"/>
+        <location filename="../../../Seer/src/pdf/sidebar/pdfsidebarwnd.cpp" line="47"/>
+        <source>Thumbnalils</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/pdf/sidebar/pdfsidebarwnd.cpp" line="49"/>
+        <location filename="../../../Seer/src/pdf/sidebar/pdfsidebarwnd.cpp" line="51"/>
+        <source>Highlight and Notes</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2385,9 +2400,8 @@ Ready to install.</source>
         <translation>다음 형식 파일:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1279"/>
         <source>Outline:</source>
-        <translation>아웃라인:</translation>
+        <translation type="vanished">아웃라인:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="713"/>
@@ -2447,6 +2461,11 @@ Ready to install.</source>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1078"/>
         <source>Forward 15x:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1279"/>
+        <source>Sidebar:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2922,7 +2941,7 @@ Ready to install.</source>
     <message>
         <location filename="../../../Seer/src/code/codewndbase.cpp" line="19"/>
         <location filename="../../../Seer/src/dirs/nodes.cpp" line="21"/>
-        <location filename="../../../Seer/src/pdf/catalog/cataloguewnd.cpp" line="17"/>
+        <location filename="../../../Seer/src/pdf/sidebar/pdfsidebarwnd.cpp" line="18"/>
         <source>Loading</source>
         <translation type="unfinished">읽는중</translation>
     </message>
