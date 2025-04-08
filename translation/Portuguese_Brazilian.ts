@@ -121,7 +121,7 @@ Pronto para instalar.</translation>
     <message>
         <location filename="../../../Seer/src/ui/caboutwnd.ui" line="253"/>
         <source>Gratitude List</source>
-        <translation>Lista de Agradecimientos</translation>
+        <translation>Lista de Agradecimentos</translation>
     </message>
     <message>
         <source>Donate</source>
@@ -166,7 +166,7 @@ Pronto para instalar.</translation>
     <message>
         <location filename="../../../Seer/src/ui/caboutwnd.ui" line="319"/>
         <source>Translator</source>
-        <translation>Transductor</translation>
+        <translation>Tradutores</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/ui/caboutwnd.ui" line="504"/>
@@ -1946,7 +1946,7 @@ Pronto para instalar.</translation>
     <message>
         <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="98"/>
         <source>Stay on top</source>
-        <translation>Fique por dentro</translation>
+        <translation>Manter no topo</translation>
     </message>
     <message>
         <source>EXPIRED</source>
