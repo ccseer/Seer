@@ -1,0 +1,6 @@
+site_name: Seer Plugin Development
+nav:
+  - Home: index.md
+  - How to Write a Plugin: how_to_write_plugin.md
+theme:
+  name: material
