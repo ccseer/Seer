@@ -1,5 +1,0 @@
-site_name: Seer Wiki
-nav:
-  - Home: index.md
-theme:
-  name: material
