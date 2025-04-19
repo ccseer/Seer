@@ -17,9 +17,7 @@ Attach relevant screenshots or screen recordings to help us understand the issue
 
 ### 🖥️ System Information
 
-- Seer version:
-- Windows version:
-- Is Seer running as administrator?
+- Seer version(version num + desktop/store):
 - Are you using any third-party file manager or customization tool?
 
 ### 🔁 Steps to Reproduce
