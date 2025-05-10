@@ -335,12 +335,12 @@ Ready to install.</source>
         <translation>Type</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="330"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="211"/>
         <source>Opens with</source>
         <translation>Åpnes med</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="295"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="173"/>
         <source>Original location</source>
         <translation>Opprinnelig plassering</translation>
     </message>
@@ -365,92 +365,92 @@ Ready to install.</source>
         <translation>Opprettet</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="61"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="50"/>
         <source>Comments</source>
         <translation>Kommentarer</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="63"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="52"/>
         <source>Internal Name</source>
         <translation>Internt navn</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="65"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="54"/>
         <source>Product Name</source>
         <translation>Produktnavn</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="67"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="56"/>
         <source>Company Name</source>
         <translation>Bedriftsnavn</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="69"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="58"/>
         <source>Legal Copyright</source>
         <translation>Juridisk opphavsrett</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="71"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="60"/>
         <source>Product Version</source>
         <translation>Produktversjon</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="73"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="62"/>
         <source>File Description</source>
         <translation>Filbeskrivelse</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="75"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="64"/>
         <source>Legal Trademarks</source>
         <translation>Juridiske varemerker</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="77"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="66"/>
         <source>Private Build</source>
         <translation>Privat bygg</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="79"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="68"/>
         <source>File Version</source>
         <translation>Filversjon</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="81"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="70"/>
         <source>Original Filename</source>
         <translation>Opprinnelig filnavn</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="83"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="72"/>
         <source>Special Build</source>
         <translation>Spesialbygg</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="273"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="144"/>
         <source>Total bytes</source>
         <translation>Totalt antall bytes</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="276"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="149"/>
         <source>Available bytes</source>
         <translation>Tilgjengelige bytes</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="279"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="152"/>
         <source>Free bytes</source>
         <translation>Gratis bytes</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="284"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="159"/>
         <source>Block size</source>
         <translation>Blokkstørrelse</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="299"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="177"/>
         <source>Folder</source>
         <translation>Mappe</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="322"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="201"/>
         <source>Extension</source>
         <translation>Filutvidelse</translation>
     </message>
@@ -514,7 +514,7 @@ Ready to install.</source>
         <translation type="vanished">Avslutt</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="296"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="298"/>
         <source>Error</source>
         <translation>Feil</translation>
     </message>
@@ -529,18 +529,18 @@ Ready to install.</source>
 </translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="745"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="750"/>
         <source>Application started.</source>
         <translation>Seer startet.</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="760"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="765"/>
         <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="126"/>
         <source>Like Seer?</source>
         <translation>Liker du Seer?</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="151"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="153"/>
         <source> is registered by other application.</source>
         <translation> er registrert av annet program.</translation>
     </message>
@@ -549,12 +549,12 @@ Ready to install.</source>
         <translation type="vanished">Omstart mislyktes</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="297"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="299"/>
         <source>Monitoring &apos;Space&apos; key failed, can&apos;t proceed.</source>
         <translation>Overvåking av mellomromstasten mislyktes. Kan ikke fortsette.</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="536"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="541"/>
         <source>Settings</source>
         <translation>Instillinger</translation>
     </message>
@@ -563,32 +563,32 @@ Ready to install.</source>
         <translation type="vanished">Start Seer på nytt manuelt.</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="150"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="152"/>
         <source>Register shortcut failed</source>
         <translation>Registrering av snarvei mislyktes</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="622"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="627"/>
         <source>About</source>
         <translation>Om</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="672"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="677"/>
         <source>Activation</source>
         <translation>Aktivering</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="691"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="696"/>
         <source>The system default application not found.</source>
         <translation>Systemets standardprogram ble ikke funnet.</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="718"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="723"/>
         <source>Seer is already running.</source>
         <translation>Seer kjører allerede.</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="761"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="766"/>
         <source>Please share with your friends.</source>
         <translation>Del gjerne med vennene dine.</translation>
     </message>
@@ -1018,32 +1018,32 @@ Ready to install.</source>
         <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;:(&lt;/p&gt;&lt;p&gt;Oops!&lt;/p&gt;&lt;p&gt;Ingen programutvidelser samsvarer.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="44"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="45"/>
         <source>Oops!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="44"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="45"/>
         <source>No matching extensions found.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="49"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="50"/>
         <source>Search extension, e.g.: psd</source>
         <translation>Søk programutvidelse, f.eks.: psd</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="85"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="86"/>
         <source>Markdown stylesheet path</source>
         <translation>Markdown stilark-bane</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="87"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="88"/>
         <source>Will display property only for extensions in this field, e.g.:</source>
         <translation>Vil vise egenskap bare for utvidelser i dette feltet, f.eks.:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="337"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="338"/>
         <source>Invalid</source>
         <translation>Ugyldig</translation>
     </message>
@@ -1615,7 +1615,7 @@ Ready to install.</source>
 <context>
     <name>CSettingsWnd4Plugins</name>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4plugins.cpp" line="106"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4plugins.cpp" line="107"/>
         <source>Add</source>
         <translation>Legg til</translation>
     </message>
@@ -1624,7 +1624,7 @@ Ready to install.</source>
         <translation type="vanished">Del</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4plugins.cpp" line="110"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4plugins.cpp" line="111"/>
         <source>Edit</source>
         <translation>Rediger</translation>
     </message>
@@ -1638,7 +1638,7 @@ Ready to install.</source>
         <translation>Lokal</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4plugins.cpp" line="223"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4plugins.cpp" line="224"/>
         <source>Choose Seer plugin</source>
         <translation>Velg Seer-programtillegg</translation>
     </message>
@@ -1656,7 +1656,7 @@ Ready to install.</source>
         <translation type="vanished">Filutvidelse</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4plugins.cpp" line="114"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4plugins.cpp" line="115"/>
         <location filename="../../../Seer/src/settings/csettingswnd4scriptitem.cpp" line="75"/>
         <source>Delete</source>
         <translation type="unfinished"></translation>
@@ -1670,7 +1670,7 @@ Ready to install.</source>
         <translation type="vanished">Programtillegget finnes allrede</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4plugins.cpp" line="120"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4plugins.cpp" line="121"/>
         <source>Search plugin</source>
         <translation>Søk programtillegg</translation>
     </message>
@@ -1760,7 +1760,7 @@ Ready to install.</source>
 <context>
     <name>CSettingsWnd4Script</name>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="194"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="199"/>
         <source>The path of interpreter has saved.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1789,47 +1789,47 @@ Ready to install.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="44"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="45"/>
         <source>Locate script interpreter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="49"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="50"/>
         <source>Download script interpreter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="64"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="65"/>
         <source>Find scripts online</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="68"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="69"/>
         <source>Add from local</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="237"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="242"/>
         <source>Please configure the interpreter first</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="249"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="254"/>
         <source>Failed to parse the script</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="77"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="78"/>
         <source>Preview</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="78"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="79"/>
         <source>Controls</source>
         <translation type="unfinished">Kontroller</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="79"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="80"/>
         <source>Property</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1972,27 +1972,27 @@ Ready to install.</source>
 <context>
     <name>HtmlViewer</name>
     <message>
-        <location filename="../../../Seer/src/web/htmlviewer.cpp" line="130"/>
+        <location filename="../../../Seer/src/web/htmlviewer.cpp" line="135"/>
         <source>Markdown Source</source>
         <translation>Markdown-kilde</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/web/htmlviewer.cpp" line="133"/>
+        <location filename="../../../Seer/src/web/htmlviewer.cpp" line="138"/>
         <source>Save as PDF</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/web/htmlviewer.cpp" line="140"/>
+        <location filename="../../../Seer/src/web/htmlviewer.cpp" line="145"/>
         <source>Failed to save as PDF</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/web/htmlviewer.cpp" line="166"/>
+        <location filename="../../../Seer/src/web/htmlviewer.cpp" line="171"/>
         <source>Successfully saved as PDF</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/web/htmlviewer.cpp" line="175"/>
+        <location filename="../../../Seer/src/web/htmlviewer.cpp" line="180"/>
         <source>HTML Source</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2048,284 +2048,228 @@ Ready to install.</source>
         <translation>Antall sløyfer</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="48"/>
         <source>Camera make</source>
-        <translation>Kamera fabrikat</translation>
+        <translation type="vanished">Kamera fabrikat</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="50"/>
         <source>Camera model</source>
-        <translation>Kameramodell</translation>
+        <translation type="vanished">Kameramodell</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="52"/>
         <source>Software</source>
-        <translation>Programvare</translation>
+        <translation type="vanished">Programvare</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="55"/>
         <source>Bits per sample</source>
-        <translation>Bit per sample</translation>
+        <translation type="vanished">Bit per sample</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="58"/>
         <source>Image width</source>
-        <translation>Bildebredde</translation>
+        <translation type="vanished">Bildebredde</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="61"/>
         <source>Image height</source>
-        <translation>Bildehøyde</translation>
+        <translation type="vanished">Bildehøyde</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="65"/>
         <source>Image description</source>
-        <translation>Bildebeskrivelse</translation>
+        <translation type="vanished">Bildebeskrivelse</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="67"/>
         <source>Image copyright</source>
-        <translation>Bildeopphavsrett</translation>
+        <translation type="vanished">Bildeopphavsrett</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="69"/>
         <source>Image datetime</source>
-        <translation>Bilde dato og klokkeslett</translation>
+        <translation type="vanished">Bilde dato og klokkeslett</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="71"/>
         <source>Original datetime</source>
-        <translation>Opprinnelig dato og klokkeslett</translation>
+        <translation type="vanished">Opprinnelig dato og klokkeslett</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="73"/>
         <source>Digitize datetime</source>
-        <translation>Digitaliser dato og klokkeslett</translation>
+        <translation type="vanished">Digitaliser dato og klokkeslett</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="76"/>
         <source>Exposure time</source>
-        <translation>Eksponeringstid</translation>
+        <translation type="vanished">Eksponeringstid</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="79"/>
         <source>F-stop</source>
-        <translation>F-stopp</translation>
+        <translation type="vanished">F-stopp</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="83"/>
         <source>Manual</source>
-        <translation>Håndbok</translation>
+        <translation type="vanished">Håndbok</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="84"/>
         <source>Normal program</source>
-        <translation>Vanlig program</translation>
+        <translation type="vanished">Vanlig program</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="85"/>
         <source>Aperture priority</source>
-        <translation>Blenderprioritet</translation>
+        <translation type="vanished">Blenderprioritet</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="86"/>
         <source>Shutter priority</source>
-        <translation>Lukkerprioritet</translation>
+        <translation type="vanished">Lukkerprioritet</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="87"/>
         <source>Creative program</source>
-        <translation>Kreativt program</translation>
+        <translation type="vanished">Kreativt program</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="88"/>
         <source>Action program</source>
-        <translation>Handlingsprogram</translation>
+        <translation type="vanished">Handlingsprogram</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="89"/>
         <source>Portrait mode</source>
-        <translation>Portrett-modus</translation>
+        <translation type="vanished">Portrett-modus</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="90"/>
         <source>Landscape mode</source>
-        <translation>Landskapsmodus</translation>
+        <translation type="vanished">Landskapsmodus</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="91"/>
         <source>Exposure program</source>
-        <translation>Eksponeringsprogram</translation>
+        <translation type="vanished">Eksponeringsprogram</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="95"/>
         <source>ISO speed</source>
-        <translation>ISO-hastighet</translation>
+        <translation type="vanished">ISO-hastighet</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="98"/>
         <source>Shutter speed</source>
-        <translation>Lukkerhastighet</translation>
+        <translation type="vanished">Lukkerhastighet</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="102"/>
         <source>Subject distance</source>
-        <translation>Emneavstand</translation>
+        <translation type="vanished">Emneavstand</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="105"/>
         <source>Exposure bias</source>
-        <translation>Eksponeringskompensering</translation>
+        <translation type="vanished">Eksponeringskompensering</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="109"/>
         <source>Flash</source>
-        <translation>Blits</translation>
+        <translation type="vanished">Blits</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="112"/>
         <source>Reserved</source>
-        <translation>Reservert</translation>
+        <translation type="vanished">Reservert</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="113"/>
         <source>Strobe return light not detected</source>
-        <translation>Strobe-returlys ble ikke oppdaget</translation>
+        <translation type="vanished">Strobe-returlys ble ikke oppdaget</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="115"/>
         <source>Strobe return light detected</source>
-        <translation>Strobe-returlys oppdaget</translation>
+        <translation type="vanished">Strobe-returlys oppdaget</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="117"/>
         <source>Flash returned light</source>
-        <translation>Blitsreturnert lys</translation>
+        <translation type="vanished">Blitsreturnert lys</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="122"/>
         <source>Unknown mode</source>
-        <translation>Ukjent modus</translation>
+        <translation type="vanished">Ukjent modus</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="123"/>
         <source>Compulsory flash firing</source>
-        <translation>Obligatorisk blitsavfyring</translation>
+        <translation type="vanished">Obligatorisk blitsavfyring</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="124"/>
         <source>Compulsory flash suppression</source>
-        <translation>Obligatorisk blitsundertrykkelse</translation>
+        <translation type="vanished">Obligatorisk blitsundertrykkelse</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="125"/>
         <source>Automatic mode</source>
-        <translation>Automatisk modus</translation>
+        <translation type="vanished">Automatisk modus</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="126"/>
         <source>Flash mode</source>
-        <translation>Blitsmodus</translation>
+        <translation type="vanished">Blitsmodus</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="131"/>
         <source>average</source>
-        <translation>gjennomsnitt</translation>
+        <translation type="vanished">gjennomsnitt</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="132"/>
         <source>center weighted average</source>
-        <translation>senterveid gjennomsnitt</translation>
+        <translation type="vanished">senterveid gjennomsnitt</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="133"/>
         <source>spot</source>
-        <translation>punkt</translation>
+        <translation type="vanished">punkt</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="134"/>
         <source>multi-spot</source>
-        <translation>flerpunkt</translation>
+        <translation type="vanished">flerpunkt</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="135"/>
         <source>multi-segment</source>
-        <translation>fler-segment</translation>
+        <translation type="vanished">fler-segment</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="137"/>
         <source>Metering mode</source>
-        <translation>Målemodus</translation>
+        <translation type="vanished">Målemodus</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="140"/>
         <source>Lens focal length</source>
-        <translation>Linsens brennvidde</translation>
+        <translation type="vanished">Linsens brennvidde</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="143"/>
         <source>35mm focal length</source>
-        <translation>35 mm brennvidde</translation>
+        <translation type="vanished">35 mm brennvidde</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="151"/>
         <source>GPS Latitude</source>
-        <translation>GPS-breddegrad</translation>
+        <translation type="vanished">GPS-breddegrad</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="158"/>
         <source>GPS Longitude</source>
-        <translation>GPS-lengdegrad</translation>
+        <translation type="vanished">GPS-lengdegrad</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="165"/>
         <source>GPS Altitude</source>
-        <translation>GPS-høyde</translation>
+        <translation type="vanished">GPS-høyde</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="167"/>
         <source>GPS Precision (DOP)</source>
-        <translation>GPS-presisjon (DOP)</translation>
+        <translation type="vanished">GPS-presisjon (DOP)</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="173"/>
         <source>Lens min focal length</source>
-        <translation>Linse min brennvidde</translation>
+        <translation type="vanished">Linse min brennvidde</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="176"/>
         <source>Lens max focal length</source>
-        <translation>Linse maks brennvidde</translation>
+        <translation type="vanished">Linse maks brennvidde</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="179"/>
         <source>Lens f-stop min</source>
-        <translation>Linse f-stopp min</translation>
+        <translation type="vanished">Linse f-stopp min</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="182"/>
         <source>Lens f-stop max</source>
-        <translation>Linse f-stopp maks</translation>
+        <translation type="vanished">Linse f-stopp maks</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="184"/>
         <source>Lens make</source>
-        <translation>Lens-fabrikat</translation>
+        <translation type="vanished">Lens-fabrikat</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="186"/>
         <source>Lens model</source>
-        <translation>Linsemodell</translation>
+        <translation type="vanished">Linsemodell</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="189"/>
         <source>Focal plane XRes</source>
-        <translation>Fokalplan XRes</translation>
+        <translation type="vanished">Fokalplan XRes</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="192"/>
         <source>Focal plane YRes</source>
-        <translation>Fokalplan YRes</translation>
+        <translation type="vanished">Fokalplan YRes</translation>
     </message>
 </context>
 <context>
@@ -2592,7 +2536,7 @@ Ready to install.</source>
         <translation type="vanished">Fjern</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="165"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="167"/>
         <source>Please check your &quot;i18n&quot; folder.</source>
         <translation>Kontroller &quot;i18n-mappen&quot; din.</translation>
     </message>
@@ -2609,43 +2553,43 @@ Ready to install.</source>
         <translation type="vanished">Angi språk mislyktes</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="164"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="166"/>
         <source>Update language failed</source>
         <translation>Oppdatering av språk mislyktes</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="209"/>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="59"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="60"/>
         <source>Folder</source>
         <translation>Mappe</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="209"/>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="58"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="59"/>
         <source>Image</source>
         <translation>Bilde</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="210"/>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="57"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="58"/>
         <source>Media</source>
         <translation>Media</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="210"/>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="61"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="62"/>
         <source>Text</source>
         <translation>Tekst</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="211"/>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="56"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="57"/>
         <source>PDF</source>
         <translation>PDF</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="211"/>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="60"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="61"/>
         <source>HTML</source>
         <translation>HTML</translation>
     </message>

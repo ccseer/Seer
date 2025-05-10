@@ -320,12 +320,12 @@ Ready to install.</source>
         <translation>유형</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="330"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="211"/>
         <source>Opens with</source>
         <translation>연결된 프로그램</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="295"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="173"/>
         <source>Original location</source>
         <translation>원래 위치</translation>
     </message>
@@ -350,62 +350,62 @@ Ready to install.</source>
         <translation>만든 날짜</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="61"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="50"/>
         <source>Comments</source>
         <translation>설명</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="63"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="52"/>
         <source>Internal Name</source>
         <translation>내부 이름</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="65"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="54"/>
         <source>Product Name</source>
         <translation>제품 이름</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="67"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="56"/>
         <source>Company Name</source>
         <translation>회사</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="69"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="58"/>
         <source>Legal Copyright</source>
         <translation>저작권</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="71"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="60"/>
         <source>Product Version</source>
         <translation>제품 버전</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="73"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="62"/>
         <source>File Description</source>
         <translation>파일 설명</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="75"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="64"/>
         <source>Legal Trademarks</source>
         <translation>등록 상표</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="77"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="66"/>
         <source>Private Build</source>
         <translation>개인 빌드</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="79"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="68"/>
         <source>File Version</source>
         <translation>파일 버전</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="81"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="70"/>
         <source>Original Filename</source>
         <translation>원본 파일 이름</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="83"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="72"/>
         <source>Special Build</source>
         <translation>특별 빌드</translation>
     </message>
@@ -415,12 +415,12 @@ Ready to install.</source>
         <translation>세부</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="322"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="201"/>
         <source>Extension</source>
         <translation>확장자</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="299"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="177"/>
         <source>Folder</source>
         <translation>폴더</translation>
     </message>
@@ -430,22 +430,22 @@ Ready to install.</source>
         <translation>핀</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="273"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="144"/>
         <source>Total bytes</source>
         <translation>전체 크기 (바이트)</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="276"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="149"/>
         <source>Available bytes</source>
         <translation>사용가능한 크기 (바이트)</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="279"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="152"/>
         <source>Free bytes</source>
         <translation>빈 공간 (바이트)</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/cfileproperty.cpp" line="284"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="159"/>
         <source>Block size</source>
         <translation>블록 크기</translation>
     </message>
@@ -495,7 +495,7 @@ Ready to install.</source>
         <translation type="vanished">종료</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="296"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="298"/>
         <source>Error</source>
         <translation>오류</translation>
     </message>
@@ -508,18 +508,18 @@ Ready to install.</source>
         <translation type="vanished">친구들과 공유해요.</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="745"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="750"/>
         <source>Application started.</source>
         <translation>응용 프로그램을 시작했습니다.</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="760"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="765"/>
         <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="126"/>
         <source>Like Seer?</source>
         <translation>Seer가 마음에 드나요?</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="151"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="153"/>
         <source> is registered by other application.</source>
         <translation>은(는) 다른 프로그램에서 사용하고 있습니다.</translation>
     </message>
@@ -528,12 +528,12 @@ Ready to install.</source>
         <translation type="vanished">응용 프로그램을 다시 시작하지 못했습니다</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="297"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="299"/>
         <source>Monitoring &apos;Space&apos; key failed, can&apos;t proceed.</source>
         <translation>스페이스바 모니터링을 실패했으며, 계속할 수 없습니다.</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="536"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="541"/>
         <source>Settings</source>
         <translation>설정</translation>
     </message>
@@ -542,12 +542,12 @@ Ready to install.</source>
         <translation type="vanished">Seer를 수동으로 재시작해 주세요.</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="150"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="152"/>
         <source>Register shortcut failed</source>
         <translation>바로 가기 등록 실패</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="691"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="696"/>
         <source>The system default application not found.</source>
         <translation>시스템 기본 프로그램을 찾을 수 없습니다.</translation>
     </message>
@@ -556,17 +556,17 @@ Ready to install.</source>
         <translation type="vanished">Seer 라이센스 등록</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="761"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="766"/>
         <source>Please share with your friends.</source>
         <translation>친구들과 공유해요.</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="622"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="627"/>
         <source>About</source>
         <translation>정보</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="672"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="677"/>
         <source>Activation</source>
         <translation>라이센스 등록</translation>
     </message>
@@ -579,7 +579,7 @@ Ready to install.</source>
         <translation type="vanished">이 라이센스는 더이상 사용가능하지 않습니다</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="718"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="723"/>
         <source>Seer is already running.</source>
         <translation type="unfinished">Seer가 이미 실행 중입니다.</translation>
     </message>
@@ -1122,17 +1122,17 @@ Ready to install.</source>
         <translation type="obsolete">시간 표시기 표시</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="44"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="45"/>
         <source>Oops!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="44"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="45"/>
         <source>No matching extensions found.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="49"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="50"/>
         <source>Search extension, e.g.: psd</source>
         <translation>확장자 검색, 예: psd</translation>
     </message>
@@ -1158,7 +1158,7 @@ Ready to install.</source>
         <translation>비활성화</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="85"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="86"/>
         <source>Markdown stylesheet path</source>
         <translation>마크다운 스타일시트 경로</translation>
     </message>
@@ -1167,7 +1167,7 @@ Ready to install.</source>
         <translation type="vanished">이 필드의 확장자에 대해서만 속성을 표시합니다. 예: pptx docx vsdx</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="87"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="88"/>
         <source>Will display property only for extensions in this field, e.g.:</source>
         <translation>여기에 등록한 확장자에 대해서만 파일 속성을 표시합니다. 예:</translation>
     </message>
@@ -1194,7 +1194,7 @@ Ready to install.</source>
         <translation type="vanished">이미지</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="337"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="338"/>
         <source>Invalid</source>
         <translation type="unfinished">잘못됨</translation>
     </message>
@@ -1783,7 +1783,7 @@ Ready to install.</source>
 <context>
     <name>CSettingsWnd4Plugins</name>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4plugins.cpp" line="106"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4plugins.cpp" line="107"/>
         <source>Add</source>
         <translation>추가</translation>
     </message>
@@ -1792,7 +1792,7 @@ Ready to install.</source>
         <translation type="vanished">삭제</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4plugins.cpp" line="110"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4plugins.cpp" line="111"/>
         <source>Edit</source>
         <translation>편집</translation>
     </message>
@@ -1806,7 +1806,7 @@ Ready to install.</source>
         <translation>설치된 플러그인</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4plugins.cpp" line="223"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4plugins.cpp" line="224"/>
         <source>Choose Seer plugin</source>
         <translation>Seer 플러그인 선택</translation>
     </message>
@@ -1824,7 +1824,7 @@ Ready to install.</source>
         <translation type="vanished">확장자</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4plugins.cpp" line="114"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4plugins.cpp" line="115"/>
         <location filename="../../../Seer/src/settings/csettingswnd4scriptitem.cpp" line="75"/>
         <source>Delete</source>
         <translation type="unfinished"></translation>
@@ -1838,7 +1838,7 @@ Ready to install.</source>
         <translation type="vanished">플러그인이 이미 있습니다.</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4plugins.cpp" line="120"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4plugins.cpp" line="121"/>
         <source>Search plugin</source>
         <translation>플러그인 검색</translation>
     </message>
@@ -1928,7 +1928,7 @@ Ready to install.</source>
 <context>
     <name>CSettingsWnd4Script</name>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="194"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="199"/>
         <source>The path of interpreter has saved.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1957,47 +1957,47 @@ Ready to install.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="44"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="45"/>
         <source>Locate script interpreter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="49"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="50"/>
         <source>Download script interpreter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="64"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="65"/>
         <source>Find scripts online</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="68"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="69"/>
         <source>Add from local</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="237"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="242"/>
         <source>Please configure the interpreter first</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="249"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="254"/>
         <source>Failed to parse the script</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="77"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="78"/>
         <source>Preview</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="78"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="79"/>
         <source>Controls</source>
         <translation type="unfinished">컨트롤 바</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="79"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="80"/>
         <source>Property</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2164,27 +2164,27 @@ Ready to install.</source>
         <translation type="vanished">HTML</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/web/htmlviewer.cpp" line="130"/>
+        <location filename="../../../Seer/src/web/htmlviewer.cpp" line="135"/>
         <source>Markdown Source</source>
         <translation>Markdown 소스</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/web/htmlviewer.cpp" line="133"/>
+        <location filename="../../../Seer/src/web/htmlviewer.cpp" line="138"/>
         <source>Save as PDF</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/web/htmlviewer.cpp" line="140"/>
+        <location filename="../../../Seer/src/web/htmlviewer.cpp" line="145"/>
         <source>Failed to save as PDF</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/web/htmlviewer.cpp" line="166"/>
+        <location filename="../../../Seer/src/web/htmlviewer.cpp" line="171"/>
         <source>Successfully saved as PDF</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/web/htmlviewer.cpp" line="175"/>
+        <location filename="../../../Seer/src/web/htmlviewer.cpp" line="180"/>
         <source>HTML Source</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2232,164 +2232,132 @@ Ready to install.</source>
         <translation type="vanished">왼쪽으로 회전</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="48"/>
         <source>Camera make</source>
-        <translation>카메라 제조 업체</translation>
+        <translation type="vanished">카메라 제조 업체</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="50"/>
         <source>Camera model</source>
-        <translation>카메라 모델</translation>
+        <translation type="vanished">카메라 모델</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="52"/>
         <source>Software</source>
-        <translation>소프트웨어</translation>
+        <translation type="vanished">소프트웨어</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="55"/>
         <source>Bits per sample</source>
-        <translation>샘플 당 비트</translation>
+        <translation type="vanished">샘플 당 비트</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="58"/>
         <source>Image width</source>
-        <translation>이미지 너비</translation>
+        <translation type="vanished">이미지 너비</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="61"/>
         <source>Image height</source>
-        <translation>이미지 높이</translation>
+        <translation type="vanished">이미지 높이</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="65"/>
         <source>Image description</source>
-        <translation>이미지 설명</translation>
+        <translation type="vanished">이미지 설명</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="67"/>
         <source>Image copyright</source>
-        <translation>이미지 저작권</translation>
+        <translation type="vanished">이미지 저작권</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="69"/>
         <source>Image datetime</source>
-        <translation>이미지 날짜</translation>
+        <translation type="vanished">이미지 날짜</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="71"/>
         <source>Original datetime</source>
-        <translation>찍은 날짜</translation>
+        <translation type="vanished">찍은 날짜</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="73"/>
         <source>Digitize datetime</source>
-        <translation>취득한 날짜</translation>
+        <translation type="vanished">취득한 날짜</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="76"/>
         <source>Exposure time</source>
-        <translation>노출 시간</translation>
+        <translation type="vanished">노출 시간</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="79"/>
         <source>F-stop</source>
-        <translation>F값</translation>
+        <translation type="vanished">F값</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="95"/>
         <source>ISO speed</source>
-        <translation>ISO 속도</translation>
+        <translation type="vanished">ISO 속도</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="102"/>
         <source>Subject distance</source>
-        <translation>피사체 거리</translation>
+        <translation type="vanished">피사체 거리</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="105"/>
         <source>Exposure bias</source>
-        <translation>노출 바이어스</translation>
+        <translation type="vanished">노출 바이어스</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="109"/>
         <source>Flash</source>
-        <translation>플래쉬</translation>
+        <translation type="vanished">플래쉬</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="137"/>
         <source>Metering mode</source>
-        <translation>계측 모드</translation>
+        <translation type="vanished">계측 모드</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="140"/>
         <source>Lens focal length</source>
-        <translation>렌즈 촛점 거리</translation>
+        <translation type="vanished">렌즈 촛점 거리</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="143"/>
         <source>35mm focal length</source>
-        <translation>35mm 환산 촛점 거리</translation>
+        <translation type="vanished">35mm 환산 촛점 거리</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="151"/>
         <source>GPS Latitude</source>
-        <translation>GPS 위도</translation>
+        <translation type="vanished">GPS 위도</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="158"/>
         <source>GPS Longitude</source>
-        <translation>GPS 경도</translation>
+        <translation type="vanished">GPS 경도</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="165"/>
         <source>GPS Altitude</source>
-        <translation>GPS 고도</translation>
+        <translation type="vanished">GPS 고도</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="167"/>
         <source>GPS Precision (DOP)</source>
-        <translation>GPS 정밀도 (DOP: 낮은 정밀도)</translation>
+        <translation type="vanished">GPS 정밀도 (DOP: 낮은 정밀도)</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="173"/>
         <source>Lens min focal length</source>
-        <translation>렌즈 최단 초점 거리</translation>
+        <translation type="vanished">렌즈 최단 초점 거리</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="176"/>
         <source>Lens max focal length</source>
-        <translation>렌즈 최장 초점 거리</translation>
+        <translation type="vanished">렌즈 최장 초점 거리</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="179"/>
         <source>Lens f-stop min</source>
-        <translation>렌즈 F 값 최소</translation>
+        <translation type="vanished">렌즈 F 값 최소</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="182"/>
         <source>Lens f-stop max</source>
-        <translation>렌즈 F 값 최대</translation>
+        <translation type="vanished">렌즈 F 값 최대</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="184"/>
         <source>Lens make</source>
-        <translation>렌즈 제조 업체</translation>
+        <translation type="vanished">렌즈 제조 업체</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="186"/>
         <source>Lens model</source>
-        <translation>렌즈 모델</translation>
+        <translation type="vanished">렌즈 모델</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="189"/>
         <source>Focal plane XRes</source>
-        <translation>초점면 가로 해상도</translation>
+        <translation type="vanished">초점면 가로 해상도</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="192"/>
         <source>Focal plane YRes</source>
-        <translation>초점면 세로 해상도</translation>
+        <translation type="vanished">초점면 세로 해상도</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/picture/imageviewer.cpp" line="113"/>
@@ -2407,125 +2375,97 @@ Ready to install.</source>
         <translation>XML</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="83"/>
         <source>Manual</source>
-        <translation>매뉴얼</translation>
+        <translation type="vanished">매뉴얼</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="84"/>
         <source>Normal program</source>
-        <translation>보통 프로그램</translation>
+        <translation type="vanished">보통 프로그램</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="85"/>
         <source>Aperture priority</source>
-        <translation>조리개 우선</translation>
+        <translation type="vanished">조리개 우선</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="86"/>
         <source>Shutter priority</source>
-        <translation>셔터우선</translation>
+        <translation type="vanished">셔터우선</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="87"/>
         <source>Creative program</source>
-        <translation>크리에이티브 프로그램</translation>
+        <translation type="vanished">크리에이티브 프로그램</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="88"/>
         <source>Action program</source>
-        <translation>실행 프로그램</translation>
+        <translation type="vanished">실행 프로그램</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="89"/>
         <source>Portrait mode</source>
-        <translation>세로모드</translation>
+        <translation type="vanished">세로모드</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="90"/>
         <source>Landscape mode</source>
-        <translation>가로 모드</translation>
+        <translation type="vanished">가로 모드</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="91"/>
         <source>Exposure program</source>
-        <translation>노출 프로그램</translation>
+        <translation type="vanished">노출 프로그램</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="98"/>
         <source>Shutter speed</source>
-        <translation>셔터속도</translation>
+        <translation type="vanished">셔터속도</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="112"/>
         <source>Reserved</source>
-        <translation>보관</translation>
+        <translation type="vanished">보관</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="113"/>
-        <source>Strobe return light not detected</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="115"/>
         <source>Strobe return light detected</source>
         <translatorcomment>스트로브 라이트 빛반환 감이안</translatorcomment>
-        <translation>스트로브 라이트 빛반환 감지됨</translation>
+        <translation type="vanished">스트로브 라이트 빛반환 감지됨</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="117"/>
         <source>Flash returned light</source>
-        <translation>플래쉬가 빛을 반환함</translation>
+        <translation type="vanished">플래쉬가 빛을 반환함</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="122"/>
         <source>Unknown mode</source>
-        <translation>알 수 없는 모드</translation>
+        <translation type="vanished">알 수 없는 모드</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="123"/>
         <source>Compulsory flash firing</source>
-        <translation>강제 플래쉬 사용</translation>
+        <translation type="vanished">강제 플래쉬 사용</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="124"/>
         <source>Compulsory flash suppression</source>
-        <translation>강제 플래쉬 끄기</translation>
+        <translation type="vanished">강제 플래쉬 끄기</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="125"/>
         <source>Automatic mode</source>
-        <translation>자동 모드</translation>
+        <translation type="vanished">자동 모드</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="126"/>
         <source>Flash mode</source>
-        <translation>플래쉬 모드</translation>
+        <translation type="vanished">플래쉬 모드</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="131"/>
         <source>average</source>
-        <translation>측광</translation>
+        <translation type="vanished">측광</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="132"/>
         <source>center weighted average</source>
-        <translation>중앙 중점부 측광</translation>
+        <translation type="vanished">중앙 중점부 측광</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="133"/>
         <source>spot</source>
-        <translation>스팟</translation>
+        <translation type="vanished">스팟</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="134"/>
         <source>multi-spot</source>
-        <translation>멀티스팟</translation>
+        <translation type="vanished">멀티스팟</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/libwrappers/exifwrapper.cpp" line="135"/>
         <source>multi-segment</source>
-        <translation>다중 세그먼트</translation>
+        <translation type="vanished">다중 세그먼트</translation>
     </message>
 </context>
 <context>
@@ -2797,7 +2737,7 @@ Ready to install.</source>
         <translation type="vanished">삭제</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="165"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="167"/>
         <source>Please check your &quot;i18n&quot; folder.</source>
         <translation>&quot;i18n&quot; 폴더를 확인하세요.</translation>
     </message>
@@ -2814,7 +2754,7 @@ Ready to install.</source>
         <translation type="vanished">언어 설정 실패</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="164"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="166"/>
         <source>Update language failed</source>
         <translation>언어 업데이트 실패</translation>
     </message>
@@ -2824,31 +2764,31 @@ Ready to install.</source>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="209"/>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="59"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="60"/>
         <source>Folder</source>
         <translation>폴더</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="209"/>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="58"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="59"/>
         <source>Image</source>
         <translation>이미지</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="210"/>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="61"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="62"/>
         <source>Text</source>
         <translation>텍스트</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="211"/>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="56"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="57"/>
         <source>PDF</source>
         <translation>PDF</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="211"/>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="60"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="61"/>
         <source>HTML</source>
         <translation>HTML</translation>
     </message>
@@ -2859,7 +2799,7 @@ Ready to install.</source>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="210"/>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="57"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="58"/>
         <source>Media</source>
         <translation>멀티미디어</translation>
     </message>
