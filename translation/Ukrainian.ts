@@ -846,27 +846,27 @@ Ready to install.</source>
         <translation type="vanished">Lagre temporære programtilleggfiler når Seer avsluttes</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="351"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="375"/>
         <source>Visibility</source>
         <translation>Видимість</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="376"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="400"/>
         <source>Hide tray icon</source>
         <translation>Приховати значок у треї</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="407"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="431"/>
         <source>Title bar &amp; Control bar:</source>
         <translation>Заголовок и панель управления:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="417"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="441"/>
         <source>Constant</source>
         <translation>Фіксовано</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="424"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="448"/>
         <source>Dynamic</source>
         <translation>Динамічно</translation>
     </message>
@@ -887,41 +887,46 @@ Ready to install.</source>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="172"/>
+        <source>Trigger on software-generated key events</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="196"/>
         <source>Keep window size and position</source>
         <translation>Зберігати розмір та положення вікна</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="196"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="220"/>
         <source>Maximum preview size:</source>
         <translation>Максимальний розмір попереднього перегляду:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="223"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="247"/>
         <source>Backup:</source>
         <translation>Резервна копія:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="230"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="254"/>
         <source>Export</source>
         <translation>Експорт</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="237"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="261"/>
         <source>Import</source>
         <translation>Імпорт</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="257"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="281"/>
         <source>Reset to default</source>
         <translation>Скинути до замовчування</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="264"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="288"/>
         <source>Confirm &amp; Restart :</source>
         <translation>Підтвердити та перезапустити:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="289"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="313"/>
         <source>User defined</source>
         <translation>Визначений користувачем</translation>
     </message>
@@ -933,6 +938,46 @@ Ready to install.</source>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="67"/>
         <source>Reset</source>
         <translation>Скинути</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="93"/>
+        <source>Removes Seer&apos;s icon from the system tray area.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="95"/>
+        <source>Show the title and control bars permanently or only when hovering the mouse.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="98"/>
+        <source>Automatically updates Seer&apos;s preview to follow the currently selected file in File Explorer.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="100"/>
+        <source>Allows you to open files directly by double-clicking, using the application associated with the file type in your system settings.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="104"/>
+        <source>Allows using the Delete key to move the currently previewed file to the Recycle Bin.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="107"/>
+        <source>Allows Seer to respond to simulated key input generated by software, such as virtual keyboards or automation tools.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="110"/>
+        <source>Remembers and restores the preview window&apos;s size and position from the last session.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="113"/>
+        <source>Sets the maximum size of the preview window as a percentage of the screen size.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1806,7 +1851,12 @@ Ready to install.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="254"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="248"/>
+        <source>The configured interpreter path is invalid or missing.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="259"/>
         <source>Failed to parse the script</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2508,43 +2558,43 @@ Ready to install.</source>
         <translation>Не вдалося оновити мову</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="209"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="241"/>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="60"/>
         <source>Folder</source>
         <translation>Папка</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="209"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="241"/>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="59"/>
         <source>Image</source>
         <translation>Зображення</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="210"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="242"/>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="58"/>
         <source>Media</source>
         <translation>Медіа</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="210"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="242"/>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="62"/>
         <source>Text</source>
         <translation>Текст</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="211"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="243"/>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="57"/>
         <source>PDF</source>
         <translation>PDF</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="211"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="243"/>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="61"/>
         <source>HTML</source>
         <translation>HTML</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="212"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="244"/>
         <source>Unknown</source>
         <translation>Невідомо</translation>
     </message>
