@@ -5,7 +5,7 @@
     <name>AppUpdater</name>
     <message>
         <location filename="../../../Seer/src/opt/updater/appupdater.cpp" line="259"/>
-        <location filename="../../../Seer/src/opt/updater/appupdater.cpp" line="429"/>
+        <location filename="../../../Seer/src/opt/updater/appupdater.cpp" line="437"/>
         <source>Network Error:</source>
         <translation>网络错误：</translation>
     </message>
@@ -25,20 +25,25 @@
         <translation>保存下载文件失败。</translation>
     </message>
     <message>
+        <location filename="../../../Seer/src/opt/updater/appupdater.cpp" line="440"/>
+        <source>Install Manually</source>
+        <translation>手动安装</translation>
+    </message>
+    <message>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="47"/>
         <source>Update</source>
         <translation>更新</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="54"/>
-        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="215"/>
+        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="217"/>
         <source>Checking for updates...</source>
         <translation>检查更新中...</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="70"/>
-        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="222"/>
-        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="296"/>
+        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="224"/>
+        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="299"/>
         <source>Downloading...</source>
         <translation>下载中...</translation>
     </message>
@@ -58,34 +63,43 @@
         <translation>下次提醒</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="235"/>
+        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="243"/>
         <source>%1 %2 is now available (you have %3).</source>
         <translation>%1 %2 已发布（当前版本：%3）。</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="256"/>
+        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="263"/>
         <source>You&apos;re up to date!</source>
         <translation>已是最新版本！</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="257"/>
+        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="264"/>
         <source>%1 %2 is currently the newest version available.</source>
         <translation>%1 %2 为当前最新版本。</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="270"/>
+        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="275"/>
         <source>Update Error</source>
         <translation>更新失败</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="288"/>
+        <source>The update package has been downloaded.</source>
+        <translation>更新包已下载完成。</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="289"/>
+        <source>Ready to install.</source>
+        <translation>点击进行安装。</translation>
     </message>
     <message>
         <source>Update Error:</source>
         <translation type="vanished">更新失败：</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="283"/>
         <source>The update package has been downloaded.
 Ready to install.</source>
-        <translation>更新包已下载完成。
+        <translation type="vanished">更新包已下载完成。
 点击进行安装。</translation>
     </message>
 </context>
@@ -1049,7 +1063,7 @@ Ready to install.</source>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="172"/>
         <source>Trigger on software-generated key events</source>
-        <translation type="unfinished"></translation>
+        <translation>接收模拟键盘事件</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="313"/>
@@ -1131,42 +1145,42 @@ Ready to install.</source>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="93"/>
         <source>Removes Seer&apos;s icon from the system tray area.</source>
-        <translation type="unfinished"></translation>
+        <translation>隐藏系统托盘区域的 Seer 图标。</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="95"/>
         <source>Show the title and control bars permanently or only when hovering the mouse.</source>
-        <translation type="unfinished"></translation>
+        <translation>鼠标悬停时显示或固定显示标题栏和控制栏。</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="98"/>
         <source>Automatically updates Seer&apos;s preview to follow the currently selected file in File Explorer.</source>
-        <translation type="unfinished"></translation>
+        <translation>当资源管理器中的选中文件变化时，自动更新预览内容。</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="100"/>
         <source>Allows you to open files directly by double-clicking, using the application associated with the file type in your system settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>是否在双击预览窗口后使用系统默认程序打开文件。</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="104"/>
         <source>Allows using the Delete key to move the currently previewed file to the Recycle Bin.</source>
-        <translation type="unfinished"></translation>
+        <translation>勾选后会在删除键按下时将当前预览文件移动到回收站。</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="107"/>
         <source>Allows Seer to respond to simulated key input generated by software, such as virtual keyboards or automation tools.</source>
-        <translation type="unfinished"></translation>
+        <translation>勾选后将接收第三方软件生成的按键消息，否则仅处理物理按键事件。</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="110"/>
         <source>Remembers and restores the preview window&apos;s size and position from the last session.</source>
-        <translation type="unfinished"></translation>
+        <translation>记录并还原上一次预览窗口关闭时的大小和位置。</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="113"/>
         <source>Sets the maximum size of the preview window as a percentage of the screen size.</source>
-        <translation type="unfinished"></translation>
+        <translation>限制最大预览窗口大小，以显示时的屏幕大小为基数。</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="441"/>
@@ -2451,22 +2465,27 @@ Ready to install.</source>
         <translation>文件被加密</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="86"/>
+        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="91"/>
+        <source>Sorting Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="98"/>
         <source>Column View</source>
         <translation>列视图</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="89"/>
+        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="101"/>
         <source>Tree View</source>
         <translation>树视图</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/dirs/folder/cdirwnd4folder.cpp" line="146"/>
+        <location filename="../../../Seer/src/dirs/folder/cdirwnd4folder.cpp" line="151"/>
         <source>Open Selected Item With Default Application</source>
         <translation>打开选中文件</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/dirs/folder/cdirwnd4folder.cpp" line="160"/>
+        <location filename="../../../Seer/src/dirs/folder/cdirwnd4folder.cpp" line="165"/>
         <source>Display Selected Item In Explorer</source>
         <translation>定位选中文件</translation>
     </message>
@@ -2475,7 +2494,7 @@ Ready to install.</source>
         <translation type="vanished">定位选中文件</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="112"/>
+        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="124"/>
         <source>Open Selected Item With Seer</source>
         <translation>用 Seer 打开文件</translation>
     </message>
@@ -2484,7 +2503,7 @@ Ready to install.</source>
         <translation type="vanished">文件夹</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/dirs/treemodel.cpp" line="14"/>
+        <location filename="../../../Seer/src/dirs/treemodel.cpp" line="19"/>
         <source>Folder</source>
         <translation>文件夹</translation>
     </message>
@@ -2994,13 +3013,13 @@ Ready to install.</source>
         <translation type="vanished">确定(&amp;O)</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="241"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="242"/>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="60"/>
         <source>Folder</source>
         <translation>文件夹</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="241"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="242"/>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="59"/>
         <source>Image</source>
         <translation>图片</translation>
@@ -3010,31 +3029,31 @@ Ready to install.</source>
         <translation type="vanished">多媒体</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="242"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="243"/>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="62"/>
         <source>Text</source>
         <translation>文本</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="242"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="243"/>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="58"/>
         <source>Media</source>
         <translation>多媒体</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="243"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="244"/>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="57"/>
         <source>PDF</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="243"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="244"/>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="61"/>
         <source>HTML</source>
         <translation>网页</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="244"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="245"/>
         <source>Unknown</source>
         <translation>未知</translation>
     </message>
@@ -3055,7 +3074,7 @@ Ready to install.</source>
         <translation>取消</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="118"/>
+        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="120"/>
         <location filename="../../../Seer/src/ui/caboutwnd.cpp" line="55"/>
         <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="588"/>
         <source>Close</source>
