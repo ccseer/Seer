@@ -1754,7 +1754,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4plugins.cpp" line="306"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4plugins.cpp" line="308"/>
         <source>Choose Seer plugin</source>
         <translation>Escojer plugin Seer</translation>
     </message>
@@ -1827,12 +1827,12 @@
 <context>
     <name>CSettingsWnd4PluginsAvailable</name>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4pluginsavailable.cpp" line="180"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4pluginsavailable.cpp" line="181"/>
         <source>Name</source>
         <translation>Nombre</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4pluginsavailable.cpp" line="82"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4pluginsavailable.cpp" line="83"/>
         <source>Description:</source>
         <translation>Descripcion:</translation>
     </message>
@@ -1842,27 +1842,27 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4pluginsavailable.cpp" line="180"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4pluginsavailable.cpp" line="181"/>
         <source>Download</source>
         <translation>Descarga</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4pluginsavailable.cpp" line="180"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4pluginsavailable.cpp" line="181"/>
         <source>Description</source>
         <translation>Descripcion</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4pluginsavailable.cpp" line="180"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4pluginsavailable.cpp" line="181"/>
         <source>Extension</source>
         <translation>Extension</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4pluginsavailable.cpp" line="192"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4pluginsavailable.cpp" line="193"/>
         <source>Install plugin automatically</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4pluginsavailable.cpp" line="199"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4pluginsavailable.cpp" line="200"/>
         <source>Download for manual installation</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1872,7 +1872,7 @@
         <translation>Selecciona un plugin del lado izquierdo</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4pluginsavailable.cpp" line="79"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4pluginsavailable.cpp" line="80"/>
         <source>Extension:</source>
         <translation>Extension:</translation>
     </message>
@@ -1920,28 +1920,33 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="243"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="244"/>
         <source>Save settings to activate the plugin.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="246"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="247"/>
         <source>🎉 %1 is installed.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="257"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="258"/>
         <source>😥 Failed to install plugin.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="299"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="300"/>
         <source>Please avoid using Seer&apos;s installation path.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="283"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="284"/>
         <source>Cannot write to the selected folder.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/settings/plugininstallertask.cpp" line="575"/>
+        <source>Please restart Seer and try installing %1 again.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

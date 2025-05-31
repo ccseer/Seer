@@ -2118,7 +2118,7 @@ Ready to install.</source>
         <translation type="vanished">将会优先使用内部插件。</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4plugins.cpp" line="306"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4plugins.cpp" line="308"/>
         <source>Choose Seer plugin</source>
         <translation>选择 Seer 插件</translation>
     </message>
@@ -2194,7 +2194,7 @@ Ready to install.</source>
 <context>
     <name>CSettingsWnd4PluginsAvailable</name>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4pluginsavailable.cpp" line="180"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4pluginsavailable.cpp" line="181"/>
         <source>Download</source>
         <translation>下载</translation>
     </message>
@@ -2222,37 +2222,37 @@ Ready to install.</source>
         <translation>在左侧选择 插件</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4pluginsavailable.cpp" line="79"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4pluginsavailable.cpp" line="80"/>
         <source>Extension:</source>
         <translation>后缀名：</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4pluginsavailable.cpp" line="82"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4pluginsavailable.cpp" line="83"/>
         <source>Description:</source>
         <translation>详情：</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4pluginsavailable.cpp" line="180"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4pluginsavailable.cpp" line="181"/>
         <source>Name</source>
         <translation>名称</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4pluginsavailable.cpp" line="180"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4pluginsavailable.cpp" line="181"/>
         <source>Extension</source>
         <translation>后缀名</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4pluginsavailable.cpp" line="180"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4pluginsavailable.cpp" line="181"/>
         <source>Description</source>
         <translation>详情</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4pluginsavailable.cpp" line="192"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4pluginsavailable.cpp" line="193"/>
         <source>Install plugin automatically</source>
         <translation>安装插件</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4pluginsavailable.cpp" line="199"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4pluginsavailable.cpp" line="200"/>
         <source>Download for manual installation</source>
         <translation>下载后手动安装</translation>
     </message>
@@ -2307,29 +2307,34 @@ Ready to install.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="243"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="244"/>
         <source>Save settings to activate the plugin.</source>
         <translation>保存 设置 后即可使用插件。</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="246"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="247"/>
         <source>🎉 %1 is installed.</source>
         <translation>🎉 %1 已安装。</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="257"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="258"/>
         <source>😥 Failed to install plugin.</source>
         <translation>😥 安装插件失败。</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="299"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="300"/>
         <source>Please avoid using Seer&apos;s installation path.</source>
         <translation>无法选择 Seer 安装目录。</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="283"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="284"/>
         <source>Cannot write to the selected folder.</source>
         <translation>无法写入文件到该文件夹。</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/settings/plugininstallertask.cpp" line="575"/>
+        <source>Please restart Seer and try installing %1 again.</source>
+        <translation type="unfinished">请尝试重启 Seer 后再次安装 %1。</translation>
     </message>
 </context>
 <context>
