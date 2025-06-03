@@ -4,91 +4,91 @@
 <context>
     <name>AppUpdater</name>
     <message>
-        <location filename="../../../Seer/src/opt/updater/appupdater.cpp" line="259"/>
-        <location filename="../../../Seer/src/opt/updater/appupdater.cpp" line="437"/>
+        <location filename="../../../Seer/src/opt/updater/appupdater.cpp" line="268"/>
+        <location filename="../../../Seer/src/opt/updater/appupdater.cpp" line="446"/>
         <source>Network Error:</source>
         <translation>网络错误：</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/opt/updater/appupdater.cpp" line="347"/>
+        <location filename="../../../Seer/src/opt/updater/appupdater.cpp" line="356"/>
         <source>Invalid release notes URL</source>
         <translation>无效的更新日志地址</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/opt/updater/appupdater.cpp" line="370"/>
+        <location filename="../../../Seer/src/opt/updater/appupdater.cpp" line="379"/>
         <source>Failed to fetch release notes</source>
         <translation>获取更新日志失败</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/opt/updater/appupdater.cpp" line="402"/>
+        <location filename="../../../Seer/src/opt/updater/appupdater.cpp" line="411"/>
         <source>Failed to save download file.</source>
         <translation>保存下载文件失败。</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/opt/updater/appupdater.cpp" line="440"/>
+        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="123"/>
         <source>Install Manually</source>
         <translation>手动安装</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="47"/>
+        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="46"/>
         <source>Update</source>
         <translation>更新</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="54"/>
-        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="217"/>
+        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="53"/>
+        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="221"/>
         <source>Checking for updates...</source>
         <translation>检查更新中...</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="70"/>
-        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="224"/>
-        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="299"/>
+        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="69"/>
+        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="228"/>
+        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="306"/>
         <source>Downloading...</source>
         <translation>下载中...</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="92"/>
+        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="91"/>
         <source>Install Update</source>
         <translation>安装更新</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="94"/>
+        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="93"/>
         <source>Skip This Version</source>
         <translation>跳过此版本</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="96"/>
+        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="95"/>
         <source>Remind Me Later</source>
         <translation>下次提醒</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="243"/>
+        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="247"/>
         <source>%1 %2 is now available (you have %3).</source>
         <translation>%1 %2 已发布（当前版本：%3）。</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="263"/>
+        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="268"/>
         <source>You&apos;re up to date!</source>
         <translation>已是最新版本！</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="264"/>
+        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="269"/>
         <source>%1 %2 is currently the newest version available.</source>
         <translation>%1 %2 为当前最新版本。</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="275"/>
+        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="281"/>
         <source>Update Error</source>
         <translation>更新失败</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="288"/>
+        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="295"/>
         <source>The update package has been downloaded.</source>
         <translation>更新包已下载完成。</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="289"/>
+        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="296"/>
         <source>Ready to install.</source>
         <translation>点击进行安装。</translation>
     </message>
@@ -379,7 +379,7 @@ Ready to install.</source>
         <translation>位置</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="173"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="174"/>
         <source>Original location</source>
         <translation>原始位置</translation>
     </message>
@@ -389,12 +389,12 @@ Ready to install.</source>
         <translation>文件类型</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="211"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="212"/>
         <source>Opens with</source>
         <translation>打开方式</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="177"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="178"/>
         <source>Folder</source>
         <translation>文件夹</translation>
     </message>
@@ -414,7 +414,7 @@ Ready to install.</source>
         <translation>最后读取时间</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="201"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="202"/>
         <source>Extension</source>
         <translation>后缀名</translation>
     </message>
@@ -479,22 +479,22 @@ Ready to install.</source>
         <translation>产品版本</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="144"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="145"/>
         <source>Total bytes</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="149"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="150"/>
         <source>Available bytes</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="152"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="153"/>
         <source>Free bytes</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="159"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="160"/>
         <source>Block size</source>
         <translation></translation>
     </message>
@@ -1292,22 +1292,27 @@ Ready to install.</source>
         <translation type="vanished">压缩包</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.ui" line="220"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.ui" line="469"/>
         <source>Disabled</source>
         <translation>文件属性列表</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.ui" line="335"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.ui" line="758"/>
         <source>System</source>
         <translation>系统预览器</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.ui" line="470"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.ui" line="636"/>
         <source>Disable folder contents loading</source>
         <translation>禁止加载文件夹</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.ui" line="636"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.ui" line="234"/>
+        <source>Disable renaming during preview</source>
+        <translation>禁用预览时重命名功能</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.ui" line="272"/>
         <source>Disable GPU decoding</source>
         <translation>禁用硬件解码</translation>
     </message>
@@ -1316,7 +1321,7 @@ Ready to install.</source>
         <translation type="vanished">网页</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.ui" line="279"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.ui" line="528"/>
         <source>Disable file type detecting</source>
         <translation>禁止文件类型检测</translation>
     </message>
@@ -1386,7 +1391,7 @@ Ready to install.</source>
         <translation>Markdown 样式文件路径</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="338"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="342"/>
         <source>Invalid</source>
         <translation>无效</translation>
     </message>
@@ -2317,24 +2322,24 @@ Ready to install.</source>
         <translation>🎉 %1 已安装。</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="258"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="260"/>
         <source>😥 Failed to install plugin.</source>
         <translation>😥 安装插件失败。</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="300"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="304"/>
         <source>Please avoid using Seer&apos;s installation path.</source>
         <translation>无法选择 Seer 安装目录。</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="284"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="288"/>
         <source>Cannot write to the selected folder.</source>
         <translation>无法写入文件到该文件夹。</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/plugininstallertask.cpp" line="575"/>
+        <location filename="../../../Seer/src/settings/plugininstallertask.cpp" line="574"/>
         <source>Please restart Seer and try installing %1 again.</source>
-        <translation type="unfinished">请尝试重启 Seer 后再次安装 %1。</translation>
+        <translation>请尝试重启 Seer 后再次安装 %1。</translation>
     </message>
 </context>
 <context>
@@ -2616,27 +2621,27 @@ Ready to install.</source>
 <context>
     <name>HtmlViewer</name>
     <message>
-        <location filename="../../../Seer/src/web/htmlviewer.cpp" line="135"/>
+        <location filename="../../../Seer/src/web/htmlviewer.cpp" line="139"/>
         <source>Markdown Source</source>
         <translation>转到 Markdown 源码</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/web/htmlviewer.cpp" line="138"/>
+        <location filename="../../../Seer/src/web/htmlviewer.cpp" line="142"/>
         <source>Save as PDF</source>
         <translation>保存为 PDF</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/web/htmlviewer.cpp" line="145"/>
+        <location filename="../../../Seer/src/web/htmlviewer.cpp" line="149"/>
         <source>Failed to save as PDF</source>
         <translation>保存为 PDF 失败</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/web/htmlviewer.cpp" line="171"/>
+        <location filename="../../../Seer/src/web/htmlviewer.cpp" line="175"/>
         <source>Successfully saved as PDF</source>
         <translation>已成功保存为 PDF</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/web/htmlviewer.cpp" line="180"/>
+        <location filename="../../../Seer/src/web/htmlviewer.cpp" line="184"/>
         <source>HTML Source</source>
         <translation>HTML 源码</translation>
     </message>
@@ -3150,7 +3155,7 @@ Ready to install.</source>
         <translation>加载中</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="49"/>
+        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="48"/>
         <location filename="../../../Seer/src/pdf/cpdfpwdwnd.cpp" line="35"/>
         <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="94"/>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="65"/>
@@ -3159,7 +3164,7 @@ Ready to install.</source>
         <translation>取消</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="120"/>
+        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="119"/>
         <location filename="../../../Seer/src/ui/caboutwnd.cpp" line="55"/>
         <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="588"/>
         <source>Close</source>

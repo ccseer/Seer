@@ -4,91 +4,91 @@
 <context>
     <name>AppUpdater</name>
     <message>
-        <location filename="../../../Seer/src/opt/updater/appupdater.cpp" line="259"/>
-        <location filename="../../../Seer/src/opt/updater/appupdater.cpp" line="437"/>
+        <location filename="../../../Seer/src/opt/updater/appupdater.cpp" line="268"/>
+        <location filename="../../../Seer/src/opt/updater/appupdater.cpp" line="446"/>
         <source>Network Error:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/opt/updater/appupdater.cpp" line="347"/>
+        <location filename="../../../Seer/src/opt/updater/appupdater.cpp" line="356"/>
         <source>Invalid release notes URL</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/opt/updater/appupdater.cpp" line="370"/>
+        <location filename="../../../Seer/src/opt/updater/appupdater.cpp" line="379"/>
         <source>Failed to fetch release notes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/opt/updater/appupdater.cpp" line="402"/>
+        <location filename="../../../Seer/src/opt/updater/appupdater.cpp" line="411"/>
         <source>Failed to save download file.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/opt/updater/appupdater.cpp" line="440"/>
+        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="123"/>
         <source>Install Manually</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="47"/>
+        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="46"/>
         <source>Update</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="54"/>
-        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="217"/>
+        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="53"/>
+        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="221"/>
         <source>Checking for updates...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="70"/>
-        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="224"/>
-        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="299"/>
+        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="69"/>
+        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="228"/>
+        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="306"/>
         <source>Downloading...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="92"/>
+        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="91"/>
         <source>Install Update</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="94"/>
+        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="93"/>
         <source>Skip This Version</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="96"/>
+        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="95"/>
         <source>Remind Me Later</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="243"/>
+        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="247"/>
         <source>%1 %2 is now available (you have %3).</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="263"/>
+        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="268"/>
         <source>You&apos;re up to date!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="264"/>
+        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="269"/>
         <source>%1 %2 is currently the newest version available.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="275"/>
+        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="281"/>
         <source>Update Error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="288"/>
+        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="295"/>
         <source>The update package has been downloaded.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="289"/>
+        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="296"/>
         <source>Ready to install.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -333,12 +333,12 @@
         <translation>種類</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="211"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="212"/>
         <source>Opens with</source>
         <translation>アプリで開く</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="173"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="174"/>
         <source>Original location</source>
         <translation>元の場所</translation>
     </message>
@@ -428,12 +428,12 @@
         <translation>詳細</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="201"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="202"/>
         <source>Extension</source>
         <translation>拡張子</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="177"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="178"/>
         <source>Folder</source>
         <translation type="unfinished">フォルダー</translation>
     </message>
@@ -451,22 +451,22 @@
         <translation type="obsolete">ファイルの場所を開く</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="144"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="145"/>
         <source>Total bytes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="149"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="150"/>
         <source>Available bytes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="152"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="153"/>
         <source>Free bytes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="159"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="160"/>
         <source>Block size</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1183,7 +1183,7 @@
         <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;:(&lt;/p&gt;&lt;p&gt;Oops!&lt;/p&gt;&lt;p&gt;拡張子が見つかりません。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.ui" line="220"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.ui" line="469"/>
         <source>Disabled</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1208,17 +1208,22 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.ui" line="470"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.ui" line="636"/>
         <source>Disable folder contents loading</source>
         <translation type="unfinished">フォルダの中身取得を無効化</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.ui" line="279"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.ui" line="528"/>
         <source>Disable file type detecting</source>
         <translation type="unfinished">ファイル種類の検知を無効化</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.ui" line="335"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.ui" line="234"/>
+        <source>Disable renaming during preview</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.ui" line="758"/>
         <source>System</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1227,7 +1232,7 @@
         <translation type="obsolete">画像</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="338"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="342"/>
         <source>Invalid</source>
         <translation type="unfinished">正しくありません</translation>
     </message>
@@ -1236,7 +1241,7 @@
         <translation type="vanished">PDF</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.ui" line="636"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.ui" line="272"/>
         <source>Disable GPU decoding</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2011,22 +2016,22 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="258"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="260"/>
         <source>😥 Failed to install plugin.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="300"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="304"/>
         <source>Please avoid using Seer&apos;s installation path.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="284"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="288"/>
         <source>Cannot write to the selected folder.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/plugininstallertask.cpp" line="575"/>
+        <location filename="../../../Seer/src/settings/plugininstallertask.cpp" line="574"/>
         <source>Please restart Seer and try installing %1 again.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2286,27 +2291,27 @@
         <translation type="vanished">HTML</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/web/htmlviewer.cpp" line="135"/>
+        <location filename="../../../Seer/src/web/htmlviewer.cpp" line="139"/>
         <source>Markdown Source</source>
         <translation>Markdownソース</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/web/htmlviewer.cpp" line="138"/>
+        <location filename="../../../Seer/src/web/htmlviewer.cpp" line="142"/>
         <source>Save as PDF</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/web/htmlviewer.cpp" line="145"/>
+        <location filename="../../../Seer/src/web/htmlviewer.cpp" line="149"/>
         <source>Failed to save as PDF</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/web/htmlviewer.cpp" line="171"/>
+        <location filename="../../../Seer/src/web/htmlviewer.cpp" line="175"/>
         <source>Successfully saved as PDF</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/web/htmlviewer.cpp" line="180"/>
+        <location filename="../../../Seer/src/web/htmlviewer.cpp" line="184"/>
         <source>HTML Source</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2838,7 +2843,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="49"/>
+        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="48"/>
         <location filename="../../../Seer/src/pdf/cpdfpwdwnd.cpp" line="35"/>
         <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="94"/>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="65"/>
@@ -2847,7 +2852,7 @@
         <translation type="unfinished">キャンセル</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="120"/>
+        <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="119"/>
         <location filename="../../../Seer/src/ui/caboutwnd.cpp" line="55"/>
         <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="588"/>
         <source>Close</source>
