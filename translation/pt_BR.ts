@@ -202,7 +202,7 @@ Pronto para instalar.</translation>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/caboutwnd.cpp" line="119"/>
+        <location filename="../../../Seer/src/ui/caboutwnd.cpp" line="120"/>
         <source>Open Source Software in Seer</source>
         <translation>Software de código aberto no Seer</translation>
     </message>
@@ -618,7 +618,7 @@ Pronto para instalar.</translation>
         <translation>Separar</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="1220"/>
+        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="1221"/>
         <source>Viewer</source>
         <translation>Visualizador</translation>
     </message>
@@ -1765,7 +1765,7 @@ Pronto para instalar.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4plugins.cpp" line="308"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4plugins.cpp" line="310"/>
         <source>Choose Seer plugin</source>
         <translation>Escolha o plugin Seer</translation>
     </message>
@@ -1818,7 +1818,7 @@ Pronto para instalar.</translation>
         <translation type="vanished">Cancelar</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4pluginsadd.cpp" line="92"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4pluginsadd.cpp" line="89"/>
         <source>your plugin.exe [argument] ...</source>
         <translation>seu plugin.exe [argumento] ...</translation>
     </message>
@@ -1910,12 +1910,12 @@ Pronto para instalar.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="57"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="58"/>
         <source>No plugins are currently being installed.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="58"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="59"/>
         <source>Explore available plugins</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1968,7 +1968,7 @@ Pronto para instalar.</translation>
 <context>
     <name>CSettingsWnd4Script</name>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="199"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="205"/>
         <source>The path of interpreter has saved.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1993,52 +1993,52 @@ Pronto para instalar.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="45"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="46"/>
         <source>Locate script interpreter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="50"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="51"/>
         <source>Download script interpreter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="65"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="67"/>
         <source>Find scripts online</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="69"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="74"/>
         <source>Add from local</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="242"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="248"/>
         <source>Please configure the interpreter first</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="248"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="255"/>
         <source>The configured interpreter path is invalid or missing.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="259"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="267"/>
         <source>Failed to parse the script</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="78"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="84"/>
         <source>Preview</source>
         <translation type="unfinished">Pré-visualização</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="79"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="85"/>
         <source>Controls</source>
         <translation type="unfinished">Controles</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="80"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="86"/>
         <source>Property</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2602,42 +2602,42 @@ Pronto para instalar.</translation>
         <translation type="vanished">&amp;Cancelar</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="242"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="243"/>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="60"/>
         <source>Folder</source>
         <translation>Pasta</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="242"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="243"/>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="59"/>
         <source>Image</source>
         <translation>Imagem</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="243"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="244"/>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="62"/>
         <source>Text</source>
         <translation>Texto</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="244"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="245"/>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="57"/>
         <source>PDF</source>
         <translation>PDF</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="244"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="245"/>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="61"/>
         <source>HTML</source>
         <translation>HTML</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="245"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="246"/>
         <source>Unknown</source>
         <translation>Desconhecido</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="243"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="244"/>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="58"/>
         <source>Media</source>
         <translation>Mídia</translation>
@@ -2654,7 +2654,7 @@ Pronto para instalar.</translation>
         <location filename="../../../Seer/src/pdf/cpdfpwdwnd.cpp" line="35"/>
         <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="94"/>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="65"/>
-        <location filename="../../../Seer/src/settings/csettingswnd4pluginsadd.cpp" line="99"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4pluginsadd.cpp" line="96"/>
         <source>Cancel</source>
         <translation>Cancelar</translation>
     </message>
@@ -2668,7 +2668,7 @@ Pronto para instalar.</translation>
     <message>
         <location filename="../../../Seer/src/pdf/cpdfpwdwnd.cpp" line="34"/>
         <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="98"/>
-        <location filename="../../../Seer/src/settings/csettingswnd4pluginsadd.cpp" line="101"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4pluginsadd.cpp" line="98"/>
         <source>Okay</source>
         <translation>Okay</translation>
     </message>
