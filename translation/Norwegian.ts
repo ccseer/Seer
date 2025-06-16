@@ -629,7 +629,7 @@
         <translation>Skille</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="1221"/>
+        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="1225"/>
         <source>Viewer</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1044,7 +1044,7 @@
         <translation type="vanished">Bilde</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.ui" line="758"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.ui" line="799"/>
         <source>System</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1066,6 +1066,11 @@
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.ui" line="636"/>
         <source>Disable folder contents loading</source>
         <translation>Deaktiver lasting av mappeinnhold</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.ui" line="692"/>
+        <source>Default display mode:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.ui" line="528"/>
@@ -1102,7 +1107,37 @@
         <translation>Vil vise egenskap bare for utvidelser i dette feltet, f.eks.:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="342"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="97"/>
+        <source>Auto Fit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="99"/>
+        <source>Automatically scales to fit the entire image in the viewer.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="102"/>
+        <source>Fit Short Side</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="104"/>
+        <source>Scales until the shorter side fits; scroll the longer side if needed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="108"/>
+        <source>Prefer Full Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="110"/>
+        <source>Always loads the image at its original resolution; scrolling may be required.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="383"/>
         <source>Invalid</source>
         <translation>Ugyldig</translation>
     </message>
@@ -2157,17 +2192,17 @@
 <context>
     <name>ImageViewer</name>
     <message>
-        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="244"/>
+        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="260"/>
         <source>Width</source>
         <translation>Bredde</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="180"/>
+        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="196"/>
         <source>Rotate Right</source>
         <translation>Roter høyre</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="245"/>
+        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="261"/>
         <source>Height</source>
         <translation>Høyde</translation>
     </message>
@@ -2176,12 +2211,12 @@
         <translation type="vanished">Tilpass bredde</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="252"/>
+        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="268"/>
         <source>Image Count</source>
         <translation>Antall bilder</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="157"/>
+        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="173"/>
         <source>Actual Size</source>
         <translation>Faktisk størrelse</translation>
     </message>
@@ -2190,17 +2225,17 @@
         <translation type="vanished">Roter venstre</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="113"/>
+        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="129"/>
         <source>Play / Pause</source>
         <translation>Spill / Pause</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="142"/>
+        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="158"/>
         <source>XML</source>
         <translation>XML</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="254"/>
+        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="270"/>
         <source>Loop Count</source>
         <translation>Antall sløyfer</translation>
     </message>
