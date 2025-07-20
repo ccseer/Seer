@@ -310,7 +310,7 @@
         <translation>Показати у провіднику</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/ccontrolwnd.cpp" line="374"/>
+        <location filename="../../../Seer/src/ui/ccontrolwnd.cpp" line="510"/>
         <source>More</source>
         <translation>Більше</translation>
     </message>
@@ -609,27 +609,27 @@
         <translation type="vanished">Закити</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="590"/>
+        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="669"/>
         <source>Properties</source>
         <translation>Властивості</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="172"/>
+        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="183"/>
         <source>Please try again with separated window.</source>
         <translation>Будь ласка, повторіть спробу з відокремленим вікном.</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="589"/>
+        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="668"/>
         <source>Minimize</source>
         <translation>Згорнути</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="591"/>
+        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="670"/>
         <source>Separate</source>
         <translation>Окремий</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="1225"/>
+        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="1336"/>
         <source>Viewer</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1112,27 +1112,27 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="99"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="101"/>
         <source>Automatically scales to fit the entire image in the viewer.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="102"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="104"/>
         <source>Fit Short Side</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="104"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="106"/>
         <source>Scales until the shorter side fits; scroll the longer side if needed.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="108"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="110"/>
         <source>Prefer Full Size</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="110"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="112"/>
         <source>Always loads the image at its original resolution; scrolling may be required.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1258,13 +1258,13 @@
 <context>
     <name>CSettingsWnd4Key</name>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1541"/>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1621"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1569"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1649"/>
         <source>Alt</source>
         <translation>Alt</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1244"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1272"/>
         <source>PDF</source>
         <translation>PDF</translation>
     </message>
@@ -1274,28 +1274,28 @@
         <translation>Зображення</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="908"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="936"/>
         <source>Loop:</source>
         <translation>Циклічне відтворення:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="831"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="859"/>
         <source>Media</source>
         <translation>Медіа</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="880"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="908"/>
         <source>Mute:</source>
         <translation>Вимкнути звук:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1293"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1321"/>
         <source>Sidebar:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1527"/>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1607"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1555"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1635"/>
         <source>Shift</source>
         <translation>Shift</translation>
     </message>
@@ -1309,14 +1309,14 @@
         <translation type="vanished">Kontrollfelt:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="866"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="894"/>
         <source>Play / Pause:</source>
         <translation>Відтворення / Пауза:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="800"/>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="994"/>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1390"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="758"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1022"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1418"/>
         <source>Rotate Left:</source>
         <translation>Поворот ліворуч:</translation>
     </message>
@@ -1345,8 +1345,8 @@
         <translation type="vanished">Tittel:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="772"/>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1279"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="800"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1307"/>
         <source>Fit Width:</source>
         <translation>По ширині:</translation>
     </message>
@@ -1356,7 +1356,7 @@
         <translation>Властивості файлу:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1036"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1064"/>
         <source>Forward:</source>
         <translation>Вперед:</translation>
     </message>
@@ -1381,25 +1381,25 @@
         <translation>Фокус (глобальный):</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1468"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1496"/>
         <location filename="../../../Seer/src/settings/csettingswnd4key.cpp" line="130"/>
         <source>Trigger Keys</source>
         <translation>Клавіша перегляду</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="713"/>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1335"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="786"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1363"/>
         <source>Actual Size:</source>
         <translation>Фактичний розмір:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1064"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1092"/>
         <source>Backward:</source>
         <translation>Назад:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1513"/>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1593"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1541"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1621"/>
         <source>Control</source>
         <translation>Control</translation>
     </message>
@@ -1414,9 +1414,9 @@
         <translation>Перегляд у провіднику:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="758"/>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1022"/>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1404"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="744"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1050"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1432"/>
         <source>Rotate Right:</source>
         <translation>Повернути праворуч:</translation>
     </message>
@@ -1444,12 +1444,12 @@
         <translation>Розгорнути / Відновити:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1506"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1534"/>
         <source>Normal:</source>
         <translation>Нормальний:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1586"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1614"/>
         <source>Fullscreen:</source>
         <translation>Повноекранний:</translation>
     </message>
@@ -1555,8 +1555,8 @@
         <translation>Подвійне клацання</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="655"/>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1321"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="772"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1349"/>
         <source>Fit Height:</source>
         <translation>По висоті:</translation>
     </message>
@@ -1566,92 +1566,102 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="727"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="713"/>
         <source>Center:</source>
         <translation>Центр:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="734"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="720"/>
         <source>Enter / Return</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="814"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="655"/>
         <source>Expand:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="894"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="814"/>
+        <source>Flip Horizontal:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="842"/>
+        <source>Flip Vertical:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="922"/>
         <source>Go To Beginning:</source>
         <translation>Перейти до початку:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="922"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="950"/>
         <source>Increase Speed:</source>
         <translation>Збільшити швидкість:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="949"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="977"/>
         <source>Forward 5x:</source>
         <translation>Вперед 5x:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="963"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="991"/>
         <source>Percent Locate:</source>
         <translation>Відсоток локації:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="970"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="998"/>
         <source>0-9</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1008"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1036"/>
         <source>Backward 15x:</source>
         <translation>Назад 15x:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1050"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1078"/>
         <source>Decrease Speed:</source>
         <translation>Зменшити швидкість:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1078"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1106"/>
         <source>Backward 5x:</source>
         <translation>Назад 5x:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1092"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1120"/>
         <source>Forward 15x:</source>
         <translation>Вперед 15x:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1109"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1137"/>
         <source>Text</source>
         <translation>Текст</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1158"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1186"/>
         <source>Locate:</source>
         <translation>Знайти:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1172"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1200"/>
         <source>Render:</source>
         <translation>Рендер:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1186"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1214"/>
         <source>Format:</source>
         <translation>Формат:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1213"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1241"/>
         <source>Word Wrap:</source>
         <translation>Перенос слів:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1144"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1172"/>
         <source>Line Number:</source>
         <translation>Номер рядка:</translation>
     </message>
@@ -1660,12 +1670,12 @@
         <translation type="vanished">Контур:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1307"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1335"/>
         <source>Annotation:</source>
         <translation>Анотація:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1349"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1377"/>
         <source>Dark:</source>
         <translation>Темний:</translation>
     </message>
@@ -1680,12 +1690,12 @@
         <translation>Дубльований ярлик:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1363"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1391"/>
         <source>Next Page:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1418"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1446"/>
         <source>Previous Page:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1700,8 +1710,8 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="786"/>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1227"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="828"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1255"/>
         <source>Toggle Minimap:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2180,17 +2190,17 @@
 <context>
     <name>ImageViewer</name>
     <message>
-        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="260"/>
+        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="253"/>
         <source>Width</source>
         <translation>Ширина</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="196"/>
+        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="187"/>
         <source>Rotate Right</source>
         <translation>Поворот праворуч</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="261"/>
+        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="254"/>
         <source>Height</source>
         <translation>Висота</translation>
     </message>
@@ -2199,12 +2209,12 @@
         <translation type="vanished">Tilpass bredde</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="268"/>
+        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="261"/>
         <source>Image Count</source>
         <translation>Кількість зображень</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="173"/>
+        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="164"/>
         <source>Actual Size</source>
         <translation>Фактичний розмір</translation>
     </message>
@@ -2213,17 +2223,17 @@
         <translation type="vanished">Roter venstre</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="129"/>
+        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="120"/>
         <source>Play / Pause</source>
         <translation>Відтворення / Пауза</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="158"/>
+        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="149"/>
         <source>XML</source>
         <translation>XML</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="270"/>
+        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="263"/>
         <source>Loop Count</source>
         <translation>Кількість циклів</translation>
     </message>
@@ -2760,7 +2770,7 @@
     <message>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="119"/>
         <location filename="../../../Seer/src/ui/caboutwnd.cpp" line="55"/>
-        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="588"/>
+        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="667"/>
         <source>Close</source>
         <translation type="unfinished">Закити</translation>
     </message>

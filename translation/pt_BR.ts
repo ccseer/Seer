@@ -283,7 +283,7 @@ Pronto para instalar.</translation>
         <translation>Mostrar No Explorer</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/ccontrolwnd.cpp" line="374"/>
+        <location filename="../../../Seer/src/ui/ccontrolwnd.cpp" line="510"/>
         <source>More</source>
         <translation>Mais</translation>
     </message>
@@ -608,27 +608,27 @@ Pronto para instalar.</translation>
         <translation type="vanished">Cerrar</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="590"/>
+        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="669"/>
         <source>Properties</source>
         <translation>Propiedades</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="591"/>
+        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="670"/>
         <source>Separate</source>
         <translation>Separar</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="1225"/>
+        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="1336"/>
         <source>Viewer</source>
         <translation>Visualizador</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="589"/>
+        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="668"/>
         <source>Minimize</source>
         <translation>Minimizar</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="172"/>
+        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="183"/>
         <source>Please try again with separated window.</source>
         <translation>Por favor tente novamente em uma janela separada.</translation>
     </message>
@@ -1152,27 +1152,27 @@ Pronto para instalar.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="99"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="101"/>
         <source>Automatically scales to fit the entire image in the viewer.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="102"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="104"/>
         <source>Fit Short Side</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="104"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="106"/>
         <source>Scales until the shorter side fits; scroll the longer side if needed.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="108"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="110"/>
         <source>Prefer Full Size</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="110"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="112"/>
         <source>Always loads the image at its original resolution; scrolling may be required.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1321,13 +1321,13 @@ Pronto para instalar.</translation>
 <context>
     <name>CSettingsWnd4Key</name>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1541"/>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1621"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1569"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1649"/>
         <source>Alt</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1244"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1272"/>
         <source>PDF</source>
         <translation></translation>
     </message>
@@ -1337,23 +1337,23 @@ Pronto para instalar.</translation>
         <translation>Imagem</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="908"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="936"/>
         <source>Loop:</source>
         <translation>Loop:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="831"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="859"/>
         <source>Media</source>
         <translation>Media</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="880"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="908"/>
         <source>Mute:</source>
         <translation>Mutar:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1527"/>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1607"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1555"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1635"/>
         <source>Shift</source>
         <translation></translation>
     </message>
@@ -1367,14 +1367,14 @@ Pronto para instalar.</translation>
         <translation type="vanished">Barra de control:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="866"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="894"/>
         <source>Play / Pause:</source>
         <translation>Reproduzir / Pausar:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="800"/>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="994"/>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1390"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="758"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1022"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1418"/>
         <source>Rotate Left:</source>
         <translation>Rotacionar para esquerda:</translation>
     </message>
@@ -1403,8 +1403,8 @@ Pronto para instalar.</translation>
         <translation type="vanished">Titulo:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="772"/>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1279"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="800"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1307"/>
         <source>Fit Width:</source>
         <translation>Ajustar Largura:</translation>
     </message>
@@ -1414,7 +1414,7 @@ Pronto para instalar.</translation>
         <translation>Propiedades de Arquivoo:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1036"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1064"/>
         <source>Forward:</source>
         <translation>Avançar:</translation>
     </message>
@@ -1439,25 +1439,25 @@ Pronto para instalar.</translation>
         <translation>Foco (global):</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1468"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1496"/>
         <location filename="../../../Seer/src/settings/csettingswnd4key.cpp" line="130"/>
         <source>Trigger Keys</source>
         <translation>Chaves de gatilho</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="713"/>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1335"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="786"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1363"/>
         <source>Actual Size:</source>
         <translation>Tamanho Real:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1064"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1092"/>
         <source>Backward:</source>
         <translation>Voltar:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1513"/>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1593"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1541"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1621"/>
         <source>Control</source>
         <translation>Controle</translation>
     </message>
@@ -1472,9 +1472,9 @@ Pronto para instalar.</translation>
         <translation>Mostrar no Explorer:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="758"/>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1022"/>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1404"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="744"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1050"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1432"/>
         <source>Rotate Right:</source>
         <translation>Rotacionar para Direita:</translation>
     </message>
@@ -1507,17 +1507,17 @@ Pronto para instalar.</translation>
         <translation>Recarregar:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1506"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1534"/>
         <source>Normal:</source>
         <translation>Normal:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1586"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1614"/>
         <source>Fullscreen:</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="894"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="922"/>
         <source>Go To Beginning:</source>
         <translation>Voltar para o começo:</translation>
     </message>
@@ -1577,12 +1577,12 @@ Pronto para instalar.</translation>
         <translation>Clique duas vezes</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="963"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="991"/>
         <source>Percent Locate:</source>
         <translation>Porcentagem de localização:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="970"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="998"/>
         <source>0-9</source>
         <translation></translation>
     </message>
@@ -1592,8 +1592,8 @@ Pronto para instalar.</translation>
         <translation>Separar:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="655"/>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1321"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="772"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1349"/>
         <source>Fit Height:</source>
         <translation>Ajustar Altura:</translation>
     </message>
@@ -1614,37 +1614,37 @@ Pronto para instalar.</translation>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1109"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1137"/>
         <source>Text</source>
         <translation>Texto</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1172"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1200"/>
         <source>Render:</source>
         <translation>Renderizar:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1186"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1214"/>
         <source>Format:</source>
         <translation>Formato:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1158"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1186"/>
         <source>Locate:</source>
         <translation>Localizar:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1307"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1335"/>
         <source>Annotation:</source>
         <translation>Anotação</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1213"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1241"/>
         <source>Word Wrap:</source>
         <translation>Quebra de linha:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1144"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1172"/>
         <source>Line Number:</source>
         <translation>Número da linha:</translation>
     </message>
@@ -1673,12 +1673,12 @@ Pronto para instalar.</translation>
         <translation type="vanished">Tabla de Contenido:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="727"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="713"/>
         <source>Center:</source>
         <translation>Centro:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="734"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="720"/>
         <source>Enter / Return</source>
         <translation></translation>
     </message>
@@ -1688,7 +1688,7 @@ Pronto para instalar.</translation>
         <translation>Atalho Duplicado:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1349"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1377"/>
         <source>Dark:</source>
         <translation>Escuro:</translation>
     </message>
@@ -1703,52 +1703,62 @@ Pronto para instalar.</translation>
         <translation>Mostrar janela de configurações:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="814"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="655"/>
         <source>Expand:</source>
         <translation>Expandir:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="922"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="814"/>
+        <source>Flip Horizontal:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="842"/>
+        <source>Flip Vertical:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="950"/>
         <source>Increase Speed:</source>
         <translation>Aumentar Velocidade:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="949"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="977"/>
         <source>Forward 5x:</source>
         <translation>Avançar 5x:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1008"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1036"/>
         <source>Backward 15x:</source>
         <translation>Voltar 15x:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1050"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1078"/>
         <source>Decrease Speed:</source>
         <translation>Diminuir Velocidade:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1078"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1106"/>
         <source>Backward 5x:</source>
         <translation>Voltar 5x:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1092"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1120"/>
         <source>Forward 15x:</source>
         <translation>Avançar 15x:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1293"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1321"/>
         <source>Sidebar:</source>
         <translation>Barra lateral:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1363"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1391"/>
         <source>Next Page:</source>
         <translation>Próxima Página:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1418"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1446"/>
         <source>Previous Page:</source>
         <translation>Página anterior:</translation>
     </message>
@@ -1763,8 +1773,8 @@ Pronto para instalar.</translation>
         <translation>Reduzir tamanho da janela:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="786"/>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1227"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="828"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1255"/>
         <source>Toggle Minimap:</source>
         <translation>Alternar Minimapa:</translation>
     </message>
@@ -2287,17 +2297,17 @@ Pronto para instalar.</translation>
 <context>
     <name>ImageViewer</name>
     <message>
-        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="260"/>
+        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="253"/>
         <source>Width</source>
         <translation>Largura</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="196"/>
+        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="187"/>
         <source>Rotate Right</source>
         <translation>Girar para a direita</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="261"/>
+        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="254"/>
         <source>Height</source>
         <translation>Altura</translation>
     </message>
@@ -2306,12 +2316,12 @@ Pronto para instalar.</translation>
         <translation type="vanished">Ajustar al Ancho</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="268"/>
+        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="261"/>
         <source>Image Count</source>
         <translation>Contagem de imagens</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="173"/>
+        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="164"/>
         <source>Actual Size</source>
         <translation>Tamanho atual</translation>
     </message>
@@ -2328,17 +2338,17 @@ Pronto para instalar.</translation>
         <translation type="obsolete">Modelo da câmera</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="129"/>
+        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="120"/>
         <source>Play / Pause</source>
         <translation>Reproduzir / Pausar</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="270"/>
+        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="263"/>
         <source>Loop Count</source>
         <translation>Contagem de Loops</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="158"/>
+        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="149"/>
         <source>XML</source>
         <translation></translation>
     </message>
@@ -2696,7 +2706,7 @@ Pronto para instalar.</translation>
     <message>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="119"/>
         <location filename="../../../Seer/src/ui/caboutwnd.cpp" line="55"/>
-        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="588"/>
+        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="667"/>
         <source>Close</source>
         <translation>Fechar</translation>
     </message>

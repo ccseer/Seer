@@ -265,7 +265,7 @@
         <translation>파일 위치 열기</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/ccontrolwnd.cpp" line="374"/>
+        <location filename="../../../Seer/src/ui/ccontrolwnd.cpp" line="510"/>
         <source>More</source>
         <translation>더 보기</translation>
     </message>
@@ -600,12 +600,12 @@
         <translation type="vanished">닫기</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="590"/>
+        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="669"/>
         <source>Properties</source>
         <translation>속성</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="1225"/>
+        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="1336"/>
         <source>Viewer</source>
         <translation type="unfinished"></translation>
     </message>
@@ -614,7 +614,7 @@
         <translation type="vanished">새 하위 창에 분리</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="591"/>
+        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="670"/>
         <source>Separate</source>
         <translation>새 하위 창에 분리</translation>
     </message>
@@ -623,12 +623,12 @@
         <translation type="obsolete">1</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="589"/>
+        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="668"/>
         <source>Minimize</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="172"/>
+        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="183"/>
         <source>Please try again with separated window.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1196,27 +1196,27 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="99"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="101"/>
         <source>Automatically scales to fit the entire image in the viewer.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="102"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="104"/>
         <source>Fit Short Side</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="104"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="106"/>
         <source>Scales until the shorter side fits; scroll the longer side if needed.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="108"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="110"/>
         <source>Prefer Full Size</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="110"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="112"/>
         <source>Always loads the image at its original resolution; scrolling may be required.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1414,13 +1414,13 @@
 <context>
     <name>CSettingsWnd4Key</name>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1541"/>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1621"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1569"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1649"/>
         <source>Alt</source>
         <translation>Alt</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1244"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1272"/>
         <source>PDF</source>
         <translation>PDF</translation>
     </message>
@@ -1430,23 +1430,23 @@
         <translation>이미지</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="908"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="936"/>
         <source>Loop:</source>
         <translation>반복:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="831"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="859"/>
         <source>Media</source>
         <translation>멀티미디어</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="880"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="908"/>
         <source>Mute:</source>
         <translation>음 소거:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1527"/>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1607"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1555"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1635"/>
         <source>Shift</source>
         <translation>Shift</translation>
     </message>
@@ -1460,14 +1460,14 @@
         <translation type="vanished">컨트롤 바:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="866"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="894"/>
         <source>Play / Pause:</source>
         <translation>재생 / 일시정지:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="800"/>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="994"/>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1390"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="758"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1022"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1418"/>
         <source>Rotate Left:</source>
         <translation>왼쪽으로 회전:</translation>
     </message>
@@ -1496,8 +1496,8 @@
         <translation type="vanished">제목:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="772"/>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1279"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="800"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1307"/>
         <source>Fit Width:</source>
         <translation>너비 맞추기:</translation>
     </message>
@@ -1507,7 +1507,7 @@
         <translation>파일 속성:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1036"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1064"/>
         <source>Forward:</source>
         <translation>앞으로:</translation>
     </message>
@@ -1532,25 +1532,25 @@
         <translation>포커스 (전역):</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1468"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1496"/>
         <location filename="../../../Seer/src/settings/csettingswnd4key.cpp" line="130"/>
         <source>Trigger Keys</source>
         <translation>바로가기 키</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="713"/>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1335"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="786"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1363"/>
         <source>Actual Size:</source>
         <translation>실제 크기:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1064"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1092"/>
         <source>Backward:</source>
         <translation>뒤로:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1513"/>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1593"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1541"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1621"/>
         <source>Control</source>
         <translation>Ctrl</translation>
     </message>
@@ -1565,9 +1565,9 @@
         <translation>파일 위치 열기:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="758"/>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1022"/>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1404"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="744"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1050"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1432"/>
         <source>Rotate Right:</source>
         <translation>오른쪽으로 회전:</translation>
     </message>
@@ -1600,17 +1600,17 @@
         <translation>새로 고침:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1506"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1534"/>
         <source>Normal:</source>
         <translation>보통 창:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1586"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1614"/>
         <source>Fullscreen:</source>
         <translation>전체 화면:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="894"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="922"/>
         <source>Go To Beginning:</source>
         <translation>처음으로 이동:</translation>
     </message>
@@ -1692,18 +1692,18 @@
         <translation>자세히 보기:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="963"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="991"/>
         <source>Percent Locate:</source>
         <translation>퍼센트 위치:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="970"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="998"/>
         <source>0-9</source>
         <translation>0-9</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="655"/>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1321"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="772"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1349"/>
         <source>Fit Height:</source>
         <translation>높이 맞추기:</translation>
     </message>
@@ -1719,37 +1719,37 @@
         <translation>Ctrl + 클릭</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1109"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1137"/>
         <source>Text</source>
         <translation>텍스트</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1172"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1200"/>
         <source>Render:</source>
         <translation>표시하기</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1186"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1214"/>
         <source>Format:</source>
         <translation>형식:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1158"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1186"/>
         <source>Locate:</source>
         <translation>위치:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1307"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1335"/>
         <source>Annotation:</source>
         <translation>주석</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1213"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1241"/>
         <source>Word Wrap:</source>
         <translation>자동 줄바꿈</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1144"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1172"/>
         <source>Line Number:</source>
         <translation>행 번호:</translation>
     </message>
@@ -1778,12 +1778,12 @@
         <translation type="vanished">아웃라인:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="727"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="713"/>
         <source>Center:</source>
         <translation>중앙</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="734"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="720"/>
         <source>Enter / Return</source>
         <translation>엔터/리턴</translation>
     </message>
@@ -1793,7 +1793,7 @@
         <translation>중복된 단축키</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1349"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1377"/>
         <source>Dark:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1808,52 +1808,62 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="814"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="655"/>
         <source>Expand:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="922"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="814"/>
+        <source>Flip Horizontal:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="842"/>
+        <source>Flip Vertical:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="950"/>
         <source>Increase Speed:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="949"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="977"/>
         <source>Forward 5x:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1008"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1036"/>
         <source>Backward 15x:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1050"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1078"/>
         <source>Decrease Speed:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1078"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1106"/>
         <source>Backward 5x:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1092"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1120"/>
         <source>Forward 15x:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1293"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1321"/>
         <source>Sidebar:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1363"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1391"/>
         <source>Next Page:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1418"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1446"/>
         <source>Previous Page:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1868,8 +1878,8 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="786"/>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1227"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="828"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1255"/>
         <source>Toggle Minimap:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2395,17 +2405,17 @@
 <context>
     <name>ImageViewer</name>
     <message>
-        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="260"/>
+        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="253"/>
         <source>Width</source>
         <translation>너비</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="196"/>
+        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="187"/>
         <source>Rotate Right</source>
         <translation>오른쪽으로 회전</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="261"/>
+        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="254"/>
         <source>Height</source>
         <translation>높이</translation>
     </message>
@@ -2414,12 +2424,12 @@
         <translation type="vanished">너비 맞추기</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="268"/>
+        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="261"/>
         <source>Image Count</source>
         <translation>이미지 수</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="173"/>
+        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="164"/>
         <source>Actual Size</source>
         <translation>실제 크기</translation>
     </message>
@@ -2556,17 +2566,17 @@
         <translation type="vanished">초점면 세로 해상도</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="129"/>
+        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="120"/>
         <source>Play / Pause</source>
         <translation>재생 / 일시정지</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="270"/>
+        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="263"/>
         <source>Loop Count</source>
         <translation>반복 횟수</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="158"/>
+        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="149"/>
         <source>XML</source>
         <translation>XML</translation>
     </message>
@@ -3015,7 +3025,7 @@
     <message>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="119"/>
         <location filename="../../../Seer/src/ui/caboutwnd.cpp" line="55"/>
-        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="588"/>
+        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="667"/>
         <source>Close</source>
         <translation type="unfinished">닫기</translation>
     </message>
