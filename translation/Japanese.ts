@@ -7,90 +7,90 @@
         <location filename="../../../Seer/src/opt/updater/appupdater.cpp" line="268"/>
         <location filename="../../../Seer/src/opt/updater/appupdater.cpp" line="446"/>
         <source>Network Error:</source>
-        <translation type="unfinished"></translation>
+        <translation>ネットワークエラー:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/updater/appupdater.cpp" line="356"/>
         <source>Invalid release notes URL</source>
-        <translation type="unfinished"></translation>
+        <translation>無効なリリースノート URL</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/updater/appupdater.cpp" line="379"/>
         <source>Failed to fetch release notes</source>
-        <translation type="unfinished"></translation>
+        <translation>リリースノートの取得に失敗しました</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/updater/appupdater.cpp" line="411"/>
         <source>Failed to save download file.</source>
-        <translation type="unfinished"></translation>
+        <translation>ダウンロードファイルの保存に失敗しました。</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="46"/>
         <source>Update</source>
-        <translation type="unfinished"></translation>
+        <translation>更新</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="53"/>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="221"/>
         <source>Checking for updates...</source>
-        <translation type="unfinished"></translation>
+        <translation>更新を確認しています...</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="69"/>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="228"/>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="306"/>
         <source>Downloading...</source>
-        <translation type="unfinished"></translation>
+        <translation>ダウンロード中...</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="91"/>
         <source>Install Update</source>
-        <translation type="unfinished"></translation>
+        <translation>更新をインストール</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="93"/>
         <source>Skip This Version</source>
-        <translation type="unfinished"></translation>
+        <translation>このバージョンをスキップ</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="95"/>
         <source>Remind Me Later</source>
-        <translation type="unfinished"></translation>
+        <translation>後で通知</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="123"/>
         <source>Install Manually</source>
-        <translation type="unfinished"></translation>
+        <translation>手動でインストール</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="247"/>
         <source>%1 %2 is now available (you have %3).</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 %2 が利用可能になりました（現在のバージョン: %3）。</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="268"/>
         <source>You&apos;re up to date!</source>
-        <translation type="unfinished"></translation>
+        <translation>最新のバージョンを使用しています！</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="269"/>
         <source>%1 %2 is currently the newest version available.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 %2 は現在利用可能な最新バージョンです。</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="281"/>
         <source>Update Error</source>
-        <translation type="unfinished"></translation>
+        <translation>更新エラー</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="295"/>
         <source>The update package has been downloaded.</source>
-        <translation type="unfinished"></translation>
+        <translation>更新パッケージのダウンロードが完了しました。</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="296"/>
         <source>Ready to install.</source>
-        <translation type="unfinished"></translation>
+        <translation>インストールの準備が完了しました。</translation>
     </message>
 </context>
 <context>
@@ -186,7 +186,7 @@
     <message>
         <location filename="../../../Seer/src/ui/caboutwnd.cpp" line="120"/>
         <source>Open Source Software in Seer</source>
-        <translation type="unfinished"></translation>
+        <translation>Seer で使用しているオープンソースソフトウェア</translation>
     </message>
 </context>
 <context>
@@ -245,7 +245,7 @@
     <name>CConfirmDlg</name>
     <message>
         <source>&amp;Ok</source>
-        <translation type="vanished">O  K(&amp;O)</translation>
+        <translation type="vanished">OK(&amp;O)</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
@@ -253,7 +253,7 @@
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation type="vanished">O  K(&amp;O)</translation>
+        <translation type="vanished">OK(&amp;O)</translation>
     </message>
 </context>
 <context>
@@ -266,7 +266,7 @@
     <message>
         <location filename="../../../Seer/src/ui/ccontrolwnd.cpp" line="27"/>
         <source>Reveal In Explorer</source>
-        <translation>ファイルの場所を開く</translation>
+        <translation>エクスプローラーで表示</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/ui/ccontrolwnd.cpp" line="510"/>
@@ -335,7 +335,7 @@
     <message>
         <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="208"/>
         <source>Opens with</source>
-        <translation>アプリで開く</translation>
+        <translation>プログラム</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="171"/>
@@ -350,12 +350,12 @@
     <message>
         <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="56"/>
         <source>Modified</source>
-        <translation>最終更新日時</translation>
+        <translation>更新日時</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="58"/>
         <source>Accessed</source>
-        <translation>最終アクセス日時</translation>
+        <translation>アクセス日時</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="54"/>
@@ -375,7 +375,7 @@
     <message>
         <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="54"/>
         <source>Product Name</source>
-        <translation>プロダクト名</translation>
+        <translation>製品名</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="56"/>
@@ -385,22 +385,22 @@
     <message>
         <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="58"/>
         <source>Legal Copyright</source>
-        <translation>法的著作権</translation>
+        <translation>著作権</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="60"/>
         <source>Product Version</source>
-        <translation>プロダクトバージョン</translation>
+        <translation>製品バージョン</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="62"/>
         <source>File Description</source>
-        <translation>ファイル説明</translation>
+        <translation>ファイルの説明</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="64"/>
         <source>Legal Trademarks</source>
-        <translation>法的商標</translation>
+        <translation>商標</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="66"/>
@@ -420,27 +420,27 @@
     <message>
         <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="72"/>
         <source>Special Build</source>
-        <translation>特別なビルド</translation>
+        <translation>スペシャルビルド</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="142"/>
         <source>Total bytes</source>
-        <translation type="unfinished"></translation>
+        <translation>合計バイト数</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="147"/>
         <source>Available bytes</source>
-        <translation type="unfinished"></translation>
+        <translation>利用可能なバイト数</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="150"/>
         <source>Free bytes</source>
-        <translation type="unfinished"></translation>
+        <translation>空きバイト数</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="157"/>
         <source>Block size</source>
-        <translation type="unfinished"></translation>
+        <translation>ブロックサイズ</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="43"/>
@@ -455,7 +455,7 @@
     <message>
         <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="175"/>
         <source>Folder</source>
-        <translation type="unfinished">フォルダー</translation>
+        <translation>フォルダー</translation>
     </message>
     <message>
         <source>Open Selected Item With Default Application</source>
@@ -468,7 +468,7 @@
     <message>
         <location filename="../../../Seer/src/unknown/tableview4property.cpp" line="17"/>
         <source>Pin</source>
-        <translation type="unfinished"></translation>
+        <translation>ピン留め</translation>
     </message>
 </context>
 <context>
@@ -543,7 +543,7 @@
     <message>
         <location filename="../../../Seer/src/cmain.cpp" line="158"/>
         <source> is registered by other application.</source>
-        <translation>はほかのプログラムで使用されています。</translation>
+        <translation> は他のアプリケーションによって登録されています。</translation>
     </message>
     <message>
         <source>Restart Failed</source>
@@ -552,7 +552,7 @@
     <message>
         <location filename="../../../Seer/src/cmain.cpp" line="304"/>
         <source>Monitoring &apos;Space&apos; key failed, can&apos;t proceed.</source>
-        <translation>スペースキーの監視に失敗したので、続行できません。</translation>
+        <translation>「スペース」キーの監視に失敗しました。続行できません。</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/cmain.cpp" line="578"/>
@@ -561,41 +561,41 @@
     </message>
     <message>
         <source>Please restart Seer manually.</source>
-        <translation type="vanished">Seerを再起動してください。</translation>
+        <translation type="vanished">Seer を手動で再起動してください。</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/cmain.cpp" line="157"/>
         <source>Register shortcut failed</source>
-        <translation>ショートカットの登録に失敗</translation>
+        <translation>ショートカットの登録に失敗しました</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/cmain.cpp" line="733"/>
         <source>The system default application not found.</source>
-        <translation>既定のアプリが見つかりません。</translation>
+        <translation>システムの既定のアプリが見つかりません。</translation>
     </message>
     <message>
         <source>Seer License Activation</source>
-        <translation type="vanished">Seer ライセンスを登録する</translation>
+        <translation type="vanished">Seer ライセンス認証</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/cmain.cpp" line="803"/>
         <source>Please share with your friends.</source>
-        <translation>お友達と共有しましょう。</translation>
+        <translation>ぜひお友達と共有してください。</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/cmain.cpp" line="664"/>
         <source>About</source>
-        <translation type="unfinished">About</translation>
+        <translation>バージョン情報</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/cmain.cpp" line="714"/>
         <source>Activation</source>
-        <translation type="unfinished"></translation>
+        <translation>ライセンス認証</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/cmain.cpp" line="760"/>
         <source>Seer is already running.</source>
-        <translation type="unfinished">Seerは既に起動しています。</translation>
+        <translation>Seer は既に実行中です。</translation>
     </message>
 </context>
 <context>
@@ -611,27 +611,27 @@
     </message>
     <message>
         <source>Seperate</source>
-        <translation type="vanished">新規サブウィンドウに分離</translation>
+        <translation type="vanished">ウィンドウを分離</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="683"/>
         <source>Separate</source>
-        <translation type="unfinished"></translation>
+        <translation>分離</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="681"/>
         <source>Minimize</source>
-        <translation type="unfinished"></translation>
+        <translation>最小化</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="188"/>
         <source>Please try again with separated window.</source>
-        <translation type="unfinished"></translation>
+        <translation>分離されたウィンドウで再度お試しください。</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="1353"/>
         <source>Viewer</source>
-        <translation type="unfinished"></translation>
+        <translation>ビューアー</translation>
     </message>
 </context>
 <context>
@@ -665,16 +665,16 @@
     </message>
     <message>
         <source>License:</source>
-        <translation type="vanished">ライセンスキー:</translation>
+        <translation type="vanished">ライセンス:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/licenser/cregdlg.ui" line="72"/>
         <source>Order</source>
-        <translation>注文</translation>
+        <translation>購入</translation>
     </message>
     <message>
         <source>Licensed</source>
-        <translation type="vanished">登録完了</translation>
+        <translation type="vanished">認証済み</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/licenser/cregdlg.ui" line="79"/>
@@ -687,11 +687,11 @@
     </message>
     <message>
         <source>Copied</source>
-        <translation type="vanished">コピー済</translation>
+        <translation type="vanished">コピーしました</translation>
     </message>
     <message>
         <source>Invalid License</source>
-        <translation type="vanished">ライセンスキーが正しくありません</translation>
+        <translation type="vanished">無効なライセンス</translation>
     </message>
     <message>
         <source>Back</source>
@@ -700,39 +700,39 @@
     <message>
         <location filename="../../../Seer/src/opt/licenser/cregdlg.cpp" line="24"/>
         <source>Thanks for your support!!!</source>
-        <translation type="unfinished"></translation>
+        <translation>ご支援ありがとうございます！！！</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/licenser/cregdlg.cpp" line="68"/>
         <source>Seer will stop running in %1 day(s).</source>
-        <translation type="unfinished"></translation>
+        <translation>Seer はあと %1 日で動作を停止します。</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/licenser/cregdlg.cpp" line="70"/>
         <source>The evaluation period has ended.</source>
-        <translation type="unfinished"></translation>
+        <translation>試用期間が終了しました。</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/licenser/cregdlg.cpp" line="73"/>
         <source>Please enter your license key.</source>
-        <translation type="unfinished"></translation>
+        <translation>ライセンスキーを入力してください。</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/licenser/cregdlg.cpp" line="194"/>
         <location filename="../../../Seer/src/opt/licenser/cregdlg.cpp" line="213"/>
         <source>Verifying</source>
-        <translation type="unfinished"></translation>
+        <translation>確認中</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/licenser/cregdlg.cpp" line="197"/>
         <location filename="../../../Seer/src/opt/licenser/cregdlg.cpp" line="236"/>
         <source>Activated</source>
-        <translation type="unfinished"></translation>
+        <translation>認証完了</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/licenser/cregdlg.cpp" line="205"/>
         <source>Failed to activate</source>
-        <translation type="unfinished"></translation>
+        <translation>認証に失敗しました</translation>
     </message>
 </context>
 <context>
@@ -740,7 +740,7 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="66"/>
         <source>Type</source>
-        <translation>ファイルの種類</translation>
+        <translation>ファイルタイプ</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="63"/>
@@ -770,7 +770,7 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="68"/>
         <source>Scripts</source>
-        <translation type="unfinished"></translation>
+        <translation>スクリプト</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="78"/>
@@ -780,11 +780,11 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="256"/>
         <source>Restarting to apply the new settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>新しい設定を適用するために再起動しています。</translation>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation type="vanished">&amp;OK</translation>
+        <translation type="vanished">OK(&amp;O)</translation>
     </message>
     <message>
         <source>Restart</source>
@@ -796,21 +796,21 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4controls.ui" line="96"/>
         <source>Show &quot;Display in explorer&quot; button</source>
-        <translation>&quot;ファイルの場所を開くボタン&quot;を表示</translation>
+        <translation>&quot;エクスプローラーで表示&quot; ボタンを表示</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4controls.ui" line="82"/>
         <source>Show &quot;Open with default application&quot; button</source>
-        <translation>&quot;既定のアプリで開くボタン&quot;を表示</translation>
+        <translation>&quot;既定のアプリで開く&quot; ボタンを表示</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4controlsedit.cpp" line="72"/>
         <source>Remove</source>
-        <translation>除去</translation>
+        <translation>削除</translation>
     </message>
     <message>
         <source>executable file path</source>
-        <translation type="vanished">exeファイルのパス</translation>
+        <translation type="vanished">実行ファイルのパス</translation>
     </message>
     <message>
         <source>extension</source>
@@ -827,12 +827,12 @@
     </message>
     <message>
         <source>About controls...</source>
-        <translation type="vanished">コントロールバーについて...</translation>
+        <translation type="vanished">コントロールについて...</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4controls.ui" line="59"/>
         <source>Appearance</source>
-        <translation>閲覧ウィンドウ</translation>
+        <translation>外観</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4controls.ui" line="142"/>
@@ -842,22 +842,21 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4controlsedit.cpp" line="40"/>
         <source>Select executable file path</source>
-        <translatorcomment>実行ファイルのパスを選択して下さい</translatorcomment>
-        <translation>実行ファイルを選択</translation>
+        <translation>実行ファイルのパスを選択</translation>
     </message>
     <message>
         <source>equals triggered file path</source>
-        <translation type="vanished">はトリガーされたファイルパスに等しいです</translation>
+        <translation type="vanished">トリガーされたファイルパスと等しい</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4controlsedit.cpp" line="65"/>
         <source>Edit</source>
-        <translation>拡張子に関連付けるアプリの引数・オプションを編集</translation>
+        <translation>編集</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4controls.ui" line="89"/>
         <source>Show &quot;Navigation&quot; button</source>
-        <translation>&quot;ナビゲーション&quot;ボタンを表示</translation>
+        <translation>&quot;ナビゲーション&quot; ボタンを表示</translation>
     </message>
 </context>
 <context>
@@ -868,11 +867,11 @@
     </message>
     <message>
         <source>Browse for dopusrt.exe</source>
-        <translation type="vanished">ディレクトリオーパスのパスを選択</translation>
+        <translation type="vanished">dopusrt.exe を参照</translation>
     </message>
     <message>
         <source>Temp Folder</source>
-        <translation type="vanished">一時フォルダ</translation>
+        <translation type="vanished">一時フォルダー</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="75"/>
@@ -881,24 +880,24 @@
     </message>
     <message>
         <source>Save plugin temp files after Seer exited</source>
-        <translation type="vanished">Seer終了時に一時ファイルを削除しない</translation>
+        <translation type="vanished">Seer 終了時にプラグインの一時ファイルを保持する</translation>
     </message>
     <message>
         <source>Disable folder contents loading</source>
-        <translation type="vanished">フォルダの中身取得を無効化</translation>
+        <translation type="vanished">フォルダー内容の読み込みを無効にする</translation>
     </message>
     <message>
         <source>Disable file type detecting</source>
-        <translation type="vanished">ファイル種類の検知を無効化</translation>
+        <translation type="vanished">ファイルタイプの検出を無効にする</translation>
     </message>
     <message>
         <source>Reset settings to default</source>
-        <translation type="vanished">設定をデフォルトに戻す</translation>
+        <translation type="vanished">設定を既定値にリセットする</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="315"/>
         <source>Confirm &amp; Restart :</source>
-        <translation>確認 &amp; 再起動:</translation>
+        <translation>確認して再起動 :</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -912,27 +911,27 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="85"/>
         <source>Never take focus</source>
-        <translation type="unfinished"></translation>
+        <translation>フォーカスを奪わない</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="86"/>
         <source>Every time a file is previewed</source>
-        <translation type="unfinished"></translation>
+        <translation>ファイルをプレビューするたび</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="88"/>
         <source>Only when the window opens</source>
-        <translation type="unfinished"></translation>
+        <translation>ウィンドウが開いたときのみ</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="109"/>
         <source>Removes Seer&apos;s icon from the system tray area.</source>
-        <translation type="unfinished"></translation>
+        <translation>システムトレイから Seer のアイコンを非表示にします。</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="111"/>
         <source>Show the title and control bars permanently or only when hovering the mouse.</source>
-        <translation type="unfinished"></translation>
+        <translation>タイトルバーとコントロールバーを常に表示するか、マウスホバー時のみ表示します。</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="114"/>
@@ -960,19 +959,49 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="129"/>
-        <source>Sets the maximum size of the preview window as a percentage of the screen size.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="132"/>
         <source>Determines when the preview window becomes the active window and receives keyboard input.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Automatically updates Seer&apos;s preview to follow the currently selected file
+                in File Explorer.</source>
+        <translation type="vanished">エクスプローラーでの選択項目に合わせて Seer のプレビューを自動的に更新します。</translation>
+    </message>
+    <message>
+        <source>Allows you to open files directly by double-clicking, using the application
+                associated with the file type in your system settings.</source>
+        <translation type="vanished">ダブルクリックするだけで、システム設定に関連付けられた既定のアプリでファイルを直接開けるようにします。</translation>
+    </message>
+    <message>
+        <source>Allows using the Delete key to move the currently previewed file to the Recycle
+                Bin.</source>
+        <translation type="vanished">Delete キーを使用して、現在プレビュー中のファイルをゴミ箱に移動できるようにします。</translation>
+    </message>
+    <message>
+        <source>Allows Seer to respond to simulated key input generated by software, such as
+                virtual keyboards or automation tools.</source>
+        <translation type="vanished">仮想キーボードや自動化ツールなど、ソフトウェアによって生成されたシミュレートされたキー入力に Seer が応答できるようにします。</translation>
+    </message>
+    <message>
+        <source>Remembers and restores the preview window&apos;s size and position from the last
+                session.</source>
+        <translation type="vanished">前回のセッションからプレビューウィンドウのサイズと位置を記憶し、復元します。</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="129"/>
+        <source>Sets the maximum size of the preview window as a percentage of the screen size.</source>
+        <translation>プレビューウィンドウの最大サイズを画面サイズに対するパーセンテージで設定します。</translation>
+    </message>
+    <message>
+        <source>Determines when the preview window becomes the active window and receives
+                keyboard input.</source>
+        <translation type="vanished">プレビューウィンドウがアクティブになり、キーボード入力を受け取るタイミングを決定します。</translation>
+    </message>
+    <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="196"/>
         <source>Keep window size and position</source>
-        <translation>ウィンドウサイズ・位置を保持</translation>
+        <translation>ウィンドウのサイズと位置を保持する</translation>
     </message>
     <message>
         <source>Tray Icon</source>
@@ -980,7 +1009,7 @@
     </message>
     <message>
         <source>Hide Tray Icon</source>
-        <translation type="vanished">トレイアイコン非表示</translation>
+        <translation type="vanished">トレイアイコンを隠す</translation>
     </message>
     <message>
         <source>Use White Icon</source>
@@ -988,16 +1017,15 @@
     </message>
     <message>
         <source>Run Settings.exe to display tray icon when it&apos;s hidden.</source>
-        <translation type="vanished">トレイアイコンを非表示設定後に再表示させる為には、Settings.exe を実行する必要があります。
-タスクトレイ及びコマンド実行からは再表示出来ませんのでご注意下さい。</translation>
+        <translation type="vanished">トレイアイコンが非表示のときに Settings.exe を実行して表示します。</translation>
     </message>
     <message>
         <source>Open temp folder failed.</source>
-        <translation type="vanished">一時フォルダのオープン失敗。</translation>
+        <translation type="vanished">一時フォルダーを開けませんでした。</translation>
     </message>
     <message>
         <source>Reveal Settings.exe failed.</source>
-        <translation type="vanished">Settings.exe が見つかりません。</translation>
+        <translation type="vanished">Settings.exe の表示に失敗しました。</translation>
     </message>
     <message>
         <source>3rd Party</source>
@@ -1005,7 +1033,7 @@
     </message>
     <message>
         <source>Directory Opus:</source>
-        <translation type="vanished">ディレクトリオーパス:</translation>
+        <translation type="vanished">Directory Opus:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="427"/>
@@ -1043,77 +1071,77 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="100"/>
         <source>Double click to open file with system default application</source>
-        <translation type="unfinished">閲覧ウィンドウ下部バーのダブルクリックにより、ファイルを既定のアプリで開く</translation>
+        <translation>ダブルクリックで既定のアプリを使用してファイルを開く</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="124"/>
         <source>Track selected file in Explorer</source>
-        <translation type="unfinished">選択ファイルをエクスプローラーで追跡</translation>
+        <translation>エクスプローラーで選択中のファイルを追跡する</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="148"/>
         <source>Enable &quot;Delete&quot; key</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;Delete&quot; キーを有効にする</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="172"/>
         <source>Trigger on software-generated key events</source>
-        <translation type="unfinished"></translation>
+        <translation>ソフトウェア生成キーイベントでトリガーする</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="220"/>
         <source>Preview window focus:</source>
-        <translation type="unfinished"></translation>
+        <translation>プレビューウィンドウのフォーカス:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="247"/>
         <source>Maximum preview size:</source>
-        <translation type="unfinished"></translation>
+        <translation>プレビューの最大サイズ:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="274"/>
         <source>Backup:</source>
-        <translation type="unfinished"></translation>
+        <translation>バックアップ:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="281"/>
         <source>Export</source>
-        <translation type="unfinished"></translation>
+        <translation>エクスポート</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="288"/>
         <source>Import</source>
-        <translation type="unfinished"></translation>
+        <translation>インポート</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="308"/>
         <source>Reset to default</source>
-        <translation type="unfinished"></translation>
+        <translation>既定値にリセット</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="340"/>
         <source>User defined</source>
-        <translation type="unfinished"></translation>
+        <translation>ユーザー定義</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="402"/>
         <source>Visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>表示</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="458"/>
         <source>Title bar &amp; Control bar:</source>
-        <translation type="unfinished"></translation>
+        <translation>タイトルバーとコントロールバー:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="468"/>
         <source>Constant</source>
-        <translation type="unfinished"></translation>
+        <translation>常に表示</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="475"/>
         <source>Dynamic</source>
-        <translation type="unfinished"></translation>
+        <translation>動的 (ホバー時)</translation>
     </message>
     <message>
         <source>Use the trigger key to close window</source>
@@ -1132,7 +1160,7 @@
     </message>
     <message>
         <source>Media</source>
-        <translation type="vanished">マルチメディア</translation>
+        <translation type="vanished">メディア</translation>
     </message>
     <message>
         <source>Other</source>
@@ -1140,11 +1168,11 @@
     </message>
     <message>
         <source> already exist.</source>
-        <translation type="vanished">既に存在します。</translation>
+        <translation type="vanished"> は既に存在します。</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="vanished">除去</translation>
+        <translation type="vanished">削除</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -1156,7 +1184,7 @@
     </message>
     <message>
         <source>Select your Text format file</source>
-        <translation type="vanished">テキスト整形設定ファイルを選択</translation>
+        <translation type="vanished">テキスト形式のファイルを選択</translation>
     </message>
     <message>
         <source>Confirm</source>
@@ -1164,11 +1192,21 @@
     </message>
     <message>
         <source>Search extention, e.g.: psd</source>
-        <translation type="vanished">拡張子を検索，例：psd</translation>
+        <translation type="vanished">拡張子を検索 (例: psd)</translation>
     </message>
     <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;:/face_nohappy.png&quot;/&gt;&lt;span style=&quot; font-size:18pt; font-weight:496; color:#333;&quot;&gt; Oops! &lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:18pt; font-weight:496; color:#333;&quot;&gt;No extensions matched.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;:/face_nohappy.png&quot;/&gt;&lt;span style=&quot; font-size:18pt; font-weight:496; color:#333;&quot;&gt; おおっと! &lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:18pt; font-weight:496; color:#333;&quot;&gt;拡張子が見つかりません。&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;img
+                src=&quot;:/face_nohappy.png&quot;/&gt;&lt;span style=&quot; font-size:18pt;
+                font-weight:496; color:#333;&quot;&gt; Oops! &lt;/span&gt;&lt;/p&gt;&lt;p
+                align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:18pt; font-weight:496;
+                color:#333;&quot;&gt;No extensions
+                matched.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p
+                align=&quot;center&quot;&gt;&lt;img src=&quot;:/face_nohappy.png&quot;/&gt;&lt;span
+                style=&quot; font-size:18pt; font-weight:496; color:#333;&quot;&gt; おっと!
+                &lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot;
+                font-size:18pt; font-weight:496;
+                color:#333;&quot;&gt;一致する拡張子がありません。&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Wrap</source>
@@ -1184,65 +1222,65 @@
     </message>
     <message>
         <source>Show time indication</source>
-        <translation type="obsolete">タイムインジケーターを表示</translation>
+        <translation type="obsolete">時間表示を表示</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="45"/>
         <source>Oops!</source>
-        <translation type="unfinished"></translation>
+        <translation>おっと！</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="45"/>
         <source>No matching extensions found.</source>
-        <translation type="unfinished"></translation>
+        <translation>一致する拡張子が見つかりません。</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="50"/>
         <source>Search extension, e.g.: psd</source>
-        <translation>拡張子を探す, 例: psd</translation>
+        <translation>拡張子を探す (例: psd)</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="86"/>
         <source>Markdown stylesheet path</source>
-        <translation type="unfinished"></translation>
+        <translation>Markdown スタイルシートのパス</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="88"/>
         <source>Will display property only for extensions in this field, e.g.:</source>
-        <translation type="unfinished"></translation>
+        <translation>このフィールドの拡張子についてのみプロパティを表示します（例）:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="97"/>
         <location filename="../../../Seer/src/picture/imageview.cpp" line="188"/>
         <source>Auto Fit</source>
-        <translation type="unfinished"></translation>
+        <translation>自動調整</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="101"/>
         <source>Automatically scales to fit the entire image in the viewer.</source>
-        <translation type="unfinished"></translation>
+        <translation>ビューアーで画像全体が収まるように自動的にスケーリングします。</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="104"/>
         <location filename="../../../Seer/src/picture/imageview.cpp" line="191"/>
         <source>Fit Short Side</source>
-        <translation type="unfinished"></translation>
+        <translation>短い辺に合わせる</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="106"/>
         <source>Scales until the shorter side fits; scroll the longer side if needed.</source>
-        <translation type="unfinished"></translation>
+        <translation>短い辺が収まるまでスケーリングし、必要に応じて長い辺をスクロールします。</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="110"/>
         <location filename="../../../Seer/src/picture/imageview.cpp" line="194"/>
         <source>Prefer Full Size</source>
-        <translation type="unfinished"></translation>
+        <translation>フルサイズを優先</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="112"/>
         <source>Always loads the image at its original resolution; scrolling may be required.</source>
-        <translation type="unfinished"></translation>
+        <translation>常に元の解像度で画像をロードします（スクロールが必要になる場合があります）。</translation>
     </message>
     <message>
         <source>Loop</source>
@@ -1254,46 +1292,48 @@
     </message>
     <message>
         <source>Markdown css not found.</source>
-        <translation type="vanished">Markdown CSSが見つかりません。</translation>
+        <translation type="vanished">Markdown CSS が見つかりません。</translation>
     </message>
     <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;:(&lt;/p&gt;&lt;p&gt;Oops!&lt;/p&gt;&lt;p&gt;No extensions matched.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;:(&lt;/p&gt;&lt;p&gt;Oops!&lt;/p&gt;&lt;p&gt;拡張子が見つかりません。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;:(&lt;/p&gt;&lt;p&gt;Oops!&lt;/p&gt;&lt;p&gt;No
+                extensions matched.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="vanished">
+                &lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;:(&lt;/p&gt;&lt;p&gt;おっと!&lt;/p&gt;&lt;p&gt;拡張子が見つかりません。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.ui" line="234"/>
         <source>Disable renaming during preview</source>
-        <translation type="unfinished"></translation>
+        <translation>プレビュー中の名前変更を無効にする</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.ui" line="272"/>
         <source>Disable GPU decoding</source>
-        <translation type="unfinished"></translation>
+        <translation>GPU デコードを無効にする</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.ui" line="469"/>
         <source>Disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>無効</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.ui" line="636"/>
         <source>Disable folder contents loading</source>
-        <translation type="unfinished">フォルダの中身取得を無効化</translation>
+        <translation>フォルダー内容の読み込みを無効にする</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.ui" line="692"/>
         <source>Default display mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>既定の表示モード:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.ui" line="799"/>
         <source>System</source>
-        <translation type="unfinished"></translation>
+        <translation>システム</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.ui" line="528"/>
         <source>Disable file type detecting</source>
-        <translation type="unfinished">ファイル種類の検知を無効化</translation>
+        <translation>ファイルタイプの検出を無効にする</translation>
     </message>
     <message>
         <source>Image</source>
@@ -1302,7 +1342,7 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="383"/>
         <source>Invalid</source>
-        <translation type="unfinished">正しくありません</translation>
+        <translation>無効</translation>
     </message>
     <message>
         <source>PDF</source>
@@ -1321,23 +1361,23 @@
     </message>
     <message>
         <source>Media</source>
-        <translation type="vanished">マルチメディア</translation>
+        <translation type="vanished">メディア</translation>
     </message>
     <message>
         <source>Track selected file in Explorer</source>
-        <translation type="vanished">選択ファイルをエクスプローラーで追跡</translation>
+        <translation type="vanished">エクスプローラーで選択中のファイルを追跡する</translation>
     </message>
     <message>
         <source>Show time indication</source>
-        <translation type="vanished">タイムインジケーターを表示</translation>
+        <translation type="vanished">時間表示を表示</translation>
     </message>
     <message>
         <source>Language:</source>
-        <translation type="vanished">言語：</translation>
+        <translation type="vanished">言語:</translation>
     </message>
     <message>
         <source>Run Seer at system start</source>
-        <translation type="vanished">システム起動時にSeerを起動</translation>
+        <translation type="vanished">システム起動時に Seer を実行する</translation>
     </message>
     <message>
         <source>Use the trigger key to close window</source>
@@ -1349,7 +1389,7 @@
     </message>
     <message>
         <source>Double click to open file with system default application</source>
-        <translation type="vanished">閲覧ウィンドウ下部バーのダブルクリックにより、ファイルを既定のアプリで開く</translation>
+        <translation type="vanished">ダブルクリックで既定のアプリを使用してファイルを開く</translation>
     </message>
     <message>
         <source>Display titlebar</source>
@@ -1366,11 +1406,11 @@
     </message>
     <message>
         <source>Appearance</source>
-        <translation type="vanished">アピアランス</translation>
+        <translation type="vanished">外観</translation>
     </message>
     <message>
         <source>Seer will restart</source>
-        <translation type="vanished">Seerを再起動する必要があります</translation>
+        <translation type="vanished">Seer を再起動する必要があります</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4general.ui" line="191"/>
@@ -1390,27 +1430,27 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4general.ui" line="124"/>
         <source>Run Seer when system boots</source>
-        <translation type="unfinished"></translation>
+        <translation>システム起動時に Seer を実行する</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4general.ui" line="131"/>
         <source>Run as administrator</source>
-        <translation type="unfinished"></translation>
+        <translation>管理者として実行</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4general.cpp" line="169"/>
         <source>Auto</source>
-        <translation type="unfinished"></translation>
+        <translation>自動</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4general.cpp" line="170"/>
         <source>Dark</source>
-        <translation type="unfinished"></translation>
+        <translation>ダーク</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4general.cpp" line="171"/>
         <source>Light</source>
-        <translation type="unfinished"></translation>
+        <translation>ライト</translation>
     </message>
 </context>
 <context>
@@ -1434,17 +1474,17 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="936"/>
         <source>Loop:</source>
-        <translation>繰り返し：</translation>
+        <translation>ループ:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="859"/>
         <source>Media</source>
-        <translation>マルチメディア</translation>
+        <translation>メディア</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="908"/>
         <source>Mute:</source>
-        <translation>ミュート：</translation>
+        <translation>ミュート:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1555"/>
@@ -1459,24 +1499,24 @@
     </message>
     <message>
         <source>Control Bar:</source>
-        <translation type="vanished">コントロールバー：</translation>
+        <translation type="vanished">コントロールバー:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="894"/>
         <source>Play / Pause:</source>
-        <translation>再生 / 一時停止：</translation>
+        <translation>再生 / 一時停止:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="758"/>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1022"/>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1418"/>
         <source>Rotate Left:</source>
-        <translation>左に回転：</translation>
+        <translation>左に回転:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="139"/>
         <source>Close:</source>
-        <translation>閉じる：</translation>
+        <translation>閉じる:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="21"/>
@@ -1491,42 +1531,42 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="409"/>
         <source>Column View:</source>
-        <translation>カラム表示：</translation>
+        <translation>カラム表示:</translation>
     </message>
     <message>
         <source>Title:</source>
-        <translation type="vanished">タイトル：</translation>
+        <translation type="vanished">タイトル:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="800"/>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1307"/>
         <source>Fit Width:</source>
-        <translation>ウィンドウ幅に合わせる：</translation>
+        <translation>ウィンドウ幅に合わせる:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="56"/>
         <source>File Property:</source>
-        <translation>ファイルのプロパティ：</translation>
+        <translation>ファイルのプロパティ:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1064"/>
         <source>Forward:</source>
-        <translation>早送り：</translation>
+        <translation>早送り:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="499"/>
         <source>Tree View:</source>
-        <translation>ツリー表示：</translation>
+        <translation>ツリー表示:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="271"/>
         <source>Open With Default App:</source>
-        <translation>既定のアプリで開く：</translation>
+        <translation>既定のアプリで開く:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="454"/>
         <source>Open Selected Item:</source>
-        <translation>選択アイテムを開く：</translation>
+        <translation>選択アイテムを開く:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="187"/>
@@ -1543,12 +1583,12 @@
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="786"/>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1363"/>
         <source>Actual Size:</source>
-        <translation>実際のサイズ：</translation>
+        <translation>実際のサイズ:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1092"/>
         <source>Backward:</source>
-        <translation>巻き戻し：</translation>
+        <translation>巻き戻し:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1541"/>
@@ -1559,102 +1599,102 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.cpp" line="259"/>
         <source>Can not have &apos;Space&apos; key.</source>
-        <translation>スペースキーを使用できません。</translation>
+        <translation>Space キーは使用できません。</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.cpp" line="272"/>
         <source>Duplicated shortcut:</source>
-        <translation type="unfinished"></translation>
+        <translation>重複したショートカット:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="215"/>
         <source>Reveal In Explorer:</source>
-        <translation>ファイルの場所を開く：</translation>
+        <translation>エクスプローラーで表示:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="744"/>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1050"/>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1432"/>
         <source>Rotate Right:</source>
-        <translation>右に回転：</translation>
+        <translation>右に回転:</translation>
     </message>
     <message>
-        <source>Trigger Keys:  </source>
-        <translation type="vanished">トリガーキー：</translation>
+        <source>Trigger Keys: </source>
+        <translation type="vanished">トリガーキー:</translation>
     </message>
     <message>
         <source>Time Indication:</source>
-        <translation type="vanished">時間表示：</translation>
+        <translation type="vanished">時間表示:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="513"/>
         <source>Open Selected Item With Seer:</source>
-        <translation>選択ファイルをSeerで開く：</translation>
+        <translation>選択ファイルを Seer で開く:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="527"/>
         <source>Reveal Selected Item:</source>
-        <translation>選択ファイルを既定のアプリで開く：</translation>
+        <translation>選択ファイルを既定のアプリで開く:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="257"/>
         <source>Maximize / Restore:</source>
-        <translation>最大化 / 元に戻す：</translation>
+        <translation>最大化 / 元に戻す:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="285"/>
         <source>Reload:</source>
-        <translation>再読込:</translation>
+        <translation>再読み込み:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1172"/>
         <source>Line Number:</source>
-        <translation type="unfinished"></translation>
+        <translation>行番号:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1186"/>
         <source>Locate:</source>
-        <translation type="unfinished"></translation>
+        <translation>移動:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1200"/>
         <source>Render:</source>
-        <translation type="unfinished"></translation>
+        <translation>レンダリング:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1214"/>
         <source>Format:</source>
-        <translation type="unfinished"></translation>
+        <translation>フォーマット:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1241"/>
         <source>Word Wrap:</source>
-        <translation type="unfinished"></translation>
+        <translation>右端で折り返す:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1321"/>
         <source>Sidebar:</source>
-        <translation type="unfinished"></translation>
+        <translation>サイドバー:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1335"/>
         <source>Annotation:</source>
-        <translation type="unfinished"></translation>
+        <translation>注釈:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1377"/>
         <source>Dark:</source>
-        <translation type="unfinished"></translation>
+        <translation>ダーク:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1391"/>
         <source>Next Page:</source>
-        <translation type="unfinished"></translation>
+        <translation>次のページ:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1446"/>
         <source>Previous Page:</source>
-        <translation type="unfinished"></translation>
+        <translation>前のページ:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1534"/>
@@ -1674,11 +1714,11 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.cpp" line="17"/>
         <source>Invalid</source>
-        <translation>正しくありません</translation>
+        <translation>無効</translation>
     </message>
     <message>
         <source>Seperate:</source>
-        <translation type="vanished">新規サブウィンドウに分離:</translation>
+        <translation type="vanished">ウィンドウを分離:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="125"/>
@@ -1692,11 +1732,11 @@
     </message>
     <message>
         <source>Previous type file:</source>
-        <translation type="vanished">前のファイルタイプ:</translation>
+        <translation type="vanished">前の同タイプファイル:</translation>
     </message>
     <message>
         <source>Next type file:</source>
-        <translation type="vanished">次のファイルタイプ:</translation>
+        <translation type="vanished">次の同タイプファイル:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="555"/>
@@ -1706,7 +1746,7 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="562"/>
         <source>Alt + Click</source>
-        <translation>Alt + Click</translation>
+        <translation>Alt + クリック</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="378"/>
@@ -1716,83 +1756,83 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="70"/>
         <source>Previous Type File:</source>
-        <translation type="unfinished"></translation>
+        <translation>前の同タイプファイル:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="111"/>
         <source>Next Type File:</source>
-        <translation type="unfinished"></translation>
+        <translation>次の同タイプファイル:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="173"/>
         <source>Reduce Window Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>ウィンドウサイズを縮小:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="201"/>
         <source>Normalize Window:</source>
-        <translation type="unfinished"></translation>
+        <translation>ウィンドウサイズを標準化:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="229"/>
         <source>Separate:</source>
-        <translation type="unfinished"></translation>
+        <translation>ウィンドウを分離:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="243"/>
         <source>Increase Window Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>ウィンドウサイズを拡大:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="299"/>
         <source>Show Settings Window:</source>
-        <translation type="unfinished"></translation>
+        <translation>設定ウィンドウを表示:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="351"/>
         <source>Details View:</source>
-        <translation type="unfinished"></translation>
+        <translation>詳細表示:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="385"/>
         <source>Shift + Click</source>
-        <translation>Shift + Click</translation>
+        <translation>Shift + クリック</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="423"/>
         <source>Navigation:</source>
-        <translation type="unfinished"></translation>
+        <translation>ナビゲーション:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="430"/>
         <source>Alt + Arrow Key</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt + 方向キー</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="468"/>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="541"/>
         <source>Goto:</source>
-        <translation type="unfinished"></translation>
+        <translation>移動:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="475"/>
         <source>Ctrl + Click</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl + クリック</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="586"/>
         <source>Open Clicked Item With Seer:</source>
-        <translation>クリックされたアイテムをSeerで開く:</translation>
+        <translation>クリックされたアイテムを Seer で開く:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="593"/>
         <source>Shift + Alt + Click</source>
-        <translation>Shift + Alt + Click</translation>
+        <translation>Shift + Alt + クリック</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="655"/>
         <source>Expand:</source>
-        <translation type="unfinished"></translation>
+        <translation>展開:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="682"/>
@@ -1807,79 +1847,79 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="713"/>
         <source>Center:</source>
-        <translation type="unfinished"></translation>
+        <translation>中央配置:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="720"/>
         <source>Enter / Return</source>
-        <translation type="unfinished"></translation>
+        <translation>Enter / Return</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="772"/>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1349"/>
         <source>Fit Height:</source>
-        <translation type="unfinished"></translation>
+        <translation>ウィンドウの高さに合わせる:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="814"/>
         <source>Flip Horizontal:</source>
-        <translation type="unfinished"></translation>
+        <translation>水平方向に反転:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="828"/>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1255"/>
         <source>Toggle Minimap:</source>
-        <translation type="unfinished"></translation>
+        <translation>ミニマップの切り替え:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="842"/>
         <source>Flip Vertical:</source>
-        <translation type="unfinished"></translation>
+        <translation>垂直方向に反転:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="950"/>
         <source>Increase Speed:</source>
-        <translation type="unfinished"></translation>
+        <translation>再生速度を上げる:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="977"/>
         <source>Forward 5x:</source>
-        <translation type="unfinished"></translation>
+        <translation>5倍速で進む:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="991"/>
         <source>Percent Locate:</source>
-        <translation type="unfinished"></translation>
+        <translation>パーセント指定で移動:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="998"/>
         <source>0-9</source>
-        <translation type="unfinished"></translation>
+        <translation>0-9</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1036"/>
         <source>Backward 15x:</source>
-        <translation type="unfinished"></translation>
+        <translation>15倍速で戻る:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1078"/>
         <source>Decrease Speed:</source>
-        <translation type="unfinished"></translation>
+        <translation>再生速度を下げる:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1106"/>
         <source>Backward 5x:</source>
-        <translation type="unfinished"></translation>
+        <translation>5倍速で戻る:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1120"/>
         <source>Forward 15x:</source>
-        <translation type="unfinished"></translation>
+        <translation>15倍速で進む:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1137"/>
         <source>Text</source>
-        <translation type="unfinished">テキスト</translation>
+        <translation>テキスト</translation>
     </message>
 </context>
 <context>
@@ -1910,12 +1950,12 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4plugins.ui" line="128"/>
         <source>Tasks</source>
-        <translation type="unfinished"></translation>
+        <translation>タスク</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4plugins.cpp" line="314"/>
         <source>Choose Seer plugin</source>
-        <translation>Seerプラグインを選択</translation>
+        <translation>Seer プラグインを選択</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4plugins.ui" line="122"/>
@@ -1947,12 +1987,12 @@
         <location filename="../../../Seer/src/settings/csettingswnd4scriptitem.cpp" line="75"/>
         <location filename="../../../Seer/src/settings/csettingswnd4plugins.cpp" line="109"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>削除</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsadd.cpp" line="81"/>
         <source>Plugin disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>プラグインが無効化されています</translation>
     </message>
 </context>
 <context>
@@ -1976,7 +2016,7 @@
     </message>
     <message>
         <source>matched extensions: png jpg bmp</source>
-        <translation type="vanished">一致する拡張子:png jpg bmp</translation>
+        <translation type="vanished">一致する拡張子: png jpg bmp</translation>
     </message>
 </context>
 <context>
@@ -1994,7 +2034,7 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsavailable.cpp" line="34"/>
         <source>Install</source>
-        <translation type="unfinished"></translation>
+        <translation>インストール</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsavailable.cpp" line="195"/>
@@ -2014,12 +2054,12 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsavailable.cpp" line="207"/>
         <source>Install plugin automatically</source>
-        <translation type="unfinished"></translation>
+        <translation>プラグインを自動的にインストールする</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsavailable.cpp" line="214"/>
         <source>Download for manual installation</source>
-        <translation type="unfinished"></translation>
+        <translation>手動インストール用にダウンロードする</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsavailable.cpp" line="53"/>
@@ -2034,7 +2074,7 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsavailable.cpp" line="43"/>
         <source>Search available plugin</source>
-        <translation>利用可能なプラグインを探す</translation>
+        <translation>利用可能なプラグインを検索する</translation>
     </message>
 </context>
 <context>
@@ -2046,77 +2086,77 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.ui" line="65"/>
         <source>Choose an installation folder for plugins.</source>
-        <translation type="unfinished"></translation>
+        <translation>プラグインのインストールフォルダーを選択してください。</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="26"/>
         <source>Installing</source>
-        <translation type="unfinished"></translation>
+        <translation>インストール中</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="28"/>
         <source>Complete</source>
-        <translation type="unfinished"></translation>
+        <translation>完了</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="30"/>
         <source>Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>失敗</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="54"/>
         <source>Select Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>フォルダーの選択</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="61"/>
         <source>No plugins are currently being installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>現在インストール中のプラグインはありません。</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="62"/>
         <source>Explore available plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>利用可能なプラグインを検索する</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="71"/>
         <source>No directory selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>ディレクトリが選択されていません。</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="74"/>
         <source>Change the directory for plugin installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>プラグインのインストール先ディレクトリを変更します。</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="272"/>
         <source>Save settings to activate the plugin.</source>
-        <translation type="unfinished"></translation>
+        <translation>設定を保存してプラグインを有効にします。</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="275"/>
         <source>🎉 %1 is installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>🎉 %1 をインストールしました。</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="288"/>
         <source>😥 Failed to install plugin.</source>
-        <translation type="unfinished"></translation>
+        <translation>😥 プラグインのインストールに失敗しました。</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="342"/>
         <source>Cannot write to the selected folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>選択したフォルダーに書き込めません。</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="357"/>
         <source>Please avoid using Seer&apos;s installation path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seer のインストールパスの使用は避けてください。</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/plugininstallertask.cpp" line="574"/>
         <source>Please restart Seer and try installing %1 again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seer を再起動し、%1 のインストールを再試行してください。</translation>
     </message>
 </context>
 <context>
@@ -2124,77 +2164,77 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="46"/>
         <source>Locate script interpreter</source>
-        <translation type="unfinished"></translation>
+        <translation>スクリプトインタープリターを見つける</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="51"/>
         <source>Download script interpreter</source>
-        <translation type="unfinished"></translation>
+        <translation>スクリプトインタープリターをダウンロードする</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="67"/>
         <source>Find scripts online</source>
-        <translation type="unfinished"></translation>
+        <translation>オンラインでスクリプトを探す</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="74"/>
         <source>Add from local</source>
-        <translation type="unfinished"></translation>
+        <translation>ローカルから追加</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="84"/>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>プレビュー</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="85"/>
         <source>Controls</source>
-        <translation type="unfinished">コントロール</translation>
+        <translation>コントロール</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="86"/>
         <source>Property</source>
-        <translation type="unfinished"></translation>
+        <translation>プロパティ</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="214"/>
         <source>The path of interpreter has saved.</source>
-        <translation type="unfinished"></translation>
+        <translation>インタープリターのパスが保存されました。</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="257"/>
         <source>Please configure the interpreter first</source>
-        <translation type="unfinished"></translation>
+        <translation>最初にインタープリターを構成してください</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="264"/>
         <source>The configured interpreter path is invalid or missing.</source>
-        <translation type="unfinished"></translation>
+        <translation>構成されたインタープリターのパスが無効か、見つかりません。</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="276"/>
         <source>Failed to parse the script</source>
-        <translation type="unfinished"></translation>
+        <translation>スクリプトの解析に失敗しました</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4script.ui" line="138"/>
         <source>Interpreter</source>
-        <translation type="unfinished"></translation>
+        <translation>インタープリター</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4script.ui" line="182"/>
         <source>Script</source>
-        <translation type="unfinished"></translation>
+        <translation>スクリプト</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4scriptitem.cpp" line="85"/>
         <source>Extensions:</source>
-        <translation type="unfinished"></translation>
+        <translation>拡張子:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4scriptitem.cpp" line="96"/>
         <source>Command:</source>
-        <translation type="unfinished"></translation>
+        <translation>コマンド:</translation>
     </message>
 </context>
 <context>
@@ -2216,12 +2256,12 @@
     <message>
         <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="110"/>
         <source>About</source>
-        <translation>About</translation>
+        <translation>バージョン情報</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="121"/>
         <source>Check for updates</source>
-        <translation>アップデートを確認</translation>
+        <translation>更新を確認</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="116"/>
@@ -2235,7 +2275,7 @@
     <message>
         <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="113"/>
         <source>About Seer</source>
-        <translation>Seerについて</translation>
+        <translation>Seer について</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="102"/>
@@ -2258,17 +2298,17 @@
     </message>
     <message>
         <source>TRIAL</source>
-        <translation type="vanished">トライアル</translation>
+        <translation type="vanished">試用</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="105"/>
         <source>What&apos;s New</source>
-        <translation type="unfinished"></translation>
+        <translation>新機能</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="131"/>
         <source>Get PinStack</source>
-        <translation type="unfinished"></translation>
+        <translation>PinStack を入手</translation>
     </message>
     <message>
         <source>Like Seer?</source>
@@ -2304,22 +2344,22 @@
     <message>
         <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="257"/>
         <source>Collapse All</source>
-        <translation type="unfinished"></translation>
+        <translation>すべて折りたたむ</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="274"/>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>開く</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="279"/>
         <source>Reveal in Explorer</source>
-        <translation type="unfinished"></translation>
+        <translation>エクスプローラーで表示</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="291"/>
         <source>Details View</source>
-        <translation type="unfinished"></translation>
+        <translation>詳細表示</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="346"/>
@@ -2330,7 +2370,7 @@
     <message>
         <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="351"/>
         <source>Sorting Options</source>
-        <translation type="unfinished"></translation>
+        <translation>並べ替えオプション</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/dirs/folder/cdirwnd4folder.cpp" line="164"/>
@@ -2340,7 +2380,7 @@
     <message>
         <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="126"/>
         <source>Open Selected Item With Seer</source>
-        <translation>選択アイテムをSeerで開く</translation>
+        <translation>選択アイテムを Seer で開く</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="103"/>
@@ -2376,17 +2416,17 @@
     <message>
         <location filename="../../../Seer/src/dirs/treemodel.cpp" line="20"/>
         <source>Folder</source>
-        <translation type="unfinished">フォルダー</translation>
+        <translation>フォルダー</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/dirs/dircolumnviewinfownd.cpp" line="45"/>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>プレビュー</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/dirs/archive/cdirwnd4archive.cpp" line="45"/>
         <source>File is encrypted</source>
-        <translation type="unfinished"></translation>
+        <translation>ファイルは暗号化されています</translation>
     </message>
 </context>
 <context>
@@ -2405,27 +2445,27 @@
     <message>
         <location filename="../../../Seer/src/web/htmlviewer.cpp" line="167"/>
         <source>Markdown Source</source>
-        <translation>Markdownソース</translation>
+        <translation>Markdown ソース</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/web/htmlviewer.cpp" line="171"/>
         <source>Save as PDF</source>
-        <translation type="unfinished"></translation>
+        <translation>PDF として保存</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/web/htmlviewer.cpp" line="183"/>
         <source>HTML Source</source>
-        <translation type="unfinished"></translation>
+        <translation>HTML ソース</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/web/htmlviewer.cpp" line="422"/>
         <source>Failed to save as PDF</source>
-        <translation type="unfinished"></translation>
+        <translation>PDF としての保存に失敗しました</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/web/htmlviewer.cpp" line="448"/>
         <source>Successfully saved as PDF</source>
-        <translation type="unfinished"></translation>
+        <translation>PDF として正常に保存されました</translation>
     </message>
 </context>
 <context>
@@ -2451,7 +2491,7 @@
     <message>
         <location filename="../../../Seer/src/picture/imageviewer.cpp" line="69"/>
         <source>The change will take effect on the next preview</source>
-        <translation type="unfinished"></translation>
+        <translation>変更は次回のプレビュー時に適用されます</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/picture/imageviewer.cpp" line="271"/>
@@ -2466,47 +2506,47 @@
     <message>
         <location filename="../../../Seer/src/picture/imgvar.h" line="59"/>
         <source>Flip Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>水平方向に反転</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/picture/imgvar.h" line="61"/>
         <source>Flip Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>垂直方向に反転</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/picture/imgvar.h" line="62"/>
         <source>Minimap</source>
-        <translation type="unfinished"></translation>
+        <translation>ミニマップ</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/picture/imgvar.h" line="66"/>
         <source>Fit Height</source>
-        <translation type="unfinished"></translation>
+        <translation>ウィンドウの高さに合わせる</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/picture/imgvar.h" line="67"/>
         <source>Expand</source>
-        <translation type="unfinished"></translation>
+        <translation>展開</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/picture/imgvar.h" line="73"/>
         <source>Next Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>次のフレーム</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/picture/imgvar.h" line="75"/>
         <source>Previous Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>前のフレーム</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/picture/imgvar.h" line="77"/>
         <source>Zoom In</source>
-        <translation type="unfinished"></translation>
+        <translation>拡大</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/picture/imgvar.h" line="79"/>
         <source>Zoom Out</source>
-        <translation type="unfinished"></translation>
+        <translation>縮小</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/picture/imageviewer.cpp" line="272"/>
@@ -2521,7 +2561,7 @@
     <message>
         <location filename="../../../Seer/src/picture/imageviewer.cpp" line="279"/>
         <source>Image Count</source>
-        <translation>画素数</translation>
+        <translation>画像数</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/picture/imgvar.h" line="69"/>
@@ -2631,7 +2671,7 @@
     </message>
     <message>
         <source>GPS Precision (DOP)</source>
-        <translation type="vanished">GPS精度 (DOP; 精度低下率)</translation>
+        <translation type="vanished">GPS精度 (DOP)</translation>
     </message>
     <message>
         <source>Lens min focal length</source>
@@ -2673,7 +2713,7 @@
     <message>
         <location filename="../../../Seer/src/picture/imageviewer.cpp" line="281"/>
         <source>Loop Count</source>
-        <translation>ループ数</translation>
+        <translation>ループ回数</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/picture/imageviewer.cpp" line="167"/>
@@ -2683,7 +2723,7 @@
     <message>
         <location filename="../../../Seer/src/picture/imageview.cpp" line="176"/>
         <source>Default Display Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>既定の表示モード</translation>
     </message>
 </context>
 <context>
@@ -2701,13 +2741,13 @@
     <message>
         <location filename="../../../Seer/src/media/mediaviewer.cpp" line="78"/>
         <source>Start Time</source>
-        <translation type="unfinished"></translation>
+        <translation>開始時間</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/media/mediaviewer.cpp" line="88"/>
         <location filename="../../../Seer/src/media/mediaviewer.cpp" line="474"/>
         <source>Rotation</source>
-        <translation type="unfinished"></translation>
+        <translation>回転</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/media/mediaviewer.cpp" line="93"/>
@@ -2717,22 +2757,22 @@
     <message>
         <location filename="../../../Seer/src/media/mediaviewer.cpp" line="398"/>
         <source>The system is muted</source>
-        <translation type="unfinished"></translation>
+        <translation>システムはミュートされています</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/media/mediaviewer.cpp" line="451"/>
         <source>Mute</source>
-        <translation type="unfinished">ミュート</translation>
+        <translation>ミュート</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/media/mediaviewer.cpp" line="461"/>
         <source>Loop</source>
-        <translation type="unfinished">ループ</translation>
+        <translation>ループ</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/media/mediaviewer.cpp" line="475"/>
         <source>Rotate Right</source>
-        <translation type="unfinished">右に回転</translation>
+        <translation>右に回転</translation>
     </message>
     <message>
         <source>Rotate Left</source>
@@ -2741,12 +2781,12 @@
     <message>
         <location filename="../../../Seer/src/media/mediaviewer.cpp" line="478"/>
         <source>Reset Rotation</source>
-        <translation type="unfinished"></translation>
+        <translation>回転をリセット</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/media/mediaviewer.cpp" line="483"/>
         <source>Reset Speed</source>
-        <translation type="unfinished"></translation>
+        <translation>速度をリセット</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/media/mediaviewer.cpp" line="92"/>
@@ -2770,7 +2810,7 @@
     </message>
     <message>
         <source>Repeat: Off</source>
-        <translation type="vanished">リピート：Off</translation>
+        <translation type="vanished">リピート: オフ</translation>
     </message>
     <message>
         <source>Decoder</source>
@@ -2778,7 +2818,7 @@
     </message>
     <message>
         <source>Repeat: On</source>
-        <translation type="vanished">リピート：On</translation>
+        <translation type="vanished">リピート: オン</translation>
     </message>
     <message>
         <source>Channel Layout</source>
@@ -2816,7 +2856,7 @@
     <message>
         <location filename="../../../Seer/src/media/mediaviewer_p.cpp" line="206"/>
         <source>Screenshot has saved to clipboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>スクリーンショットがクリップボードに保存されました。</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/media/mediaviewer_p.cpp" line="271"/>
@@ -2831,17 +2871,17 @@
     <message>
         <location filename="../../../Seer/src/media/mediaviewer_p.cpp" line="436"/>
         <source>Reset to normal speed</source>
-        <translation type="unfinished"></translation>
+        <translation>通常の速度にリセット</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/media/mediaviewer.cpp" line="365"/>
         <source>Forward:</source>
-        <translation type="unfinished">早送り：</translation>
+        <translation>早送り:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/media/mediaviewer.cpp" line="371"/>
         <source>Backward:</source>
-        <translation type="unfinished">巻き戻し：</translation>
+        <translation>巻き戻し:</translation>
     </message>
 </context>
 <context>
@@ -2849,7 +2889,8 @@
     <message>
         <source>Cannot save image to:
 </source>
-        <translation type="vanished">保存できません:</translation>
+        <translation type="vanished">保存できません:
+</translation>
     </message>
     <message>
         <source>Copy &amp;Text to Clipboard</source>
@@ -2865,7 +2906,7 @@
     </message>
     <message>
         <source>Copy &amp;Image to Clipboard</source>
-        <translation type="vanished">イメージをクリップボードにコピー(&amp;I)</translation>
+        <translation type="vanished">画像をクリップボードにコピー(&amp;I)</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
@@ -2873,12 +2914,12 @@
     </message>
     <message>
         <source>Save image as</source>
-        <translation type="vanished">イメージを別名で保存</translation>
+        <translation type="vanished">画像を別名で保存</translation>
     </message>
     <message>
         <source>Save image as</source>
         <comment>Save file dialog title</comment>
-        <translation type="obsolete">イメージを別名で保存</translation>
+        <translation type="obsolete">画像を別名で保存</translation>
     </message>
     <message>
         <source>Supported image files</source>
@@ -2914,37 +2955,37 @@
     <message>
         <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="235"/>
         <source>Sidebar</source>
-        <translation type="unfinished"></translation>
+        <translation>サイドバー</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="309"/>
         <source>Annotation: On</source>
-        <translation type="unfinished"></translation>
+        <translation>注釈: オン</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="309"/>
         <source>Annotation: Off</source>
-        <translation type="unfinished"></translation>
+        <translation>注釈: オフ</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="433"/>
         <source>Please choose a page first</source>
-        <translation type="unfinished"></translation>
+        <translation>最初にページを選択してください</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="510"/>
         <source>Rotate Left</source>
-        <translation type="unfinished">左に回転</translation>
+        <translation>左に回転</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="514"/>
         <source>Annotations</source>
-        <translation type="unfinished"></translation>
+        <translation>注釈</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="526"/>
         <source>Dark Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>ダークモード</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="183"/>
@@ -2960,29 +3001,29 @@
     <message>
         <location filename="../../../Seer/src/pdf/cpdfpwdwnd.cpp" line="28"/>
         <source>Password required</source>
-        <translation type="unfinished">パスワードが必要です</translation>
+        <translation>パスワードが必要です</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/pdf/sidebar/pdfsidebarwnd.cpp" line="55"/>
         <source>Table of Contents</source>
-        <translation type="unfinished"></translation>
+        <translation>目次</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/pdf/sidebar/pdfsidebarwnd.cpp" line="58"/>
         <source>Thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation>サムネイル</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/pdf/sidebar/pdfsidebarwnd.cpp" line="61"/>
         <source>Highlight and Notes</source>
-        <translation type="unfinished"></translation>
+        <translation>ハイライトとメモ</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
         <source>&amp;Ok</source>
-        <translation type="vanished">O  K(&amp;O)</translation>
+        <translation type="vanished">OK(&amp;O)</translation>
     </message>
     <message>
         <source>Notice</source>
@@ -2995,7 +3036,7 @@
     <message>
         <location filename="../../../Seer/src/cmain.cpp" line="172"/>
         <source>Please check your &quot;i18n&quot; folder.</source>
-        <translation>&quot;i18n&quot;フォルダを確認してください。</translation>
+        <translation>&quot;i18n&quot; フォルダーを確認してください。</translation>
     </message>
     <message>
         <source> not found.</source>
@@ -3003,7 +3044,7 @@
     </message>
     <message>
         <source>Seer is already running.</source>
-        <translation type="vanished">Seerは既に起動しています。</translation>
+        <translation type="vanished">Seer は既に実行中です。</translation>
     </message>
     <message>
         <source>Set language failed</source>
@@ -3016,7 +3057,7 @@
     <message>
         <location filename="../../../Seer/src/cmain.cpp" line="171"/>
         <source>Update language failed</source>
-        <translation>言語のアップデート失敗</translation>
+        <translation>言語の更新に失敗しました</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
@@ -3025,17 +3066,17 @@
     <message>
         <location filename="../../../Seer/src/types.h" line="13"/>
         <source>Folder</source>
-        <translation type="unfinished">フォルダー</translation>
+        <translation>フォルダー</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/types.h" line="11"/>
         <source>Image</source>
-        <translation type="unfinished">画像</translation>
+        <translation>画像</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/types.h" line="15"/>
         <source>Text</source>
-        <translation type="unfinished">テキスト</translation>
+        <translation>テキスト</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/types.h" line="14"/>
@@ -3050,12 +3091,12 @@
     <message>
         <location filename="../../../Seer/src/types.h" line="9"/>
         <source>Unknown</source>
-        <translation type="unfinished">不明</translation>
+        <translation>不明</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/types.h" line="12"/>
         <source>Media</source>
-        <translation type="unfinished">マルチメディア</translation>
+        <translation>メディア</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="94"/>
@@ -3064,44 +3105,44 @@
         <location filename="../../../Seer/src/pdf/cpdfpwdwnd.cpp" line="35"/>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="48"/>
         <source>Cancel</source>
-        <translation type="unfinished">キャンセル</translation>
+        <translation>キャンセル</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="98"/>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsadd.cpp" line="99"/>
         <location filename="../../../Seer/src/pdf/cpdfpwdwnd.cpp" line="34"/>
         <source>Okay</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="119"/>
         <location filename="../../../Seer/src/ui/caboutwnd.cpp" line="55"/>
         <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="680"/>
         <source>Close</source>
-        <translation type="unfinished">閉じる</translation>
+        <translation>閉じる</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/ui/caboutwnd.cpp" line="65"/>
         <source>Return</source>
-        <translation type="unfinished"></translation>
+        <translation>戻る</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/pdf/sidebar/pdfsidebarwnd.cpp" line="20"/>
         <location filename="../../../Seer/src/dirs/nodes.cpp" line="14"/>
         <location filename="../../../Seer/src/text/textviewerbase.cpp" line="20"/>
         <source>Loading</source>
-        <translation type="unfinished"></translation>
+        <translation>読み込み中</translation>
     </message>
 </context>
 <context>
     <name>TextViewer</name>
     <message>
         <source>Line: </source>
-        <translation type="vanished">行：</translation>
+        <translation type="vanished">行: </translation>
     </message>
     <message>
         <source>Column: </source>
-        <translation type="vanished">カラム：</translation>
+        <translation type="vanished">列: </translation>
     </message>
     <message>
         <location filename="../../../Seer/src/text/FeaturedView/textviewer4feature.cpp" line="73"/>
@@ -3111,12 +3152,12 @@
     <message>
         <location filename="../../../Seer/src/text/FeaturedView/textviewer4feature.cpp" line="104"/>
         <source>Reason:</source>
-        <translation>理由：</translation>
+        <translation>理由:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/text/FeaturedView/textviewer4feature.cpp" line="103"/>
         <source>Format failed.</source>
-        <translation>コードの整形失敗.</translation>
+        <translation>フォーマットに失敗しました。</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/text/FeaturedView/textviewer4feature.cpp" line="106"/>
@@ -3126,36 +3167,36 @@
     <message>
         <location filename="../../../Seer/src/text/FeaturedView/textviewer4feature.cpp" line="108"/>
         <source>Column:</source>
-        <translation>桁:</translation>
+        <translation>列:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/text/FeaturedView/textviewer4feature.cpp" line="160"/>
         <source>Render Markdown</source>
-        <translation type="unfinished"></translation>
+        <translation>Markdown をレンダリング</translation>
     </message>
     <message>
         <source>Render markdown</source>
-        <translation type="vanished">Markdownを表示</translation>
+        <translation type="vanished">Markdown を表示</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/text/FeaturedView/textviewer4feature.cpp" line="173"/>
         <source>Render HTML</source>
-        <translation>HTMLを表示</translation>
+        <translation>HTML を表示</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/text/FeaturedView/textviewer4feature.cpp" line="187"/>
         <source>Render Image</source>
-        <translation type="unfinished"></translation>
+        <translation>画像をレンダリング</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/text/FeaturedView/textviewer4feature.cpp" line="385"/>
         <source>Locate Cursor</source>
-        <translation type="unfinished"></translation>
+        <translation>カーソル位置へ移動</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/text/FeaturedView/textviewer4feature.cpp" line="390"/>
         <source>Word Wrap</source>
-        <translation type="unfinished"></translation>
+        <translation>右端で折り返す</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/text/FeaturedView/textviewer4feature.cpp" line="478"/>
@@ -3176,7 +3217,7 @@
     <message>
         <location filename="../../../Seer/src/text/FeaturedView/textviewer4feature.cpp" line="466"/>
         <source>Col</source>
-        <translation>桁</translation>
+        <translation>列</translation>
     </message>
     <message>
         <source>Rotate Right</source>
@@ -3185,19 +3226,19 @@
     <message>
         <location filename="../../../Seer/src/text/textviewerbase.cpp" line="131"/>
         <source>Line Number</source>
-        <translation type="unfinished">行番号</translation>
+        <translation>行番号</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/text/textviewerbase.cpp" line="144"/>
         <source>Minimap</source>
-        <translation type="unfinished"></translation>
+        <translation>ミニマップ</translation>
     </message>
 </context>
 <context>
     <name>freetrial</name>
     <message>
         <source>Seer - Free trial</source>
-        <translation type="vanished">Seer フリートライアル</translation>
+        <translation type="vanished">Seer - 試用版</translation>
     </message>
     <message>
         <source>You have</source>
@@ -3205,7 +3246,7 @@
     </message>
     <message>
         <source>free trial.</source>
-        <translation type="vanished">フリートライアル.</translation>
+        <translation type="vanished">試用期間.</translation>
     </message>
     <message>
         <source>day</source>
@@ -3216,7 +3257,7 @@
     <name>overdue</name>
     <message>
         <source>Seer - Overdue</source>
-        <translation type="vanished">Seer - フリートライアル期限を超過</translation>
+        <translation type="vanished">Seer - 試用期間終了</translation>
     </message>
     <message>
         <source>Close</source>
