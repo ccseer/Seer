@@ -952,12 +952,12 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="116"/>
         <source>Allows you to open files directly by double-clicking, using the application associated with the file type in your system settings.</source>
-        <translation>두 번 클릭하여 시스템 설정에서 파일 형식과 연결된 응용 프로그램을 사용해 파일을 직접 열 수 있습니다.</translation>
+        <translation>시스템 설정에서 해당 파일 형식과 연결된 앱을 사용하여 두 번 클릭으로 파일을 직접 열 수 있습니다.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="120"/>
         <source>Allows using the Delete key to move the currently previewed file to the Recycle Bin.</source>
-        <translation>Delete 키를 사용하여 현재 미리 보는 파일을 휴지통으로 이동할 수 있습니다.</translation>
+        <translation>Delete 키를 사용하여 현재 미리보고 있는 파일을 휴지통으로 이동할 수 있게 합니다.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="123"/>
@@ -967,7 +967,7 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="126"/>
         <source>Remembers and restores the preview window&apos;s size and position from the last session.</source>
-        <translation>이전 세션에서 미리보기 창의 크기와 위치를 기억하고 복원합니다.</translation>
+        <translation>이전 세션의 미리보기 창 크기와 위치를 기억하고 복원합니다.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="129"/>

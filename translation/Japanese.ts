@@ -941,7 +941,7 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="116"/>
         <source>Allows you to open files directly by double-clicking, using the application associated with the file type in your system settings.</source>
-        <translation>ダブルクリックするだけで、システム設定に関連付けられた既定のアプリを使用してファイルを直接開くことができます。</translation>
+        <translation>システム設定でファイル形式に関連付けられたアプリケーションを使用し、ダブルクリックでファイルを直接開くことができます。</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="120"/>

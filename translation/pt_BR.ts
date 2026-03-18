@@ -623,7 +623,7 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="116"/>
         <source>Allows you to open files directly by double-clicking, using the application associated with the file type in your system settings.</source>
-        <translation>Permite que você abra arquivos diretamente com um clique duplo, usando o aplicativo associado ao tipo de arquivo nas configurações do seu sistema.</translation>
+        <translation>Permite abrir arquivos diretamente com um clique duplo, usando o aplicativo associado ao tipo de arquivo nas configurações do sistema.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="120"/>
