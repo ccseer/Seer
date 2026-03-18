@@ -1048,7 +1048,7 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="111"/>
         <source>Show the title and control bars permanently or only when hovering the mouse.</source>
-        <translation>滑鼠懸停時顯示或固定顯示標題列和控制列。</translation>
+        <translation>永久顯示或僅在滑鼠懸停時顯示標題列與控制列。</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="114"/>

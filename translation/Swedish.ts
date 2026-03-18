@@ -1,96 +1,96 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="sv">
+<TS version="2.1" language="sv_SE">
 <context>
     <name>AppUpdater</name>
     <message>
         <location filename="../../../Seer/src/opt/updater/appupdater.cpp" line="268"/>
         <location filename="../../../Seer/src/opt/updater/appupdater.cpp" line="446"/>
         <source>Network Error:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nätverksfel:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/updater/appupdater.cpp" line="356"/>
         <source>Invalid release notes URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig URL för versionsanteckningar</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/updater/appupdater.cpp" line="379"/>
         <source>Failed to fetch release notes</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte hämta versionsanteckningar</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/updater/appupdater.cpp" line="411"/>
         <source>Failed to save download file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte spara nedladdningsfilen.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="46"/>
         <source>Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppdatera</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="53"/>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="221"/>
         <source>Checking for updates...</source>
-        <translation type="unfinished"></translation>
+        <translation>Söker efter uppdateringar...</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="69"/>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="228"/>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="306"/>
         <source>Downloading...</source>
-        <translation type="unfinished"></translation>
+        <translation>Laddar ner...</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="91"/>
         <source>Install Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Installera uppdatering</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="93"/>
         <source>Skip This Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Hoppa över denna version</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="95"/>
         <source>Remind Me Later</source>
-        <translation type="unfinished"></translation>
+        <translation>Påminn mig senare</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="123"/>
         <source>Install Manually</source>
-        <translation type="unfinished"></translation>
+        <translation>Installera manuellt</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="247"/>
         <source>%1 %2 is now available (you have %3).</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 %2 är nu tillgänglig (du har %3).</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="268"/>
         <source>You&apos;re up to date!</source>
-        <translation type="unfinished"></translation>
+        <translation>Du har den senaste versionen!</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="269"/>
         <source>%1 %2 is currently the newest version available.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 %2 är för närvarande den senaste tillgängliga versionen.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="281"/>
         <source>Update Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppdateringsfel</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="295"/>
         <source>The update package has been downloaded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppdateringspaketet har laddats ner.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="296"/>
         <source>Ready to install.</source>
-        <translation type="unfinished"></translation>
+        <translation>Redo att installeras.</translation>
     </message>
 </context>
 <context>
@@ -124,7 +124,7 @@
     <message>
         <location filename="../../../Seer/src/ui/caboutwnd.ui" line="481"/>
         <source>Send feedback : )</source>
-        <translation>Skicka ?terkoppling : )</translation>
+        <translation>Skicka återkoppling : )</translation>
     </message>
     <message>
         <source>A good man [doge]</source>
@@ -207,8 +207,10 @@
         <translation type="vanished">http://libzplay.sourceforge.net</translation>
     </message>
     <message>
-        <source>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=EHGCEN4JZYJHC</source>
-        <translation type="vanished">https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=EHGCEN4JZYJHC</translation>
+        <source>
+                https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=EHGCEN4JZYJHC</source>
+        <translation type="vanished">
+                https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=EHGCEN4JZYJHC</translation>
     </message>
     <message>
         <source>Wechat pay</source>
@@ -221,7 +223,7 @@
     <message>
         <location filename="../../../Seer/src/ui/caboutwnd.ui" line="168"/>
         <source>A Windows Quick Look Tool</source>
-        <translation>Ett snabbtittverktyg f?r Windows</translation>
+        <translation>Ett snabbtittverktyg för Windows</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/ui/caboutwnd.ui" line="309"/>
@@ -229,39 +231,39 @@
         <location filename="../../../Seer/src/ui/caboutwnd.ui" line="471"/>
         <location filename="../../../Seer/src/ui/caboutwnd.ui" line="494"/>
         <source>•</source>
-        <translation></translation>
+        <translation>•</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/ui/caboutwnd.ui" line="319"/>
         <source>Translator</source>
-        <translation></translation>
+        <translation>Översättare</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/ui/caboutwnd.ui" line="504"/>
         <source>1218.io</source>
-        <translation></translation>
+        <translation>1218.io</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/ui/caboutwnd.ui" line="299"/>
         <source>Cisa</source>
-        <translation></translation>
+        <translation>Cisa</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/ui/caboutwnd.ui" line="339"/>
         <source>FOSS</source>
-        <translation></translation>
+        <translation>FOSS</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/ui/caboutwnd.cpp" line="120"/>
         <source>Open Source Software in Seer</source>
-        <translation type="unfinished"></translation>
+        <translation>Programvara med öppen källkod i Seer</translation>
     </message>
 </context>
 <context>
     <name>CAbstractManager</name>
     <message>
         <source>Unknown</source>
-        <translation type="vanished">Ok?nd</translation>
+        <translation type="vanished">Okänd</translation>
     </message>
 </context>
 <context>
@@ -276,7 +278,7 @@
     </message>
     <message>
         <source>Open With Default Application</source>
-        <translation type="vanished">?ppna med standardprogrammet</translation>
+        <translation type="vanished">Öppna med standardprogrammet</translation>
     </message>
 </context>
 <context>
@@ -329,17 +331,17 @@
     <message>
         <location filename="../../../Seer/src/ui/ccontrolwnd.cpp" line="25"/>
         <source>Open With Default Application</source>
-        <translation type="unfinished">?ppna med standardprogrammet</translation>
+        <translation>Öppna med standardprogram</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/ui/ccontrolwnd.cpp" line="27"/>
         <source>Reveal In Explorer</source>
-        <translation type="unfinished">Visa i Utforskaren</translation>
+        <translation>Visa i Utforskaren</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/ui/ccontrolwnd.cpp" line="510"/>
         <source>More</source>
-        <translation type="unfinished">Mer</translation>
+        <translation>Mer</translation>
     </message>
 </context>
 <context>
@@ -384,7 +386,7 @@
     <message>
         <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="208"/>
         <source>Opens with</source>
-        <translation>?ppnas med</translation>
+        <translation>Öppnas med</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="171"/>
@@ -399,12 +401,12 @@
     <message>
         <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="56"/>
         <source>Modified</source>
-        <translation>?ndrad</translation>
+        <translation>Ändrad</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="58"/>
         <source>Accessed</source>
-        <translation>Anv?nd</translation>
+        <translation>Senast använd</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="54"/>
@@ -429,7 +431,7 @@
     <message>
         <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="56"/>
         <source>Company Name</source>
-        <translation>F?retagsnamn</translation>
+        <translation>Företagsnamn</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="58"/>
@@ -449,7 +451,7 @@
     <message>
         <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="64"/>
         <source>Legal Trademarks</source>
-        <translation>Varum?rken</translation>
+        <translation>Varumärken</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="66"/>
@@ -474,22 +476,22 @@
     <message>
         <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="142"/>
         <source>Total bytes</source>
-        <translation type="unfinished"></translation>
+        <translation>Totalt antal byte</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="147"/>
         <source>Available bytes</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillgängliga byte</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="150"/>
         <source>Free bytes</source>
-        <translation type="unfinished"></translation>
+        <translation>Lediga byte</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="157"/>
         <source>Block size</source>
-        <translation type="unfinished"></translation>
+        <translation>Blockstorlek</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="43"/>
@@ -499,16 +501,16 @@
     <message>
         <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="198"/>
         <source>Extension</source>
-        <translation>Filnamnstill?gg</translation>
+        <translation>Filtillägg</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="175"/>
         <source>Folder</source>
-        <translation type="unfinished">Mapp</translation>
+        <translation>Mapp</translation>
     </message>
     <message>
         <source>Open Selected Item With Default Application</source>
-        <translation type="obsolete">?ppna markerat objekt med systemets standardprogram</translation>
+        <translation type="obsolete">Öppna markerat objekt med systemets standardprogram</translation>
     </message>
     <message>
         <source>Display Selected Item In Explorer</source>
@@ -517,7 +519,7 @@
     <message>
         <location filename="../../../Seer/src/unknown/tableview4property.cpp" line="17"/>
         <source>Pin</source>
-        <translation type="unfinished"></translation>
+        <translation>Fäst</translation>
     </message>
 </context>
 <context>
@@ -544,7 +546,7 @@
     </message>
     <message>
         <source>Date modified</source>
-        <translation type="vanished">?ndrad</translation>
+        <translation type="vanished">Ändrad</translation>
     </message>
 </context>
 <context>
@@ -575,12 +577,12 @@
     </message>
     <message>
         <source>Hello</source>
-        <translation type="vanished">Hall?</translation>
+        <translation type="vanished">Hallå</translation>
     </message>
     <message>
         <source>Please share with your friends
 </source>
-        <translation type="vanished">Dela med dina v?nner
+        <translation type="vanished">Dela med dina vänner
 </translation>
     </message>
     <message>
@@ -597,7 +599,7 @@
     <message>
         <location filename="../../../Seer/src/cmain.cpp" line="158"/>
         <source> is registered by other application.</source>
-        <translation> ?r registrerat av annat program.</translation>
+        <translation> är registrerat av annat program.</translation>
     </message>
     <message>
         <source>Restart Failed</source>
@@ -606,12 +608,12 @@
     <message>
         <location filename="../../../Seer/src/cmain.cpp" line="304"/>
         <source>Monitoring &apos;Space&apos; key failed, can&apos;t proceed.</source>
-        <translation>?vervakning av mellanslagstangenten misslyckades. Kan inte forts?tta.</translation>
+        <translation>Övervakning av mellanslagstangenten misslyckades. Kan inte fortsätta.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/cmain.cpp" line="578"/>
         <source>Settings</source>
-        <translation>Inst?llningar</translation>
+        <translation>Inställningar</translation>
     </message>
     <message>
         <source>Please restart Seer manually.</source>
@@ -620,43 +622,43 @@
     <message>
         <location filename="../../../Seer/src/cmain.cpp" line="157"/>
         <source>Register shortcut failed</source>
-        <translation>Registrering av genv?gen misslyckades</translation>
+        <translation>Registrering av genvägen misslyckades</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/cmain.cpp" line="733"/>
         <source>The system default application not found.</source>
-        <translation>Inget systemetsstandardprogram hittades.</translation>
+        <translation>Inget systemstandardprogram hittades.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/cmain.cpp" line="803"/>
         <source>Please share with your friends.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dela gärna med dina vänner.</translation>
     </message>
     <message>
         <source>A Windows Quick Look Tool</source>
-        <translation type="obsolete">Ett snabbtittverktyg f?r Windows</translation>
+        <translation type="obsolete">Ett snabbtittverktyg för Windows</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/cmain.cpp" line="664"/>
         <source>About</source>
-        <translation type="unfinished">Om</translation>
+        <translation>Om</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/cmain.cpp" line="714"/>
         <source>Activation</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivering</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/cmain.cpp" line="760"/>
         <source>Seer is already running.</source>
-        <translation type="unfinished">Seer ?r redan startat.</translation>
+        <translation>Seer körs redan.</translation>
     </message>
 </context>
 <context>
     <name>CMainWnd</name>
     <message>
         <source>Close</source>
-        <translation type="vanished">St?ng</translation>
+        <translation type="vanished">Stäng</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="682"/>
@@ -666,22 +668,22 @@
     <message>
         <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="683"/>
         <source>Separate</source>
-        <translation type="unfinished"></translation>
+        <translation>Separera</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="1353"/>
         <source>Viewer</source>
-        <translation type="unfinished"></translation>
+        <translation>Visare</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="681"/>
         <source>Minimize</source>
-        <translation type="unfinished"></translation>
+        <translation>Minimera</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="188"/>
         <source>Please try again with separated window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Försök igen med ett separat fönster.</translation>
     </message>
 </context>
 <context>
@@ -696,12 +698,12 @@
     <message>
         <location filename="../../../Seer/src/opt/licenser/cregdlg.ui" line="72"/>
         <source>Order</source>
-        <translation type="unfinished"></translation>
+        <translation>Beställ</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/licenser/cregdlg.ui" line="79"/>
         <source>Cancel</source>
-        <translation type="unfinished">Avbryt</translation>
+        <translation>Avbryt</translation>
     </message>
     <message>
         <source>Back</source>
@@ -710,39 +712,39 @@
     <message>
         <location filename="../../../Seer/src/opt/licenser/cregdlg.cpp" line="24"/>
         <source>Thanks for your support!!!</source>
-        <translation type="unfinished"></translation>
+        <translation>Tack för ditt stöd!!!</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/licenser/cregdlg.cpp" line="68"/>
         <source>Seer will stop running in %1 day(s).</source>
-        <translation type="unfinished"></translation>
+        <translation>Seer kommer att sluta fungera om %1 dag(ar).</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/licenser/cregdlg.cpp" line="70"/>
         <source>The evaluation period has ended.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utvärderingsperioden har löpt ut.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/licenser/cregdlg.cpp" line="73"/>
         <source>Please enter your license key.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vänligen ange din licensnyckel.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/licenser/cregdlg.cpp" line="194"/>
         <location filename="../../../Seer/src/opt/licenser/cregdlg.cpp" line="213"/>
         <source>Verifying</source>
-        <translation type="unfinished"></translation>
+        <translation>Verifierar</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/licenser/cregdlg.cpp" line="197"/>
         <location filename="../../../Seer/src/opt/licenser/cregdlg.cpp" line="236"/>
         <source>Activated</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktiverad</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/licenser/cregdlg.cpp" line="205"/>
         <source>Failed to activate</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte aktivera</translation>
     </message>
 </context>
 <context>
@@ -775,22 +777,22 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="62"/>
         <source>General</source>
-        <translation>Allm?nt</translation>
+        <translation>Allmänt</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="68"/>
         <source>Scripts</source>
-        <translation type="unfinished"></translation>
+        <translation>Skript</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="78"/>
         <source>Settings</source>
-        <translation type="unfinished">Inst?llningar</translation>
+        <translation>Inställningar</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="256"/>
         <source>Restarting to apply the new settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Startar om för att tillämpa de nya inställningarna.</translation>
     </message>
 </context>
 <context>
@@ -798,27 +800,27 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4controls.ui" line="89"/>
         <source>Show &quot;Navigation&quot; button</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa &quot;Navigering&quot;-knapp</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4controls.ui" line="96"/>
         <source>Show &quot;Display in explorer&quot; button</source>
-        <translation>Visa knapp f?r &quot;Visa i Utforskaren&quot;</translation>
+        <translation>Visa knapp för &quot;Visa i Utforskaren&quot;</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4controls.ui" line="142"/>
         <source>Extension</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtillägg</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4controls.ui" line="82"/>
         <source>Show &quot;Open with default application&quot; button</source>
-        <translation>Visa knapp f?r &quot;?ppna med standardprogram&quot;</translation>
+        <translation>Visa knapp för &quot;Öppna med standardprogram&quot;</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4controlsedit.cpp" line="40"/>
         <source>Select executable file path</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj sökväg till körbar fil</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4controlsedit.cpp" line="72"/>
@@ -827,11 +829,11 @@
     </message>
     <message>
         <source>executable file path</source>
-        <translation type="vanished">s?kv?g till k?rbar fil</translation>
+        <translation type="vanished">sökväg till körbar fil</translation>
     </message>
     <message>
         <source>extension</source>
-        <translation type="vanished">filtill?gg</translation>
+        <translation type="vanished">filtillägg</translation>
     </message>
     <message>
         <source>Display</source>
@@ -840,7 +842,7 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4controlsedit.cpp" line="208"/>
         <source>Choose Application</source>
-        <translation>V?lj program</translation>
+        <translation>Välj program</translation>
     </message>
     <message>
         <source>About controls...</source>
@@ -849,12 +851,12 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4controls.ui" line="59"/>
         <source>Appearance</source>
-        <translation type="unfinished">Utseende</translation>
+        <translation>Utseende</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4controlsedit.cpp" line="65"/>
         <source>Edit</source>
-        <translation type="unfinished">Redigera</translation>
+        <translation>Redigera</translation>
     </message>
 </context>
 <context>
@@ -865,11 +867,11 @@
     </message>
     <message>
         <source>Path:</source>
-        <translation type="vanished">S?kv?g:</translation>
+        <translation type="vanished">Sökväg:</translation>
     </message>
     <message>
         <source>Browse for dopusrt.exe</source>
-        <translation type="vanished">Bl?ddra efter dopusrt.exe</translation>
+        <translation type="vanished">Bläddra efter dopusrt.exe</translation>
     </message>
     <message>
         <source>Temp Folder</source>
@@ -886,7 +888,7 @@
     </message>
     <message>
         <source>Save plugin temp files after Seer exited</source>
-        <translation type="vanished">Spara tempor?ra insticksfiler n?r Seer avslutas</translation>
+        <translation type="vanished">Spara temporära insticksfiler när Seer avslutas</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -914,131 +916,131 @@
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="obsolete">Ok?nd</translation>
+        <translation type="obsolete">Okänd</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="100"/>
         <source>Double click to open file with system default application</source>
-        <translation type="unfinished">Dubbelklicka f?r att ?ppna en fil med systemets standardprogram</translation>
+        <translation>Dubbelklicka för att öppna en fil med systemets standardprogram</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="124"/>
         <source>Track selected file in Explorer</source>
-        <translation type="unfinished">Sp?ra markerad fil i Utforskaren</translation>
+        <translation>Spåra markerad fil i Utforskaren</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="148"/>
         <source>Enable &quot;Delete&quot; key</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivera &quot;Delete&quot;-tangenten</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="172"/>
         <source>Trigger on software-generated key events</source>
-        <translation type="unfinished"></translation>
+        <translation>Trigga på mjukvarugenererade tangenthändelser</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="196"/>
         <source>Keep window size and position</source>
-        <translation type="unfinished"></translation>
+        <translation>Behåll fönstrets storlek och position</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="220"/>
         <source>Preview window focus:</source>
-        <translation type="unfinished"></translation>
+        <translation>Fokus för granskningsfönster:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="247"/>
         <source>Maximum preview size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Maximal storlek för granskning:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="274"/>
         <source>Backup:</source>
-        <translation type="unfinished"></translation>
+        <translation>Säkerhetskopiering:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="281"/>
         <source>Export</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportera</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="288"/>
         <source>Import</source>
-        <translation type="unfinished"></translation>
+        <translation>Importera</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="308"/>
         <source>Reset to default</source>
-        <translation type="unfinished"></translation>
+        <translation>Återställ till standard</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="315"/>
         <source>Confirm &amp; Restart :</source>
-        <translation type="unfinished"></translation>
+        <translation>Bekräfta och starta om:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="340"/>
         <source>User defined</source>
-        <translation type="unfinished"></translation>
+        <translation>Användardefinierad</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="402"/>
         <source>Visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>Synlighet</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="427"/>
         <source>Hide tray icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Dölj ikon i meddelandefältet</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="458"/>
         <source>Title bar &amp; Control bar:</source>
-        <translation type="unfinished"></translation>
+        <translation>Titelrad och kontrollrad:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="468"/>
         <source>Constant</source>
-        <translation type="unfinished"></translation>
+        <translation>Konstant</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="475"/>
         <source>Dynamic</source>
-        <translation type="unfinished"></translation>
+        <translation>Dynamisk</translation>
     </message>
     <message>
         <source>Use the trigger key to close window</source>
-        <translation type="obsolete">Anv?nd snabbtangenten f?r att st?nga f?nster</translation>
+        <translation type="obsolete">Använd snabbtangenten för att stänga fönster</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="67"/>
         <source>Reset</source>
-        <translation type="unfinished"></translation>
+        <translation>Återställ</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="85"/>
         <source>Never take focus</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta aldrig fokus</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="86"/>
         <source>Every time a file is previewed</source>
-        <translation type="unfinished"></translation>
+        <translation>Varje gång en fil förhandsgranskas</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="88"/>
         <source>Only when the window opens</source>
-        <translation type="unfinished"></translation>
+        <translation>Endast när fönstret öppnas</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="109"/>
         <source>Removes Seer&apos;s icon from the system tray area.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tar bort Seers ikon från systemfältet.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="111"/>
         <source>Show the title and control bars permanently or only when hovering the mouse.</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa titel- och kontrollraderna permanent eller endast när muspekaren hålls över dem.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="114"/>
@@ -1066,21 +1068,58 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="129"/>
-        <source>Sets the maximum size of the preview window as a percentage of the screen size.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="132"/>
         <source>Determines when the preview window becomes the active window and receives keyboard input.</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically updates Seer&apos;s preview to follow the currently selected file
+                in File Explorer.</source>
+        <translation type="vanished">Uppdaterar automatiskt Seers förhandsgranskning för att följa den valda
+                filen i Utforskaren.</translation>
+    </message>
+    <message>
+        <source>Allows you to open files directly by double-clicking, using the application
+                associated with the file type in your system settings.</source>
+        <translation type="vanished">Låter dig öppna filer direkt genom att dubbelklicka, med det program som är
+                kopplat till filtypen i dina systeminställningar.</translation>
+    </message>
+    <message>
+        <source>Allows using the Delete key to move the currently previewed file to the Recycle
+                Bin.</source>
+        <translation type="vanished">Tillåter användning av Delete-tangenten för att flytta den fil som
+                förhandsgranskas till Papperskorgen.</translation>
+    </message>
+    <message>
+        <source>Allows Seer to respond to simulated key input generated by software, such as
+                virtual keyboards or automation tools.</source>
+        <translation type="vanished">Tillåter Seer att svara på simulerade knapptryckningar som genereras av
+                mjukvara, t.ex. virtuella tangentbord.</translation>
+    </message>
+    <message>
+        <source>Remembers and restores the preview window&apos;s size and position from the last
+                session.</source>
+        <translation type="vanished">Kommer ihåg och återställer förhandsgranskningsfönstrets storlek och
+                position från förra sessionen.</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="129"/>
+        <source>Sets the maximum size of the preview window as a percentage of the screen size.</source>
+        <translation>Ställer in den maximala storleken på förhandsgranskningsfönstret i procent
+                av skärmstorleken.</translation>
+    </message>
+    <message>
+        <source>Determines when the preview window becomes the active window and receives
+                keyboard input.</source>
+        <translation type="vanished">Bestämmer när förhandsgranskningsfönstret blir det aktiva fönstret och tar
+                emot tangentbordsinmatning.</translation>
     </message>
 </context>
 <context>
     <name>CSettingsWnd4FileType</name>
     <message>
         <source>Add</source>
-        <translation type="vanished">L?gg till</translation>
+        <translation type="vanished">Lägg till</translation>
     </message>
     <message>
         <source>Text</source>
@@ -1112,19 +1151,29 @@
     </message>
     <message>
         <source>Select your Text format file</source>
-        <translation type="vanished">V?lj textfil</translation>
+        <translation type="vanished">Välj textfil</translation>
     </message>
     <message>
         <source>Confirm</source>
-        <translation type="vanished">Bekr?fta</translation>
+        <translation type="vanished">Bekräfta</translation>
     </message>
     <message>
         <source>Search extention, e.g.: psd</source>
-        <translation type="vanished">S?k filtill?gg, t.ex psd</translation>
+        <translation type="vanished">Sök filtillägg, t.ex. psd</translation>
     </message>
     <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;:/face_nohappy.png&quot;/&gt;&lt;span style=&quot; font-size:18pt; font-weight:496; color:#333;&quot;&gt; Oops! &lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:18pt; font-weight:496; color:#333;&quot;&gt;No extensions matched.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;:/face_nohappy.png&quot;/&gt;&lt;span style=&quot; font-size:18pt; font-weight:496; color:#333;&quot;&gt; Oops! &lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:18pt; font-weight:496; color:#333;&quot;&gt;Inget filtill?gg matchades&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;img
+                src=&quot;:/face_nohappy.png&quot;/&gt;&lt;span style=&quot; font-size:18pt;
+                font-weight:496; color:#333;&quot;&gt; Oops! &lt;/span&gt;&lt;/p&gt;&lt;p
+                align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:18pt; font-weight:496;
+                color:#333;&quot;&gt;No extensions
+                matched.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p
+                align=&quot;center&quot;&gt;&lt;img src=&quot;:/face_nohappy.png&quot;/&gt;&lt;span
+                style=&quot; font-size:18pt; font-weight:496; color:#333;&quot;&gt; Hoppsan!
+                &lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot;
+                font-size:18pt; font-weight:496; color:#333;&quot;&gt;Inget filtillägg
+                matchades.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Wrap</source>
@@ -1145,100 +1194,100 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.ui" line="234"/>
         <source>Disable renaming during preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Inaktivera namnbyte under förhandsgranskning</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.ui" line="272"/>
         <source>Disable GPU decoding</source>
-        <translation type="unfinished"></translation>
+        <translation>Inaktivera GPU-avkodning</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.ui" line="469"/>
         <source>Disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Inaktiverad</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.ui" line="528"/>
         <source>Disable file type detecting</source>
-        <translation type="unfinished"></translation>
+        <translation>Inaktivera filtypsdetektering</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.ui" line="636"/>
         <source>Disable folder contents loading</source>
-        <translation type="unfinished"></translation>
+        <translation>Inaktivera inläsning av mappinnehåll</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.ui" line="692"/>
         <source>Default display mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>Standard visningsläge:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.ui" line="799"/>
         <source>System</source>
-        <translation type="unfinished"></translation>
+        <translation>System</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="45"/>
         <source>Oops!</source>
-        <translation type="unfinished"></translation>
+        <translation>Hoppsan!</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="45"/>
         <source>No matching extensions found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inga matchande filtillägg hittades.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="50"/>
         <source>Search extension, e.g.: psd</source>
-        <translation type="unfinished"></translation>
+        <translation>Sök filtillägg, t.ex.: psd</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="86"/>
         <source>Markdown stylesheet path</source>
-        <translation type="unfinished"></translation>
+        <translation>Sökväg till Markdown-stilmall</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="88"/>
         <source>Will display property only for extensions in this field, e.g.:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kommer endast att visa egenskaper för filtillägg i detta fält, t.ex.:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="97"/>
         <location filename="../../../Seer/src/picture/imageview.cpp" line="188"/>
         <source>Auto Fit</source>
-        <translation type="unfinished"></translation>
+        <translation>Autopassa</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="101"/>
         <source>Automatically scales to fit the entire image in the viewer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skalar automatiskt för att passa hela bilden i visaren.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="104"/>
         <location filename="../../../Seer/src/picture/imageview.cpp" line="191"/>
         <source>Fit Short Side</source>
-        <translation type="unfinished"></translation>
+        <translation>Anpassa kortsida</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="106"/>
         <source>Scales until the shorter side fits; scroll the longer side if needed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skalar tills den kortare sidan passar; skrolla den längre sidan vid behov.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="110"/>
         <location filename="../../../Seer/src/picture/imageview.cpp" line="194"/>
         <source>Prefer Full Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Föredra full storlek</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="112"/>
         <source>Always loads the image at its original resolution; scrolling may be required.</source>
-        <translation type="unfinished"></translation>
+        <translation>Laddar alltid bilden i dess ursprungliga upplösning; rullning kan krävas.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="383"/>
         <source>Invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig</translation>
     </message>
 </context>
 <context>
@@ -1257,7 +1306,7 @@
     </message>
     <message>
         <source>Track selected file in Explorer</source>
-        <translation type="vanished">Sp?ra markerad fil i Utforskaren</translation>
+        <translation type="vanished">Spåra markerad fil i Utforskaren</translation>
     </message>
     <message>
         <source>Show time indication</source>
@@ -1265,7 +1314,7 @@
     </message>
     <message>
         <source>Language:</source>
-        <translation type="vanished">Spr?k:</translation>
+        <translation type="vanished">Språk:</translation>
     </message>
     <message>
         <source>Run Seer at system start</source>
@@ -1273,7 +1322,7 @@
     </message>
     <message>
         <source>Use the trigger key to close window</source>
-        <translation type="vanished">Anv?nd snabbtangenten f?r att st?nga f?nster</translation>
+        <translation type="vanished">Använd snabbtangenten för att stänga fönster</translation>
     </message>
     <message>
         <source>Line number</source>
@@ -1281,7 +1330,8 @@
     </message>
     <message>
         <source>Double click to open file with system default application</source>
-        <translation type="vanished">Dubbelklicka f?r att ?ppna en fil med systemets standardprogram</translation>
+        <translation type="vanished">Dubbelklicka för att öppna en fil med systemets
+                standardprogram</translation>
     </message>
     <message>
         <source>Display titlebar</source>
@@ -1290,32 +1340,32 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4general.ui" line="74"/>
         <source>Application behavior</source>
-        <translation type="unfinished"></translation>
+        <translation>Programbeteende</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4general.ui" line="99"/>
         <source>Theme:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tema:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4general.ui" line="124"/>
         <source>Run Seer when system boots</source>
-        <translation type="unfinished"></translation>
+        <translation>Starta Seer när systemet startar</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4general.ui" line="131"/>
         <source>Run as administrator</source>
-        <translation type="unfinished"></translation>
+        <translation>Kör som administratör</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4general.ui" line="138"/>
         <source>Automatically check for updates</source>
-        <translation>S?k automatiskt efter uppdateringar</translation>
+        <translation>Sök automatiskt efter uppdateringar</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4general.ui" line="191"/>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Språk</translation>
     </message>
     <message>
         <source>Display control bar</source>
@@ -1332,17 +1382,17 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4general.cpp" line="169"/>
         <source>Auto</source>
-        <translation type="unfinished"></translation>
+        <translation>Auto</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4general.cpp" line="170"/>
         <source>Dark</source>
-        <translation type="unfinished"></translation>
+        <translation>Mörkt</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4general.cpp" line="171"/>
         <source>Light</source>
-        <translation type="unfinished"></translation>
+        <translation>Ljust</translation>
     </message>
 </context>
 <context>
@@ -1361,108 +1411,108 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="70"/>
         <source>Previous Type File:</source>
-        <translation type="unfinished"></translation>
+        <translation>Föregående fil av samma typ:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="97"/>
         <source>Previous:</source>
-        <translation type="unfinished"></translation>
+        <translation>Föregående:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="111"/>
         <source>Next Type File:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nästa fil av samma typ:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="125"/>
         <source>Next:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nästa:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="173"/>
         <source>Reduce Window Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Minska fönsterstorlek:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="201"/>
         <source>Normalize Window:</source>
-        <translation type="unfinished"></translation>
+        <translation>Normalisera fönster:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="229"/>
         <source>Separate:</source>
-        <translation type="unfinished"></translation>
+        <translation>Separera:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="243"/>
         <source>Increase Window Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Öka fönsterstorlek:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="285"/>
         <source>Reload:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ladda om:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="299"/>
         <source>Show Settings Window:</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa inställningsfönster:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="351"/>
         <source>Details View:</source>
-        <translation type="unfinished"></translation>
+        <translation>Detaljvy:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="378"/>
         <source>Open Clicked Item:</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna klickat objekt:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="385"/>
         <source>Shift + Click</source>
-        <translation type="unfinished"></translation>
+        <translation>Skift + Klick</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="423"/>
         <source>Navigation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Navigering:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="430"/>
         <source>Alt + Arrow Key</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt + Piltangent</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="468"/>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="541"/>
         <source>Goto:</source>
-        <translation type="unfinished"></translation>
+        <translation>Gå till:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="475"/>
         <source>Ctrl + Click</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl + Klick</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="555"/>
         <source>Reveal Clicked Item:</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa klickat objekt:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="562"/>
         <source>Alt + Click</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt + Klick</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="586"/>
         <source>Open Clicked Item With Seer:</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna klickat objekt med Seer:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="593"/>
         <source>Shift + Alt + Click</source>
-        <translation type="unfinished"></translation>
+        <translation>Skift + Alt + Klick</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="620"/>
@@ -1472,64 +1522,64 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="655"/>
         <source>Expand:</source>
-        <translation type="unfinished"></translation>
+        <translation>Fäll ut:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="682"/>
         <source>Restore:</source>
-        <translation type="unfinished"></translation>
+        <translation>Återställ:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="689"/>
         <source>Double click</source>
-        <translation type="unfinished"></translation>
+        <translation>Dubbelklicka</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="713"/>
         <source>Center:</source>
-        <translation type="unfinished"></translation>
+        <translation>Centrera:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="720"/>
         <source>Enter / Return</source>
-        <translation type="unfinished"></translation>
+        <translation>Retur / Enter</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="772"/>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1349"/>
         <source>Fit Height:</source>
-        <translation type="unfinished"></translation>
+        <translation>Anpassa höjd:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="814"/>
         <source>Flip Horizontal:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vänd horisontellt:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="828"/>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1255"/>
         <source>Toggle Minimap:</source>
-        <translation type="unfinished"></translation>
+        <translation>Växla minikarta:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="842"/>
         <source>Flip Vertical:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vänd vertikalt:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="922"/>
         <source>Go To Beginning:</source>
-        <translation type="unfinished"></translation>
+        <translation>Gå till början:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="936"/>
         <source>Loop:</source>
-        <translation>Repetera:</translation>
+        <translation>Loop:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1614"/>
         <source>Fullscreen:</source>
-        <translation type="unfinished"></translation>
+        <translation>Helskärm:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="859"/>
@@ -1539,108 +1589,108 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="908"/>
         <source>Mute:</source>
-        <translation>Tyst:</translation>
+        <translation>Ljudlöst:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="950"/>
         <source>Increase Speed:</source>
-        <translation type="unfinished"></translation>
+        <translation>Öka hastigheten:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="977"/>
         <source>Forward 5x:</source>
-        <translation type="unfinished"></translation>
+        <translation>Spola framåt 5x:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="991"/>
         <source>Percent Locate:</source>
-        <translation type="unfinished"></translation>
+        <translation>Gå till procent:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="998"/>
         <source>0-9</source>
-        <translation type="unfinished"></translation>
+        <translation>0-9</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1036"/>
         <source>Backward 15x:</source>
-        <translation type="unfinished"></translation>
+        <translation>Spola bakåt 15x:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1078"/>
         <source>Decrease Speed:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sänk hastigheten:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1106"/>
         <source>Backward 5x:</source>
-        <translation type="unfinished"></translation>
+        <translation>Spola bakåt 5x:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1120"/>
         <source>Forward 15x:</source>
-        <translation type="unfinished"></translation>
+        <translation>Spola framåt 15x:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1172"/>
         <source>Line Number:</source>
-        <translation type="unfinished"></translation>
+        <translation>Radnummer:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1186"/>
         <source>Locate:</source>
-        <translation type="unfinished"></translation>
+        <translation>Lokalisera:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1200"/>
         <source>Render:</source>
-        <translation type="unfinished"></translation>
+        <translation>Rendera:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1214"/>
         <source>Format:</source>
-        <translation type="unfinished"></translation>
+        <translation>Formatera:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1241"/>
         <source>Word Wrap:</source>
-        <translation type="unfinished"></translation>
+        <translation>Radbrytning:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1321"/>
         <source>Sidebar:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sidofält:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1335"/>
         <source>Annotation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Notering:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1377"/>
         <source>Dark:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mörkt:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1391"/>
         <source>Next Page:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nästa sida:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1446"/>
         <source>Previous Page:</source>
-        <translation type="unfinished"></translation>
+        <translation>Föregående sida:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1534"/>
         <source>Normal:</source>
-        <translation type="unfinished"></translation>
+        <translation>Normal:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1555"/>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1635"/>
         <source>Shift</source>
-        <translation>Shift</translation>
+        <translation>Skift</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="146"/>
@@ -1649,7 +1699,7 @@
     </message>
     <message>
         <source>Control Bar:</source>
-        <translation type="vanished">Kontrollf?lt:</translation>
+        <translation type="vanished">Kontrollfält:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="894"/>
@@ -1661,17 +1711,17 @@
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1022"/>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1418"/>
         <source>Rotate Left:</source>
-        <translation>Rotera ?t v?nster:</translation>
+        <translation>Rotera åt vänster:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="139"/>
         <source>Close:</source>
-        <translation>St?ng:</translation>
+        <translation>Stäng:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="21"/>
         <source>Common</source>
-        <translation>Allm?nt</translation>
+        <translation>Allmänt</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="316"/>
@@ -1701,22 +1751,22 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1064"/>
         <source>Forward:</source>
-        <translation>Fram?t:</translation>
+        <translation>Framåt:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="499"/>
         <source>Tree View:</source>
-        <translation>Tr?dvy:</translation>
+        <translation>Trädvy:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="271"/>
         <source>Open With Default App:</source>
-        <translation>?ppna med standardprogram:</translation>
+        <translation>Öppna med standardprogram:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="454"/>
         <source>Open Selected Item:</source>
-        <translation>?ppna markerat objekt:</translation>
+        <translation>Öppna markerat objekt:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="187"/>
@@ -1744,12 +1794,12 @@
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1541"/>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1621"/>
         <source>Control</source>
-        <translation>Kontroll</translation>
+        <translation>Ctrl</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.cpp" line="17"/>
         <source>Invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.cpp" line="259"/>
@@ -1759,7 +1809,7 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.cpp" line="272"/>
         <source>Duplicated shortcut:</source>
-        <translation type="unfinished"></translation>
+        <translation>Duplicerad genväg:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="215"/>
@@ -1771,11 +1821,11 @@
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1050"/>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1432"/>
         <source>Rotate Right:</source>
-        <translation>Rotera ?t h?ger:</translation>
+        <translation>Rotera åt höger:</translation>
     </message>
     <message>
-        <source>Trigger Keys:  </source>
-        <translation type="vanished">Snabbtangenter:  </translation>
+        <source>Trigger Keys: </source>
+        <translation type="vanished">Snabbtangenter: </translation>
     </message>
     <message>
         <source>Time Indication:</source>
@@ -1784,7 +1834,7 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="513"/>
         <source>Open Selected Item With Seer:</source>
-        <translation>?ppna markerat objekt med Seer:</translation>
+        <translation>Öppna markerat objekt med Seer:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="527"/>
@@ -1794,12 +1844,12 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="257"/>
         <source>Maximize / Restore:</source>
-        <translation>Maximera / ?terst?ll:</translation>
+        <translation>Maximera / Återställ:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1137"/>
         <source>Text</source>
-        <translation type="unfinished">Text</translation>
+        <translation>Text</translation>
     </message>
 </context>
 <context>
@@ -1807,11 +1857,11 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4plugins.cpp" line="101"/>
         <source>Add</source>
-        <translation>L?gg till</translation>
+        <translation>Lägg till</translation>
     </message>
     <message>
         <source>Del</source>
-        <translation type="vanished">Del</translation>
+        <translation type="vanished">Ta bort</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4plugins.cpp" line="105"/>
@@ -1830,17 +1880,17 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4plugins.ui" line="128"/>
         <source>Tasks</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktiviteter</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4plugins.cpp" line="314"/>
         <source>Choose Seer plugin</source>
-        <translation>V?lj Seer-instick</translation>
+        <translation>Välj Seer-instick</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4plugins.ui" line="122"/>
         <source>Available</source>
-        <translation>Tillg?ngliga</translation>
+        <translation>Tillgängliga</translation>
     </message>
     <message>
         <source>Command</source>
@@ -1848,7 +1898,7 @@
     </message>
     <message>
         <source>Extension</source>
-        <translation type="vanished">Filtill?gg</translation>
+        <translation type="vanished">Filtillägg</translation>
     </message>
     <message>
         <source>About plugin...</source>
@@ -1856,23 +1906,23 @@
     </message>
     <message>
         <source>Plugin already exists</source>
-        <translation type="vanished">Insticket finns redan</translation>
+        <translation type="vanished">Insticksmodulen finns redan</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4plugins.cpp" line="115"/>
         <source>Search plugin</source>
-        <translation>S?k insticksmodul</translation>
+        <translation>Sök insticksmodul</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4scriptitem.cpp" line="75"/>
         <location filename="../../../Seer/src/settings/csettingswnd4plugins.cpp" line="109"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsadd.cpp" line="81"/>
         <source>Plugin disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Insticksmodul inaktiverad</translation>
     </message>
 </context>
 <context>
@@ -1888,7 +1938,7 @@
     </message>
     <message>
         <source>Confirm</source>
-        <translation type="vanished">Bekr?fta</translation>
+        <translation type="vanished">Bekräfta</translation>
     </message>
     <message>
         <source>your plugin name</source>
@@ -1896,7 +1946,7 @@
     </message>
     <message>
         <source>matched extensions: png jpg bmp</source>
-        <translation type="vanished">matchade filtill?gg: png jpg bmp</translation>
+        <translation type="vanished">matchade filtillägg: png jpg bmp</translation>
     </message>
 </context>
 <context>
@@ -1914,12 +1964,12 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsavailable.cpp" line="34"/>
         <source>Install</source>
-        <translation type="unfinished"></translation>
+        <translation>Installera</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsavailable.cpp" line="43"/>
         <source>Search available plugin</source>
-        <translation type="unfinished"></translation>
+        <translation>Sök efter tillgänglig insticksmodul</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsavailable.cpp" line="195"/>
@@ -1934,27 +1984,27 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsavailable.cpp" line="195"/>
         <source>Extension</source>
-        <translation>Filtill?gg</translation>
+        <translation>Filtillägg</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsavailable.cpp" line="207"/>
         <source>Install plugin automatically</source>
-        <translation type="unfinished"></translation>
+        <translation>Installera insticksmodul automatiskt</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsavailable.cpp" line="214"/>
         <source>Download for manual installation</source>
-        <translation type="unfinished"></translation>
+        <translation>Ladda ner för manuell installation</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsavailable.cpp" line="53"/>
         <source>Select a plugin on the left</source>
-        <translation>V?lj ett instick till v?nster</translation>
+        <translation>Välj ett instick till vänster</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsavailable.cpp" line="88"/>
         <source>Extension:</source>
-        <translation>Filtill?gg:</translation>
+        <translation>Filtillägg:</translation>
     </message>
 </context>
 <context>
@@ -1962,77 +2012,77 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.ui" line="65"/>
         <source>Choose an installation folder for plugins.</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj en installationsmapp för insticksmoduler.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="26"/>
         <source>Installing</source>
-        <translation type="unfinished"></translation>
+        <translation>Installerar</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="28"/>
         <source>Complete</source>
-        <translation type="unfinished"></translation>
+        <translation>Slutförd</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="30"/>
         <source>Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="54"/>
         <source>Select Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj mapp</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="61"/>
         <source>No plugins are currently being installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inga insticksmoduler installeras för närvarande.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="62"/>
         <source>Explore available plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Utforska tillgängliga insticksmoduler</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="71"/>
         <source>No directory selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen katalog vald.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="74"/>
         <source>Change the directory for plugin installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändra katalog för installation av insticksmodul.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="272"/>
         <source>Save settings to activate the plugin.</source>
-        <translation type="unfinished"></translation>
+        <translation>Spara inställningar för att aktivera insticksmodulen.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="275"/>
         <source>🎉 %1 is installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>🎉 %1 är installerad.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="288"/>
         <source>😥 Failed to install plugin.</source>
-        <translation type="unfinished"></translation>
+        <translation>😥 Kunde inte installera insticksmodulen.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="342"/>
         <source>Cannot write to the selected folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte skriva till den valda mappen.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="357"/>
         <source>Please avoid using Seer&apos;s installation path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Undvik att använda Seers installationssökväg.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/plugininstallertask.cpp" line="574"/>
         <source>Please restart Seer and try installing %1 again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Starta om Seer och försök installera %1 igen.</translation>
     </message>
 </context>
 <context>
@@ -2040,77 +2090,77 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="46"/>
         <source>Locate script interpreter</source>
-        <translation type="unfinished"></translation>
+        <translation>Hitta skript-tolkare</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="51"/>
         <source>Download script interpreter</source>
-        <translation type="unfinished"></translation>
+        <translation>Ladda ner skript-tolkare</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="67"/>
         <source>Find scripts online</source>
-        <translation type="unfinished"></translation>
+        <translation>Hitta skript på nätet</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="74"/>
         <source>Add from local</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till lokal</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="84"/>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Förhandsgranska</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="85"/>
         <source>Controls</source>
-        <translation type="unfinished">Kontroller</translation>
+        <translation>Kontroller</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="86"/>
         <source>Property</source>
-        <translation type="unfinished"></translation>
+        <translation>Egenskap</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="214"/>
         <source>The path of interpreter has saved.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tolksökvägen har sparats.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="257"/>
         <source>Please configure the interpreter first</source>
-        <translation type="unfinished"></translation>
+        <translation>Vänligen konfigurera tolkaren först</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="264"/>
         <source>The configured interpreter path is invalid or missing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Den konfigurerade tolksökvägen är ogiltig eller saknas.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="276"/>
         <source>Failed to parse the script</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte tolka skriptet</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4script.ui" line="138"/>
         <source>Interpreter</source>
-        <translation type="unfinished"></translation>
+        <translation>Tolkare</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4script.ui" line="182"/>
         <source>Script</source>
-        <translation type="unfinished"></translation>
+        <translation>Skript</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4scriptitem.cpp" line="85"/>
         <source>Extensions:</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtillägg:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4scriptitem.cpp" line="96"/>
         <source>Command:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kommando:</translation>
     </message>
 </context>
 <context>
@@ -2118,7 +2168,7 @@
     <message>
         <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="115"/>
         <source>Help</source>
-        <translation>Hj?lp</translation>
+        <translation>Hjälp</translation>
     </message>
     <message>
         <source>Menu</source>
@@ -2137,7 +2187,7 @@
     <message>
         <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="121"/>
         <source>Check for updates</source>
-        <translation>S?k efter uppdateringar</translation>
+        <translation>Sök efter uppdateringar</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="116"/>
@@ -2156,31 +2206,27 @@
     <message>
         <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="102"/>
         <source>Settings</source>
-        <translation>Inst?llningar</translation>
+        <translation>Inställningar</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="91"/>
         <source>Register</source>
-        <translation type="unfinished"></translation>
+        <translation>Registrera</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="98"/>
         <source>Stay on top</source>
-        <translation type="unfinished"></translation>
+        <translation>Håll överst</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="105"/>
         <source>What&apos;s New</source>
-        <translation type="unfinished"></translation>
+        <translation>Nyheter</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="131"/>
         <source>Get PinStack</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Like Seer?</source>
-        <translation type="obsolete">Gillar du Seer?</translation>
+        <translation>Hämta PinStack</translation>
     </message>
 </context>
 <context>
@@ -2212,22 +2258,22 @@
     <message>
         <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="257"/>
         <source>Collapse All</source>
-        <translation type="unfinished"></translation>
+        <translation>Fäll ihop alla</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="274"/>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="279"/>
         <source>Reveal in Explorer</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa i Utforskaren</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="291"/>
         <source>Details View</source>
-        <translation type="unfinished"></translation>
+        <translation>Detaljvy</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="346"/>
@@ -2238,7 +2284,7 @@
     <message>
         <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="351"/>
         <source>Sorting Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Sorteringsalternativ</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/dirs/folder/cdirwnd4folder.cpp" line="164"/>
@@ -2248,18 +2294,18 @@
     <message>
         <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="126"/>
         <source>Open Selected Item With Seer</source>
-        <translation>?ppna markerat objekt med Seer</translation>
+        <translation>Öppna markerat objekt med Seer</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="103"/>
         <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="302"/>
         <source>Tree View</source>
-        <translation>Tr?dvy</translation>
+        <translation>Trädvy</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/dirs/folder/cdirwnd4folder.cpp" line="150"/>
         <source>Open Selected Item With Default Application</source>
-        <translation>?ppna markerat objekt med systemets standardprogram</translation>
+        <translation>Öppna markerat objekt med systemets standardprogram</translation>
     </message>
     <message>
         <source>File Folder</source>
@@ -2279,29 +2325,22 @@
     </message>
     <message>
         <source>Date modified</source>
-        <translation type="obsolete">?ndrad</translation>
+        <translation type="obsolete">Ändrad</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/dirs/treemodel.cpp" line="20"/>
         <source>Folder</source>
-        <translation type="unfinished">Mapp</translation>
+        <translation>Mapp</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/dirs/dircolumnviewinfownd.cpp" line="45"/>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Förhandsgranska</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/dirs/archive/cdirwnd4archive.cpp" line="45"/>
         <source>File is encrypted</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>FindBar</name>
-    <message>
-        <source>Close</source>
-        <translation type="obsolete">St?ng</translation>
+        <translation>Filen är krypterad</translation>
     </message>
 </context>
 <context>
@@ -2309,38 +2348,27 @@
     <message>
         <location filename="../../../Seer/src/web/htmlviewer.cpp" line="167"/>
         <source>Markdown Source</source>
-        <translation type="unfinished"></translation>
+        <translation>Markdown-källkod</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/web/htmlviewer.cpp" line="171"/>
         <source>Save as PDF</source>
-        <translation type="unfinished"></translation>
+        <translation>Spara som PDF</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/web/htmlviewer.cpp" line="183"/>
         <source>HTML Source</source>
-        <translation type="unfinished"></translation>
+        <translation>HTML-källkod</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/web/htmlviewer.cpp" line="422"/>
         <source>Failed to save as PDF</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte spara som PDF</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/web/htmlviewer.cpp" line="448"/>
         <source>Successfully saved as PDF</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>ImageView</name>
-    <message>
-        <source>Rotate Left</source>
-        <translation type="obsolete">Rotera ?t v?nster</translation>
-    </message>
-    <message>
-        <source>Rotate Right</source>
-        <translation type="obsolete">Rotera ?t h?ger</translation>
+        <translation>Sparades som PDF utan problem</translation>
     </message>
 </context>
 <context>
@@ -2348,12 +2376,12 @@
     <message>
         <location filename="../../../Seer/src/picture/imageviewer.cpp" line="69"/>
         <source>The change will take effect on the next preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändringen träder i kraft vid nästa förhandsgranskning</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/picture/imageviewer.cpp" line="167"/>
         <source>XML</source>
-        <translation type="unfinished"></translation>
+        <translation>XML</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/picture/imageviewer.cpp" line="271"/>
@@ -2363,17 +2391,17 @@
     <message>
         <location filename="../../../Seer/src/picture/imageviewer.cpp" line="281"/>
         <source>Loop Count</source>
-        <translation type="unfinished"></translation>
+        <translation>Antal loopar</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/picture/imgvar.h" line="55"/>
         <source>Rotate Right</source>
-        <translation>Rotera ?t h?ger</translation>
+        <translation>Rotera åt höger</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/picture/imageviewer.cpp" line="272"/>
         <source>Height</source>
-        <translation>H?jd</translation>
+        <translation>Höjd</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/picture/imgvar.h" line="64"/>
@@ -2393,62 +2421,62 @@
     <message>
         <location filename="../../../Seer/src/picture/imgvar.h" line="57"/>
         <source>Rotate Left</source>
-        <translation>Rotera ?t v?nster</translation>
+        <translation>Rotera åt vänster</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/picture/imgvar.h" line="59"/>
         <source>Flip Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Vänd horisontellt</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/picture/imgvar.h" line="61"/>
         <source>Flip Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Vänd vertikalt</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/picture/imgvar.h" line="62"/>
         <source>Minimap</source>
-        <translation type="unfinished"></translation>
+        <translation>Minikarta</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/picture/imgvar.h" line="66"/>
         <source>Fit Height</source>
-        <translation type="unfinished"></translation>
+        <translation>Anpassa höjd</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/picture/imgvar.h" line="67"/>
         <source>Expand</source>
-        <translation type="unfinished"></translation>
+        <translation>Fäll ut</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/picture/imgvar.h" line="71"/>
         <source>Play / Pause</source>
-        <translation type="unfinished">Spela / Paus</translation>
+        <translation>Spela / Paus</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/picture/imgvar.h" line="73"/>
         <source>Next Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Nästa bildruta</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/picture/imgvar.h" line="75"/>
         <source>Previous Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Föregående bildruta</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/picture/imgvar.h" line="77"/>
         <source>Zoom In</source>
-        <translation type="unfinished"></translation>
+        <translation>Zooma in</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/picture/imgvar.h" line="79"/>
         <source>Zoom Out</source>
-        <translation type="unfinished"></translation>
+        <translation>Zooma ut</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/picture/imageview.cpp" line="176"/>
         <source>Default Display Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Standard visningsläge</translation>
     </message>
 </context>
 <context>
@@ -2466,13 +2494,13 @@
     <message>
         <location filename="../../../Seer/src/media/mediaviewer.cpp" line="78"/>
         <source>Start Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Starttid</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/media/mediaviewer.cpp" line="88"/>
         <location filename="../../../Seer/src/media/mediaviewer.cpp" line="474"/>
         <source>Rotation</source>
-        <translation type="unfinished"></translation>
+        <translation>Rotation</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/media/mediaviewer.cpp" line="93"/>
@@ -2487,27 +2515,27 @@
     <message>
         <location filename="../../../Seer/src/media/mediaviewer_p.cpp" line="201"/>
         <source>Capture failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte fånga bild</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/media/mediaviewer_p.cpp" line="206"/>
         <source>Screenshot has saved to clipboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skärmavbildningen har sparats i urklipp.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/media/mediaviewer_p.cpp" line="271"/>
         <source>Loop: On</source>
-        <translation type="unfinished"></translation>
+        <translation>Loop: På</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/media/mediaviewer_p.cpp" line="271"/>
         <source>Loop: Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Loop: Av</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/media/mediaviewer_p.cpp" line="436"/>
         <source>Reset to normal speed</source>
-        <translation type="unfinished"></translation>
+        <translation>Återställ till normal hastighet</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/media/mediaviewer_p.cpp" line="473"/>
@@ -2522,32 +2550,12 @@
     <message>
         <location filename="../../../Seer/src/media/mediaviewer.cpp" line="84"/>
         <source>Height</source>
-        <translation>H?jd</translation>
-    </message>
-    <message>
-        <source>Repeat: Off</source>
-        <translation type="vanished">Repetition: Av</translation>
-    </message>
-    <message>
-        <source>Decoder</source>
-        <translation type="vanished">Avkodare</translation>
-    </message>
-    <message>
-        <source>Repeat: On</source>
-        <translation type="vanished">Repetition: Av</translation>
-    </message>
-    <message>
-        <source>Channel Layout</source>
-        <translation type="vanished">Kanal-layout</translation>
+        <translation>Höjd</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/media/mediaviewer.cpp" line="72"/>
         <source>Duration</source>
         <translation>Varaktighet</translation>
-    </message>
-    <message>
-        <source>Sample Format</source>
-        <translation type="vanished">Samplingsformat</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/media/mediaviewer.cpp" line="94"/>
@@ -2557,104 +2565,52 @@
     <message>
         <location filename="../../../Seer/src/media/mediaviewer.cpp" line="288"/>
         <source>Mute: On</source>
-        <translation type="unfinished"></translation>
+        <translation>Ljudlöst: På</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/media/mediaviewer.cpp" line="288"/>
         <source>Mute: Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Ljudlöst: Av</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/media/mediaviewer.cpp" line="365"/>
         <source>Forward:</source>
-        <translation type="unfinished">Fram?t:</translation>
+        <translation>Spola framåt:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/media/mediaviewer.cpp" line="371"/>
         <source>Backward:</source>
-        <translation type="unfinished">Tillbaka:</translation>
+        <translation>Spola bakåt:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/media/mediaviewer.cpp" line="398"/>
         <source>The system is muted</source>
-        <translation type="unfinished"></translation>
+        <translation>Systemet är ljudlöst</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/media/mediaviewer.cpp" line="451"/>
         <source>Mute</source>
-        <translation type="unfinished"></translation>
+        <translation>Ljudlöst</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/media/mediaviewer.cpp" line="461"/>
         <source>Loop</source>
-        <translation type="unfinished"></translation>
+        <translation>Loop</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/media/mediaviewer.cpp" line="475"/>
         <source>Rotate Right</source>
-        <translation type="unfinished">Rotera ?t h?ger</translation>
-    </message>
-    <message>
-        <source>Rotate Left</source>
-        <translation type="obsolete">Rotera ?t v?nster</translation>
+        <translation>Rotera åt höger</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/media/mediaviewer.cpp" line="478"/>
         <source>Reset Rotation</source>
-        <translation type="unfinished"></translation>
+        <translation>Återställ rotation</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/media/mediaviewer.cpp" line="483"/>
         <source>Reset Speed</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>PdfViewPrivate</name>
-    <message>
-        <source>Cannot save image to:
-</source>
-        <translation type="vanished">Kan inte spara bild till:
-</translation>
-    </message>
-    <message>
-        <source>Copy &amp;Text to Clipboard</source>
-        <translation type="vanished">Kopiera &amp;text till Urklipp</translation>
-    </message>
-    <message>
-        <source>File save error</source>
-        <translation type="vanished">Kunde inte spara filen</translation>
-    </message>
-    <message>
-        <source>Supported image files</source>
-        <translation type="vanished">Bildfiler som st?ds</translation>
-    </message>
-    <message>
-        <source>Copy &amp;Image to Clipboard</source>
-        <translation type="vanished">Kopiera &amp;bild till Urklipp</translation>
-    </message>
-    <message>
-        <source>&amp;Cancel</source>
-        <translation type="vanished">A&amp;vbryt</translation>
-    </message>
-    <message>
-        <source>Save image as</source>
-        <translation type="vanished">Spara bild som</translation>
-    </message>
-    <message>
-        <source>Save image as</source>
-        <comment>Save file dialog title</comment>
-        <translation type="obsolete">Spara bild som</translation>
-    </message>
-    <message>
-        <source>Supported image files</source>
-        <comment>Mimetype</comment>
-        <translation type="obsolete">Bildfiler som st?ds</translation>
-    </message>
-    <message>
-        <source>File save error</source>
-        <comment>Message box title</comment>
-        <translation type="obsolete">Kunde inte spara filen</translation>
+        <translation>Återställ hastighet</translation>
     </message>
 </context>
 <context>
@@ -2668,7 +2624,7 @@
     <message>
         <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="183"/>
         <source>Encrypted</source>
-        <translation type="unfinished"></translation>
+        <translation>Krypterad</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="190"/>
@@ -2686,114 +2642,90 @@
         <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="222"/>
         <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="508"/>
         <source>Rotate Right</source>
-        <translation type="unfinished">Rotera ?t h?ger</translation>
+        <translation>Rotera åt höger</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="235"/>
         <source>Sidebar</source>
-        <translation type="unfinished"></translation>
+        <translation>Sidofält</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="309"/>
         <source>Annotation: On</source>
-        <translation type="unfinished"></translation>
+        <translation>Notering: På</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="309"/>
         <source>Annotation: Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Notering: Av</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="433"/>
         <source>Please choose a page first</source>
-        <translation type="unfinished"></translation>
+        <translation>Vänligen välj en sida först</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="510"/>
         <source>Rotate Left</source>
-        <translation type="unfinished">Rotera ?t v?nster</translation>
+        <translation>Rotera åt vänster</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="514"/>
         <source>Annotations</source>
-        <translation type="unfinished"></translation>
+        <translation>Noteringar</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="526"/>
         <source>Dark Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Mörkt läge</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/pdf/sidebar/pdfsidebarwnd.cpp" line="55"/>
         <source>Table of Contents</source>
-        <translation type="unfinished"></translation>
+        <translation>Innehållsförteckning</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/pdf/sidebar/pdfsidebarwnd.cpp" line="58"/>
         <source>Thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation>Miniatyrbilder</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/pdf/sidebar/pdfsidebarwnd.cpp" line="61"/>
         <source>Highlight and Notes</source>
-        <translation type="unfinished"></translation>
+        <translation>Markeringar och anteckningar</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/pdf/cpdfpwdwnd.cpp" line="28"/>
         <source>Password required</source>
-        <translation type="unfinished"></translation>
+        <translation>Lösenord krävs</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
-        <source>&amp;Ok</source>
-        <translation type="vanished">&amp;OK</translation>
-    </message>
-    <message>
-        <source>Notice</source>
-        <translation type="vanished">Notera</translation>
-    </message>
-    <message>
-        <source>Remove</source>
-        <translation type="vanished">Ta bort</translation>
-    </message>
-    <message>
         <location filename="../../../Seer/src/cmain.cpp" line="172"/>
         <source>Please check your &quot;i18n&quot; folder.</source>
-        <translation>Kontrollera din &quot;i18n-mapp&quot;.</translation>
-    </message>
-    <message>
-        <source> not found.</source>
-        <translation type="vanished"> hittades inte.</translation>
-    </message>
-    <message>
-        <source>Seer is already running.</source>
-        <translation type="vanished">Seer ?r redan startat.</translation>
-    </message>
-    <message>
-        <source>Set language failed</source>
-        <translation type="vanished">Spr?kinst?llningen misslyckades</translation>
+        <translation>Kontrollera din &quot;i18n&quot;-mapp.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/cmain.cpp" line="171"/>
         <source>Update language failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte uppdatera språket</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/types.h" line="13"/>
         <source>Folder</source>
-        <translation type="unfinished">Mapp</translation>
+        <translation>Mapp</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/types.h" line="11"/>
         <source>Image</source>
-        <translation type="unfinished">Bild</translation>
+        <translation>Bild</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/types.h" line="15"/>
         <source>Text</source>
-        <translation type="unfinished">Text</translation>
+        <translation>Text</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/types.h" line="14"/>
@@ -2803,17 +2735,24 @@
     <message>
         <location filename="../../../Seer/src/types.h" line="10"/>
         <source>HTML</source>
-        <translation></translation>
+        <translation>HTML</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/types.h" line="9"/>
         <source>Unknown</source>
-        <translation type="unfinished">Ok?nd</translation>
+        <translation>Okänd</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/types.h" line="12"/>
         <source>Media</source>
-        <translation type="unfinished">Media</translation>
+        <translation>Media</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/pdf/sidebar/pdfsidebarwnd.cpp" line="20"/>
+        <location filename="../../../Seer/src/dirs/nodes.cpp" line="14"/>
+        <location filename="../../../Seer/src/text/textviewerbase.cpp" line="20"/>
+        <source>Loading</source>
+        <translation>Laddar</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="94"/>
@@ -2822,104 +2761,89 @@
         <location filename="../../../Seer/src/pdf/cpdfpwdwnd.cpp" line="35"/>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="48"/>
         <source>Cancel</source>
-        <translation type="unfinished">Avbryt</translation>
+        <translation>Avbryt</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="98"/>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsadd.cpp" line="99"/>
         <location filename="../../../Seer/src/pdf/cpdfpwdwnd.cpp" line="34"/>
         <source>Okay</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="119"/>
         <location filename="../../../Seer/src/ui/caboutwnd.cpp" line="55"/>
         <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="680"/>
         <source>Close</source>
-        <translation type="unfinished">St?ng</translation>
+        <translation>Stäng</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/ui/caboutwnd.cpp" line="65"/>
         <source>Return</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/pdf/sidebar/pdfsidebarwnd.cpp" line="20"/>
-        <location filename="../../../Seer/src/dirs/nodes.cpp" line="14"/>
-        <location filename="../../../Seer/src/text/textviewerbase.cpp" line="20"/>
-        <source>Loading</source>
-        <translation type="unfinished"></translation>
+        <translation>Gå tillbaka</translation>
     </message>
 </context>
 <context>
     <name>TextViewer</name>
     <message>
-        <source>Line: </source>
-        <translation type="vanished">Rad: </translation>
-    </message>
-    <message>
-        <source>Column: </source>
-        <translation type="vanished">Kolumn: </translation>
-    </message>
-    <message>
         <location filename="../../../Seer/src/text/FeaturedView/textviewer4feature.cpp" line="73"/>
         <source>Format Code</source>
-        <translation>Formatkod</translation>
+        <translation>Formatera kod</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/text/FeaturedView/textviewer4feature.cpp" line="104"/>
         <source>Reason:</source>
-        <translation>Syfte:</translation>
+        <translation>Orsak:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/text/FeaturedView/textviewer4feature.cpp" line="106"/>
         <source>Line:</source>
-        <translation type="unfinished"></translation>
+        <translation>Rad:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/text/FeaturedView/textviewer4feature.cpp" line="108"/>
         <source>Column:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolumn:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/text/FeaturedView/textviewer4feature.cpp" line="160"/>
         <source>Render Markdown</source>
-        <translation type="unfinished"></translation>
+        <translation>Rendera Markdown</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/text/FeaturedView/textviewer4feature.cpp" line="173"/>
         <source>Render HTML</source>
-        <translation type="unfinished"></translation>
+        <translation>Rendera HTML</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/text/FeaturedView/textviewer4feature.cpp" line="187"/>
         <source>Render Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Rendera bild</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/text/FeaturedView/textviewer4feature.cpp" line="385"/>
         <source>Locate Cursor</source>
-        <translation type="unfinished"></translation>
+        <translation>Hitta markör</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/text/FeaturedView/textviewer4feature.cpp" line="390"/>
         <source>Word Wrap</source>
-        <translation type="unfinished"></translation>
+        <translation>Radbrytning</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/text/FeaturedView/textviewer4feature.cpp" line="464"/>
         <source>Ln</source>
-        <translation type="unfinished"></translation>
+        <translation>Rad</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/text/FeaturedView/textviewer4feature.cpp" line="466"/>
         <source>Col</source>
-        <translation type="unfinished"></translation>
+        <translation>Kol</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/text/FeaturedView/textviewer4feature.cpp" line="478"/>
         <source>Character count</source>
-        <translation type="unfinished"></translation>
+        <translation>Teckenantal</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/text/FeaturedView/textviewer4feature.cpp" line="103"/>
@@ -2927,31 +2851,20 @@
         <translation>Formatering misslyckades.</translation>
     </message>
     <message>
-        <source>Rotate Right</source>
-        <translation type="obsolete">Rotera ?t h?ger</translation>
-    </message>
-    <message>
         <location filename="../../../Seer/src/text/textviewerbase.cpp" line="131"/>
         <source>Line Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Radnummer</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/text/textviewerbase.cpp" line="144"/>
         <source>Minimap</source>
-        <translation type="unfinished"></translation>
+        <translation>Minikarta</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/text/ChunkView/textviewer4chunk.cpp" line="80"/>
         <location filename="../../../Seer/src/text/FeaturedView/textviewer4feature.cpp" line="480"/>
         <source>Line count</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>overdue</name>
-    <message>
-        <source>Close</source>
-        <translation type="obsolete">St?ng</translation>
+        <translation>Radantal</translation>
     </message>
 </context>
 </TS>

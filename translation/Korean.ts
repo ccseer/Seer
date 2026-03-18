@@ -530,7 +530,7 @@
     <message>
         <location filename="../../../Seer/src/cmain.cpp" line="158"/>
         <source> is registered by other application.</source>
-        <translation>은(는) 다른 프로그램에서 사용하고 있습니다.</translation>
+        <translation> 은(는) 다른 프로그램에서 사용하고 있습니다.</translation>
     </message>
     <message>
         <source>Restart Failed</source>
@@ -3178,7 +3178,7 @@
         <location filename="../../../Seer/src/dirs/nodes.cpp" line="14"/>
         <location filename="../../../Seer/src/text/textviewerbase.cpp" line="20"/>
         <source>Loading</source>
-        <translation>불러오는 중...</translation>
+        <translation>불러오는 중</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="94"/>

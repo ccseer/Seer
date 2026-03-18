@@ -7,90 +7,90 @@
         <location filename="../../../Seer/src/opt/updater/appupdater.cpp" line="268"/>
         <location filename="../../../Seer/src/opt/updater/appupdater.cpp" line="446"/>
         <source>Network Error:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка сети:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/updater/appupdater.cpp" line="356"/>
         <source>Invalid release notes URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Неверный URL списка изменений</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/updater/appupdater.cpp" line="379"/>
         <source>Failed to fetch release notes</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось получить список изменений</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/updater/appupdater.cpp" line="411"/>
         <source>Failed to save download file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось сохранить скачанный файл.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="46"/>
         <source>Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Обновление</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="53"/>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="221"/>
         <source>Checking for updates...</source>
-        <translation type="unfinished"></translation>
+        <translation>Проверка обновлений...</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="69"/>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="228"/>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="306"/>
         <source>Downloading...</source>
-        <translation type="unfinished"></translation>
+        <translation>Скачивание...</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="91"/>
         <source>Install Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Установить обновление</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="93"/>
         <source>Skip This Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Пропустить эту версию</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="95"/>
         <source>Remind Me Later</source>
-        <translation type="unfinished"></translation>
+        <translation>Напомнить позже</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="123"/>
         <source>Install Manually</source>
-        <translation type="unfinished"></translation>
+        <translation>Установить вручную</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="247"/>
         <source>%1 %2 is now available (you have %3).</source>
-        <translation type="unfinished"></translation>
+        <translation>Доступна версия %1 %2 (у вас установлена %3).</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="268"/>
         <source>You&apos;re up to date!</source>
-        <translation type="unfinished"></translation>
+        <translation>У вас установлена последняя версия!</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="269"/>
         <source>%1 %2 is currently the newest version available.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 %2 в настоящее время является самой новой доступной версией.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="281"/>
         <source>Update Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка обновления</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="295"/>
         <source>The update package has been downloaded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Пакет обновления успешно загружен.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="296"/>
         <source>Ready to install.</source>
-        <translation type="unfinished"></translation>
+        <translation>Готово к установке.</translation>
     </message>
 </context>
 <context>
@@ -156,17 +156,17 @@
     <message>
         <location filename="../../../Seer/src/ui/caboutwnd.ui" line="299"/>
         <source>Cisa</source>
-        <translation></translation>
+        <translation>Cisa</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/ui/caboutwnd.ui" line="339"/>
         <source>FOSS</source>
-        <translation></translation>
+        <translation>FOSS</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/ui/caboutwnd.cpp" line="120"/>
         <source>Open Source Software in Seer</source>
-        <translation type="unfinished"></translation>
+        <translation>Программное обеспечение с открытым исходным кодом в Seer</translation>
     </message>
 </context>
 <context>
@@ -184,7 +184,7 @@
     <message>
         <location filename="../../../Seer/src/ui/ccontrolwnd.cpp" line="25"/>
         <source>Open With Default Application</source>
-        <translation>Открыть с помощью программы по умолчанию</translation>
+        <translation>Открыть в программе по умолчанию</translation>
     </message>
 </context>
 <context>
@@ -232,22 +232,22 @@
     <message>
         <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="142"/>
         <source>Total bytes</source>
-        <translation type="unfinished"></translation>
+        <translation>Всего байт</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="147"/>
         <source>Available bytes</source>
-        <translation type="unfinished"></translation>
+        <translation>Доступно байт</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="150"/>
         <source>Free bytes</source>
-        <translation type="unfinished"></translation>
+        <translation>Свободно байт</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="157"/>
         <source>Block size</source>
-        <translation type="unfinished"></translation>
+        <translation>Размер блока</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="175"/>
@@ -332,7 +332,7 @@
     <message>
         <location filename="../../../Seer/src/unknown/tableview4property.cpp" line="17"/>
         <source>Pin</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрепить</translation>
     </message>
 </context>
 <context>
@@ -396,15 +396,11 @@
     <message>
         <location filename="../../../Seer/src/cmain.cpp" line="760"/>
         <source>Seer is already running.</source>
-        <translation type="unfinished">Seer уже запущен.</translation>
+        <translation>Seer уже запущен.</translation>
     </message>
 </context>
 <context>
     <name>CMainWnd</name>
-    <message>
-        <source>Close</source>
-        <translation type="vanished">Закрыть</translation>
-    </message>
     <message>
         <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="682"/>
         <source>Properties</source>
@@ -413,53 +409,26 @@
     <message>
         <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="683"/>
         <source>Separate</source>
-        <translation type="unfinished"></translation>
+        <translation>Отделить</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="1353"/>
         <source>Viewer</source>
-        <translation type="unfinished"></translation>
+        <translation>Просмотр</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="681"/>
         <source>Minimize</source>
-        <translation type="unfinished"></translation>
+        <translation>Свернуть</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="188"/>
         <source>Please try again with separated window.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>CPDFPwdWnd</name>
-    <message>
-        <source>OK</source>
-        <translation type="vanished">OK</translation>
-    </message>
-    <message>
-        <source>Password required</source>
-        <translation type="vanished">Требуется пароль</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="vanished">Отмена</translation>
+        <translation>Пожалуйста, попробуйте еще раз в отдельном окне.</translation>
     </message>
 </context>
 <context>
     <name>CRegDlg</name>
-    <message>
-        <source>OK</source>
-        <translation type="vanished">OK</translation>
-    </message>
-    <message>
-        <source>ID:</source>
-        <translation type="vanished">ID:</translation>
-    </message>
-    <message>
-        <source>Copy</source>
-        <translation type="vanished">Копировать</translation>
-    </message>
     <message>
         <location filename="../../../Seer/src/opt/licenser/cregdlg.ui" line="72"/>
         <source>Order</source>
@@ -471,65 +440,45 @@
         <translation>Отмена</translation>
     </message>
     <message>
-        <source>Copied</source>
-        <translation type="vanished">Копирование</translation>
-    </message>
-    <message>
-        <source>Invalid License</source>
-        <translation type="vanished">Неверная лицензия</translation>
-    </message>
-    <message>
-        <source>Licensed</source>
-        <translation type="vanished">Лицензированный</translation>
-    </message>
-    <message>
-        <source>License:</source>
-        <translation type="vanished">Лицензия:</translation>
-    </message>
-    <message>
         <location filename="../../../Seer/src/opt/licenser/cregdlg.cpp" line="24"/>
         <source>Thanks for your support!!!</source>
-        <translation type="unfinished"></translation>
+        <translation>Спасибо за вашу поддержку!!!</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/licenser/cregdlg.cpp" line="68"/>
         <source>Seer will stop running in %1 day(s).</source>
-        <translation type="unfinished"></translation>
+        <translation>Seer перестанет работать через %1 день/дней.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/licenser/cregdlg.cpp" line="70"/>
         <source>The evaluation period has ended.</source>
-        <translation type="unfinished"></translation>
+        <translation>Пробный период закончился.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/licenser/cregdlg.cpp" line="73"/>
         <source>Please enter your license key.</source>
-        <translation type="unfinished"></translation>
+        <translation>Пожалуйста, введите ваш лицензионный ключ.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/licenser/cregdlg.cpp" line="194"/>
         <location filename="../../../Seer/src/opt/licenser/cregdlg.cpp" line="213"/>
         <source>Verifying</source>
-        <translation type="unfinished"></translation>
+        <translation>Проверка</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/licenser/cregdlg.cpp" line="197"/>
         <location filename="../../../Seer/src/opt/licenser/cregdlg.cpp" line="236"/>
         <source>Activated</source>
-        <translation type="unfinished"></translation>
+        <translation>Активировано</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/licenser/cregdlg.cpp" line="205"/>
         <source>Failed to activate</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка активации</translation>
     </message>
 </context>
 <context>
     <name>CSettingsDlg</name>
-    <message>
-        <source>&amp;OK</source>
-        <translation type="vanished">&amp;OK</translation>
-    </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="66"/>
         <source>Type</source>
@@ -546,10 +495,6 @@
         <translation>Плагины</translation>
     </message>
     <message>
-        <source>Restart</source>
-        <translation type="vanished">Перезапуск</translation>
-    </message>
-    <message>
         <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="67"/>
         <source>Advanced</source>
         <translation>Дополнительно</translation>
@@ -557,7 +502,7 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="68"/>
         <source>Scripts</source>
-        <translation type="unfinished"></translation>
+        <translation>Скрипты</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="78"/>
@@ -567,7 +512,7 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="256"/>
         <source>Restarting to apply the new settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Перезапуск для применения новых настроек.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="64"/>
@@ -590,7 +535,7 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4controls.ui" line="96"/>
         <source>Show &quot;Display in explorer&quot; button</source>
-        <translation>Показать кнопку &quot;Отобразить в проводнике&quot;</translation>
+        <translation>Показать кнопку &quot;Показать в проводнике&quot;</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4controls.ui" line="82"/>
@@ -608,17 +553,9 @@
         <translation>Выберите путь к исполняемому файлу</translation>
     </message>
     <message>
-        <source>equals triggered file path</source>
-        <translation type="vanished">равно вызванному пути к файлу</translation>
-    </message>
-    <message>
         <location filename="../../../Seer/src/settings/csettingswnd4controls.ui" line="142"/>
         <source>Extension</source>
         <translation>Расширение</translation>
-    </message>
-    <message>
-        <source>extension</source>
-        <translation type="vanished">расширение</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4controls.ui" line="89"/>
@@ -646,27 +583,27 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="85"/>
         <source>Never take focus</source>
-        <translation type="unfinished"></translation>
+        <translation>Никогда не перехватывать фокус</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="86"/>
         <source>Every time a file is previewed</source>
-        <translation type="unfinished"></translation>
+        <translation>При каждом предварительном просмотре файла</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="88"/>
         <source>Only when the window opens</source>
-        <translation type="unfinished"></translation>
+        <translation>Только при открытии окна</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="109"/>
         <source>Removes Seer&apos;s icon from the system tray area.</source>
-        <translation type="unfinished"></translation>
+        <translation>Убирает значок Seer из системного трея.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="111"/>
         <source>Show the title and control bars permanently or only when hovering the mouse.</source>
-        <translation type="unfinished"></translation>
+        <translation>Показывать панель заголовка и управления постоянно или только при наведении мыши.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="114"/>
@@ -694,14 +631,51 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="129"/>
-        <source>Sets the maximum size of the preview window as a percentage of the screen size.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="132"/>
         <source>Determines when the preview window becomes the active window and receives keyboard input.</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically updates Seer&apos;s preview to follow the currently selected file
+                in File Explorer.</source>
+        <translation type="vanished">Автоматически обновлять предпросмотр Seer при смене выбранного файла в
+                Проводнике.</translation>
+    </message>
+    <message>
+        <source>Allows you to open files directly by double-clicking, using the application
+                associated with the file type in your system settings.</source>
+        <translation type="vanished">Позволяет открывать файлы двойным кликом в программе, назначенной по
+                умолчанию в системе.</translation>
+    </message>
+    <message>
+        <source>Allows using the Delete key to move the currently previewed file to the Recycle
+                Bin.</source>
+        <translation type="vanished">Позволяет использовать клавишу Delete для перемещения просматриваемого
+                файла в Корзину.</translation>
+    </message>
+    <message>
+        <source>Allows Seer to respond to simulated key input generated by software, such as
+                virtual keyboards or automation tools.</source>
+        <translation type="vanished">Позволяет Seer реагировать на виртуальные нажатия клавиш, сгенерированные
+                программами.</translation>
+    </message>
+    <message>
+        <source>Remembers and restores the preview window&apos;s size and position from the last
+                session.</source>
+        <translation type="vanished">Запоминает и восстанавливает размер и положение окна предпросмотра из
+                прошлого сеанса.</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="129"/>
+        <source>Sets the maximum size of the preview window as a percentage of the screen size.</source>
+        <translation>Устанавливает максимальный размер окна предпросмотра в процентах от размера
+                экрана.</translation>
+    </message>
+    <message>
+        <source>Determines when the preview window becomes the active window and receives
+                keyboard input.</source>
+        <translation type="vanished">Определяет, когда окно предпросмотра становится активным и принимает ввод с
+                клавиатуры.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="124"/>
@@ -711,51 +685,47 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="172"/>
         <source>Trigger on software-generated key events</source>
-        <translation type="unfinished"></translation>
+        <translation>Реагировать на программно сгенерированные нажатия клавиш</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="220"/>
         <source>Preview window focus:</source>
-        <translation type="unfinished"></translation>
+        <translation>Фокус окна предпросмотра:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="247"/>
         <source>Maximum preview size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Максимальный размер предпросмотра:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="274"/>
         <source>Backup:</source>
-        <translation type="unfinished"></translation>
+        <translation>Резервное копирование:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="281"/>
         <source>Export</source>
-        <translation type="unfinished"></translation>
+        <translation>Экспорт</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="288"/>
         <source>Import</source>
-        <translation type="unfinished"></translation>
+        <translation>Импорт</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="308"/>
         <source>Reset to default</source>
-        <translation type="unfinished"></translation>
+        <translation>Сбросить по умолчанию</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="340"/>
         <source>User defined</source>
-        <translation type="unfinished"></translation>
+        <translation>Пользовательский</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="458"/>
         <source>Title bar &amp; Control bar:</source>
-        <translation>Заголовок и панель управления </translation>
-    </message>
-    <message>
-        <source>Use white icon</source>
-        <translation type="vanished">Белая иконка</translation>
+        <translation>Заголовок и панель управления:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="148"/>
@@ -763,26 +733,14 @@
         <translation>Включить клавишу DELETE</translation>
     </message>
     <message>
-        <source>Cancel</source>
-        <translation type="vanished">Отмена</translation>
-    </message>
-    <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="75"/>
         <source>Others</source>
         <translation>Другие</translation>
     </message>
     <message>
-        <source>Use the trigger key to close window</source>
-        <translation type="vanished">Использовать клавишу просмотра, чтобы закрыть окно</translation>
-    </message>
-    <message>
-        <source>Reset settings to default</source>
-        <translation type="vanished">Сброс к параметрам по умолчанию</translation>
-    </message>
-    <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="468"/>
         <source>Constant</source>
-        <translation>Фиксировано </translation>
+        <translation>Постоянно</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="427"/>
@@ -792,11 +750,7 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="100"/>
         <source>Double click to open file with system default application</source>
-        <translation>Двойной щелчок, чтобы открыть файл в программе по умолчанию</translation>
-    </message>
-    <message>
-        <source>Tray Icon</source>
-        <translation type="vanished">Иконка в трее</translation>
+        <translation>Двойной клик, чтобы открыть файл в программе по умолчанию</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="475"/>
@@ -822,51 +776,19 @@
 <context>
     <name>CSettingsWnd4FileType</name>
     <message>
-        <source>Text</source>
-        <translation type="vanished">Текст</translation>
-    </message>
-    <message>
-        <source>Image</source>
-        <translation type="vanished">Изображение</translation>
-    </message>
-    <message>
-        <source>Media</source>
-        <translation type="vanished">Медиа</translation>
-    </message>
-    <message>
-        <source>Other</source>
-        <translation type="vanished">Другое</translation>
-    </message>
-    <message>
-        <source> already exist.</source>
-        <translation type="vanished"> уже существует.</translation>
-    </message>
-    <message>
-        <source>Remove</source>
-        <translation type="vanished">Удалить</translation>
-    </message>
-    <message>
-        <source>Markdown css not found.</source>
-        <translation type="vanished">Markdown css не найден.</translation>
-    </message>
-    <message>
-        <source>Select your Text format file</source>
-        <translation type="vanished">Выберите формат текстового файла</translation>
-    </message>
-    <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.ui" line="234"/>
         <source>Disable renaming during preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Отключить переименование во время предпросмотра</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.ui" line="272"/>
         <source>Disable GPU decoding</source>
-        <translation type="unfinished"></translation>
+        <translation>Отключить GPU декодирование</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.ui" line="469"/>
         <source>Disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Отключено</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.ui" line="636"/>
@@ -876,22 +798,22 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.ui" line="692"/>
         <source>Default display mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>Режим отображения по умолчанию:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.ui" line="799"/>
         <source>System</source>
-        <translation type="unfinished"></translation>
+        <translation>Система</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="45"/>
         <source>Oops!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ой!</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="45"/>
         <source>No matching extensions found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Подходящих расширений не найдено.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="50"/>
@@ -901,59 +823,58 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="86"/>
         <source>Markdown stylesheet path</source>
-        <translation type="unfinished"></translation>
+        <translation>Путь к таблице стилей Markdown</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="88"/>
         <source>Will display property only for extensions in this field, e.g.:</source>
-        <translation type="unfinished"></translation>
+        <translation>Будут отображаться свойства только для расширений в этом поле, например:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="97"/>
         <location filename="../../../Seer/src/picture/imageview.cpp" line="188"/>
         <source>Auto Fit</source>
-        <translation type="unfinished"></translation>
+        <translation>Автомасштаб</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="101"/>
         <source>Automatically scales to fit the entire image in the viewer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Автоматически масштабировать, чтобы изображение целиком помещалось в окне
+                просмотра.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="104"/>
         <location filename="../../../Seer/src/picture/imageview.cpp" line="191"/>
         <source>Fit Short Side</source>
-        <translation type="unfinished"></translation>
+        <translation>По короткой стороне</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="106"/>
         <source>Scales until the shorter side fits; scroll the longer side if needed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Масштабировать по короткой стороне; при необходимости прокручивать по
+                длинной.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="110"/>
         <location filename="../../../Seer/src/picture/imageview.cpp" line="194"/>
         <source>Prefer Full Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Предпочитать полный размер</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="112"/>
         <source>Always loads the image at its original resolution; scrolling may be required.</source>
-        <translation type="unfinished"></translation>
+        <translation>Всегда загружать изображение в исходном разрешении (может потребоваться
+                прокрутка).</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="383"/>
         <source>Invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>Недействительно</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.ui" line="528"/>
         <source>Disable file type detecting</source>
         <translation>Отключить обнаружение типов файлов</translation>
-    </message>
-    <message>
-        <source>PDF</source>
-        <translation type="vanished">PDF</translation>
     </message>
 </context>
 <context>
@@ -966,7 +887,7 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4general.ui" line="131"/>
         <source>Run as administrator</source>
-        <translation>Запускать от админа</translation>
+        <translation>Запускать от имени администратора</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4general.ui" line="99"/>
@@ -986,22 +907,22 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4general.ui" line="138"/>
         <source>Automatically check for updates</source>
-        <translation>Авто проверка обновлений</translation>
+        <translation>Автоматически проверять обновления</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4general.cpp" line="169"/>
         <source>Auto</source>
-        <translation type="unfinished"></translation>
+        <translation>Авто</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4general.cpp" line="170"/>
         <source>Dark</source>
-        <translation type="unfinished"></translation>
+        <translation>Темная</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4general.cpp" line="171"/>
         <source>Light</source>
-        <translation type="unfinished"></translation>
+        <translation>Светлая</translation>
     </message>
 </context>
 <context>
@@ -1040,123 +961,123 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="814"/>
         <source>Flip Horizontal:</source>
-        <translation type="unfinished"></translation>
+        <translation>Отразить по горизонтали:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="828"/>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1255"/>
         <source>Toggle Minimap:</source>
-        <translation type="unfinished"></translation>
+        <translation>Переключить миникарту:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="842"/>
         <source>Flip Vertical:</source>
-        <translation type="unfinished"></translation>
+        <translation>Отразить по вертикали:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="908"/>
         <source>Mute:</source>
-        <translation>Отключить звук：</translation>
+        <translation>Отключить звук:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="922"/>
         <source>Go To Beginning:</source>
-        <translation type="unfinished"></translation>
+        <translation>В начало:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="950"/>
         <source>Increase Speed:</source>
-        <translation type="unfinished"></translation>
+        <translation>Увеличить скорость:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="977"/>
         <source>Forward 5x:</source>
-        <translation type="unfinished"></translation>
+        <translation>Вперед 5x:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="991"/>
         <source>Percent Locate:</source>
-        <translation type="unfinished"></translation>
+        <translation>Переход по процентам:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="998"/>
         <source>0-9</source>
-        <translation type="unfinished"></translation>
+        <translation>0-9</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1036"/>
         <source>Backward 15x:</source>
-        <translation type="unfinished"></translation>
+        <translation>Назад 15x:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1078"/>
         <source>Decrease Speed:</source>
-        <translation type="unfinished"></translation>
+        <translation>Уменьшить скорость:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1106"/>
         <source>Backward 5x:</source>
-        <translation type="unfinished"></translation>
+        <translation>Назад 5x:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1120"/>
         <source>Forward 15x:</source>
-        <translation type="unfinished"></translation>
+        <translation>Вперед 15x:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1172"/>
         <source>Line Number:</source>
-        <translation type="unfinished"></translation>
+        <translation>Номер строки:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1186"/>
         <source>Locate:</source>
-        <translation type="unfinished"></translation>
+        <translation>Перейти:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1200"/>
         <source>Render:</source>
-        <translation type="unfinished"></translation>
+        <translation>Рендеринг:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1214"/>
         <source>Format:</source>
-        <translation type="unfinished"></translation>
+        <translation>Форматирование:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1241"/>
         <source>Word Wrap:</source>
-        <translation type="unfinished"></translation>
+        <translation>Перенос слов:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1321"/>
         <source>Sidebar:</source>
-        <translation type="unfinished"></translation>
+        <translation>Боковая панель:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1335"/>
         <source>Annotation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Аннотации:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1377"/>
         <source>Dark:</source>
-        <translation type="unfinished"></translation>
+        <translation>Темный:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1391"/>
         <source>Next Page:</source>
-        <translation type="unfinished"></translation>
+        <translation>Следующая страница:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1446"/>
         <source>Previous Page:</source>
-        <translation type="unfinished"></translation>
+        <translation>Предыдущая страница:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1534"/>
         <source>Normal:</source>
-        <translation type="unfinished"></translation>
+        <translation>Обычный:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1555"/>
@@ -1194,47 +1115,47 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="70"/>
         <source>Previous Type File:</source>
-        <translation type="unfinished"></translation>
+        <translation>Предыдущий файл того же типа:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="97"/>
         <source>Previous:</source>
-        <translation type="unfinished"></translation>
+        <translation>Предыдущий:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="111"/>
         <source>Next Type File:</source>
-        <translation type="unfinished"></translation>
+        <translation>Следующий файл того же типа:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="125"/>
         <source>Next:</source>
-        <translation type="unfinished"></translation>
+        <translation>Следующий:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="173"/>
         <source>Reduce Window Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Уменьшить размер окна:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="201"/>
         <source>Normalize Window:</source>
-        <translation type="unfinished"></translation>
+        <translation>Восстановить размер окна:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="229"/>
         <source>Separate:</source>
-        <translation type="unfinished"></translation>
+        <translation>Отделить:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="243"/>
         <source>Increase Window Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Увеличить размер окна:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="299"/>
         <source>Show Settings Window:</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать окно настроек:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="316"/>
@@ -1244,17 +1165,17 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="351"/>
         <source>Details View:</source>
-        <translation type="unfinished"></translation>
+        <translation>В виде списка:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="378"/>
         <source>Open Clicked Item:</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть кликнутый элемент:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="385"/>
         <source>Shift + Click</source>
-        <translation type="unfinished"></translation>
+        <translation>Shift + Клик</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="409"/>
@@ -1264,69 +1185,69 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="430"/>
         <source>Alt + Arrow Key</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt + Стрелка</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="468"/>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="541"/>
         <source>Goto:</source>
-        <translation type="unfinished"></translation>
+        <translation>Перейти:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="475"/>
         <source>Ctrl + Click</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl + Клик</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="555"/>
         <source>Reveal Clicked Item:</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать кликнутый элемент:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="562"/>
         <source>Alt + Click</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt + Клик</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="586"/>
         <source>Open Clicked Item With Seer:</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть кликнутый элемент с помощью Seer:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="593"/>
         <source>Shift + Alt + Click</source>
-        <translation type="unfinished"></translation>
+        <translation>Shift + Alt + Клик</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="655"/>
         <source>Expand:</source>
-        <translation type="unfinished"></translation>
+        <translation>Развернуть:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="682"/>
         <source>Restore:</source>
-        <translation type="unfinished"></translation>
+        <translation>Восстановить:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="689"/>
         <source>Double click</source>
-        <translation type="unfinished"></translation>
+        <translation>Двойной клик</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="713"/>
         <source>Center:</source>
-        <translation type="unfinished"></translation>
+        <translation>По центру:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="720"/>
         <source>Enter / Return</source>
-        <translation type="unfinished"></translation>
+        <translation>Enter / Return</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="772"/>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1349"/>
         <source>Fit Height:</source>
-        <translation type="unfinished"></translation>
+        <translation>По высоте:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="800"/>
@@ -1335,9 +1256,15 @@
         <translation>По ширине:</translation>
     </message>
     <message>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1541"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1621"/>
+        <source>Control</source>
+        <translation>Ctrl</translation>
+    </message>
+    <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1614"/>
         <source>Fullscreen:</source>
-        <translation type="unfinished"></translation>
+        <translation>Полноэкранный режим:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="56"/>
@@ -1357,7 +1284,7 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="271"/>
         <source>Open With Default App:</source>
-        <translation>Открыть с помощью программы по умолчанию:</translation>
+        <translation>Открыть в программе по умолчанию:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="454"/>
@@ -1392,15 +1319,9 @@
         <translation>Назад:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1541"/>
-        <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1621"/>
-        <source>Control</source>
-        <translation>Control</translation>
-    </message>
-    <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.cpp" line="17"/>
         <source>Invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>Недействительно</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.cpp" line="259"/>
@@ -1410,12 +1331,12 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.cpp" line="272"/>
         <source>Duplicated shortcut:</source>
-        <translation type="unfinished"></translation>
+        <translation>Дублирующийся ярлык:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="215"/>
         <source>Reveal In Explorer:</source>
-        <translation>Просмотр в проводнике:</translation>
+        <translation>Показать в проводнике:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="744"/>
@@ -1427,21 +1348,17 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="423"/>
         <source>Navigation:</source>
-        <translation>Навигация</translation>
-    </message>
-    <message>
-        <source>Time Indication:</source>
-        <translation type="vanished">Индикация времени:</translation>
+        <translation>Навигация:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="513"/>
         <source>Open Selected Item With Seer:</source>
-        <translation>Открыть выбранный элемент с Seer：</translation>
+        <translation>Открыть выбранный элемент с помощью Seer：</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="527"/>
         <source>Reveal Selected Item:</source>
-        <translation>Просмотр выбранного элемента:</translation>
+        <translation>Показать выбранный элемент:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="257"/>
@@ -1452,10 +1369,6 @@
 <context>
     <name>CSettingsWnd4Plugins</name>
     <message>
-        <source>Name</source>
-        <translation type="vanished">Имя</translation>
-    </message>
-    <message>
         <location filename="../../../Seer/src/settings/csettingswnd4plugins.ui" line="21"/>
         <source>Local</source>
         <translation>Установленные</translation>
@@ -1463,12 +1376,12 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4plugins.ui" line="128"/>
         <source>Tasks</source>
-        <translation type="unfinished"></translation>
+        <translation>Задачи</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4plugins.cpp" line="101"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4plugins.cpp" line="314"/>
@@ -1481,21 +1394,9 @@
         <translation>Доступные</translation>
     </message>
     <message>
-        <source>Command</source>
-        <translation type="vanished">Команда</translation>
-    </message>
-    <message>
-        <source>Extension</source>
-        <translation type="vanished">Расширение</translation>
-    </message>
-    <message>
         <location filename="../../../Seer/src/settings/csettingswnd4plugins.cpp" line="105"/>
         <source>Edit</source>
-        <translation type="unfinished">Правка</translation>
-    </message>
-    <message>
-        <source>Plugin already exists</source>
-        <translation type="vanished">Плагин уже существует</translation>
+        <translation>Правка</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4plugins.cpp" line="115"/>
@@ -1506,12 +1407,12 @@
         <location filename="../../../Seer/src/settings/csettingswnd4scriptitem.cpp" line="75"/>
         <location filename="../../../Seer/src/settings/csettingswnd4plugins.cpp" line="109"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsadd.cpp" line="81"/>
         <source>Plugin disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Плагин отключен</translation>
     </message>
 </context>
 <context>
@@ -1520,14 +1421,6 @@
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsadd.cpp" line="90"/>
         <source>your plugin.exe [argument] ...</source>
         <translation>ваш plugin.exe [argument] ...</translation>
-    </message>
-    <message>
-        <source>your plugin name</source>
-        <translation type="vanished">ваше имя плагина</translation>
-    </message>
-    <message>
-        <source>matched extensions: png jpg bmp</source>
-        <translation type="vanished">соответствие расширений: png jpg bmp</translation>
     </message>
 </context>
 <context>
@@ -1545,7 +1438,7 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsavailable.cpp" line="34"/>
         <source>Install</source>
-        <translation type="unfinished"></translation>
+        <translation>Установить</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsavailable.cpp" line="91"/>
@@ -1570,12 +1463,12 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsavailable.cpp" line="207"/>
         <source>Install plugin automatically</source>
-        <translation type="unfinished"></translation>
+        <translation>Установить плагин автоматически</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsavailable.cpp" line="214"/>
         <source>Download for manual installation</source>
-        <translation type="unfinished"></translation>
+        <translation>Скачать для ручной установки</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsavailable.cpp" line="53"/>
@@ -1593,77 +1486,77 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.ui" line="65"/>
         <source>Choose an installation folder for plugins.</source>
-        <translation type="unfinished"></translation>
+        <translation>Выберите папку для установки плагинов.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="26"/>
         <source>Installing</source>
-        <translation type="unfinished"></translation>
+        <translation>Установка</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="28"/>
         <source>Complete</source>
-        <translation type="unfinished"></translation>
+        <translation>Завершено</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="30"/>
         <source>Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="54"/>
         <source>Select Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбрать папку</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="61"/>
         <source>No plugins are currently being installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>В данный момент нет устанавливаемых плагинов.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="62"/>
         <source>Explore available plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Обзор доступных плагинов</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="71"/>
         <source>No directory selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Папка не выбрана.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="74"/>
         <source>Change the directory for plugin installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить папку для установки плагинов.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="272"/>
         <source>Save settings to activate the plugin.</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохраните настройки, чтобы активировать плагин.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="275"/>
         <source>🎉 %1 is installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>🎉 %1 установлен.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="288"/>
         <source>😥 Failed to install plugin.</source>
-        <translation type="unfinished"></translation>
+        <translation>😥 Не удалось установить плагин.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="342"/>
         <source>Cannot write to the selected folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Невозможно записать в выбранную папку.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="357"/>
         <source>Please avoid using Seer&apos;s installation path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Пожалуйста, избегайте использования пути установки Seer.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/plugininstallertask.cpp" line="574"/>
         <source>Please restart Seer and try installing %1 again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Пожалуйста, перезапустите Seer и попробуйте установить %1 снова.</translation>
     </message>
 </context>
 <context>
@@ -1671,77 +1564,77 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="46"/>
         <source>Locate script interpreter</source>
-        <translation type="unfinished"></translation>
+        <translation>Найти интерпретатор скрипта</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="51"/>
         <source>Download script interpreter</source>
-        <translation type="unfinished"></translation>
+        <translation>Скачать интерпретатор скрипта</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="67"/>
         <source>Find scripts online</source>
-        <translation type="unfinished"></translation>
+        <translation>Найти скрипты в интернете</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="74"/>
         <source>Add from local</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить локальный</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="84"/>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Предпросмотр</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="85"/>
         <source>Controls</source>
-        <translation type="unfinished">Управление</translation>
+        <translation>Управление</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="86"/>
         <source>Property</source>
-        <translation type="unfinished"></translation>
+        <translation>Свойства</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="214"/>
         <source>The path of interpreter has saved.</source>
-        <translation type="unfinished"></translation>
+        <translation>Путь к интерпретатору сохранен.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="257"/>
         <source>Please configure the interpreter first</source>
-        <translation type="unfinished"></translation>
+        <translation>Сначала настройте интерпретатор</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="264"/>
         <source>The configured interpreter path is invalid or missing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Настроенный путь к интерпретатору недействителен или отсутствует.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="276"/>
         <source>Failed to parse the script</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось разобрать скрипт</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4script.ui" line="138"/>
         <source>Interpreter</source>
-        <translation type="unfinished"></translation>
+        <translation>Интерпретатор</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4script.ui" line="182"/>
         <source>Script</source>
-        <translation type="unfinished"></translation>
+        <translation>Скрипт</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4scriptitem.cpp" line="85"/>
         <source>Extensions:</source>
-        <translation type="unfinished"></translation>
+        <translation>Расширения:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4scriptitem.cpp" line="96"/>
         <source>Command:</source>
-        <translation type="unfinished"></translation>
+        <translation>Команда:</translation>
     </message>
 </context>
 <context>
@@ -1750,10 +1643,6 @@
         <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="115"/>
         <source>Help</source>
         <translation>Справка</translation>
-    </message>
-    <message>
-        <source>Menu</source>
-        <translation type="vanished">Меню</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="137"/>
@@ -1798,55 +1687,35 @@
     <message>
         <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="105"/>
         <source>What&apos;s New</source>
-        <translation type="unfinished"></translation>
+        <translation>Что нового</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="131"/>
         <source>Get PinStack</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Like Seer?</source>
-        <translation type="obsolete">Нравится Seer?</translation>
+        <translation>Получить PinStack</translation>
     </message>
 </context>
 <context>
     <name>DirViewer</name>
     <message>
-        <source>Name</source>
-        <translation type="obsolete">Имя</translation>
-    </message>
-    <message>
-        <source>Size</source>
-        <translation type="vanished">Размер</translation>
-    </message>
-    <message>
-        <source>Time</source>
-        <translation type="vanished">Время</translation>
-    </message>
-    <message>
-        <source>Filename</source>
-        <translation type="vanished">Имя файла</translation>
-    </message>
-    <message>
         <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="257"/>
         <source>Collapse All</source>
-        <translation type="unfinished"></translation>
+        <translation>Свернуть всё</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="274"/>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="279"/>
         <source>Reveal in Explorer</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать в Проводнике</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="291"/>
         <source>Details View</source>
-        <translation type="unfinished"></translation>
+        <translation>Таблица</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="342"/>
@@ -1857,7 +1726,7 @@
     <message>
         <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="351"/>
         <source>Sorting Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметры сортировки</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="100"/>
@@ -1900,112 +1769,58 @@
     <message>
         <location filename="../../../Seer/src/dirs/dircolumnviewinfownd.cpp" line="45"/>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Предпросмотр</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/dirs/archive/cdirwnd4archive.cpp" line="45"/>
         <source>File is encrypted</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>FindBar</name>
-    <message>
-        <source>Close</source>
-        <translation type="obsolete">Закрыть</translation>
+        <translation>Файл зашифрован</translation>
     </message>
 </context>
 <context>
     <name>HtmlViewer</name>
     <message>
-        <source>HTML</source>
-        <translation type="vanished">HTML</translation>
-    </message>
-    <message>
         <location filename="../../../Seer/src/web/htmlviewer.cpp" line="167"/>
         <source>Markdown Source</source>
-        <translation type="unfinished"></translation>
+        <translation>Исходный код Markdown</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/web/htmlviewer.cpp" line="171"/>
         <source>Save as PDF</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранить как PDF</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/web/htmlviewer.cpp" line="183"/>
         <source>HTML Source</source>
-        <translation type="unfinished"></translation>
+        <translation>Исходный код HTML</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/web/htmlviewer.cpp" line="422"/>
         <source>Failed to save as PDF</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось сохранить как PDF</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/web/htmlviewer.cpp" line="448"/>
         <source>Successfully saved as PDF</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>ImageView</name>
-    <message>
-        <source>Rotate Right</source>
-        <translation type="obsolete">Поворот вправо</translation>
+        <translation>Успешно сохранено как PDF</translation>
     </message>
 </context>
 <context>
     <name>ImageViewer</name>
     <message>
-        <source>Subject distance</source>
-        <translation type="vanished">Расстояние до объекта</translation>
-    </message>
-    <message>
-        <source>Lens f-stop min</source>
-        <translation type="vanished">Мин. значение диафрагмы</translation>
-    </message>
-    <message>
-        <source>Lens f-stop max</source>
-        <translation type="vanished">Макс. значение диафрагмы</translation>
-    </message>
-    <message>
-        <source>Image description</source>
-        <translation type="vanished">Описание изображения</translation>
-    </message>
-    <message>
-        <source>Flash</source>
-        <translation type="vanished">Вспышка</translation>
-    </message>
-    <message>
         <location filename="../../../Seer/src/picture/imageviewer.cpp" line="69"/>
         <source>The change will take effect on the next preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменения вступят в силу при следующем предпросмотре</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/picture/imageviewer.cpp" line="167"/>
         <source>XML</source>
-        <translation type="unfinished"></translation>
+        <translation>XML</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/picture/imageviewer.cpp" line="271"/>
         <source>Width</source>
         <translation>Ширина</translation>
-    </message>
-    <message>
-        <source>ISO speed</source>
-        <translation type="vanished">Чувствительность ISO</translation>
-    </message>
-    <message>
-        <source>Lens focal length</source>
-        <translation type="vanished">Фокусное расстояние объектива</translation>
-    </message>
-    <message>
-        <source>Image copyright</source>
-        <translation type="vanished">Авторские права</translation>
-    </message>
-    <message>
-        <source>35mm focal length</source>
-        <translation type="vanished">Фокусное расстояние (эквивалент 35мм)</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/picture/imageviewer.cpp" line="281"/>
@@ -2020,68 +1835,52 @@
     <message>
         <location filename="../../../Seer/src/picture/imgvar.h" line="57"/>
         <source>Rotate Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Повернуть влево</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/picture/imgvar.h" line="59"/>
         <source>Flip Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Отразить по горизонтали</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/picture/imgvar.h" line="61"/>
         <source>Flip Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Отразить по вертикали</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/picture/imgvar.h" line="62"/>
         <source>Minimap</source>
-        <translation type="unfinished"></translation>
+        <translation>Миникарта</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/picture/imgvar.h" line="66"/>
         <source>Fit Height</source>
-        <translation type="unfinished"></translation>
+        <translation>По высоте</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/picture/imgvar.h" line="67"/>
         <source>Expand</source>
-        <translation type="unfinished"></translation>
+        <translation>Развернуть</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/picture/imgvar.h" line="73"/>
         <source>Next Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Следующий кадр</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/picture/imgvar.h" line="75"/>
         <source>Previous Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Предыдущий кадр</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/picture/imgvar.h" line="77"/>
         <source>Zoom In</source>
-        <translation type="unfinished"></translation>
+        <translation>Приблизить</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/picture/imgvar.h" line="79"/>
         <source>Zoom Out</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Focal plane XRes</source>
-        <translation type="vanished">X разр фокальной плоскости</translation>
-    </message>
-    <message>
-        <source>Focal plane YRes</source>
-        <translation type="vanished">Y разр фокальной плоскости</translation>
-    </message>
-    <message>
-        <source>Image height</source>
-        <translation type="vanished">Высота изображения</translation>
-    </message>
-    <message>
-        <source>Digitize datetime</source>
-        <translation type="vanished">Дата и время оцифровки</translation>
+        <translation>Отдалить</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/picture/imgvar.h" line="71"/>
@@ -2089,41 +1888,9 @@
         <translation>Воспроизведение / Пауза</translation>
     </message>
     <message>
-        <source>Exposure time</source>
-        <translation type="vanished">Время экспозиции</translation>
-    </message>
-    <message>
-        <source>Exposure bias</source>
-        <translation type="vanished">Смещение экспозиции</translation>
-    </message>
-    <message>
-        <source>F-stop</source>
-        <translation type="vanished">Диафрагма</translation>
-    </message>
-    <message>
         <location filename="../../../Seer/src/picture/imageviewer.cpp" line="272"/>
         <source>Height</source>
         <translation>Высота</translation>
-    </message>
-    <message>
-        <source>Lens make</source>
-        <translation type="vanished">Производитель объектива</translation>
-    </message>
-    <message>
-        <source>Lens model</source>
-        <translation type="vanished">Модель объектива</translation>
-    </message>
-    <message>
-        <source>Software</source>
-        <translation type="vanished">Программное обеспечение</translation>
-    </message>
-    <message>
-        <source>Lens max focal length</source>
-        <translation type="vanished">Макс. фокусное расстояние объектива</translation>
-    </message>
-    <message>
-        <source>Lens min focal length</source>
-        <translation type="vanished">Мин. фокусное расстояние объектива</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/picture/imageviewer.cpp" line="279"/>
@@ -2131,63 +1898,19 @@
         <translation>Количество изображений</translation>
     </message>
     <message>
-        <source>Image width</source>
-        <translation type="vanished">Ширина изображения</translation>
-    </message>
-    <message>
-        <source>Metering mode</source>
-        <translation type="vanished">Режим замера экспозиции</translation>
-    </message>
-    <message>
-        <source>GPS Altitude</source>
-        <translation type="vanished">GPS Высота</translation>
-    </message>
-    <message>
         <location filename="../../../Seer/src/picture/imgvar.h" line="69"/>
         <source>Actual Size</source>
         <translation>Фактический размер</translation>
     </message>
     <message>
-        <source>GPS Precision (DOP)</source>
-        <translation type="vanished">GPS Точность (DOP)</translation>
-    </message>
-    <message>
-        <source>Camera model</source>
-        <translation type="vanished">Модель камеры</translation>
-    </message>
-    <message>
-        <source>Camera make</source>
-        <translation type="vanished">Марка камеры</translation>
-    </message>
-    <message>
-        <source>GPS Longitude</source>
-        <translation type="vanished">GPS Долгота</translation>
-    </message>
-    <message>
-        <source>Original datetime</source>
-        <translation type="vanished">Исходная дата и время</translation>
-    </message>
-    <message>
-        <source>Image datetime</source>
-        <translation type="vanished">Дата и время изображения</translation>
-    </message>
-    <message>
-        <source>GPS Latitude</source>
-        <translation type="vanished">GPS Широта</translation>
-    </message>
-    <message>
-        <source>Bits per sample</source>
-        <translation type="vanished">Глубина цвета</translation>
-    </message>
-    <message>
         <location filename="../../../Seer/src/picture/imgvar.h" line="64"/>
         <source>Fit Width</source>
-        <translation type="unfinished">По ширине</translation>
+        <translation>По ширине</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/picture/imageview.cpp" line="176"/>
         <source>Default Display Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Режим отображения по умолчанию</translation>
     </message>
 </context>
 <context>
@@ -2205,13 +1928,13 @@
     <message>
         <location filename="../../../Seer/src/media/mediaviewer.cpp" line="78"/>
         <source>Start Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Время начала</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/media/mediaviewer.cpp" line="88"/>
         <location filename="../../../Seer/src/media/mediaviewer.cpp" line="474"/>
         <source>Rotation</source>
-        <translation type="unfinished"></translation>
+        <translation>Поворот</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/media/mediaviewer.cpp" line="93"/>
@@ -2221,32 +1944,32 @@
     <message>
         <location filename="../../../Seer/src/media/mediaviewer.cpp" line="398"/>
         <source>The system is muted</source>
-        <translation type="unfinished"></translation>
+        <translation>В системе отключен звук</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/media/mediaviewer.cpp" line="451"/>
         <source>Mute</source>
-        <translation type="unfinished"></translation>
+        <translation>Отключить звук</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/media/mediaviewer.cpp" line="461"/>
         <source>Loop</source>
-        <translation type="unfinished"></translation>
+        <translation>Цикличное воспроизведение</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/media/mediaviewer.cpp" line="475"/>
         <source>Rotate Right</source>
-        <translation type="unfinished">Поворот вправо</translation>
+        <translation>Поворот вправо</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/media/mediaviewer.cpp" line="478"/>
         <source>Reset Rotation</source>
-        <translation type="unfinished"></translation>
+        <translation>Сбросить поворот</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/media/mediaviewer.cpp" line="483"/>
         <source>Reset Speed</source>
-        <translation type="unfinished"></translation>
+        <translation>Сбросить скорость</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/media/mediaviewer.cpp" line="92"/>
@@ -2271,7 +1994,7 @@
     <message>
         <location filename="../../../Seer/src/media/mediaviewer_p.cpp" line="206"/>
         <source>Screenshot has saved to clipboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>Скриншот сохранен в буфер обмена.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/media/mediaviewer_p.cpp" line="271"/>
@@ -2286,7 +2009,7 @@
     <message>
         <location filename="../../../Seer/src/media/mediaviewer_p.cpp" line="436"/>
         <source>Reset to normal speed</source>
-        <translation type="unfinished"></translation>
+        <translation>Вернуть нормальную скорость</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/media/mediaviewer.cpp" line="288"/>
@@ -2316,12 +2039,12 @@
     <message>
         <location filename="../../../Seer/src/media/mediaviewer.cpp" line="365"/>
         <source>Forward:</source>
-        <translation type="unfinished">Вперед:</translation>
+        <translation>Вперед:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/media/mediaviewer.cpp" line="371"/>
         <source>Backward:</source>
-        <translation type="unfinished">Назад:</translation>
+        <translation>Назад:</translation>
     </message>
 </context>
 <context>
@@ -2341,7 +2064,7 @@
     <message>
         <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="183"/>
         <source>Encrypted</source>
-        <translation type="unfinished"></translation>
+        <translation>Зашифрован</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="190"/>
@@ -2358,65 +2081,61 @@
     <message>
         <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="235"/>
         <source>Sidebar</source>
-        <translation type="unfinished"></translation>
+        <translation>Боковая панель</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="309"/>
         <source>Annotation: On</source>
-        <translation type="unfinished"></translation>
+        <translation>Аннотации: Вкл</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="309"/>
         <source>Annotation: Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Аннотации: Выкл</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="433"/>
         <source>Please choose a page first</source>
-        <translation type="unfinished"></translation>
+        <translation>Сначала выберите страницу</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="510"/>
         <source>Rotate Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Повернуть влево</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="514"/>
         <source>Annotations</source>
-        <translation type="unfinished"></translation>
+        <translation>Аннотации</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="526"/>
         <source>Dark Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Темный режим</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/pdf/cpdfpwdwnd.cpp" line="28"/>
         <source>Password required</source>
-        <translation type="unfinished">Требуется пароль</translation>
+        <translation>Требуется пароль</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/pdf/sidebar/pdfsidebarwnd.cpp" line="55"/>
         <source>Table of Contents</source>
-        <translation type="unfinished"></translation>
+        <translation>Оглавление</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/pdf/sidebar/pdfsidebarwnd.cpp" line="58"/>
         <source>Thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation>Эскизы</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/pdf/sidebar/pdfsidebarwnd.cpp" line="61"/>
         <source>Highlight and Notes</source>
-        <translation type="unfinished"></translation>
+        <translation>Выделения и заметки</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
-    <message>
-        <source>&amp;OK</source>
-        <translation type="vanished">&amp;OK</translation>
-    </message>
     <message>
         <location filename="../../../Seer/src/types.h" line="14"/>
         <source>PDF</source>
@@ -2448,14 +2167,6 @@
         <translation>Пожалуйста, проверьте папку «i18n».</translation>
     </message>
     <message>
-        <source>Seer is already running.</source>
-        <translation type="vanished">Seer уже запущен.</translation>
-    </message>
-    <message>
-        <source>&amp;Cancel</source>
-        <translation type="vanished">&amp;Отмена</translation>
-    </message>
-    <message>
         <location filename="../../../Seer/src/types.h" line="9"/>
         <source>Unknown</source>
         <translation>Неизвестно</translation>
@@ -2463,12 +2174,12 @@
     <message>
         <location filename="../../../Seer/src/cmain.cpp" line="171"/>
         <source>Update language failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось обновить язык</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/types.h" line="12"/>
         <source>Media</source>
-        <translation type="unfinished">Медиа</translation>
+        <translation>Медиа</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="94"/>
@@ -2477,33 +2188,33 @@
         <location filename="../../../Seer/src/pdf/cpdfpwdwnd.cpp" line="35"/>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="48"/>
         <source>Cancel</source>
-        <translation type="unfinished">Отмена</translation>
+        <translation>Отмена</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="98"/>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsadd.cpp" line="99"/>
         <location filename="../../../Seer/src/pdf/cpdfpwdwnd.cpp" line="34"/>
         <source>Okay</source>
-        <translation type="unfinished"></translation>
+        <translation>ОК</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="119"/>
         <location filename="../../../Seer/src/ui/caboutwnd.cpp" line="55"/>
         <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="680"/>
         <source>Close</source>
-        <translation type="unfinished">Закрыть</translation>
+        <translation>Закрыть</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/ui/caboutwnd.cpp" line="65"/>
         <source>Return</source>
-        <translation type="unfinished"></translation>
+        <translation>Вернуться</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/pdf/sidebar/pdfsidebarwnd.cpp" line="20"/>
         <location filename="../../../Seer/src/dirs/nodes.cpp" line="14"/>
         <location filename="../../../Seer/src/text/textviewerbase.cpp" line="20"/>
         <source>Loading</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузка</translation>
     </message>
 </context>
 <context>
@@ -2521,52 +2232,52 @@
     <message>
         <location filename="../../../Seer/src/text/FeaturedView/textviewer4feature.cpp" line="106"/>
         <source>Line:</source>
-        <translation type="unfinished"></translation>
+        <translation>Строка:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/text/FeaturedView/textviewer4feature.cpp" line="108"/>
         <source>Column:</source>
-        <translation type="unfinished"></translation>
+        <translation>Столбец:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/text/FeaturedView/textviewer4feature.cpp" line="160"/>
         <source>Render Markdown</source>
-        <translation type="unfinished"></translation>
+        <translation>Рендеринг Markdown</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/text/FeaturedView/textviewer4feature.cpp" line="173"/>
         <source>Render HTML</source>
-        <translation type="unfinished"></translation>
+        <translation>Рендеринг HTML</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/text/FeaturedView/textviewer4feature.cpp" line="187"/>
         <source>Render Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Рендеринг изображения</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/text/FeaturedView/textviewer4feature.cpp" line="385"/>
         <source>Locate Cursor</source>
-        <translation type="unfinished"></translation>
+        <translation>Найти курсор</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/text/FeaturedView/textviewer4feature.cpp" line="390"/>
         <source>Word Wrap</source>
-        <translation type="unfinished"></translation>
+        <translation>Перенос слов</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/text/FeaturedView/textviewer4feature.cpp" line="464"/>
         <source>Ln</source>
-        <translation type="unfinished"></translation>
+        <translation>Стр</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/text/FeaturedView/textviewer4feature.cpp" line="466"/>
         <source>Col</source>
-        <translation type="unfinished"></translation>
+        <translation>Стлб</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/text/FeaturedView/textviewer4feature.cpp" line="478"/>
         <source>Character count</source>
-        <translation type="unfinished"></translation>
+        <translation>Количество символов</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/text/FeaturedView/textviewer4feature.cpp" line="103"/>
@@ -2574,24 +2285,20 @@
         <translation>Сбой форматирования.</translation>
     </message>
     <message>
-        <source>Rotate Right</source>
-        <translation type="obsolete">Поворот вправо</translation>
-    </message>
-    <message>
         <location filename="../../../Seer/src/text/textviewerbase.cpp" line="131"/>
         <source>Line Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Номера строк</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/text/textviewerbase.cpp" line="144"/>
         <source>Minimap</source>
-        <translation type="unfinished"></translation>
+        <translation>Миникарта</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/text/ChunkView/textviewer4chunk.cpp" line="80"/>
         <location filename="../../../Seer/src/text/FeaturedView/textviewer4feature.cpp" line="480"/>
         <source>Line count</source>
-        <translation type="unfinished"></translation>
+        <translation>Количество строк</translation>
     </message>
 </context>
 </TS>

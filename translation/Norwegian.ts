@@ -7,90 +7,90 @@
         <location filename="../../../Seer/src/opt/updater/appupdater.cpp" line="268"/>
         <location filename="../../../Seer/src/opt/updater/appupdater.cpp" line="446"/>
         <source>Network Error:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nettverksfeil:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/updater/appupdater.cpp" line="356"/>
         <source>Invalid release notes URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Ugyldig URL for utgivelsesmerknader</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/updater/appupdater.cpp" line="379"/>
         <source>Failed to fetch release notes</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke hente utgivelsesmerknader</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/updater/appupdater.cpp" line="411"/>
         <source>Failed to save download file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke lagre nedlastingsfilen.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="46"/>
         <source>Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Oppdater</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="53"/>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="221"/>
         <source>Checking for updates...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ser etter oppdateringer...</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="69"/>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="228"/>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="306"/>
         <source>Downloading...</source>
-        <translation type="unfinished"></translation>
+        <translation>Laster ned...</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="91"/>
         <source>Install Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Installer oppdatering</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="93"/>
         <source>Skip This Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Hopp over denne versjonen</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="95"/>
         <source>Remind Me Later</source>
-        <translation type="unfinished"></translation>
+        <translation>Påminn meg senere</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="123"/>
         <source>Install Manually</source>
-        <translation type="unfinished"></translation>
+        <translation>Installer manuelt</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="247"/>
         <source>%1 %2 is now available (you have %3).</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 %2 er nå tilgjengelig (du har %3).</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="268"/>
         <source>You&apos;re up to date!</source>
-        <translation type="unfinished"></translation>
+        <translation>Du er oppdatert!</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="269"/>
         <source>%1 %2 is currently the newest version available.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 %2 er for øyeblikket den nyeste versjonen som er tilgjengelig.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="281"/>
         <source>Update Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Oppdateringsfeil</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="295"/>
         <source>The update package has been downloaded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Oppdateringspakken har blitt lastet ned.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="296"/>
         <source>Ready to install.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klar til å installere.</translation>
     </message>
 </context>
 <context>
@@ -104,21 +104,9 @@
         <translation>•</translation>
     </message>
     <message>
-        <source>Back</source>
-        <translation type="vanished">Tilbake</translation>
-    </message>
-    <message>
-        <source>QtAV</source>
-        <translation type="vanished">QtAV</translation>
-    </message>
-    <message>
         <location filename="../../../Seer/src/ui/caboutwnd.ui" line="461"/>
         <source>Corey</source>
         <translation>Corey</translation>
-    </message>
-    <message>
-        <source>QScintilla</source>
-        <translation type="vanished">QScintilla</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/ui/caboutwnd.ui" line="401"/>
@@ -131,61 +119,9 @@
         <translation>Send tilbakemelding : )</translation>
     </message>
     <message>
-        <source>A good man [doge]</source>
-        <translation type="vanished">En god mann [doge]</translation>
-    </message>
-    <message>
         <location filename="../../../Seer/src/ui/caboutwnd.ui" line="253"/>
         <source>Gratitude List</source>
         <translation>Takknemlighetsliste</translation>
-    </message>
-    <message>
-        <source>http://www.qtav.org</source>
-        <translation type="vanished">http://www.qtav.org</translation>
-    </message>
-    <message>
-        <source>http://winsparkle.org/</source>
-        <translation type="vanished">http://winsparkle.org/</translation>
-    </message>
-    <message>
-        <source>http://www.riverbankcomputing.com/software/qscintilla/intro</source>
-        <translation type="vanished">http://www.riverbankcomputing.com/software/qscintilla/intro</translation>
-    </message>
-    <message>
-        <source>Donate</source>
-        <translation type="vanished">Doner</translation>
-    </message>
-    <message>
-        <source>Designed by Cisa</source>
-        <translation type="vanished">Designet av Cisa</translation>
-    </message>
-    <message>
-        <source>Poppler</source>
-        <translation type="vanished">Poppler</translation>
-    </message>
-    <message>
-        <source>Qt Project</source>
-        <translation type="vanished">Qt-prosjektet</translation>
-    </message>
-    <message>
-        <source>http://sourceforge.net/projects/ccseer</source>
-        <translation type="vanished">http://sourceforge.net/projects/ccseer</translation>
-    </message>
-    <message>
-        <source>http://qt.io</source>
-        <translation type="vanished">http://qt.io</translation>
-    </message>
-    <message>
-        <source>Backspace</source>
-        <translation type="vanished">Rettetast</translation>
-    </message>
-    <message>
-        <source>WinSparkle</source>
-        <translation type="vanished">WinSparkle</translation>
-    </message>
-    <message>
-        <source>Display QR code image</source>
-        <translation type="vanished">Vis QR-kode</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/ui/caboutwnd.ui" line="484"/>
@@ -198,34 +134,14 @@
         <translation>Om Seer</translation>
     </message>
     <message>
-        <source>http://poppler.freedesktop.org</source>
-        <translation type="vanished">http://poppler.freedesktop.org</translation>
-    </message>
-    <message>
         <location filename="../../../Seer/src/ui/caboutwnd.cpp" line="106"/>
         <source>Version</source>
         <translation>Versjon</translation>
     </message>
     <message>
-        <source>http://libzplay.sourceforge.net</source>
-        <translation type="vanished">http://libzplay.sourceforge.net</translation>
-    </message>
-    <message>
-        <source>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=EHGCEN4JZYJHC</source>
-        <translation type="vanished">https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=EHGCEN4JZYJHC</translation>
-    </message>
-    <message>
-        <source>Wechat pay</source>
-        <translation type="vanished">Wechat pay</translation>
-    </message>
-    <message>
-        <source>libZPlay</source>
-        <translation type="vanished">libZPlay</translation>
-    </message>
-    <message>
         <location filename="../../../Seer/src/ui/caboutwnd.ui" line="168"/>
         <source>A Windows Quick Look Tool</source>
-        <translation>Et hurtigverktøy for Windows</translation>
+        <translation>Et hurtigvisningsverktøy for Windows</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/ui/caboutwnd.ui" line="299"/>
@@ -254,76 +170,21 @@
     </message>
 </context>
 <context>
-    <name>CAbstractManager</name>
-    <message>
-        <source>Unknown</source>
-        <translation type="vanished">Ukjent</translation>
-    </message>
-</context>
-<context>
-    <name>CAbstractWnd</name>
-    <message>
-        <source>More</source>
-        <translation type="vanished">Mer</translation>
-    </message>
-    <message>
-        <source>Reveal In Explorer</source>
-        <translation type="vanished">Vis i Utforskeren</translation>
-    </message>
-    <message>
-        <source>Open With Default Application</source>
-        <translation type="vanished">Åpne med standardprogrammet</translation>
-    </message>
-</context>
-<context>
-    <name>CComLineEditBtn</name>
-    <message>
-        <source>Input..</source>
-        <translation type="vanished">Inndata...</translation>
-    </message>
-    <message>
-        <source>Clear Text</source>
-        <translation type="vanished">Fjern tekst</translation>
-    </message>
-</context>
-<context>
-    <name>CConfirmDlg</name>
-    <message>
-        <source>&amp;Ok</source>
-        <translation type="vanished">&amp;OK</translation>
-    </message>
-    <message>
-        <source>&amp;Cancel</source>
-        <translation type="vanished">&amp;Avbryt</translation>
-    </message>
-</context>
-<context>
     <name>CControlWnd</name>
     <message>
         <location filename="../../../Seer/src/ui/ccontrolwnd.cpp" line="25"/>
         <source>Open With Default Application</source>
-        <translation>Åpne med standardprogrammet</translation>
+        <translation>Åpne med standardprogram</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/ui/ccontrolwnd.cpp" line="27"/>
         <source>Reveal In Explorer</source>
-        <translation>Vis i utforskeren</translation>
+        <translation>Vis i Utforsker</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/ui/ccontrolwnd.cpp" line="510"/>
         <source>More</source>
         <translation>Mer</translation>
-    </message>
-</context>
-<context>
-    <name>CDirManeger</name>
-    <message>
-        <source>Can not run </source>
-        <translation type="vanished">Kan ikke starte </translation>
-    </message>
-    <message>
-        <source> not found.</source>
-        <translation type="vanished"> ikke funnet.</translation>
     </message>
 </context>
 <context>
@@ -391,7 +252,7 @@
     <message>
         <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="56"/>
         <source>Company Name</source>
-        <translation>Bedriftsnavn</translation>
+        <translation>Selskapsnavn</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="58"/>
@@ -446,7 +307,7 @@
     <message>
         <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="150"/>
         <source>Free bytes</source>
-        <translation>Gratis bytes</translation>
+        <translation>Ledige bytes</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="157"/>
@@ -466,7 +327,7 @@
     <message>
         <location filename="../../../Seer/src/unknown/tableview4property.cpp" line="17"/>
         <source>Pin</source>
-        <translation>Pin</translation>
+        <translation>Fest</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="43"/>
@@ -475,67 +336,11 @@
     </message>
 </context>
 <context>
-    <name>CFolderDataReader</name>
-    <message>
-        <source>Name</source>
-        <translation type="vanished">Navn</translation>
-    </message>
-    <message>
-        <source>Size</source>
-        <translation type="vanished">Størrelse</translation>
-    </message>
-    <message>
-        <source>Type</source>
-        <translation type="vanished">Type</translation>
-    </message>
-    <message>
-        <source>File Folder</source>
-        <translation type="vanished">Filmappe</translation>
-    </message>
-    <message>
-        <source>Date created</source>
-        <translation type="vanished">Dato opprettet</translation>
-    </message>
-    <message>
-        <source>Date modified</source>
-        <translation type="vanished">Dato endret</translation>
-    </message>
-</context>
-<context>
-    <name>CHtmlManager</name>
-    <message>
-        <source>Parse file error.</source>
-        <translation type="vanished">Filtydningsfeil.</translation>
-    </message>
-    <message>
-        <source>Can not run </source>
-        <translation type="vanished">Kan ikke starte </translation>
-    </message>
-    <message>
-        <source> not found.</source>
-        <translation type="vanished">ikke funnet.</translation>
-    </message>
-</context>
-<context>
     <name>CMain</name>
-    <message>
-        <source>Quit</source>
-        <translation type="vanished">Avslutt</translation>
-    </message>
     <message>
         <location filename="../../../Seer/src/cmain.cpp" line="303"/>
         <source>Error</source>
         <translation>Feil</translation>
-    </message>
-    <message>
-        <source>Hello</source>
-        <translation type="vanished">Hallo</translation>
-    </message>
-    <message>
-        <source>Please share with your friends
-</source>
-        <translation type="vanished">Del gjerne med vennene dine
-</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/cmain.cpp" line="787"/>
@@ -551,11 +356,7 @@
     <message>
         <location filename="../../../Seer/src/cmain.cpp" line="158"/>
         <source> is registered by other application.</source>
-        <translation> er registrert av annet program.</translation>
-    </message>
-    <message>
-        <source>Restart Failed</source>
-        <translation type="vanished">Omstart mislyktes</translation>
+        <translation> er registrert av et annet program.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/cmain.cpp" line="304"/>
@@ -565,26 +366,12 @@
     <message>
         <location filename="../../../Seer/src/cmain.cpp" line="578"/>
         <source>Settings</source>
-        <translation>Instillinger</translation>
-    </message>
-    <message>
-        <source>Please restart Seer manually.</source>
-        <translation type="vanished">Start Seer på nytt manuelt.</translation>
+        <translation>Innstillinger</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/cmain.cpp" line="157"/>
         <source>Register shortcut failed</source>
         <translation>Registrering av snarvei mislyktes</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="664"/>
-        <source>About</source>
-        <translation>Om</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="714"/>
-        <source>Activation</source>
-        <translation>Aktivering</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/cmain.cpp" line="733"/>
@@ -599,15 +386,21 @@
     <message>
         <location filename="../../../Seer/src/cmain.cpp" line="803"/>
         <source>Please share with your friends.</source>
-        <translation>Del gjerne med vennene dine.</translation>
+        <translation>Vennligst del med vennene dine.</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/cmain.cpp" line="664"/>
+        <source>About</source>
+        <translation>Om</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/cmain.cpp" line="714"/>
+        <source>Activation</source>
+        <translation>Aktivering</translation>
     </message>
 </context>
 <context>
     <name>CMainWnd</name>
-    <message>
-        <source>Close</source>
-        <translation type="vanished">Lukk</translation>
-    </message>
     <message>
         <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="682"/>
         <source>Properties</source>
@@ -616,7 +409,7 @@
     <message>
         <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="188"/>
         <source>Please try again with separated window.</source>
-        <translation>Vennligst prøv igjen med atskilt vindu.</translation>
+        <translation>Vennligst prøv igjen med separert vindu.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="681"/>
@@ -626,27 +419,12 @@
     <message>
         <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="683"/>
         <source>Separate</source>
-        <translation>Skille</translation>
+        <translation>Separer</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="1353"/>
         <source>Viewer</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>CPDFPwdWnd</name>
-    <message>
-        <source>Password required</source>
-        <translation type="vanished">Passord påkrevd</translation>
-    </message>
-    <message>
-        <source>OK</source>
-        <translation type="vanished">OK</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="vanished">Avbryt</translation>
+        <translation>Visningsprogram</translation>
     </message>
 </context>
 <context>
@@ -654,7 +432,7 @@
     <message>
         <location filename="../../../Seer/src/opt/licenser/cregdlg.ui" line="72"/>
         <source>Order</source>
-        <translation>Rekkefølge</translation>
+        <translation>Bestill</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/licenser/cregdlg.ui" line="79"/>
@@ -664,17 +442,17 @@
     <message>
         <location filename="../../../Seer/src/opt/licenser/cregdlg.cpp" line="24"/>
         <source>Thanks for your support!!!</source>
-        <translation type="unfinished"></translation>
+        <translation>Takk for støtten din!!!</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/licenser/cregdlg.cpp" line="68"/>
         <source>Seer will stop running in %1 day(s).</source>
-        <translation>Seer slutter å kjøre om %1 dag(er).</translation>
+        <translation>Seer vil slutte å fungere om %1 dag(er).</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/licenser/cregdlg.cpp" line="70"/>
         <source>The evaluation period has ended.</source>
-        <translation>Evalueringsperioden er avsluttet.</translation>
+        <translation>Prøveperioden er over.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/licenser/cregdlg.cpp" line="73"/>
@@ -685,7 +463,7 @@
         <location filename="../../../Seer/src/opt/licenser/cregdlg.cpp" line="194"/>
         <location filename="../../../Seer/src/opt/licenser/cregdlg.cpp" line="213"/>
         <source>Verifying</source>
-        <translation>Bekrefter</translation>
+        <translation>Verifiserer</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/licenser/cregdlg.cpp" line="197"/>
@@ -729,69 +507,35 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="62"/>
         <source>General</source>
-        <translation>Generell</translation>
+        <translation>Generelt</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="68"/>
         <source>Scripts</source>
-        <translation type="unfinished"></translation>
+        <translation>Skript</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="78"/>
         <source>Settings</source>
-        <translation>Instillinger</translation>
+        <translation>Innstillinger</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="256"/>
         <source>Restarting to apply the new settings.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;OK</source>
-        <translation type="vanished">&amp;OK</translation>
-    </message>
-    <message>
-        <source>Restart</source>
-        <translation type="vanished">Omstart</translation>
+        <translation>Starter på nytt for å bruke de nye innstillingene.</translation>
     </message>
 </context>
 <context>
     <name>CSettingsWnd4Controls</name>
     <message>
+        <location filename="../../../Seer/src/settings/csettingswnd4controls.ui" line="89"/>
+        <source>Show &quot;Navigation&quot; button</source>
+        <translation>Vis &quot;Navigering&quot;-knapp</translation>
+    </message>
+    <message>
         <location filename="../../../Seer/src/settings/csettingswnd4controls.ui" line="96"/>
         <source>Show &quot;Display in explorer&quot; button</source>
-        <translation>Vis &quot;Vis i utforsker&quot;-knappen</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4controls.ui" line="82"/>
-        <source>Show &quot;Open with default application&quot; button</source>
-        <translation>Vis &quot;Åpne med standardprogram&quot;-knappen</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4controlsedit.cpp" line="72"/>
-        <source>Remove</source>
-        <translation>Fjern</translation>
-    </message>
-    <message>
-        <source>executable file path</source>
-        <translation type="vanished">kjørbar filbane</translation>
-    </message>
-    <message>
-        <source>extension</source>
-        <translation type="vanished">utvidelse</translation>
-    </message>
-    <message>
-        <source>Display</source>
-        <translation type="vanished">Vis</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4controlsedit.cpp" line="208"/>
-        <source>Choose Application</source>
-        <translation>Velg program</translation>
-    </message>
-    <message>
-        <source>About controls...</source>
-        <translation type="vanished">Om kontroller...</translation>
+        <translation>Vis &quot;Vis i Utforsker&quot;-knapp</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4controls.ui" line="142"/>
@@ -799,23 +543,29 @@
         <translation>Filutvidelse</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4controls.ui" line="59"/>
-        <source>Appearance</source>
-        <translation>Utseende</translation>
-    </message>
-    <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4controls.ui" line="89"/>
-        <source>Show &quot;Navigation&quot; button</source>
-        <translation>Vis &quot;Navigering&quot;-knappen</translation>
-    </message>
-    <message>
-        <source>triggered file path</source>
-        <translation type="vanished">utløst filbane</translation>
+        <location filename="../../../Seer/src/settings/csettingswnd4controls.ui" line="82"/>
+        <source>Show &quot;Open with default application&quot; button</source>
+        <translation>Vis &quot;Åpne med standardprogram&quot;-knapp</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4controlsedit.cpp" line="40"/>
         <source>Select executable file path</source>
-        <translation>Velg kjørbar filbane</translation>
+        <translation>Velg filbane for kjørbar fil</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/settings/csettingswnd4controlsedit.cpp" line="72"/>
+        <source>Remove</source>
+        <translation>Fjern</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/settings/csettingswnd4controlsedit.cpp" line="208"/>
+        <source>Choose Application</source>
+        <translation>Velg program</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/settings/csettingswnd4controls.ui" line="59"/>
+        <source>Appearance</source>
+        <translation>Utseende</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4controlsedit.cpp" line="65"/>
@@ -826,33 +576,9 @@
 <context>
     <name>CSettingsWnd4Explorer</name>
     <message>
-        <source>...</source>
-        <translation type="vanished">...</translation>
-    </message>
-    <message>
-        <source>Path:</source>
-        <translation type="vanished">Sti:</translation>
-    </message>
-    <message>
-        <source>Browse for dopusrt.exe</source>
-        <translation type="vanished">Søk etter dopusrt.exe</translation>
-    </message>
-    <message>
-        <source>Temp Folder</source>
-        <translation type="vanished">Temp-mappe</translation>
-    </message>
-    <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="75"/>
         <source>Others</source>
         <translation>Andre</translation>
-    </message>
-    <message>
-        <source>Directory Opus</source>
-        <translation type="vanished">Mappen Opus</translation>
-    </message>
-    <message>
-        <source>Save plugin temp files after Seer exited</source>
-        <translation type="vanished">Lagre temporære programtilleggfiler når Seer avsluttes</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="402"/>
@@ -862,7 +588,7 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="427"/>
         <source>Hide tray icon</source>
-        <translation>Skjul oppgavelinjeikon</translation>
+        <translation>Skjul ikon i systemstatusfeltet</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="458"/>
@@ -887,17 +613,17 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="124"/>
         <source>Track selected file in Explorer</source>
-        <translation>Spor valgt fil i utforsker</translation>
+        <translation>Spor valgt fil i Utforsker</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="148"/>
         <source>Enable &quot;Delete&quot; key</source>
-        <translation>Aktiver &quot;Slette&quot;-tasten</translation>
+        <translation>Aktiver &quot;Slett&quot;-tast (Delete)</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="172"/>
         <source>Trigger on software-generated key events</source>
-        <translation type="unfinished"></translation>
+        <translation>Utløs ved programvaregenererte tastehendelser</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="196"/>
@@ -907,12 +633,12 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="220"/>
         <source>Preview window focus:</source>
-        <translation type="unfinished"></translation>
+        <translation>Fokus for forhåndsvisningsvindu:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="247"/>
         <source>Maximum preview size:</source>
-        <translation>Maksimal forhåndsvisningsstørrelse:</translation>
+        <translation>Maksimal størrelse for forhåndsvisning:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="274"/>
@@ -922,12 +648,12 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="281"/>
         <source>Export</source>
-        <translation>Eksport</translation>
+        <translation>Eksporter</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="288"/>
         <source>Import</source>
-        <translation>Import</translation>
+        <translation>Importer</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="308"/>
@@ -937,16 +663,12 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="315"/>
         <source>Confirm &amp; Restart :</source>
-        <translation>Bekreft &amp; start på nytt:</translation>
+        <translation>Bekreft og start på nytt:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="340"/>
         <source>User defined</source>
         <translation>Brukerdefinert</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="vanished">Avbryt</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="67"/>
@@ -956,27 +678,27 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="85"/>
         <source>Never take focus</source>
-        <translation type="unfinished"></translation>
+        <translation>Aldri ta fokus</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="86"/>
         <source>Every time a file is previewed</source>
-        <translation type="unfinished"></translation>
+        <translation>Hver gang en fil forhåndsvises</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="88"/>
         <source>Only when the window opens</source>
-        <translation type="unfinished"></translation>
+        <translation>Kun når vinduet åpnes</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="109"/>
         <source>Removes Seer&apos;s icon from the system tray area.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fjerner Seers ikon fra systemstatusfeltet.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="111"/>
         <source>Show the title and control bars permanently or only when hovering the mouse.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vis tittellinjen og kontrollinjen permanent, eller kun når musen holdes over.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="114"/>
@@ -1004,83 +726,64 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="129"/>
-        <source>Sets the maximum size of the preview window as a percentage of the screen size.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="132"/>
         <source>Determines when the preview window becomes the active window and receives keyboard input.</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically updates Seer&apos;s preview to follow the currently selected file
+                in File Explorer.</source>
+        <translation type="vanished">Oppdaterer Seers forhåndsvisning automatisk for å følge den valgte filen i
+                Filutforsker.</translation>
+    </message>
+    <message>
+        <source>Allows you to open files directly by double-clicking, using the application
+                associated with the file type in your system settings.</source>
+        <translation type="vanished">Lar deg åpne filer direkte ved å dobbeltklikke, ved å bruke programmet som
+                er knyttet til filtypen i systeminnstillingene dine.</translation>
+    </message>
+    <message>
+        <source>Allows using the Delete key to move the currently previewed file to the Recycle
+                Bin.</source>
+        <translation type="vanished">Tillater bruk av Delete-tasten for å flytte filen som forhåndsvises til
+                Papirkurven.</translation>
+    </message>
+    <message>
+        <source>Allows Seer to respond to simulated key input generated by software, such as
+                virtual keyboards or automation tools.</source>
+        <translation type="vanished">Lar Seer reagere på simulerte tastetrykk generert av programvare, for
+                eksempel virtuelle tastaturer eller automatiseringsverktøy.</translation>
+    </message>
+    <message>
+        <source>Remembers and restores the preview window&apos;s size and position from the last
+                session.</source>
+        <translation type="vanished">Husker og gjenoppretter forhåndsvisningsvinduets størrelse og plassering
+                fra forrige økt.</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="129"/>
+        <source>Sets the maximum size of the preview window as a percentage of the screen size.</source>
+        <translation>Angir maksimal størrelse på forhåndsvisningsvinduet som en prosentandel av
+                skjermstørrelsen.</translation>
+    </message>
+    <message>
+        <source>Determines when the preview window becomes the active window and receives
+                keyboard input.</source>
+        <translation type="vanished">Bestemmer når forhåndsvisningsvinduet blir det aktive vinduet og mottar
+                tastaturinndata.</translation>
     </message>
 </context>
 <context>
     <name>CSettingsWnd4FileType</name>
     <message>
-        <source>Add</source>
-        <translation type="vanished">Legg til</translation>
-    </message>
-    <message>
-        <source>Text</source>
-        <translation type="vanished">Tekst</translation>
-    </message>
-    <message>
-        <source>Media</source>
-        <translation type="vanished">Media</translation>
-    </message>
-    <message>
-        <source>Other</source>
-        <translation type="vanished">Andre</translation>
-    </message>
-    <message>
-        <source> already exist.</source>
-        <translation type="vanished"> eksisterer allerede.</translation>
-    </message>
-    <message>
-        <source>Remove</source>
-        <translation type="vanished">Fjern</translation>
-    </message>
-    <message>
-        <source>Picture</source>
-        <translation type="vanished">Bilde</translation>
-    </message>
-    <message>
-        <source>Compressed</source>
-        <translation type="vanished">Komprimert</translation>
-    </message>
-    <message>
-        <source>Select your Text format file</source>
-        <translation type="vanished">Velg tekstfil</translation>
-    </message>
-    <message>
-        <source>Confirm</source>
-        <translation type="vanished">Bekreft</translation>
-    </message>
-    <message>
-        <source>Search extention, e.g.: psd</source>
-        <translation type="vanished">Søk filutvidelse, f.eks psd</translation>
-    </message>
-    <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;:/face_nohappy.png&quot;/&gt;&lt;span style=&quot; font-size:18pt; font-weight:496; color:#333;&quot;&gt; Oops! &lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:18pt; font-weight:496; color:#333;&quot;&gt;No extensions matched.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;:/face_nohappy.png&quot;/&gt;&lt;span style=&quot; font-size:18pt; font-weight:496; color:#333;&quot;&gt; Oops! &lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:18pt; font-weight:496; color:#333;&quot;&gt;Ingen filutvidelse samsvarer&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
-        <source>Image</source>
-        <translation type="vanished">Bilde</translation>
-    </message>
-    <message>
-        <source>Archive</source>
-        <translation type="vanished">Arkiv</translation>
-    </message>
-    <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.ui" line="234"/>
         <source>Disable renaming during preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Deaktiver omdøping under forhåndsvisning</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.ui" line="272"/>
         <source>Disable GPU decoding</source>
-        <translation type="unfinished"></translation>
+        <translation>Deaktiver GPU-dekoding</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.ui" line="469"/>
@@ -1095,12 +798,12 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.ui" line="692"/>
         <source>Default display mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>Standard visningsmodus:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.ui" line="799"/>
         <source>System</source>
-        <translation type="unfinished"></translation>
+        <translation>System</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.ui" line="528"/>
@@ -1108,139 +811,75 @@
         <translation>Deaktiver filtypegjenkjenning</translation>
     </message>
     <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;:(&lt;/p&gt;&lt;p&gt;Oops!&lt;/p&gt;&lt;p&gt;No extensions matched.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;:(&lt;/p&gt;&lt;p&gt;Oops!&lt;/p&gt;&lt;p&gt;Ingen programutvidelser samsvarer.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="45"/>
         <source>Oops!</source>
-        <translation type="unfinished"></translation>
+        <translation>Oops!</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="45"/>
         <source>No matching extensions found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen samsvarende filutvidelser funnet.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="50"/>
         <source>Search extension, e.g.: psd</source>
-        <translation>Søk programutvidelse, f.eks.: psd</translation>
+        <translation>Søk etter filutvidelse, f.eks.: psd</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="86"/>
         <source>Markdown stylesheet path</source>
-        <translation>Markdown stilark-bane</translation>
+        <translation>Sti til Markdown-stilark</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="88"/>
         <source>Will display property only for extensions in this field, e.g.:</source>
-        <translation>Vil vise egenskap bare for utvidelser i dette feltet, f.eks.:</translation>
+        <translation>Vil kun vise egenskap for utvidelser i dette feltet, f.eks.:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="97"/>
         <location filename="../../../Seer/src/picture/imageview.cpp" line="188"/>
         <source>Auto Fit</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilpass automatisk</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="101"/>
         <source>Automatically scales to fit the entire image in the viewer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skalerer automatisk for å passe hele bildet i visningsprogrammet.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="104"/>
         <location filename="../../../Seer/src/picture/imageview.cpp" line="191"/>
         <source>Fit Short Side</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilpass kortside</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="106"/>
         <source>Scales until the shorter side fits; scroll the longer side if needed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skalerer til den kortere siden passer; rull den lengre siden om nødvendig.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="110"/>
         <location filename="../../../Seer/src/picture/imageview.cpp" line="194"/>
         <source>Prefer Full Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Foretrakk full størrelse</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="112"/>
         <source>Always loads the image at its original resolution; scrolling may be required.</source>
-        <translation type="unfinished"></translation>
+        <translation>Laster alltid bildet i opprinnelig oppløsning; rulling kan være nødvendig.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="383"/>
         <source>Invalid</source>
         <translation>Ugyldig</translation>
     </message>
-    <message>
-        <source>PDF</source>
-        <translation type="vanished">PDF</translation>
-    </message>
 </context>
 <context>
     <name>CSettingsWnd4General</name>
     <message>
-        <source>Text</source>
-        <translation type="vanished">Tekst</translation>
-    </message>
-    <message>
-        <source>Wrap</source>
-        <translation type="vanished">Pakk inn</translation>
-    </message>
-    <message>
-        <source>Media</source>
-        <translation type="vanished">Media</translation>
-    </message>
-    <message>
-        <source>Track selected file in Explorer</source>
-        <translation type="vanished">Spor valgt fil i Utforsker</translation>
-    </message>
-    <message>
-        <source>Show time indication</source>
-        <translation type="vanished">Vis tidsangivelse</translation>
-    </message>
-    <message>
-        <source>Language:</source>
-        <translation type="vanished">Språk:</translation>
-    </message>
-    <message>
-        <source>Run Seer at system start</source>
-        <translation type="vanished">Kjør Seer ved systemstart</translation>
-    </message>
-    <message>
-        <source>Use the trigger key to close window</source>
-        <translation type="vanished">Bruk utløsertasten for å lukke vinduet</translation>
-    </message>
-    <message>
-        <source>Line number</source>
-        <translation type="vanished">Linjenummer</translation>
-    </message>
-    <message>
-        <source>Double click to open file with system default application</source>
-        <translation type="vanished">Dobbeltklikk for å åpne filen med systemets standardprogram</translation>
-    </message>
-    <message>
-        <source>Display titlebar</source>
-        <translation type="vanished">Vis tittellinjen</translation>
-    </message>
-    <message>
         <location filename="../../../Seer/src/settings/csettingswnd4general.ui" line="138"/>
         <source>Automatically check for updates</source>
         <translation>Se etter oppdateringer automatisk</translation>
-    </message>
-    <message>
-        <source>Display control bar</source>
-        <translation type="vanished">Vis kontrolllinje</translation>
-    </message>
-    <message>
-        <source>Appearance</source>
-        <translation type="vanished">Utseende</translation>
-    </message>
-    <message>
-        <source>Seer will restart</source>
-        <translation type="vanished">Seer vil starte på nytt</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4general.ui" line="191"/>
@@ -1250,7 +889,7 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4general.ui" line="74"/>
         <source>Application behavior</source>
-        <translation>Program-adferd</translation>
+        <translation>Programadferd</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4general.ui" line="99"/>
@@ -1260,7 +899,7 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4general.ui" line="124"/>
         <source>Run Seer when system boots</source>
-        <translation>Kjør Seer når systemet starter</translation>
+        <translation>Kjør Seer ved systemstart</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4general.ui" line="131"/>
@@ -1270,17 +909,17 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4general.cpp" line="169"/>
         <source>Auto</source>
-        <translation type="unfinished"></translation>
+        <translation>Auto</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4general.cpp" line="170"/>
         <source>Dark</source>
-        <translation type="unfinished"></translation>
+        <translation>Mørk</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4general.cpp" line="171"/>
         <source>Light</source>
-        <translation type="unfinished"></translation>
+        <translation>Lys</translation>
     </message>
 </context>
 <context>
@@ -1319,17 +958,17 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1321"/>
         <source>Sidebar:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sidefelt:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1391"/>
         <source>Next Page:</source>
-        <translation type="unfinished"></translation>
+        <translation>Neste side:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1446"/>
         <source>Previous Page:</source>
-        <translation type="unfinished"></translation>
+        <translation>Forrige side:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1555"/>
@@ -1341,10 +980,6 @@
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="146"/>
         <source>Esc / Ctrl+W</source>
         <translation>Esc / Ctrl+W</translation>
-    </message>
-    <message>
-        <source>Control Bar:</source>
-        <translation type="vanished">Kontrollfelt:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="894"/>
@@ -1377,10 +1012,6 @@
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="409"/>
         <source>Column View:</source>
         <translation>Kolonnevisning:</translation>
-    </message>
-    <message>
-        <source>Title:</source>
-        <translation type="vanished">Tittel:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="800"/>
@@ -1459,14 +1090,6 @@
         <translation>Roter høyre:</translation>
     </message>
     <message>
-        <source>Trigger Keys:  </source>
-        <translation type="vanished">Handlingstaster:  </translation>
-    </message>
-    <message>
-        <source>Time Indication:</source>
-        <translation type="vanished">Tidsindikasjon:</translation>
-    </message>
-    <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="513"/>
         <source>Open Selected Item With Seer:</source>
         <translation>Åpne valgt objekt med seer:</translation>
@@ -1484,7 +1107,7 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1534"/>
         <source>Normal:</source>
-        <translation>Vanlig:</translation>
+        <translation>Normal:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1614"/>
@@ -1494,7 +1117,7 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="97"/>
         <source>Previous:</source>
-        <translation>Tidligere:</translation>
+        <translation>Forrige:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="125"/>
@@ -1504,7 +1127,7 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="70"/>
         <source>Previous Type File:</source>
-        <translation>Forrige type fil:</translation>
+        <translation>Forrige fil av samme type:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="285"/>
@@ -1514,12 +1137,12 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="111"/>
         <source>Next Type File:</source>
-        <translation>Neste type fil:</translation>
+        <translation>Neste fil av samme type:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="229"/>
         <source>Separate:</source>
-        <translation>Skille:</translation>
+        <translation>Separer:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="201"/>
@@ -1539,7 +1162,7 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="385"/>
         <source>Shift + Click</source>
-        <translation>Shift + klikk</translation>
+        <translation>Shift + Klikk</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="423"/>
@@ -1549,7 +1172,7 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="430"/>
         <source>Alt + Arrow Key</source>
-        <translation>Alt + piltast</translation>
+        <translation>Alt + Piltast</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="468"/>
@@ -1560,17 +1183,17 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="475"/>
         <source>Ctrl + Click</source>
-        <translation>Ctrl + klikk</translation>
+        <translation>Ctrl + Klikk</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="555"/>
         <source>Reveal Clicked Item:</source>
-        <translation>Avslør klikket element:</translation>
+        <translation>Vis klikket element:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="562"/>
         <source>Alt + Click</source>
-        <translation>Alt + klikk</translation>
+        <translation>Alt + Klikk</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="586"/>
@@ -1580,7 +1203,7 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="593"/>
         <source>Shift + Alt + Click</source>
-        <translation>Shift + Alt + klikk</translation>
+        <translation>Shift + Alt + Klikk</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="682"/>
@@ -1606,43 +1229,43 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="173"/>
         <source>Reduce Window Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Reduser vindusstørrelse:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="243"/>
         <source>Increase Window Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Øk vindusstørrelse:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="299"/>
         <source>Show Settings Window:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vis innstillingsvindu:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="655"/>
         <source>Expand:</source>
-        <translation type="unfinished"></translation>
+        <translation>Utvid:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="720"/>
         <source>Enter / Return</source>
-        <translation>Gå inn / gå tilbake</translation>
+        <translation>Enter / Retur</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="814"/>
         <source>Flip Horizontal:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vend horisontalt:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="828"/>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1255"/>
         <source>Toggle Minimap:</source>
-        <translation type="unfinished"></translation>
+        <translation>Skjul/vis minikart:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="842"/>
         <source>Flip Vertical:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vend vertikalt:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="922"/>
@@ -1657,12 +1280,12 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="977"/>
         <source>Forward 5x:</source>
-        <translation>Framover 5x:</translation>
+        <translation>Spol frem 5x:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="991"/>
         <source>Percent Locate:</source>
-        <translation>Prosentplassering:</translation>
+        <translation>Gå til prosent:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="998"/>
@@ -1672,7 +1295,7 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1036"/>
         <source>Backward 15x:</source>
-        <translation>Bakover 15x:</translation>
+        <translation>Spol tilbake 15x:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1078"/>
@@ -1682,12 +1305,12 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1106"/>
         <source>Backward 5x:</source>
-        <translation>Bakover 5x:</translation>
+        <translation>Spol tilbake 5x:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1120"/>
         <source>Forward 15x:</source>
-        <translation>Framover 15x:</translation>
+        <translation>Spol frem 15x:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1137"/>
@@ -1697,7 +1320,7 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1186"/>
         <source>Locate:</source>
-        <translation>Lokaliser:</translation>
+        <translation>Finn:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1200"/>
@@ -1712,16 +1335,12 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1241"/>
         <source>Word Wrap:</source>
-        <translation>Ordbryting:</translation>
+        <translation>Tekstbryting:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1172"/>
         <source>Line Number:</source>
         <translation>Linjenummer:</translation>
-    </message>
-    <message>
-        <source>Outline:</source>
-        <translation type="vanished">Disposisjon:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1335"/>
@@ -1752,27 +1371,19 @@
         <translation>Legg til</translation>
     </message>
     <message>
-        <source>Del</source>
-        <translation type="vanished">Del</translation>
-    </message>
-    <message>
         <location filename="../../../Seer/src/settings/csettingswnd4plugins.cpp" line="105"/>
         <source>Edit</source>
         <translation>Rediger</translation>
     </message>
     <message>
-        <source>Name</source>
-        <translation type="vanished">Navn</translation>
-    </message>
-    <message>
         <location filename="../../../Seer/src/settings/csettingswnd4plugins.ui" line="21"/>
         <source>Local</source>
-        <translation>Lokal</translation>
+        <translation>Lokalt</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4plugins.ui" line="128"/>
         <source>Tasks</source>
-        <translation type="unfinished"></translation>
+        <translation>Oppgaver</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4plugins.cpp" line="314"/>
@@ -1785,64 +1396,28 @@
         <translation>Tilgjengelig</translation>
     </message>
     <message>
-        <source>Command</source>
-        <translation type="vanished">Kommando</translation>
-    </message>
-    <message>
-        <source>Extension</source>
-        <translation type="vanished">Filutvidelse</translation>
-    </message>
-    <message>
-        <source>About plugin...</source>
-        <translation type="vanished">Om programtillegg...</translation>
-    </message>
-    <message>
-        <source>Plugin already exists</source>
-        <translation type="vanished">Programtillegget finnes allrede</translation>
-    </message>
-    <message>
         <location filename="../../../Seer/src/settings/csettingswnd4plugins.cpp" line="115"/>
         <source>Search plugin</source>
         <translation>Søk programtillegg</translation>
     </message>
     <message>
-        <source>Internal handled plugins will be used first.</source>
-        <translation type="vanished">Internt håndterte programtillegg vil bli brukt først.</translation>
-    </message>
-    <message>
         <location filename="../../../Seer/src/settings/csettingswnd4scriptitem.cpp" line="75"/>
         <location filename="../../../Seer/src/settings/csettingswnd4plugins.cpp" line="109"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Slett</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsadd.cpp" line="81"/>
         <source>Plugin disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Programtillegg deaktivert</translation>
     </message>
 </context>
 <context>
     <name>CSettingsWnd4PluginsAdd</name>
     <message>
-        <source>Cancel</source>
-        <translation type="vanished">Avbryt</translation>
-    </message>
-    <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsadd.cpp" line="90"/>
         <source>your plugin.exe [argument] ...</source>
         <translation>ditt programtillegg.exe [argument] ...</translation>
-    </message>
-    <message>
-        <source>Confirm</source>
-        <translation type="vanished">Bekreft</translation>
-    </message>
-    <message>
-        <source>your plugin name</source>
-        <translation type="vanished">ditt programtilleggsnavn</translation>
-    </message>
-    <message>
-        <source>matched extensions: png jpg bmp</source>
-        <translation type="vanished">samsvarende utvidelser: png jpg bmp</translation>
     </message>
 </context>
 <context>
@@ -1860,7 +1435,7 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsavailable.cpp" line="34"/>
         <source>Install</source>
-        <translation type="unfinished"></translation>
+        <translation>Installer</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsavailable.cpp" line="195"/>
@@ -1880,12 +1455,12 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsavailable.cpp" line="207"/>
         <source>Install plugin automatically</source>
-        <translation type="unfinished"></translation>
+        <translation>Installer programtillegg automatisk</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsavailable.cpp" line="214"/>
         <source>Download for manual installation</source>
-        <translation type="unfinished"></translation>
+        <translation>Last ned for manuell installasjon</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsavailable.cpp" line="53"/>
@@ -1900,7 +1475,7 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsavailable.cpp" line="43"/>
         <source>Search available plugin</source>
-        <translation>Søk tilgjengelig programtillegg</translation>
+        <translation>Søk etter tilgjengelige programtillegg</translation>
     </message>
 </context>
 <context>
@@ -1908,159 +1483,155 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.ui" line="65"/>
         <source>Choose an installation folder for plugins.</source>
-        <translation type="unfinished"></translation>
+        <translation>Velg en installasjonsmappe for programtillegg.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="26"/>
         <source>Installing</source>
-        <translation type="unfinished"></translation>
+        <translation>Installerer</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="28"/>
         <source>Complete</source>
-        <translation type="unfinished"></translation>
+        <translation>Fullført</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="30"/>
         <source>Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Mislyktes</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="54"/>
         <source>Select Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Velg mappe</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="61"/>
         <source>No plugins are currently being installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen programtillegg installeres for øyeblikket.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="62"/>
         <source>Explore available plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Utforsk tilgjengelige programtillegg</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="71"/>
         <source>No directory selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen mappe valgt.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="74"/>
         <source>Change the directory for plugin installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Endre mappen for installasjon av programtillegg.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="272"/>
         <source>Save settings to activate the plugin.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lagre innstillinger for å aktivere programtillegget.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="275"/>
         <source>🎉 %1 is installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>🎉 %1 er installert.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="288"/>
         <source>😥 Failed to install plugin.</source>
-        <translation type="unfinished"></translation>
+        <translation>😥 Kunne ikke installere programtillegget.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="342"/>
         <source>Cannot write to the selected folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan ikke skrive til den valgte mappen.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="357"/>
         <source>Please avoid using Seer&apos;s installation path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vennligst unngå å bruke Seers installasjonsbane.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/plugininstallertask.cpp" line="574"/>
         <source>Please restart Seer and try installing %1 again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Start Seer på nytt og prøv å installere %1 igjen.</translation>
     </message>
 </context>
 <context>
     <name>CSettingsWnd4Script</name>
     <message>
-        <source>11</source>
-        <translation type="obsolete">11</translation>
-    </message>
-    <message>
         <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="46"/>
         <source>Locate script interpreter</source>
-        <translation type="unfinished"></translation>
+        <translation>Finn skripttolker</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="51"/>
         <source>Download script interpreter</source>
-        <translation type="unfinished"></translation>
+        <translation>Last ned skripttolker</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="67"/>
         <source>Find scripts online</source>
-        <translation type="unfinished"></translation>
+        <translation>Finn skript på nettet</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="74"/>
         <source>Add from local</source>
-        <translation type="unfinished"></translation>
+        <translation>Legg til lokalt</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="84"/>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Forhåndsvisning</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="85"/>
         <source>Controls</source>
-        <translation type="unfinished">Kontroller</translation>
+        <translation>Kontroller</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="86"/>
         <source>Property</source>
-        <translation type="unfinished"></translation>
+        <translation>Egenskap</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="214"/>
         <source>The path of interpreter has saved.</source>
-        <translation type="unfinished"></translation>
+        <translation>Banen til tolkeren er lagret.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="257"/>
         <source>Please configure the interpreter first</source>
-        <translation type="unfinished"></translation>
+        <translation>Vennligst konfigurer tolkeren først</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="264"/>
         <source>The configured interpreter path is invalid or missing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Den konfigurerte tolkerbanen er ugyldig eller mangler.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="276"/>
         <source>Failed to parse the script</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke tolke skriptet</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4script.ui" line="138"/>
         <source>Interpreter</source>
-        <translation type="unfinished"></translation>
+        <translation>Tolker</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4script.ui" line="182"/>
         <source>Script</source>
-        <translation type="unfinished"></translation>
+        <translation>Skript</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4scriptitem.cpp" line="85"/>
         <source>Extensions:</source>
-        <translation type="unfinished"></translation>
+        <translation>Filutvidelser:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4scriptitem.cpp" line="96"/>
         <source>Command:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kommando:</translation>
     </message>
 </context>
 <context>
@@ -2069,10 +1640,6 @@
         <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="115"/>
         <source>Help</source>
         <translation>Hjelp</translation>
-    </message>
-    <message>
-        <source>Menu</source>
-        <translation type="vanished">Meny</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="137"/>
@@ -2095,10 +1662,6 @@
         <translation>Funnet en feil?</translation>
     </message>
     <message>
-        <source>Donate</source>
-        <translation type="vanished">Doner</translation>
-    </message>
-    <message>
         <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="113"/>
         <source>About Seer</source>
         <translation>Om Seer</translation>
@@ -2106,7 +1669,7 @@
     <message>
         <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="102"/>
         <source>Settings</source>
-        <translation>Instillinger</translation>
+        <translation>Innstillinger</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="91"/>
@@ -2116,7 +1679,7 @@
     <message>
         <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="98"/>
         <source>Stay on top</source>
-        <translation>Bli på toppen</translation>
+        <translation>Alltid øverst</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="105"/>
@@ -2126,27 +1689,11 @@
     <message>
         <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="131"/>
         <source>Get PinStack</source>
-        <translation>Skaff deg PinStack</translation>
+        <translation>Skaff PinStack</translation>
     </message>
 </context>
 <context>
     <name>DirViewer</name>
-    <message>
-        <source>Name</source>
-        <translation type="obsolete">Navn</translation>
-    </message>
-    <message>
-        <source>Size</source>
-        <translation type="vanished">Størrelse</translation>
-    </message>
-    <message>
-        <source>Time</source>
-        <translation type="vanished">Tid</translation>
-    </message>
-    <message>
-        <source>Filename</source>
-        <translation type="vanished">Filnavn</translation>
-    </message>
     <message>
         <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="342"/>
         <location filename="../../../Seer/src/dirs/archive/cdirwnd4archive.cpp" line="185"/>
@@ -2162,22 +1709,22 @@
     <message>
         <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="257"/>
         <source>Collapse All</source>
-        <translation type="unfinished"></translation>
+        <translation>Skjul alle</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="274"/>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Åpne</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="279"/>
         <source>Reveal in Explorer</source>
-        <translation type="unfinished"></translation>
+        <translation>Vis i Utforsker</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="291"/>
         <source>Details View</source>
-        <translation type="unfinished"></translation>
+        <translation>Detaljvisning</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="346"/>
@@ -2188,7 +1735,7 @@
     <message>
         <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="351"/>
         <source>Sorting Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Sorteringsalternativer</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/dirs/folder/cdirwnd4folder.cpp" line="164"/>
@@ -2222,24 +1769,9 @@
         <translation>Mappe</translation>
     </message>
     <message>
-        <source>Loading</source>
-        <translation type="vanished">Åpner</translation>
-    </message>
-    <message>
         <location filename="../../../Seer/src/dirs/dircolumnviewinfownd.cpp" line="45"/>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>FindBar</name>
-    <message>
-        <source>Close</source>
-        <translation type="obsolete">Lukk</translation>
-    </message>
-    <message>
-        <source>Loading...</source>
-        <translation type="obsolete">Åpner</translation>
+        <translation>Forhåndsvisning</translation>
     </message>
 </context>
 <context>
@@ -2252,33 +1784,22 @@
     <message>
         <location filename="../../../Seer/src/web/htmlviewer.cpp" line="171"/>
         <source>Save as PDF</source>
-        <translation type="unfinished"></translation>
+        <translation>Lagre som PDF</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/web/htmlviewer.cpp" line="183"/>
         <source>HTML Source</source>
-        <translation type="unfinished"></translation>
+        <translation>HTML-kildekode</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/web/htmlviewer.cpp" line="422"/>
         <source>Failed to save as PDF</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke lagre som PDF</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/web/htmlviewer.cpp" line="448"/>
         <source>Successfully saved as PDF</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>ImageView</name>
-    <message>
-        <source>Rotate Left</source>
-        <translation type="obsolete">Roter venstre</translation>
-    </message>
-    <message>
-        <source>Rotate Right</source>
-        <translation type="obsolete">Roter høyre</translation>
+        <translation>Lagret som PDF</translation>
     </message>
 </context>
 <context>
@@ -2321,27 +1842,27 @@
     <message>
         <location filename="../../../Seer/src/picture/imgvar.h" line="59"/>
         <source>Flip Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Vend horisontalt</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/picture/imgvar.h" line="61"/>
         <source>Flip Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Vend vertikalt</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/picture/imgvar.h" line="62"/>
         <source>Minimap</source>
-        <translation type="unfinished"></translation>
+        <translation>Minikart</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/picture/imgvar.h" line="66"/>
         <source>Fit Height</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilpass høyde</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/picture/imgvar.h" line="67"/>
         <source>Expand</source>
-        <translation type="unfinished"></translation>
+        <translation>Utvid</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/picture/imgvar.h" line="71"/>
@@ -2351,27 +1872,27 @@
     <message>
         <location filename="../../../Seer/src/picture/imgvar.h" line="73"/>
         <source>Next Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Neste ramme</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/picture/imgvar.h" line="75"/>
         <source>Previous Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Forrige ramme</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/picture/imgvar.h" line="77"/>
         <source>Zoom In</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoom inn</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/picture/imgvar.h" line="79"/>
         <source>Zoom Out</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoom ut</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/picture/imageviewer.cpp" line="69"/>
         <source>The change will take effect on the next preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Endringen trer i kraft ved neste forhåndsvisning</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/picture/imageviewer.cpp" line="167"/>
@@ -2381,236 +1902,12 @@
     <message>
         <location filename="../../../Seer/src/picture/imageviewer.cpp" line="281"/>
         <source>Loop Count</source>
-        <translation>Antall sløyfer</translation>
-    </message>
-    <message>
-        <source>Camera make</source>
-        <translation type="vanished">Kamera fabrikat</translation>
-    </message>
-    <message>
-        <source>Camera model</source>
-        <translation type="vanished">Kameramodell</translation>
-    </message>
-    <message>
-        <source>Software</source>
-        <translation type="vanished">Programvare</translation>
-    </message>
-    <message>
-        <source>Bits per sample</source>
-        <translation type="vanished">Bit per sample</translation>
-    </message>
-    <message>
-        <source>Image width</source>
-        <translation type="vanished">Bildebredde</translation>
-    </message>
-    <message>
-        <source>Image height</source>
-        <translation type="vanished">Bildehøyde</translation>
-    </message>
-    <message>
-        <source>Image description</source>
-        <translation type="vanished">Bildebeskrivelse</translation>
-    </message>
-    <message>
-        <source>Image copyright</source>
-        <translation type="vanished">Bildeopphavsrett</translation>
-    </message>
-    <message>
-        <source>Image datetime</source>
-        <translation type="vanished">Bilde dato og klokkeslett</translation>
-    </message>
-    <message>
-        <source>Original datetime</source>
-        <translation type="vanished">Opprinnelig dato og klokkeslett</translation>
-    </message>
-    <message>
-        <source>Digitize datetime</source>
-        <translation type="vanished">Digitaliser dato og klokkeslett</translation>
-    </message>
-    <message>
-        <source>Exposure time</source>
-        <translation type="vanished">Eksponeringstid</translation>
-    </message>
-    <message>
-        <source>F-stop</source>
-        <translation type="vanished">F-stopp</translation>
-    </message>
-    <message>
-        <source>Manual</source>
-        <translation type="vanished">Håndbok</translation>
-    </message>
-    <message>
-        <source>Normal program</source>
-        <translation type="vanished">Vanlig program</translation>
-    </message>
-    <message>
-        <source>Aperture priority</source>
-        <translation type="vanished">Blenderprioritet</translation>
-    </message>
-    <message>
-        <source>Shutter priority</source>
-        <translation type="vanished">Lukkerprioritet</translation>
-    </message>
-    <message>
-        <source>Creative program</source>
-        <translation type="vanished">Kreativt program</translation>
-    </message>
-    <message>
-        <source>Action program</source>
-        <translation type="vanished">Handlingsprogram</translation>
-    </message>
-    <message>
-        <source>Portrait mode</source>
-        <translation type="vanished">Portrett-modus</translation>
-    </message>
-    <message>
-        <source>Landscape mode</source>
-        <translation type="vanished">Landskapsmodus</translation>
-    </message>
-    <message>
-        <source>Exposure program</source>
-        <translation type="vanished">Eksponeringsprogram</translation>
-    </message>
-    <message>
-        <source>ISO speed</source>
-        <translation type="vanished">ISO-hastighet</translation>
-    </message>
-    <message>
-        <source>Shutter speed</source>
-        <translation type="vanished">Lukkerhastighet</translation>
-    </message>
-    <message>
-        <source>Subject distance</source>
-        <translation type="vanished">Emneavstand</translation>
-    </message>
-    <message>
-        <source>Exposure bias</source>
-        <translation type="vanished">Eksponeringskompensering</translation>
-    </message>
-    <message>
-        <source>Flash</source>
-        <translation type="vanished">Blits</translation>
-    </message>
-    <message>
-        <source>Reserved</source>
-        <translation type="vanished">Reservert</translation>
-    </message>
-    <message>
-        <source>Strobe return light not detected</source>
-        <translation type="vanished">Strobe-returlys ble ikke oppdaget</translation>
-    </message>
-    <message>
-        <source>Strobe return light detected</source>
-        <translation type="vanished">Strobe-returlys oppdaget</translation>
-    </message>
-    <message>
-        <source>Flash returned light</source>
-        <translation type="vanished">Blitsreturnert lys</translation>
-    </message>
-    <message>
-        <source>Unknown mode</source>
-        <translation type="vanished">Ukjent modus</translation>
-    </message>
-    <message>
-        <source>Compulsory flash firing</source>
-        <translation type="vanished">Obligatorisk blitsavfyring</translation>
-    </message>
-    <message>
-        <source>Compulsory flash suppression</source>
-        <translation type="vanished">Obligatorisk blitsundertrykkelse</translation>
-    </message>
-    <message>
-        <source>Automatic mode</source>
-        <translation type="vanished">Automatisk modus</translation>
-    </message>
-    <message>
-        <source>Flash mode</source>
-        <translation type="vanished">Blitsmodus</translation>
-    </message>
-    <message>
-        <source>average</source>
-        <translation type="vanished">gjennomsnitt</translation>
-    </message>
-    <message>
-        <source>center weighted average</source>
-        <translation type="vanished">senterveid gjennomsnitt</translation>
-    </message>
-    <message>
-        <source>spot</source>
-        <translation type="vanished">punkt</translation>
-    </message>
-    <message>
-        <source>multi-spot</source>
-        <translation type="vanished">flerpunkt</translation>
-    </message>
-    <message>
-        <source>multi-segment</source>
-        <translation type="vanished">fler-segment</translation>
-    </message>
-    <message>
-        <source>Metering mode</source>
-        <translation type="vanished">Målemodus</translation>
-    </message>
-    <message>
-        <source>Lens focal length</source>
-        <translation type="vanished">Linsens brennvidde</translation>
-    </message>
-    <message>
-        <source>35mm focal length</source>
-        <translation type="vanished">35 mm brennvidde</translation>
-    </message>
-    <message>
-        <source>GPS Latitude</source>
-        <translation type="vanished">GPS-breddegrad</translation>
-    </message>
-    <message>
-        <source>GPS Longitude</source>
-        <translation type="vanished">GPS-lengdegrad</translation>
-    </message>
-    <message>
-        <source>GPS Altitude</source>
-        <translation type="vanished">GPS-høyde</translation>
-    </message>
-    <message>
-        <source>GPS Precision (DOP)</source>
-        <translation type="vanished">GPS-presisjon (DOP)</translation>
-    </message>
-    <message>
-        <source>Lens min focal length</source>
-        <translation type="vanished">Linse min brennvidde</translation>
-    </message>
-    <message>
-        <source>Lens max focal length</source>
-        <translation type="vanished">Linse maks brennvidde</translation>
-    </message>
-    <message>
-        <source>Lens f-stop min</source>
-        <translation type="vanished">Linse f-stopp min</translation>
-    </message>
-    <message>
-        <source>Lens f-stop max</source>
-        <translation type="vanished">Linse f-stopp maks</translation>
-    </message>
-    <message>
-        <source>Lens make</source>
-        <translation type="vanished">Lens-fabrikat</translation>
-    </message>
-    <message>
-        <source>Lens model</source>
-        <translation type="vanished">Linsemodell</translation>
-    </message>
-    <message>
-        <source>Focal plane XRes</source>
-        <translation type="vanished">Fokalplan XRes</translation>
-    </message>
-    <message>
-        <source>Focal plane YRes</source>
-        <translation type="vanished">Fokalplan YRes</translation>
+        <translation>Gjentakelser</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/picture/imageview.cpp" line="176"/>
         <source>Default Display Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Standard visningsmodus</translation>
     </message>
 </context>
 <context>
@@ -2651,29 +1948,9 @@
         <translation>Høyde</translation>
     </message>
     <message>
-        <source>Repeat: Off</source>
-        <translation type="vanished">Gjenta: Av</translation>
-    </message>
-    <message>
-        <source>Decoder</source>
-        <translation type="vanished">Dekoder</translation>
-    </message>
-    <message>
-        <source>Repeat: On</source>
-        <translation type="vanished">Gjenta: På</translation>
-    </message>
-    <message>
-        <source>Channel Layout</source>
-        <translation type="vanished">Kanaloppsett</translation>
-    </message>
-    <message>
         <location filename="../../../Seer/src/media/mediaviewer.cpp" line="72"/>
         <source>Duration</source>
         <translation>Varighet</translation>
-    </message>
-    <message>
-        <source>Sample Format</source>
-        <translation type="vanished">Samplingsformat</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/media/mediaviewer.cpp" line="94"/>
@@ -2699,7 +1976,7 @@
     <message>
         <location filename="../../../Seer/src/media/mediaviewer.cpp" line="78"/>
         <source>Start Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Starttid</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/media/mediaviewer.cpp" line="288"/>
@@ -2709,46 +1986,42 @@
     <message>
         <location filename="../../../Seer/src/media/mediaviewer.cpp" line="365"/>
         <source>Forward:</source>
-        <translation>Framover:</translation>
+        <translation>Spol frem:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/media/mediaviewer.cpp" line="371"/>
         <source>Backward:</source>
-        <translation>Bakover:</translation>
+        <translation>Spol tilbake:</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/media/mediaviewer.cpp" line="451"/>
         <source>Mute</source>
-        <translation type="unfinished"></translation>
+        <translation>Demp</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/media/mediaviewer.cpp" line="461"/>
         <source>Loop</source>
-        <translation type="unfinished"></translation>
+        <translation>Gjenta</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/media/mediaviewer.cpp" line="475"/>
         <source>Rotate Right</source>
-        <translation type="unfinished">Roter høyre</translation>
-    </message>
-    <message>
-        <source>Rotate Left</source>
-        <translation type="obsolete">Roter venstre</translation>
+        <translation>Roter høyre</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/media/mediaviewer.cpp" line="478"/>
         <source>Reset Rotation</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilbakestill rotasjon</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/media/mediaviewer.cpp" line="483"/>
         <source>Reset Speed</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilbakestill hastighet</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/media/mediaviewer_p.cpp" line="206"/>
         <source>Screenshot has saved to clipboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skjermbilde er lagret på utklippstavlen.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/media/mediaviewer_p.cpp" line="271"/>
@@ -2763,45 +2036,12 @@
     <message>
         <location filename="../../../Seer/src/media/mediaviewer_p.cpp" line="436"/>
         <source>Reset to normal speed</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilbakestill til normal hastighet</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/media/mediaviewer_p.cpp" line="201"/>
         <source>Capture failed</source>
-        <translation>Opptaket mislyktes</translation>
-    </message>
-</context>
-<context>
-    <name>PdfViewPrivate</name>
-    <message>
-        <source>Cannot save image to:
-</source>
-        <translation type="vanished">Kan ikke lagre bildet til:
-</translation>
-    </message>
-    <message>
-        <source>Copy &amp;Text to Clipboard</source>
-        <translation type="vanished">Kopier &amp;tekst til utklippstavlen</translation>
-    </message>
-    <message>
-        <source>File save error</source>
-        <translation type="vanished">Fillagringsfeil</translation>
-    </message>
-    <message>
-        <source>Supported image files</source>
-        <translation type="vanished">Støttede bildefiler</translation>
-    </message>
-    <message>
-        <source>Copy &amp;Image to Clipboard</source>
-        <translation type="vanished">Kopier &amp;bilde til utklippstavlen</translation>
-    </message>
-    <message>
-        <source>&amp;Cancel</source>
-        <translation type="vanished">&amp;Avbryt</translation>
-    </message>
-    <message>
-        <source>Save image as</source>
-        <translation type="vanished">Lagre bilde som</translation>
+        <translation>Klarte ikke å ta skjermbilde</translation>
     </message>
 </context>
 <context>
@@ -2825,22 +2065,6 @@
         <translation>Faktisk størrelse</translation>
     </message>
     <message>
-        <source>Loading...</source>
-        <translation type="vanished">Åpner</translation>
-    </message>
-    <message>
-        <source>Outline</source>
-        <translation type="vanished">Disposisjon</translation>
-    </message>
-    <message>
-        <source>Thumbnail</source>
-        <translation type="vanished">Miniatyrbilde</translation>
-    </message>
-    <message>
-        <source>Annotated</source>
-        <translation type="vanished">Kommentert</translation>
-    </message>
-    <message>
         <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="183"/>
         <source>Encrypted</source>
         <translation>Kryptert</translation>
@@ -2854,89 +2078,65 @@
     <message>
         <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="235"/>
         <source>Sidebar</source>
-        <translation type="unfinished"></translation>
+        <translation>Sidefelt</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="309"/>
         <source>Annotation: On</source>
-        <translation>Merknad: På</translation>
+        <translation>Merknader: På</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="309"/>
         <source>Annotation: Off</source>
-        <translation>Merknad: Av</translation>
+        <translation>Merknader: Av</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="433"/>
         <source>Please choose a page first</source>
-        <translation>Velg en side først</translation>
+        <translation>Vennligst velg en side først</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="510"/>
         <source>Rotate Left</source>
-        <translation type="unfinished">Roter venstre</translation>
+        <translation>Roter venstre</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="514"/>
         <source>Annotations</source>
-        <translation type="unfinished"></translation>
+        <translation>Merknader</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="526"/>
         <source>Dark Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Mørk modus</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/pdf/cpdfpwdwnd.cpp" line="28"/>
         <source>Password required</source>
-        <translation type="unfinished">Passord påkrevd</translation>
+        <translation>Passord kreves</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/pdf/sidebar/pdfsidebarwnd.cpp" line="55"/>
         <source>Table of Contents</source>
-        <translation type="unfinished"></translation>
+        <translation>Innholdsfortegnelse</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/pdf/sidebar/pdfsidebarwnd.cpp" line="58"/>
         <source>Thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation>Miniatyrbilder</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/pdf/sidebar/pdfsidebarwnd.cpp" line="61"/>
         <source>Highlight and Notes</source>
-        <translation type="unfinished"></translation>
+        <translation>Utheving og notater</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
-        <source>&amp;Ok</source>
-        <translation type="vanished">&amp;OK</translation>
-    </message>
-    <message>
-        <source>Notice</source>
-        <translation type="vanished">Noter</translation>
-    </message>
-    <message>
-        <source>Remove</source>
-        <translation type="vanished">Fjern</translation>
-    </message>
-    <message>
         <location filename="../../../Seer/src/cmain.cpp" line="172"/>
         <source>Please check your &quot;i18n&quot; folder.</source>
-        <translation>Kontroller &quot;i18n-mappen&quot; din.</translation>
-    </message>
-    <message>
-        <source> not found.</source>
-        <translation type="vanished"> ikke funnet.</translation>
-    </message>
-    <message>
-        <source>Seer is already running.</source>
-        <translation type="vanished">Seer kjører allerede.</translation>
-    </message>
-    <message>
-        <source>Set language failed</source>
-        <translation type="vanished">Angi språk mislyktes</translation>
+        <translation>Kontroller din &quot;i18n&quot;-mappe.</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/cmain.cpp" line="171"/>
@@ -2979,19 +2179,11 @@
         <translation>Ukjent</translation>
     </message>
     <message>
-        <source>&amp;Cancel</source>
-        <translation type="vanished">&amp;Avbryt</translation>
-    </message>
-    <message>
-        <source>&amp;OK</source>
-        <translation type="vanished">&amp;OK</translation>
-    </message>
-    <message>
         <location filename="../../../Seer/src/pdf/sidebar/pdfsidebarwnd.cpp" line="20"/>
         <location filename="../../../Seer/src/dirs/nodes.cpp" line="14"/>
         <location filename="../../../Seer/src/text/textviewerbase.cpp" line="20"/>
         <source>Loading</source>
-        <translation type="unfinished">Åpner</translation>
+        <translation>Laster inn</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="94"/>
@@ -3000,38 +2192,30 @@
         <location filename="../../../Seer/src/pdf/cpdfpwdwnd.cpp" line="35"/>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="48"/>
         <source>Cancel</source>
-        <translation type="unfinished">Avbryt</translation>
+        <translation>Avbryt</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="98"/>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsadd.cpp" line="99"/>
         <location filename="../../../Seer/src/pdf/cpdfpwdwnd.cpp" line="34"/>
         <source>Okay</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="119"/>
         <location filename="../../../Seer/src/ui/caboutwnd.cpp" line="55"/>
         <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="680"/>
         <source>Close</source>
-        <translation type="unfinished">Lukk</translation>
+        <translation>Lukk</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/ui/caboutwnd.cpp" line="65"/>
         <source>Return</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilbake</translation>
     </message>
 </context>
 <context>
     <name>TextViewer</name>
-    <message>
-        <source>Line: </source>
-        <translation type="vanished">Rekke:</translation>
-    </message>
-    <message>
-        <source>Column: </source>
-        <translation type="vanished">Kolonne:</translation>
-    </message>
     <message>
         <location filename="../../../Seer/src/text/FeaturedView/textviewer4feature.cpp" line="73"/>
         <source>Format Code</source>
@@ -3051,7 +2235,7 @@
         <location filename="../../../Seer/src/text/ChunkView/textviewer4chunk.cpp" line="80"/>
         <location filename="../../../Seer/src/text/FeaturedView/textviewer4feature.cpp" line="480"/>
         <source>Line count</source>
-        <translation>Linjeantall</translation>
+        <translation>Antall linjer</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/text/FeaturedView/textviewer4feature.cpp" line="106"/>
@@ -3081,12 +2265,12 @@
     <message>
         <location filename="../../../Seer/src/text/FeaturedView/textviewer4feature.cpp" line="385"/>
         <source>Locate Cursor</source>
-        <translation type="unfinished"></translation>
+        <translation>Finn markør</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/text/FeaturedView/textviewer4feature.cpp" line="390"/>
         <source>Word Wrap</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekstbryting</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/text/FeaturedView/textviewer4feature.cpp" line="464"/>
@@ -3096,7 +2280,7 @@
     <message>
         <location filename="../../../Seer/src/text/FeaturedView/textviewer4feature.cpp" line="466"/>
         <source>Col</source>
-        <translation>Col</translation>
+        <translation>Kol</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/text/FeaturedView/textviewer4feature.cpp" line="478"/>
@@ -3104,22 +2288,14 @@
         <translation>Antall tegn</translation>
     </message>
     <message>
-        <source>Loading</source>
-        <translation type="vanished">Åpner</translation>
-    </message>
-    <message>
-        <source>Rotate Right</source>
-        <translation type="obsolete">Roter høyre</translation>
-    </message>
-    <message>
         <location filename="../../../Seer/src/text/textviewerbase.cpp" line="131"/>
         <source>Line Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Linjenummer</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/text/textviewerbase.cpp" line="144"/>
         <source>Minimap</source>
-        <translation type="unfinished"></translation>
+        <translation>Minikart</translation>
     </message>
 </context>
 </TS>
