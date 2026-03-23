@@ -314,122 +314,122 @@
 <context>
     <name>CFileProperty</name>
     <message>
-        <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="46"/>
+        <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="47"/>
         <source>Name</source>
         <translation>이름</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="50"/>
+        <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="51"/>
         <source>Size</source>
         <translation>크기</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="52"/>
+        <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="53"/>
         <source>Type</source>
         <translation>유형</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="208"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="239"/>
         <source>Opens with</source>
         <translation>연결된 프로그램</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="171"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="199"/>
         <source>Original location</source>
         <translation>원래 위치</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="48"/>
+        <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="49"/>
         <source>Location</source>
         <translation>위치</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="56"/>
+        <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="57"/>
         <source>Modified</source>
         <translation>수정한 날짜</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="58"/>
+        <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="59"/>
         <source>Accessed</source>
         <translation>액세스한 날짜</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="54"/>
+        <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="55"/>
         <source>Created</source>
         <translation>만든 날짜</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="50"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="75"/>
         <source>Comments</source>
         <translation>설명</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="52"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="77"/>
         <source>Internal Name</source>
         <translation>내부 이름</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="54"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="79"/>
         <source>Product Name</source>
         <translation>제품 이름</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="56"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="81"/>
         <source>Company Name</source>
         <translation>회사</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="58"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="83"/>
         <source>Legal Copyright</source>
         <translation>저작권</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="60"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="85"/>
         <source>Product Version</source>
         <translation>제품 버전</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="62"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="87"/>
         <source>File Description</source>
         <translation>파일 설명</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="64"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="89"/>
         <source>Legal Trademarks</source>
         <translation>등록 상표</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="66"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="91"/>
         <source>Private Build</source>
         <translation>개인 빌드</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="68"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="93"/>
         <source>File Version</source>
         <translation>파일 버전</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="70"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="95"/>
         <source>Original Filename</source>
         <translation>원본 파일 이름</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="72"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="97"/>
         <source>Special Build</source>
         <translation>특별 빌드</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="43"/>
+        <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="44"/>
         <source>Details</source>
         <translation>세부</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="198"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="226"/>
         <source>Extension</source>
         <translation>확장자</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="175"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="203"/>
         <source>Folder</source>
         <translation>폴더</translation>
     </message>
@@ -439,22 +439,22 @@
         <translation>핀</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="142"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="170"/>
         <source>Total bytes</source>
         <translation>총 바이트</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="147"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="175"/>
         <source>Available bytes</source>
         <translation>사용 가능한 바이트</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="150"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="178"/>
         <source>Free bytes</source>
         <translation>여유 바이트</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="157"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="185"/>
         <source>Block size</source>
         <translation>블록 크기</translation>
     </message>
@@ -504,7 +504,7 @@
         <translation type="vanished">종료</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="303"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="307"/>
         <source>Error</source>
         <translation>오류</translation>
     </message>
@@ -517,18 +517,18 @@
         <translation type="vanished">친구들과 공유해요.</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="787"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="743"/>
         <source>Application started.</source>
         <translation>응용 프로그램을 시작했습니다.</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="802"/>
-        <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="126"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="763"/>
+        <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="184"/>
         <source>Like Seer?</source>
         <translation>Seer가 마음에 드나요?</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="158"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="162"/>
         <source> is registered by other application.</source>
         <translation> 은(는) 다른 프로그램에서 사용하고 있습니다.</translation>
     </message>
@@ -537,12 +537,12 @@
         <translation type="vanished">응용 프로그램을 다시 시작하지 못했습니다</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="304"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="308"/>
         <source>Monitoring &apos;Space&apos; key failed, can&apos;t proceed.</source>
         <translation>스페이스바 모니터링을 실패했으며, 계속할 수 없습니다.</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="578"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="534"/>
         <source>Settings</source>
         <translation>설정</translation>
     </message>
@@ -551,12 +551,12 @@
         <translation type="vanished">Seer를 수동으로 재시작해 주세요.</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="157"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="161"/>
         <source>Register shortcut failed</source>
         <translation>바로 가기 등록 실패</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="733"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="689"/>
         <source>The system default application not found.</source>
         <translation>시스템 기본 프로그램을 찾을 수 없습니다.</translation>
     </message>
@@ -565,17 +565,17 @@
         <translation type="vanished">Seer 라이선스 등록</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="803"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="764"/>
         <source>Please share with your friends.</source>
         <translation>친구들과 공유해요.</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="664"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="620"/>
         <source>About</source>
         <translation>정보</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="714"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="670"/>
         <source>Activation</source>
         <translation>라이선스 등록</translation>
     </message>
@@ -588,7 +588,7 @@
         <translation type="vanished">이 라이선스는 더이상 사용가능하지 않습니다</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="760"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="716"/>
         <source>Seer is already running.</source>
         <translation>Seer가 이미 실행 중입니다.</translation>
     </message>
@@ -1200,50 +1200,50 @@
         <translation type="obsolete">시간 표시기 표시</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="45"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="64"/>
         <source>Oops!</source>
         <translation>이런!</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="45"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="64"/>
         <source>No matching extensions found.</source>
         <translation>일치하는 확장자를 찾을 수 없습니다.</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="50"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="69"/>
         <source>Search extension, e.g.: psd</source>
         <translation>확장자 검색, 예: psd</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="97"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="116"/>
         <location filename="../../../Seer/src/picture/imageview.cpp" line="188"/>
         <source>Auto Fit</source>
         <translation>자동 맞춤</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="101"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="120"/>
         <source>Automatically scales to fit the entire image in the viewer.</source>
         <translation>뷰어에 전체 이미지가 맞도록 자동으로 크기를 조정합니다.</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="104"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="123"/>
         <location filename="../../../Seer/src/picture/imageview.cpp" line="191"/>
         <source>Fit Short Side</source>
         <translation>짧은 면에 맞추기</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="106"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="125"/>
         <source>Scales until the shorter side fits; scroll the longer side if needed.</source>
         <translation>짧은 면이 맞을 때까지 비율을 조정합니다. 필요한 경우 긴 면을 스크롤합니다.</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="110"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="129"/>
         <location filename="../../../Seer/src/picture/imageview.cpp" line="194"/>
         <source>Prefer Full Size</source>
         <translation>전체 크기 선호</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="112"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="131"/>
         <source>Always loads the image at its original resolution; scrolling may be required.</source>
         <translation>항상 원본 해상도로 이미지를 불러옵니다. 스크롤이 필요할 수 있습니다.</translation>
     </message>
@@ -1289,7 +1289,7 @@
         <translation>시스템</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="86"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="105"/>
         <source>Markdown stylesheet path</source>
         <translation>마크다운 스타일시트 경로</translation>
     </message>
@@ -1298,7 +1298,7 @@
         <translation type="vanished">이 필드의 확장자에 대해서만 속성을 표시합니다. 예: pptx docx vsdx</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="88"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="107"/>
         <source>Will display property only for extensions in this field, e.g.:</source>
         <translation>여기에 등록한 확장자에 대해서만 파일 속성을 표시합니다. 예:</translation>
     </message>
@@ -1325,7 +1325,7 @@
         <translation type="vanished">이미지</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="383"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="401"/>
         <source>Invalid</source>
         <translation>잘못됨</translation>
     </message>
@@ -2237,7 +2237,7 @@
 <context>
     <name>CSystemTrayIcon</name>
     <message>
-        <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="115"/>
+        <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="173"/>
         <source>Help</source>
         <translation>도움말</translation>
     </message>
@@ -2246,22 +2246,22 @@
         <translation type="vanished">메뉴</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="137"/>
+        <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="195"/>
         <source>Quit</source>
         <translation>종료</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="110"/>
+        <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="168"/>
         <source>About</source>
         <translation>정보</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="121"/>
+        <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="179"/>
         <source>Check for updates</source>
         <translation>업데이트 확인</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="116"/>
+        <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="174"/>
         <source>Found a bug?</source>
         <translation>버그를 발견했나요?</translation>
     </message>
@@ -2270,22 +2270,22 @@
         <translation type="vanished">기부하기</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="113"/>
+        <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="171"/>
         <source>About Seer</source>
         <translation>Seer 정보</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="102"/>
+        <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="160"/>
         <source>Settings</source>
         <translation>설정</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="91"/>
+        <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="149"/>
         <source>Register</source>
         <translation>등록하기</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="98"/>
+        <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="156"/>
         <source>Stay on top</source>
         <translation>제일 위에 표시</translation>
     </message>
@@ -2302,12 +2302,12 @@
         <translation type="vanished">비활성화됨</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="105"/>
+        <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="163"/>
         <source>What&apos;s New</source>
         <translation>새로운 기능</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="131"/>
+        <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="189"/>
         <source>Get PinStack</source>
         <translation>PinStack 가져오기</translation>
     </message>
@@ -2335,66 +2335,62 @@
         <translation type="vanished">파일이름</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="342"/>
-        <location filename="../../../Seer/src/dirs/archive/cdirwnd4archive.cpp" line="185"/>
+        <location filename="../../../Seer/src/dirs/dirvar.h" line="57"/>
         <source>Ratio</source>
         <translation>압축률</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="100"/>
-        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="304"/>
+        <location filename="../../../Seer/src/dirs/dirvar.h" line="64"/>
         <source>Column View</source>
         <translation>열 보기</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="257"/>
+        <location filename="../../../Seer/src/dirs/dirvar.h" line="69"/>
         <source>Collapse All</source>
         <translation>모두 축소</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="274"/>
+        <location filename="../../../Seer/src/dirs/dirvar.h" line="70"/>
         <source>Open</source>
         <translation>열기</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="279"/>
+        <location filename="../../../Seer/src/dirs/dirvar.h" line="72"/>
         <source>Reveal in Explorer</source>
         <translation>파일 위치 열기</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="291"/>
+        <location filename="../../../Seer/src/dirs/dirvar.h" line="74"/>
         <source>Details View</source>
         <translation>자세히 보기</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="346"/>
-        <location filename="../../../Seer/src/dirs/archive/cdirwnd4archive.cpp" line="184"/>
+        <location filename="../../../Seer/src/dirs/dirvar.h" line="56"/>
         <source>Packed</source>
         <translation>압축된 크기</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="351"/>
+        <location filename="../../../Seer/src/dirs/dirvar.h" line="76"/>
         <source>Sorting Options</source>
         <translation>정렬 옵션</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/dirs/folder/cdirwnd4folder.cpp" line="164"/>
+        <location filename="../../../Seer/src/dirs/dirvar.h" line="61"/>
         <source>Display Selected Item In Explorer</source>
         <translation>파일 위치 보기</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="126"/>
+        <location filename="../../../Seer/src/dirs/dirvar.h" line="67"/>
         <source>Open Selected Item With Seer</source>
         <translation>Seer로 선택한 항목 열기</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="103"/>
-        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="302"/>
+        <location filename="../../../Seer/src/dirs/dirvar.h" line="65"/>
         <source>Tree View</source>
         <translation>트리 보기</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/dirs/folder/cdirwnd4folder.cpp" line="150"/>
+        <location filename="../../../Seer/src/dirs/dirvar.h" line="58"/>
         <source>Open Selected Item With Default Application</source>
         <translation>기본 프로그램으로 선택한 항목 열기</translation>
     </message>
@@ -2403,12 +2399,12 @@
         <translation type="vanished">파일이 암호화되어 있습니다.</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/dirs/archive/cdirwnd4archive.cpp" line="45"/>
+        <location filename="../../../Seer/src/dirs/dirvar.h" line="55"/>
         <source>File is encrypted</source>
         <translation>파일이 암호화되었습니다</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/dirs/treemodel.cpp" line="20"/>
+        <location filename="../../../Seer/src/dirs/dirvar.h" line="53"/>
         <source>Folder</source>
         <translation>폴더</translation>
     </message>
@@ -2417,7 +2413,7 @@
         <translation type="vanished">읽는중</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/dirs/dircolumnviewinfownd.cpp" line="45"/>
+        <location filename="../../../Seer/src/dirs/dirvar.h" line="62"/>
         <source>Preview</source>
         <translation>미리보기</translation>
     </message>
@@ -2436,27 +2432,27 @@
         <translation type="vanished">HTML</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/web/htmlviewer.cpp" line="167"/>
+        <location filename="../../../Seer/src/web/webvar.h" line="68"/>
         <source>Markdown Source</source>
         <translation>Markdown 소스</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/web/htmlviewer.cpp" line="171"/>
+        <location filename="../../../Seer/src/web/webvar.h" line="70"/>
         <source>Save as PDF</source>
         <translation>PDF로 저장</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/web/htmlviewer.cpp" line="183"/>
+        <location filename="../../../Seer/src/web/webvar.h" line="72"/>
         <source>HTML Source</source>
         <translation>HTML 소스</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/web/htmlviewer.cpp" line="422"/>
+        <location filename="../../../Seer/src/web/webvar.h" line="74"/>
         <source>Failed to save as PDF</source>
         <translation>PDF로 저장하지 못했습니다</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/web/htmlviewer.cpp" line="448"/>
+        <location filename="../../../Seer/src/web/webvar.h" line="76"/>
         <source>Successfully saved as PDF</source>
         <translation>PDF로 성공적으로 저장되었습니다</translation>
     </message>
@@ -2482,87 +2478,92 @@
 <context>
     <name>ImageViewer</name>
     <message>
-        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="69"/>
+        <location filename="../../../Seer/src/picture/imgvar.h" line="102"/>
         <source>The change will take effect on the next preview</source>
         <translation>변경 사항은 다음 미리보기부터 적용됩니다</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="271"/>
+        <location filename="../../../Seer/src/picture/imgvar.h" line="105"/>
         <source>Width</source>
         <translation>너비</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/imgvar.h" line="55"/>
+        <location filename="../../../Seer/src/picture/imgvar.h" line="78"/>
         <source>Rotate Right</source>
         <translation>오른쪽으로 회전</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/imgvar.h" line="59"/>
+        <location filename="../../../Seer/src/picture/imgvar.h" line="82"/>
         <source>Flip Horizontal</source>
         <translation>가로로 뒤집기</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/imgvar.h" line="61"/>
+        <location filename="../../../Seer/src/picture/imgvar.h" line="84"/>
         <source>Flip Vertical</source>
         <translation>세로로 뒤집기</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/imgvar.h" line="62"/>
+        <location filename="../../../Seer/src/picture/imgvar.h" line="85"/>
         <source>Minimap</source>
         <translation>미니맵</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/imgvar.h" line="66"/>
+        <location filename="../../../Seer/src/picture/imgvar.h" line="88"/>
         <source>Fit Height</source>
         <translation>높이 맞추기</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/imgvar.h" line="67"/>
+        <location filename="../../../Seer/src/picture/imgvar.h" line="89"/>
         <source>Expand</source>
         <translation>확장</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/imgvar.h" line="73"/>
+        <location filename="../../../Seer/src/picture/imgvar.h" line="94"/>
         <source>Next Frame</source>
         <translation>다음 프레임</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/imgvar.h" line="75"/>
+        <location filename="../../../Seer/src/picture/imgvar.h" line="96"/>
         <source>Previous Frame</source>
         <translation>이전 프레임</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/imgvar.h" line="77"/>
+        <location filename="../../../Seer/src/picture/imgvar.h" line="97"/>
         <source>Zoom In</source>
         <translation>확대</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/imgvar.h" line="79"/>
+        <location filename="../../../Seer/src/picture/imgvar.h" line="99"/>
         <source>Zoom Out</source>
         <translation>축소</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="272"/>
+        <location filename="../../../Seer/src/picture/imgvar.h" line="106"/>
         <source>Height</source>
         <translation>높이</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/imgvar.h" line="64"/>
+        <location filename="../../../Seer/src/picture/imgvar.h" line="111"/>
+        <source>Forever</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/imgvar.h" line="86"/>
         <source>Fit Width</source>
         <translation>너비 맞추기</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="279"/>
+        <location filename="../../../Seer/src/picture/imgvar.h" line="108"/>
         <source>Image Count</source>
         <translation>이미지 수</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/imgvar.h" line="69"/>
+        <location filename="../../../Seer/src/picture/imgvar.h" line="91"/>
         <source>Actual Size</source>
         <translation>실제 크기</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/imgvar.h" line="57"/>
+        <location filename="../../../Seer/src/picture/imgvar.h" line="80"/>
         <source>Rotate Left</source>
         <translation>왼쪽으로 회전</translation>
     </message>
@@ -2695,17 +2696,17 @@
         <translation type="vanished">초점면 세로 해상도</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/imgvar.h" line="71"/>
+        <location filename="../../../Seer/src/picture/imgvar.h" line="93"/>
         <source>Play / Pause</source>
         <translation>재생 / 일시정지</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="281"/>
+        <location filename="../../../Seer/src/picture/imgvar.h" line="110"/>
         <source>Loop Count</source>
         <translation>반복 횟수</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="167"/>
+        <location filename="../../../Seer/src/picture/imgvar.h" line="104"/>
         <source>XML</source>
         <translation>XML</translation>
     </message>
@@ -2794,7 +2795,7 @@
         <translation type="vanished">다중 세그먼트</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/imageview.cpp" line="176"/>
+        <location filename="../../../Seer/src/picture/imgvar.h" line="101"/>
         <source>Default Display Mode</source>
         <translation>기본 표시 모드</translation>
     </message>
@@ -2802,37 +2803,37 @@
 <context>
     <name>MediaViewer</name>
     <message>
-        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="83"/>
+        <location filename="../../../Seer/src/media/mediavar.h" line="71"/>
         <source>Width</source>
         <translation>너비</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="74"/>
+        <location filename="../../../Seer/src/media/mediavar.h" line="67"/>
         <source>Bit Rate</source>
         <translation>비트 레이트</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="93"/>
+        <location filename="../../../Seer/src/media/mediavar.h" line="77"/>
         <source>Sample Rate</source>
         <translation>샘플 레이트</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="92"/>
+        <location filename="../../../Seer/src/media/mediavar.h" line="75"/>
         <source>Frame Size</source>
         <translation>프레임 크기</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/mediaviewer_p.cpp" line="473"/>
+        <location filename="../../../Seer/src/media/mediavar.h" line="104"/>
         <source>Play / Pause</source>
         <translation>재생 / 일시정지</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="75"/>
+        <location filename="../../../Seer/src/media/mediavar.h" line="68"/>
         <source>Format</source>
         <translation>포맷</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="84"/>
+        <location filename="../../../Seer/src/media/mediavar.h" line="72"/>
         <source>Height</source>
         <translation>높이</translation>
     </message>
@@ -2853,7 +2854,7 @@
         <translation type="vanished">채널 레이아웃</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="72"/>
+        <location filename="../../../Seer/src/media/mediavar.h" line="66"/>
         <source>Duration</source>
         <translation>길이</translation>
     </message>
@@ -2862,83 +2863,83 @@
         <translation type="vanished">샘플 포맷</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="94"/>
+        <location filename="../../../Seer/src/media/mediavar.h" line="78"/>
         <source>Channels</source>
         <translation>채널</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="288"/>
+        <location filename="../../../Seer/src/media/mediavar.h" line="79"/>
         <source>Mute: On</source>
         <translation>음 소거: 켬</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="288"/>
+        <location filename="../../../Seer/src/media/mediavar.h" line="80"/>
         <source>Mute: Off</source>
         <translation>음 소거: 끔</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/mediaviewer_p.cpp" line="201"/>
+        <location filename="../../../Seer/src/media/mediavar.h" line="96"/>
         <source>Capture failed</source>
         <translation>갈무리 실패</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/mediaviewer_p.cpp" line="206"/>
+        <location filename="../../../Seer/src/media/mediavar.h" line="98"/>
         <source>Screenshot has saved to clipboard.</source>
         <translation>스크린샷이 클립보드에 저장되었습니다.</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/mediaviewer_p.cpp" line="271"/>
+        <location filename="../../../Seer/src/media/mediavar.h" line="99"/>
         <source>Loop: On</source>
         <translation>반복: 켬</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/mediaviewer_p.cpp" line="271"/>
+        <location filename="../../../Seer/src/media/mediavar.h" line="100"/>
         <source>Loop: Off</source>
         <translation>반복: 끔</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/mediaviewer_p.cpp" line="436"/>
+        <location filename="../../../Seer/src/media/mediavar.h" line="102"/>
         <source>Reset to normal speed</source>
         <translation>기본 속도로 초기화</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="78"/>
+        <location filename="../../../Seer/src/media/mediavar.h" line="70"/>
         <source>Start Time</source>
         <translation>시작시간</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="88"/>
-        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="474"/>
+        <location filename="../../../Seer/src/media/mediavar.h" line="73"/>
+        <location filename="../../../Seer/src/media/mediavar.h" line="88"/>
         <source>Rotation</source>
         <translation>회전</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="365"/>
+        <location filename="../../../Seer/src/media/mediavar.h" line="81"/>
         <source>Forward:</source>
         <translation>앞으로:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="371"/>
+        <location filename="../../../Seer/src/media/mediavar.h" line="82"/>
         <source>Backward:</source>
         <translation>뒤로:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="398"/>
+        <location filename="../../../Seer/src/media/mediavar.h" line="84"/>
         <source>The system is muted</source>
         <translation>시스템이 음소거되었습니다</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="451"/>
+        <location filename="../../../Seer/src/media/mediavar.h" line="85"/>
         <source>Mute</source>
         <translation>음 소거</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="461"/>
+        <location filename="../../../Seer/src/media/mediavar.h" line="86"/>
         <source>Loop</source>
         <translation>반복</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="475"/>
+        <location filename="../../../Seer/src/media/mediavar.h" line="90"/>
         <source>Rotate Right</source>
         <translation>오른쪽으로 회전</translation>
     </message>
@@ -2947,12 +2948,12 @@
         <translation type="obsolete">왼쪽으로 회전</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="478"/>
+        <location filename="../../../Seer/src/media/mediavar.h" line="92"/>
         <source>Reset Rotation</source>
         <translation>회전 초기화</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="483"/>
+        <location filename="../../../Seer/src/media/mediavar.h" line="94"/>
         <source>Reset Speed</source>
         <translation>속도 초기화</translation>
     </message>
@@ -3006,66 +3007,62 @@
 <context>
     <name>PdfViewer</name>
     <message>
-        <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="147"/>
-        <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="557"/>
+        <location filename="../../../Seer/src/pdf/pdfvar.h" line="67"/>
         <source>Pages Count</source>
         <translation>쪽 수</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="190"/>
-        <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="502"/>
+        <location filename="../../../Seer/src/pdf/pdfvar.h" line="69"/>
         <source>Fit Width</source>
         <translation>너비 맞추기</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="194"/>
-        <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="504"/>
+        <location filename="../../../Seer/src/pdf/pdfvar.h" line="71"/>
         <source>Actual Size</source>
         <translation>실제 크기</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="183"/>
+        <location filename="../../../Seer/src/pdf/pdfvar.h" line="68"/>
         <source>Encrypted</source>
         <translation>암호화됨</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="222"/>
-        <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="508"/>
+        <location filename="../../../Seer/src/pdf/pdfvar.h" line="73"/>
         <source>Rotate Right</source>
         <translation>오른쪽으로 회전</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="235"/>
+        <location filename="../../../Seer/src/pdf/pdfvar.h" line="74"/>
         <source>Sidebar</source>
         <translation>사이드바</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="433"/>
+        <location filename="../../../Seer/src/pdf/pdfvar.h" line="80"/>
         <source>Please choose a page first</source>
         <translation>먼저 페이지를 선택하세요</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="510"/>
+        <location filename="../../../Seer/src/pdf/pdfvar.h" line="82"/>
         <source>Rotate Left</source>
         <translation>왼쪽으로 회전</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="514"/>
+        <location filename="../../../Seer/src/pdf/pdfvar.h" line="84"/>
         <source>Annotations</source>
         <translation>주석</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="526"/>
+        <location filename="../../../Seer/src/pdf/pdfvar.h" line="85"/>
         <source>Dark Mode</source>
         <translation>다크 모드</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="309"/>
+        <location filename="../../../Seer/src/pdf/pdfvar.h" line="76"/>
         <source>Annotation: On</source>
         <translation>주석: 켬</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="309"/>
+        <location filename="../../../Seer/src/pdf/pdfvar.h" line="78"/>
         <source>Annotation: Off</source>
         <translation>주석: 끔</translation>
     </message>
@@ -3078,22 +3075,22 @@
         <translation type="vanished">아웃라인</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/pdf/cpdfpwdwnd.cpp" line="28"/>
+        <location filename="../../../Seer/src/pdf/pdfvar.h" line="65"/>
         <source>Password required</source>
         <translation>비밀번호</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/pdf/sidebar/pdfsidebarwnd.cpp" line="55"/>
+        <location filename="../../../Seer/src/pdf/pdfvar.h" line="59"/>
         <source>Table of Contents</source>
         <translation>목차</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/pdf/sidebar/pdfsidebarwnd.cpp" line="58"/>
+        <location filename="../../../Seer/src/pdf/pdfvar.h" line="61"/>
         <source>Thumbnails</source>
         <translation>썸네일</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/pdf/sidebar/pdfsidebarwnd.cpp" line="61"/>
+        <location filename="../../../Seer/src/pdf/pdfvar.h" line="63"/>
         <source>Highlight and Notes</source>
         <translation>강조 표시 및 메모</translation>
     </message>
@@ -3113,7 +3110,7 @@
         <translation type="vanished">삭제</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="172"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="176"/>
         <source>Please check your &quot;i18n&quot; folder.</source>
         <translation>&quot;i18n&quot; 폴더를 확인하세요.</translation>
     </message>
@@ -3130,7 +3127,7 @@
         <translation type="vanished">언어 설정 실패</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="171"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="175"/>
         <source>Update language failed</source>
         <translation>언어 업데이트 실패</translation>
     </message>
@@ -3184,7 +3181,7 @@
         <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="94"/>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="65"/>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsadd.cpp" line="97"/>
-        <location filename="../../../Seer/src/pdf/cpdfpwdwnd.cpp" line="35"/>
+        <location filename="../../../Seer/src/pdf/cpdfpwdwnd.cpp" line="34"/>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="48"/>
         <source>Cancel</source>
         <translation>취소</translation>
@@ -3192,7 +3189,7 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="98"/>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsadd.cpp" line="99"/>
-        <location filename="../../../Seer/src/pdf/cpdfpwdwnd.cpp" line="34"/>
+        <location filename="../../../Seer/src/pdf/cpdfpwdwnd.cpp" line="33"/>
         <source>Okay</source>
         <translation>확인</translation>
     </message>
@@ -3220,27 +3217,27 @@
         <translation type="vanished">열:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/text/FeaturedView/textviewer4feature.cpp" line="73"/>
+        <location filename="../../../Seer/src/text/codevar.h" line="91"/>
         <source>Format Code</source>
         <translation>형식 코드</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/text/FeaturedView/textviewer4feature.cpp" line="104"/>
+        <location filename="../../../Seer/src/text/codevar.h" line="94"/>
         <source>Reason:</source>
         <translation>오류 원인:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/text/FeaturedView/textviewer4feature.cpp" line="103"/>
+        <location filename="../../../Seer/src/text/codevar.h" line="93"/>
         <source>Format failed.</source>
         <translation>포맷 실패.</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/text/FeaturedView/textviewer4feature.cpp" line="106"/>
+        <location filename="../../../Seer/src/text/codevar.h" line="95"/>
         <source>Line:</source>
         <translation>행:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/text/FeaturedView/textviewer4feature.cpp" line="108"/>
+        <location filename="../../../Seer/src/text/codevar.h" line="96"/>
         <source>Column:</source>
         <translation>열:</translation>
     </message>
@@ -3249,48 +3246,47 @@
         <translation type="vanished">마크다운 보기</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/text/FeaturedView/textviewer4feature.cpp" line="173"/>
+        <location filename="../../../Seer/src/text/codevar.h" line="100"/>
         <source>Render HTML</source>
         <translation>HTML 보기</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/text/FeaturedView/textviewer4feature.cpp" line="385"/>
+        <location filename="../../../Seer/src/text/codevar.h" line="104"/>
         <source>Locate Cursor</source>
         <translation>커서 위치로 이동</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/text/FeaturedView/textviewer4feature.cpp" line="390"/>
+        <location filename="../../../Seer/src/text/codevar.h" line="105"/>
         <source>Word Wrap</source>
         <translation>자동 줄바꿈</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/text/FeaturedView/textviewer4feature.cpp" line="478"/>
+        <location filename="../../../Seer/src/text/codevar.h" line="109"/>
         <source>Character count</source>
         <translation>글자 수</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/text/ChunkView/textviewer4chunk.cpp" line="80"/>
-        <location filename="../../../Seer/src/text/FeaturedView/textviewer4feature.cpp" line="480"/>
+        <location filename="../../../Seer/src/text/codevar.h" line="111"/>
         <source>Line count</source>
         <translation>줄 수</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/text/FeaturedView/textviewer4feature.cpp" line="464"/>
+        <location filename="../../../Seer/src/text/codevar.h" line="106"/>
         <source>Ln</source>
         <translation>행</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/text/FeaturedView/textviewer4feature.cpp" line="466"/>
+        <location filename="../../../Seer/src/text/codevar.h" line="107"/>
         <source>Col</source>
         <translation>열</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/text/FeaturedView/textviewer4feature.cpp" line="187"/>
+        <location filename="../../../Seer/src/text/codevar.h" line="102"/>
         <source>Render Image</source>
         <translation>이미지 보기</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/text/FeaturedView/textviewer4feature.cpp" line="160"/>
+        <location filename="../../../Seer/src/text/codevar.h" line="98"/>
         <source>Render Markdown</source>
         <translation>마크다운 보기</translation>
     </message>
@@ -3303,12 +3299,12 @@
         <translation type="obsolete">오른쪽으로 회전</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/text/textviewerbase.cpp" line="131"/>
+        <location filename="../../../Seer/src/text/codevar.h" line="88"/>
         <source>Line Number</source>
         <translation>줄 번호</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/text/textviewerbase.cpp" line="144"/>
+        <location filename="../../../Seer/src/text/codevar.h" line="89"/>
         <source>Minimap</source>
         <translation>미니맵</translation>
     </message>

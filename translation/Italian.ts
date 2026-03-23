@@ -190,142 +190,142 @@
 <context>
     <name>CFileProperty</name>
     <message>
-        <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="46"/>
+        <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="47"/>
         <source>Name</source>
         <translation>Nome</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="50"/>
+        <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="51"/>
         <source>Size</source>
         <translation>Dimensione</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="52"/>
+        <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="53"/>
         <source>Type</source>
         <translation>Tipo</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="70"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="95"/>
         <source>Original Filename</source>
         <translation>Nome file originale</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="62"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="87"/>
         <source>File Description</source>
         <translation>Descrizione file</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="66"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="91"/>
         <source>Private Build</source>
         <translation>Build privata</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="56"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="81"/>
         <source>Company Name</source>
         <translation>Nome azienda</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="72"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="97"/>
         <source>Special Build</source>
         <translation>Build speciale</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="175"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="203"/>
         <source>Folder</source>
         <translation>Cartella</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="208"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="239"/>
         <source>Opens with</source>
         <translation>Apri con</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="171"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="199"/>
         <source>Original location</source>
         <translation>Posizione originale</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="48"/>
+        <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="49"/>
         <source>Location</source>
         <translation>Posizione</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="56"/>
+        <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="57"/>
         <source>Modified</source>
         <translation>Modificato</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="50"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="75"/>
         <source>Comments</source>
         <translation>Commenti</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="68"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="93"/>
         <source>File Version</source>
         <translation>Versione file</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="60"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="85"/>
         <source>Product Version</source>
         <translation>Versione prodotto</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="58"/>
+        <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="59"/>
         <source>Accessed</source>
         <translation>Ultimo accesso</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="54"/>
+        <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="55"/>
         <source>Created</source>
         <translation>Creato</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="198"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="226"/>
         <source>Extension</source>
         <translation>Estensione</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="43"/>
+        <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="44"/>
         <source>Details</source>
         <translation>Dettagli</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="58"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="83"/>
         <source>Legal Copyright</source>
         <translation>Copyright</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="64"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="89"/>
         <source>Legal Trademarks</source>
         <translation>Marchi registrati</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="142"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="170"/>
         <source>Total bytes</source>
         <translation>Byte totali</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="54"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="79"/>
         <source>Product Name</source>
         <translation>Nome prodotto</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="147"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="175"/>
         <source>Available bytes</source>
         <translation>Byte disponibili</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="52"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="77"/>
         <source>Internal Name</source>
         <translation>Nome interno</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="150"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="178"/>
         <source>Free bytes</source>
         <translation>Byte liberi</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="157"/>
+        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="185"/>
         <source>Block size</source>
         <translation>Dimensione blocco</translation>
     </message>
@@ -338,63 +338,63 @@
 <context>
     <name>CMain</name>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="664"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="620"/>
         <source>About</source>
         <translation>Informazioni</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="303"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="307"/>
         <source>Error</source>
         <translation>Errore</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="714"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="670"/>
         <source>Activation</source>
         <translation>Attivazione</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="803"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="764"/>
         <source>Please share with your friends.</source>
         <translation>Condividi con i tuoi amici.</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="787"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="743"/>
         <source>Application started.</source>
         <translation>Applicazione avviata.</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="802"/>
-        <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="126"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="763"/>
+        <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="184"/>
         <source>Like Seer?</source>
         <translation>Ti piace Seer?</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="158"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="162"/>
         <source> is registered by other application.</source>
         <translation> è in uso da un&apos;altra applicazione.</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="304"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="308"/>
         <source>Monitoring &apos;Space&apos; key failed, can&apos;t proceed.</source>
         <translation>Monitoraggio del tasto &apos;Spazio&apos; fallito, impossibile procedere.</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="733"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="689"/>
         <source>The system default application not found.</source>
         <translation>Applicazione predefinita di sistema non trovata.</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="578"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="534"/>
         <source>Settings</source>
         <translation>Impostazioni</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="157"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="161"/>
         <source>Register shortcut failed</source>
         <translation>Registrazione scorciatoia fallita</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="760"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="716"/>
         <source>Seer is already running.</source>
         <translation>Seer è già in esecuzione.</translation>
     </message>
@@ -776,62 +776,62 @@
 <context>
     <name>CSettingsWnd4FileType</name>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="45"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="64"/>
         <source>Oops!</source>
         <translation>Ops!</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="45"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="64"/>
         <source>No matching extensions found.</source>
         <translation>Nessuna estensione corrispondente trovata.</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="50"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="69"/>
         <source>Search extension, e.g.: psd</source>
         <translation>Cerca estensione, es.: psd</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="86"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="105"/>
         <source>Markdown stylesheet path</source>
         <translation>Percorso foglio di stile Markdown</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="88"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="107"/>
         <source>Will display property only for extensions in this field, e.g.:</source>
         <translation>Mostrerà le proprietà solo per le estensioni in questo campo, es:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="97"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="116"/>
         <location filename="../../../Seer/src/picture/imageview.cpp" line="188"/>
         <source>Auto Fit</source>
         <translation>Adatta automaticamente</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="101"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="120"/>
         <source>Automatically scales to fit the entire image in the viewer.</source>
         <translation>Ridimensiona automaticamente per adattare l&apos;intera immagine nel
                 visualizzatore.</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="104"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="123"/>
         <location filename="../../../Seer/src/picture/imageview.cpp" line="191"/>
         <source>Fit Short Side</source>
         <translation>Adatta al lato corto</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="106"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="125"/>
         <source>Scales until the shorter side fits; scroll the longer side if needed.</source>
         <translation>Scala finché il lato più corto non si adatta; scorrere il lato più lungo se
                 necessario.</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="110"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="129"/>
         <location filename="../../../Seer/src/picture/imageview.cpp" line="194"/>
         <source>Prefer Full Size</source>
         <translation>Preferisci dimensione intera</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="112"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="131"/>
         <source>Always loads the image at its original resolution; scrolling may be required.</source>
         <translation>Carica sempre l&apos;immagine alla sua risoluzione originale; potrebbe
                 essere necessario scorrere.</translation>
@@ -872,7 +872,7 @@
         <translation>Disabilita rilevamento del tipo di file</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="383"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="401"/>
         <source>Invalid</source>
         <translation>Non valido</translation>
     </message>
@@ -1640,57 +1640,57 @@
 <context>
     <name>CSystemTrayIcon</name>
     <message>
-        <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="115"/>
+        <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="173"/>
         <source>Help</source>
         <translation>Aiuto</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="137"/>
+        <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="195"/>
         <source>Quit</source>
         <translation>Esci</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="110"/>
+        <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="168"/>
         <source>About</source>
         <translation>Info su</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="121"/>
+        <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="179"/>
         <source>Check for updates</source>
         <translation>Cerca aggiornamenti</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="116"/>
+        <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="174"/>
         <source>Found a bug?</source>
         <translation>Trovato un bug?</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="98"/>
+        <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="156"/>
         <source>Stay on top</source>
         <translation>Rimani in primo piano</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="91"/>
+        <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="149"/>
         <source>Register</source>
         <translation>Registra Seer</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="113"/>
+        <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="171"/>
         <source>About Seer</source>
         <translation>Info su Seer</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="102"/>
+        <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="160"/>
         <source>Settings</source>
         <translation>Impostazioni</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="105"/>
+        <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="163"/>
         <source>What&apos;s New</source>
         <translation>Novità</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="131"/>
+        <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="189"/>
         <source>Get PinStack</source>
         <translation>Ottieni PinStack</translation>
     </message>
@@ -1698,81 +1698,77 @@
 <context>
     <name>DirViewer</name>
     <message>
-        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="257"/>
+        <location filename="../../../Seer/src/dirs/dirvar.h" line="69"/>
         <source>Collapse All</source>
         <translation>Comprimi tutto</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="274"/>
+        <location filename="../../../Seer/src/dirs/dirvar.h" line="70"/>
         <source>Open</source>
         <translation>Apri</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="279"/>
+        <location filename="../../../Seer/src/dirs/dirvar.h" line="72"/>
         <source>Reveal in Explorer</source>
         <translation>Mostra in Esplora file</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="291"/>
+        <location filename="../../../Seer/src/dirs/dirvar.h" line="74"/>
         <source>Details View</source>
         <translation>Visualizzazione dettagli</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="342"/>
-        <location filename="../../../Seer/src/dirs/archive/cdirwnd4archive.cpp" line="185"/>
+        <location filename="../../../Seer/src/dirs/dirvar.h" line="57"/>
         <source>Ratio</source>
         <translation>Tasso di compressione</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="351"/>
+        <location filename="../../../Seer/src/dirs/dirvar.h" line="76"/>
         <source>Sorting Options</source>
         <translation>Opzioni di ordinamento</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="100"/>
-        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="304"/>
+        <location filename="../../../Seer/src/dirs/dirvar.h" line="64"/>
         <source>Column View</source>
         <translation>Vista colonna</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/dirs/treemodel.cpp" line="20"/>
+        <location filename="../../../Seer/src/dirs/dirvar.h" line="53"/>
         <source>Folder</source>
         <translation>Cartella</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="346"/>
-        <location filename="../../../Seer/src/dirs/archive/cdirwnd4archive.cpp" line="184"/>
+        <location filename="../../../Seer/src/dirs/dirvar.h" line="56"/>
         <source>Packed</source>
         <translation>Dimensione compressa</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/dirs/folder/cdirwnd4folder.cpp" line="164"/>
+        <location filename="../../../Seer/src/dirs/dirvar.h" line="61"/>
         <source>Display Selected Item In Explorer</source>
         <translation>Mostra elemento selezionato in Esplora risorse</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="126"/>
+        <location filename="../../../Seer/src/dirs/dirvar.h" line="67"/>
         <source>Open Selected Item With Seer</source>
         <translation>Apri l&apos;elemento selezionato con Seer</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="103"/>
-        <location filename="../../../Seer/src/dirs/dirviewerbase.cpp" line="302"/>
+        <location filename="../../../Seer/src/dirs/dirvar.h" line="65"/>
         <source>Tree View</source>
         <translation>Vista ad albero</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/dirs/folder/cdirwnd4folder.cpp" line="150"/>
+        <location filename="../../../Seer/src/dirs/dirvar.h" line="58"/>
         <source>Open Selected Item With Default Application</source>
         <translation>Apri elemento selezionato con l&apos;applicazione predefinita</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/dirs/dircolumnviewinfownd.cpp" line="45"/>
+        <location filename="../../../Seer/src/dirs/dirvar.h" line="62"/>
         <source>Preview</source>
         <translation>Anteprima</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/dirs/archive/cdirwnd4archive.cpp" line="45"/>
+        <location filename="../../../Seer/src/dirs/dirvar.h" line="55"/>
         <source>File is encrypted</source>
         <translation>Il file è criptato</translation>
     </message>
@@ -1780,27 +1776,27 @@
 <context>
     <name>HtmlViewer</name>
     <message>
-        <location filename="../../../Seer/src/web/htmlviewer.cpp" line="167"/>
+        <location filename="../../../Seer/src/web/webvar.h" line="68"/>
         <source>Markdown Source</source>
         <translation>Sorgente Markdown</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/web/htmlviewer.cpp" line="171"/>
+        <location filename="../../../Seer/src/web/webvar.h" line="70"/>
         <source>Save as PDF</source>
         <translation>Salva come PDF</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/web/htmlviewer.cpp" line="183"/>
+        <location filename="../../../Seer/src/web/webvar.h" line="72"/>
         <source>HTML Source</source>
         <translation>Sorgente HTML</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/web/htmlviewer.cpp" line="422"/>
+        <location filename="../../../Seer/src/web/webvar.h" line="74"/>
         <source>Failed to save as PDF</source>
         <translation>Impossibile salvare come PDF</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/web/htmlviewer.cpp" line="448"/>
+        <location filename="../../../Seer/src/web/webvar.h" line="76"/>
         <source>Successfully saved as PDF</source>
         <translation>Salvato con successo come PDF</translation>
     </message>
@@ -1808,107 +1804,112 @@
 <context>
     <name>ImageViewer</name>
     <message>
-        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="69"/>
+        <location filename="../../../Seer/src/picture/imgvar.h" line="102"/>
         <source>The change will take effect on the next preview</source>
         <translation>La modifica avrà effetto alla prossima anteprima</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="167"/>
+        <location filename="../../../Seer/src/picture/imgvar.h" line="104"/>
         <source>XML</source>
         <translation>XML</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="271"/>
+        <location filename="../../../Seer/src/picture/imgvar.h" line="105"/>
         <source>Width</source>
         <translation>Larghezza</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="281"/>
+        <location filename="../../../Seer/src/picture/imgvar.h" line="110"/>
         <source>Loop Count</source>
         <translation>Conteggio cicli</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/imgvar.h" line="55"/>
+        <location filename="../../../Seer/src/picture/imgvar.h" line="78"/>
         <source>Rotate Right</source>
         <translation>Ruota a destra</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/imgvar.h" line="57"/>
+        <location filename="../../../Seer/src/picture/imgvar.h" line="80"/>
         <source>Rotate Left</source>
         <translation>Ruota a sinistra</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/imgvar.h" line="59"/>
+        <location filename="../../../Seer/src/picture/imgvar.h" line="82"/>
         <source>Flip Horizontal</source>
         <translation>Capovolgi orizzontalmente</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/imgvar.h" line="61"/>
+        <location filename="../../../Seer/src/picture/imgvar.h" line="84"/>
         <source>Flip Vertical</source>
         <translation>Capovolgi verticalmente</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/imgvar.h" line="62"/>
+        <location filename="../../../Seer/src/picture/imgvar.h" line="85"/>
         <source>Minimap</source>
         <translation>Minimappa</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/imgvar.h" line="66"/>
+        <location filename="../../../Seer/src/picture/imgvar.h" line="88"/>
         <source>Fit Height</source>
         <translation>Adatta all&apos;altezza</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/imgvar.h" line="67"/>
+        <location filename="../../../Seer/src/picture/imgvar.h" line="89"/>
         <source>Expand</source>
         <translation>Espandi</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/imgvar.h" line="73"/>
+        <location filename="../../../Seer/src/picture/imgvar.h" line="94"/>
         <source>Next Frame</source>
         <translation>Fotogramma successivo</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/imgvar.h" line="75"/>
+        <location filename="../../../Seer/src/picture/imgvar.h" line="96"/>
         <source>Previous Frame</source>
         <translation>Fotogramma precedente</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/imgvar.h" line="77"/>
+        <location filename="../../../Seer/src/picture/imgvar.h" line="97"/>
         <source>Zoom In</source>
         <translation>Ingrandisci</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/imgvar.h" line="79"/>
+        <location filename="../../../Seer/src/picture/imgvar.h" line="99"/>
         <source>Zoom Out</source>
         <translation>Riduci</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/imgvar.h" line="71"/>
+        <location filename="../../../Seer/src/picture/imgvar.h" line="111"/>
+        <source>Forever</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/picture/imgvar.h" line="93"/>
         <source>Play / Pause</source>
         <translation>Riproduci / Pausa</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="272"/>
+        <location filename="../../../Seer/src/picture/imgvar.h" line="106"/>
         <source>Height</source>
         <translation>Altezza</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/imageviewer.cpp" line="279"/>
+        <location filename="../../../Seer/src/picture/imgvar.h" line="108"/>
         <source>Image Count</source>
         <translation>Numero di immagini</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/imgvar.h" line="69"/>
+        <location filename="../../../Seer/src/picture/imgvar.h" line="91"/>
         <source>Actual Size</source>
         <translation>Dimensione reale</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/imgvar.h" line="64"/>
+        <location filename="../../../Seer/src/picture/imgvar.h" line="86"/>
         <source>Fit Width</source>
         <translation>Adatta alla larghezza</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/picture/imageview.cpp" line="176"/>
+        <location filename="../../../Seer/src/picture/imgvar.h" line="101"/>
         <source>Default Display Mode</source>
         <translation>Modalità di visualizzazione predefinita</translation>
     </message>
@@ -1916,133 +1917,133 @@
 <context>
     <name>MediaViewer</name>
     <message>
-        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="83"/>
+        <location filename="../../../Seer/src/media/mediavar.h" line="71"/>
         <source>Width</source>
         <translation>Larghezza</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="74"/>
+        <location filename="../../../Seer/src/media/mediavar.h" line="67"/>
         <source>Bit Rate</source>
         <translation>Bit Rate</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="78"/>
+        <location filename="../../../Seer/src/media/mediavar.h" line="70"/>
         <source>Start Time</source>
         <translation>Tempo di inizio</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="88"/>
-        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="474"/>
+        <location filename="../../../Seer/src/media/mediavar.h" line="73"/>
+        <location filename="../../../Seer/src/media/mediavar.h" line="88"/>
         <source>Rotation</source>
         <translation>Rotazione</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="93"/>
+        <location filename="../../../Seer/src/media/mediavar.h" line="77"/>
         <source>Sample Rate</source>
         <translation>Frequenza di campionamento</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="398"/>
+        <location filename="../../../Seer/src/media/mediavar.h" line="84"/>
         <source>The system is muted</source>
         <translation>Il sistema è mutato</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="451"/>
+        <location filename="../../../Seer/src/media/mediavar.h" line="85"/>
         <source>Mute</source>
         <translation>Muto</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="461"/>
+        <location filename="../../../Seer/src/media/mediavar.h" line="86"/>
         <source>Loop</source>
         <translation>Ciclo continuo</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="475"/>
+        <location filename="../../../Seer/src/media/mediavar.h" line="90"/>
         <source>Rotate Right</source>
         <translation>Ruota a destra</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="478"/>
+        <location filename="../../../Seer/src/media/mediavar.h" line="92"/>
         <source>Reset Rotation</source>
         <translation>Ripristina rotazione</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="483"/>
+        <location filename="../../../Seer/src/media/mediavar.h" line="94"/>
         <source>Reset Speed</source>
         <translation>Ripristina velocità</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="92"/>
+        <location filename="../../../Seer/src/media/mediavar.h" line="75"/>
         <source>Frame Size</source>
         <translation>Dimensione fotogramma</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/mediaviewer_p.cpp" line="473"/>
+        <location filename="../../../Seer/src/media/mediavar.h" line="104"/>
         <source>Play / Pause</source>
         <translation>Riproduci / Pausa</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="75"/>
+        <location filename="../../../Seer/src/media/mediavar.h" line="68"/>
         <source>Format</source>
         <translation>Formato</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="84"/>
+        <location filename="../../../Seer/src/media/mediavar.h" line="72"/>
         <source>Height</source>
         <translation>Altezza</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/mediaviewer_p.cpp" line="206"/>
+        <location filename="../../../Seer/src/media/mediavar.h" line="98"/>
         <source>Screenshot has saved to clipboard.</source>
         <translation>Lo screenshot è stato salvato negli appunti.</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/mediaviewer_p.cpp" line="271"/>
+        <location filename="../../../Seer/src/media/mediavar.h" line="100"/>
         <source>Loop: Off</source>
         <translation>Ciclo: spento</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/mediaviewer_p.cpp" line="271"/>
+        <location filename="../../../Seer/src/media/mediavar.h" line="99"/>
         <source>Loop: On</source>
         <translation>Ciclo: acceso</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/mediaviewer_p.cpp" line="436"/>
+        <location filename="../../../Seer/src/media/mediavar.h" line="102"/>
         <source>Reset to normal speed</source>
         <translation>Ripristina velocità normale</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="288"/>
+        <location filename="../../../Seer/src/media/mediavar.h" line="80"/>
         <source>Mute: Off</source>
         <translation>Muto: spento</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="72"/>
+        <location filename="../../../Seer/src/media/mediavar.h" line="66"/>
         <source>Duration</source>
         <translation>Durata</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="288"/>
+        <location filename="../../../Seer/src/media/mediavar.h" line="79"/>
         <source>Mute: On</source>
         <translation>Muto: acceso</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="94"/>
+        <location filename="../../../Seer/src/media/mediavar.h" line="78"/>
         <source>Channels</source>
         <translation>Canali</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/mediaviewer_p.cpp" line="201"/>
+        <location filename="../../../Seer/src/media/mediavar.h" line="96"/>
         <source>Capture failed</source>
         <translation>Cattura fallita</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="365"/>
+        <location filename="../../../Seer/src/media/mediavar.h" line="81"/>
         <source>Forward:</source>
         <translation>Avanti:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/media/mediaviewer.cpp" line="371"/>
+        <location filename="../../../Seer/src/media/mediavar.h" line="82"/>
         <source>Backward:</source>
         <translation>Indietro:</translation>
     </message>
@@ -2050,86 +2051,82 @@
 <context>
     <name>PdfViewer</name>
     <message>
-        <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="222"/>
-        <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="508"/>
+        <location filename="../../../Seer/src/pdf/pdfvar.h" line="73"/>
         <source>Rotate Right</source>
         <translation>Ruota a destra</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="147"/>
-        <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="557"/>
+        <location filename="../../../Seer/src/pdf/pdfvar.h" line="67"/>
         <source>Pages Count</source>
         <translation>Conteggio pagine</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="183"/>
+        <location filename="../../../Seer/src/pdf/pdfvar.h" line="68"/>
         <source>Encrypted</source>
         <translation>Criptato</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="190"/>
-        <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="502"/>
+        <location filename="../../../Seer/src/pdf/pdfvar.h" line="69"/>
         <source>Fit Width</source>
         <translation>Adatta alla larghezza</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="194"/>
-        <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="504"/>
+        <location filename="../../../Seer/src/pdf/pdfvar.h" line="71"/>
         <source>Actual Size</source>
         <translation>Dimensione reale</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="235"/>
+        <location filename="../../../Seer/src/pdf/pdfvar.h" line="74"/>
         <source>Sidebar</source>
         <translation>Barra laterale</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="309"/>
+        <location filename="../../../Seer/src/pdf/pdfvar.h" line="76"/>
         <source>Annotation: On</source>
         <translation>Annotazioni: accese</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="309"/>
+        <location filename="../../../Seer/src/pdf/pdfvar.h" line="78"/>
         <source>Annotation: Off</source>
         <translation>Annotazioni: spente</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="433"/>
+        <location filename="../../../Seer/src/pdf/pdfvar.h" line="80"/>
         <source>Please choose a page first</source>
         <translation>Scegliere prima una pagina</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="510"/>
+        <location filename="../../../Seer/src/pdf/pdfvar.h" line="82"/>
         <source>Rotate Left</source>
         <translation>Ruota a sinistra</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="514"/>
+        <location filename="../../../Seer/src/pdf/pdfvar.h" line="84"/>
         <source>Annotations</source>
         <translation>Annotazioni</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/pdf/pdfviewer.cpp" line="526"/>
+        <location filename="../../../Seer/src/pdf/pdfvar.h" line="85"/>
         <source>Dark Mode</source>
         <translation>Modalità scura</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/pdf/cpdfpwdwnd.cpp" line="28"/>
+        <location filename="../../../Seer/src/pdf/pdfvar.h" line="65"/>
         <source>Password required</source>
         <translation>Password richiesta</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/pdf/sidebar/pdfsidebarwnd.cpp" line="55"/>
+        <location filename="../../../Seer/src/pdf/pdfvar.h" line="59"/>
         <source>Table of Contents</source>
         <translation>Sommario</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/pdf/sidebar/pdfsidebarwnd.cpp" line="58"/>
+        <location filename="../../../Seer/src/pdf/pdfvar.h" line="61"/>
         <source>Thumbnails</source>
         <translation>Miniature</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/pdf/sidebar/pdfsidebarwnd.cpp" line="61"/>
+        <location filename="../../../Seer/src/pdf/pdfvar.h" line="63"/>
         <source>Highlight and Notes</source>
         <translation>Evidenziazioni e note</translation>
     </message>
@@ -2162,7 +2159,7 @@
         <translation>Cartella</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="172"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="176"/>
         <source>Please check your &quot;i18n&quot; folder.</source>
         <translation>Controllare la cartella &quot;i18n&quot;, prego.</translation>
     </message>
@@ -2172,7 +2169,7 @@
         <translation>Sconosciuto</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/cmain.cpp" line="171"/>
+        <location filename="../../../Seer/src/cmain.cpp" line="175"/>
         <source>Update language failed</source>
         <translation>Aggiornamento lingua fallito</translation>
     </message>
@@ -2185,7 +2182,7 @@
         <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="94"/>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="65"/>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsadd.cpp" line="97"/>
-        <location filename="../../../Seer/src/pdf/cpdfpwdwnd.cpp" line="35"/>
+        <location filename="../../../Seer/src/pdf/cpdfpwdwnd.cpp" line="34"/>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="48"/>
         <source>Cancel</source>
         <translation>Annulla</translation>
@@ -2193,7 +2190,7 @@
     <message>
         <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="98"/>
         <location filename="../../../Seer/src/settings/csettingswnd4pluginsadd.cpp" line="99"/>
-        <location filename="../../../Seer/src/pdf/cpdfpwdwnd.cpp" line="34"/>
+        <location filename="../../../Seer/src/pdf/cpdfpwdwnd.cpp" line="33"/>
         <source>Okay</source>
         <translation>Ok</translation>
     </message>
@@ -2220,83 +2217,82 @@
 <context>
     <name>TextViewer</name>
     <message>
-        <location filename="../../../Seer/src/text/FeaturedView/textviewer4feature.cpp" line="73"/>
+        <location filename="../../../Seer/src/text/codevar.h" line="91"/>
         <source>Format Code</source>
         <translation>Formatta il codice</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/text/FeaturedView/textviewer4feature.cpp" line="104"/>
+        <location filename="../../../Seer/src/text/codevar.h" line="94"/>
         <source>Reason:</source>
         <translation>Motivo:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/text/FeaturedView/textviewer4feature.cpp" line="106"/>
+        <location filename="../../../Seer/src/text/codevar.h" line="95"/>
         <source>Line:</source>
         <translation>Riga:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/text/FeaturedView/textviewer4feature.cpp" line="108"/>
+        <location filename="../../../Seer/src/text/codevar.h" line="96"/>
         <source>Column:</source>
         <translation>Colonna:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/text/FeaturedView/textviewer4feature.cpp" line="160"/>
+        <location filename="../../../Seer/src/text/codevar.h" line="98"/>
         <source>Render Markdown</source>
         <translation>Esegui rendering Markdown</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/text/FeaturedView/textviewer4feature.cpp" line="173"/>
+        <location filename="../../../Seer/src/text/codevar.h" line="100"/>
         <source>Render HTML</source>
         <translation>Esegui rendering HTML</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/text/FeaturedView/textviewer4feature.cpp" line="187"/>
+        <location filename="../../../Seer/src/text/codevar.h" line="102"/>
         <source>Render Image</source>
         <translation>Esegui rendering Immagine</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/text/FeaturedView/textviewer4feature.cpp" line="385"/>
+        <location filename="../../../Seer/src/text/codevar.h" line="104"/>
         <source>Locate Cursor</source>
         <translation>Trova cursore</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/text/FeaturedView/textviewer4feature.cpp" line="390"/>
+        <location filename="../../../Seer/src/text/codevar.h" line="105"/>
         <source>Word Wrap</source>
         <translation>A capo automatico</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/text/FeaturedView/textviewer4feature.cpp" line="464"/>
+        <location filename="../../../Seer/src/text/codevar.h" line="106"/>
         <source>Ln</source>
         <translation>Ln</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/text/FeaturedView/textviewer4feature.cpp" line="466"/>
+        <location filename="../../../Seer/src/text/codevar.h" line="107"/>
         <source>Col</source>
         <translation>Col</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/text/FeaturedView/textviewer4feature.cpp" line="478"/>
+        <location filename="../../../Seer/src/text/codevar.h" line="109"/>
         <source>Character count</source>
         <translation>Conteggio caratteri</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/text/FeaturedView/textviewer4feature.cpp" line="103"/>
+        <location filename="../../../Seer/src/text/codevar.h" line="93"/>
         <source>Format failed.</source>
         <translation>Formattazione fallita.</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/text/textviewerbase.cpp" line="131"/>
+        <location filename="../../../Seer/src/text/codevar.h" line="88"/>
         <source>Line Number</source>
         <translation>Numero di riga</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/text/textviewerbase.cpp" line="144"/>
+        <location filename="../../../Seer/src/text/codevar.h" line="89"/>
         <source>Minimap</source>
         <translation>Minimappa</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/text/ChunkView/textviewer4chunk.cpp" line="80"/>
-        <location filename="../../../Seer/src/text/FeaturedView/textviewer4feature.cpp" line="480"/>
+        <location filename="../../../Seer/src/text/codevar.h" line="111"/>
         <source>Line count</source>
         <translation>Conteggio righe</translation>
     </message>
