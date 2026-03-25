@@ -318,12 +318,12 @@
 <context>
     <name>CFileProperty</name>
     <message>
-        <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="47"/>
+        <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="49"/>
         <source>Name</source>
         <translation>名前</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="51"/>
+        <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="52"/>
         <source>Size</source>
         <translation>サイズ</translation>
     </message>
@@ -333,127 +333,127 @@
         <translation>種類</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="239"/>
+        <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="97"/>
         <source>Opens with</source>
         <translation>プログラム</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="199"/>
+        <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="92"/>
         <source>Original location</source>
         <translation>元の場所</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="49"/>
+        <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="51"/>
         <source>Location</source>
         <translation>場所</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="57"/>
+        <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="56"/>
         <source>Modified</source>
         <translation>更新日時</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="59"/>
+        <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="58"/>
         <source>Accessed</source>
         <translation>アクセス日時</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="55"/>
+        <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="54"/>
         <source>Created</source>
         <translation>作成日時</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="75"/>
+        <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="60"/>
         <source>Comments</source>
         <translation>コメント</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="77"/>
+        <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="62"/>
         <source>Internal Name</source>
         <translation>内部名</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="79"/>
+        <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="64"/>
         <source>Product Name</source>
         <translation>製品名</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="81"/>
+        <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="66"/>
         <source>Company Name</source>
         <translation>会社名</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="83"/>
+        <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="68"/>
         <source>Legal Copyright</source>
         <translation>著作権</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="85"/>
+        <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="70"/>
         <source>Product Version</source>
         <translation>製品バージョン</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="87"/>
+        <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="72"/>
         <source>File Description</source>
         <translation>ファイルの説明</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="89"/>
+        <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="74"/>
         <source>Legal Trademarks</source>
         <translation>商標</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="91"/>
+        <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="76"/>
         <source>Private Build</source>
         <translation>プライベートビルド</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="93"/>
+        <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="78"/>
         <source>File Version</source>
         <translation>ファイルバージョン</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="95"/>
+        <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="80"/>
         <source>Original Filename</source>
         <translation>元のファイル名</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="97"/>
+        <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="82"/>
         <source>Special Build</source>
         <translation>スペシャルビルド</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="170"/>
+        <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="84"/>
         <source>Total bytes</source>
         <translation>合計バイト数</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="175"/>
+        <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="86"/>
         <source>Available bytes</source>
         <translation>利用可能なバイト数</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="178"/>
+        <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="88"/>
         <source>Free bytes</source>
         <translation>空きバイト数</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="185"/>
+        <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="90"/>
         <source>Block size</source>
         <translation>ブロックサイズ</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="44"/>
+        <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="47"/>
         <source>Details</source>
         <translation>詳細</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="226"/>
+        <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="95"/>
         <source>Extension</source>
         <translation>拡張子</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/propertyreader.cpp" line="203"/>
+        <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="93"/>
         <source>Folder</source>
         <translation>フォルダー</translation>
     </message>
@@ -466,7 +466,7 @@
         <translation type="obsolete">ファイルの場所を開く</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/unknown/tableview4property.cpp" line="17"/>
+        <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="46"/>
         <source>Pin</source>
         <translation>ピン留め</translation>
     </message>
