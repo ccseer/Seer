@@ -17,12 +17,12 @@
         <message>
             <location filename="../../../Seer/src/opt/updater/appupdater.cpp" line="379" />
             <source>Failed to fetch release notes</source>
-            <translation>Không tìm nạp được ghi chú phát hành</translation>
+            <translation>Không thể lấy thông tin bản phát hành</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/opt/updater/appupdater.cpp" line="411" />
             <source>Failed to save download file.</source>
-            <translation>Không lưu được tệp tải xuống.</translation>
+            <translation>Không thể lưu tệp tải xuống.</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="46" />
@@ -65,7 +65,7 @@
         <message>
             <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="247" />
             <source>%1 %2 is now available (you have %3).</source>
-            <translation>%1 %2 hiện có sẵn (bạn có %3).</translation>
+            <translation>%1 %2 hiện có sẵn (bạn đang dùng %3).</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="268" />
@@ -75,7 +75,7 @@
         <message>
             <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="269" />
             <source>%1 %2 is currently the newest version available.</source>
-            <translation>%1 %2 hiện là phiên bản mới nhất hiện có.</translation>
+            <translation>%1 %2 hiện là phiên bản mới nhất.</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="281" />
@@ -85,7 +85,7 @@
         <message>
             <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="295" />
             <source>The update package has been downloaded.</source>
-            <translation>Gói cập nhật đã được tải xuống.</translation>
+            <translation>Đã tải xong gói cập nhật.</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="296" />
@@ -136,7 +136,7 @@
         <message>
             <location filename="../../../Seer/src/ui/caboutwnd.ui" line="401" />
             <source>About Author</source>
-            <translation>Về tác giả</translation>
+            <translation>Tác giả</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/ui/caboutwnd.ui" line="461" />
@@ -179,12 +179,12 @@
         <message>
             <location filename="../../../Seer/src/ui/ccontrolwnd.cpp" line="27" />
             <source>Reveal In Explorer</source>
-            <translation>Tiết lộ trong Explorer</translation>
+            <translation>Hiển thị trong Explorer</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/ui/ccontrolwnd.cpp" line="510" />
             <source>More</source>
-            <translation>Hơn</translation>
+            <translation>Thêm</translation>
         </message>
     </context>
     <context>
@@ -212,32 +212,32 @@
         <message>
             <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="52" />
             <source>Size</source>
-            <translation>Kích cỡ</translation>
+            <translation>Kích thước</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="53" />
             <source>Type</source>
-            <translation>Kiểu</translation>
+            <translation>Loại tệp</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="54" />
             <source>Created</source>
-            <translation>Tạo</translation>
+            <translation>Ngày tạo</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="56" />
             <source>Modified</source>
-            <translation>Đã sửa đổi</translation>
+            <translation>Ngày sửa đổi</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="58" />
             <source>Accessed</source>
-            <translation>Đã truy cập</translation>
+            <translation>Ngày truy cập</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="60" />
             <source>Comments</source>
-            <translation>Bình luận</translation>
+            <translation>Chú thích</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="62" />
@@ -257,7 +257,7 @@
         <message>
             <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="68" />
             <source>Legal Copyright</source>
-            <translation>Bản quyền hợp pháp</translation>
+            <translation>Bản quyền</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="70" />
@@ -272,12 +272,12 @@
         <message>
             <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="74" />
             <source>Legal Trademarks</source>
-            <translation>Nhãn hiệu hợp pháp</translation>
+            <translation>Nhãn hiệu</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="76" />
             <source>Private Build</source>
-            <translation>Bản dựng riêng</translation>
+            <translation>Bản dựng nội bộ</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="78" />
@@ -302,12 +302,12 @@
         <message>
             <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="86" />
             <source>Available bytes</source>
-            <translation>byte có sẵn</translation>
+            <translation>Dung lượng trống</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="88" />
             <source>Free bytes</source>
-            <translation>Byte miễn phí</translation>
+            <translation>Số byte trống</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="90" />
@@ -317,7 +317,7 @@
         <message>
             <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="92" />
             <source>Original location</source>
-            <translation>Vị trí ban đầu</translation>
+            <translation>Vị trí gốc</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="93" />
@@ -327,7 +327,7 @@
         <message>
             <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="95" />
             <source>Extension</source>
-            <translation>Sự mở rộng</translation>
+            <translation>Phần mở rộng</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/unknown/filepropertyvar.h" line="97" />
@@ -340,12 +340,12 @@
         <message>
             <location filename="../../../Seer/src/cmain.cpp" line="161" />
             <source>Register shortcut failed</source>
-            <translation>Phím tắt đăng ký không thành công</translation>
+            <translation>Đăng ký phím tắt thất bại</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/cmain.cpp" line="162" />
             <source> is registered by other application.</source>
-            <translation>được đăng ký bởi ứng dụng khác.</translation>
+            <translation> đã được ứng dụng khác đăng ký.</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/cmain.cpp" line="307" />
@@ -355,7 +355,7 @@
         <message>
             <location filename="../../../Seer/src/cmain.cpp" line="308" />
             <source>Monitoring 'Space' key failed, can't proceed.</source>
-            <translation>Giám sát phím 'Space' không thành công, không thể tiếp tục.</translation>
+            <translation>Theo dõi phím 'Space' thất bại, không thể tiếp tục.</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/cmain.cpp" line="534" />
@@ -365,7 +365,7 @@
         <message>
             <location filename="../../../Seer/src/cmain.cpp" line="620" />
             <source>About</source>
-            <translation>Về</translation>
+            <translation>Giới thiệu</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/cmain.cpp" line="670" />
@@ -380,18 +380,18 @@
         <message>
             <location filename="../../../Seer/src/cmain.cpp" line="716" />
             <source>Seer is already running.</source>
-            <translation>Seer đã chạy.</translation>
+            <translation>Seer đang chạy.</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/cmain.cpp" line="743" />
             <source>Application started.</source>
-            <translation>Ứng dụng đã bắt đầu.</translation>
+            <translation>Ứng dụng đã khởi động.</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/cmain.cpp" line="763" />
             <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="184" />
             <source>Like Seer?</source>
-            <translation>Th?ch Seer?</translation>
+            <translation>Bạn thích Seer?</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/cmain.cpp" line="764" />
@@ -404,27 +404,27 @@
         <message>
             <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="199" />
             <source>Please try again with separated window.</source>
-            <translation>Vui lòng thử lại với cửa sổ riêng biệt.</translation>
+            <translation>Vui lòng thử lại với cửa sổ tách biệt.</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="694" />
             <source>Minimize</source>
-            <translation>Giảm thiểu</translation>
+            <translation>Thu nhỏ</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="695" />
             <source>Properties</source>
-            <translation>Của cải</translation>
+            <translation>Thuộc tính</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="696" />
             <source>Separate</source>
-            <translation>Chia</translation>
+            <translation>Tách cửa sổ</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="1401" />
             <source>Viewer</source>
-            <translation>Người xem</translation>
+            <translation>Trình xem</translation>
         </message>
     </context>
     <context>
@@ -432,32 +432,32 @@
         <message>
             <location filename="../../../Seer/src/opt/licenser/cregdlg.ui" line="72" />
             <source>Order</source>
-            <translation>Đặt hàng</translation>
+            <translation>Mua</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/opt/licenser/cregdlg.ui" line="79" />
             <source>Cancel</source>
-            <translation>Hủy bỏ</translation>
+            <translation>Hủy</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/opt/licenser/cregdlg.cpp" line="24" />
             <source>Thanks for your support!!!</source>
-            <translation>Cảm ơn sự hỗ trợ của bạn!!!</translation>
+            <translation>Cảm ơn sự ủng hộ của bạn!!!</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/opt/licenser/cregdlg.cpp" line="68" />
             <source>Seer will stop running in %1 day(s).</source>
-            <translation>Seer sẽ ngừng chạy sau %1 ngày.</translation>
+            <translation>Seer sẽ ngừng hoạt động sau %1 ngày.</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/opt/licenser/cregdlg.cpp" line="70" />
             <source>The evaluation period has ended.</source>
-            <translation>Giai đoạn đánh giá đã kết thúc.</translation>
+            <translation>Thời gian dùng thử đã kết thúc.</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/opt/licenser/cregdlg.cpp" line="73" />
             <source>Please enter your license key.</source>
-            <translation>Vui lòng nhập mã cấp phép của bạn.</translation>
+            <translation>Vui lòng nhập khóa cấp phép của bạn.</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/opt/licenser/cregdlg.cpp" line="194" />
@@ -474,7 +474,7 @@
         <message>
             <location filename="../../../Seer/src/opt/licenser/cregdlg.cpp" line="205" />
             <source>Failed to activate</source>
-            <translation>Không thể kích hoạt</translation>
+            <translation>Kích hoạt thất bại</translation>
         </message>
     </context>
     <context>
@@ -482,7 +482,7 @@
         <message>
             <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="62" />
             <source>General</source>
-            <translation>Tổng quan</translation>
+            <translation>Chung</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="63" />
@@ -497,17 +497,17 @@
         <message>
             <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="65" />
             <source>Plugins</source>
-            <translation>Plugin</translation>
+            <translation>Tiện ích (Plugins)</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="66" />
             <source>Type</source>
-            <translation>Kiểu</translation>
+            <translation>Loại tệp</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="67" />
             <source>Advanced</source>
-            <translation>Trình độ cao</translation>
+            <translation>Nâng cao</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingsdlg.cpp" line="68" />
@@ -530,7 +530,7 @@
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4controls.ui" line="59" />
             <source>Appearance</source>
-            <translation>Vẻ bề ngoài</translation>
+            <translation>Giao diện</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4controls.ui" line="82" />
@@ -545,27 +545,27 @@
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4controls.ui" line="96" />
             <source>Show "Display in explorer" button</source>
-            <translation>Hiển thị nút "Hiển thị trong Explorer"</translation>
+            <translation>Hiển thị nút "Mở trong Explorer"</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4controls.ui" line="142" />
             <source>Extension</source>
-            <translation>Sự mở rộng</translation>
+            <translation>Phần mở rộng</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4controlsedit.cpp" line="40" />
             <source>Select executable file path</source>
-            <translation>Chọn đường dẫn file thực thi</translation>
+            <translation>Chọn đường dẫn tệp thực thi</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4controlsedit.cpp" line="65" />
             <source>Edit</source>
-            <translation>Biên tập</translation>
+            <translation>Chỉnh sửa</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4controlsedit.cpp" line="72" />
             <source>Remove</source>
-            <translation>Di dời</translation>
+            <translation>Xóa</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4controlsedit.cpp" line="208" />
@@ -578,7 +578,7 @@
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="75" />
             <source>Others</source>
-            <translation>Người khác</translation>
+            <translation>Khác</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="100" />
@@ -593,17 +593,17 @@
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="148" />
             <source>Auto refresh preview when file changes</source>
-            <translation>Tự động làm mới bản xem trước khi tập tin thay đổi</translation>
+            <translation>Tự động làm mới khi tệp thay đổi</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="172" />
             <source>Enable "Delete" key</source>
-            <translation>Bật phím "Xóa"</translation>
+            <translation>Bật phím "Delete" (Xóa)</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="196" />
             <source>Trigger on software-generated key events</source>
-            <translation>Kích hoạt các sự kiện quan trọng do phần mềm tạo ra</translation>
+            <translation>Kích hoạt bằng sự kiện phím do phần mềm tạo ra</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="220" />
@@ -613,7 +613,7 @@
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="244" />
             <source>Preview window focus:</source>
-            <translation>Tiêu điểm của cửa sổ xem trước:</translation>
+            <translation>Tiêu điểm cửa sổ xem trước:</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="271" />
@@ -623,22 +623,22 @@
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="298" />
             <source>Backup:</source>
-            <translation>Hỗ trợ:</translation>
+            <translation>Sao lưu:</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="305" />
             <source>Export</source>
-            <translation>Xuất khẩu</translation>
+            <translation>Xuất</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="312" />
             <source>Import</source>
-            <translation>Nhập khẩu</translation>
+            <translation>Nhập</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="332" />
             <source>Reset to default</source>
-            <translation>Đặt lại về mặc định</translation>
+            <translation>Khôi phục mặc định</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="339" />
@@ -648,17 +648,17 @@
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="364" />
             <source>User defined</source>
-            <translation>Người dùng xác định</translation>
+            <translation>Tùy chỉnh</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="426" />
             <source>Visibility</source>
-            <translation>Khả năng hiển thị</translation>
+            <translation>Hiển thị</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="451" />
             <source>Hide tray icon</source>
-            <translation>Ẩn biểu tượng khay</translation>
+            <translation>Ẩn biểu tượng ở khay hệ thống</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="482" />
@@ -668,32 +668,32 @@
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="492" />
             <source>Constant</source>
-            <translation>Không thay đổi</translation>
+            <translation>Cố định</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="499" />
             <source>Dynamic</source>
-            <translation>Năng động</translation>
+            <translation>Động</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="67" />
             <source>Reset</source>
-            <translation>Cài lại</translation>
+            <translation>Khôi phục</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="85" />
             <source>Never take focus</source>
-            <translation>Không bao giờ tập trung</translation>
+            <translation>Không bao giờ nhận tiêu điểm (focus)</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="86" />
             <source>Every time a file is previewed</source>
-            <translation>Mỗi lần xem trước một tập tin</translation>
+            <translation>Mỗi khi xem trước một tệp</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="88" />
             <source>Only when the window opens</source>
-            <translation>Chỉ khi cửa sổ mở</translation>
+            <translation>Chỉ khi cửa sổ mở ra</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="109" />
@@ -703,47 +703,47 @@
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="111" />
             <source>Show the title and control bars permanently or only when hovering the mouse.</source>
-            <translation>Hiển thị tiêu đề và thanh điều khiển vĩnh viễn hoặc chỉ khi di chuột.</translation>
+            <translation>Hiển thị thanh tiêu đề và thanh điều khiển vĩnh viễn hoặc chỉ khi di chuột vào.</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="114" />
             <source>Automatically updates Seer's preview to follow the currently selected file in File Explorer.</source>
-            <translation>Tự động cập nhật bản xem trước của Seer để theo dõi tệp hiện được chọn trong File Explorer.</translation>
+            <translation>Tự động cập nhật bản xem trước của Seer theo tệp hiện đang được chọn trong File Explorer.</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="117" />
             <source>Automatically reloads the main preview window when the currently previewed file changes on disk.</source>
-            <translation>Tự động tải lại cửa sổ xem trước chính khi tệp đang xem trước có thay đổi trên đĩa.</translation>
+            <translation>Tự động tải lại cửa sổ xem trước khi tệp đang xem có thay đổi trên ổ đĩa.</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="119" />
             <source>Allows you to open files directly by double-clicking, using the application associated with the file type in your system settings.</source>
-            <translation>Cho phép bạn mở tệp trực tiếp bằng cách nhấp đúp, sử dụng ứng dụng được liên kết với loại tệp trong cài đặt hệ thống của bạn.</translation>
+            <translation>Cho phép bạn mở tệp trực tiếp bằng cách nhấp đúp chuột, sử dụng ứng dụng mặc định theo cài đặt hệ thống.</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="123" />
             <source>Allows using the Delete key to move the currently previewed file to the Recycle Bin.</source>
-            <translation>Cho phép sử dụng phím Xóa để di chuyển tệp đang xem trước vào Thùng rác.</translation>
+            <translation>Cho phép sử dụng phím Delete để di chuyển tệp đang xem trước vào Thùng rác.</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="126" />
             <source>Allows Seer to respond to simulated key input generated by software, such as virtual keyboards or automation tools.</source>
-            <translation>Cho phép Seer phản hồi đầu vào phím mô phỏng do phần mềm tạo ra, chẳng hạn như bàn phím ảo hoặc công cụ tự động hóa.</translation>
+            <translation>Cho phép Seer phản hồi với các phím ảo do phần mềm tạo ra (như bàn phím ảo hoặc công cụ tự động hóa).</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="129" />
             <source>Remembers and restores the preview window's size and position from the last session.</source>
-            <translation>Ghi nhớ và khôi phục kích thước cũng như vị trí của cửa sổ xem trước từ phiên trước.</translation>
+            <translation>Ghi nhớ và khôi phục kích thước cùng vị trí của cửa sổ xem trước từ lần mở cuối cùng.</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="132" />
             <source>Sets the maximum size of the preview window as a percentage of the screen size.</source>
-            <translation>Đặt kích thước tối đa của cửa sổ xem trước theo tỷ lệ phần trăm của kích thước màn hình.</translation>
+            <translation>Đặt kích thước tối đa của cửa sổ xem trước theo phần trăm so với kích thước màn hình.</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="135" />
             <source>Determines when the preview window becomes the active window and receives keyboard input.</source>
-            <translation>Xác định thời điểm cửa sổ xem trước trở thành cửa sổ hiện hoạt và nhận dữ liệu nhập từ bàn phím.</translation>
+            <translation>Xác định khi nào cửa sổ xem trước trở thành cửa sổ chính (active) và nhận thao tác từ bàn phím.</translation>
         </message>
     </context>
     <context>
@@ -751,7 +751,7 @@
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4filetype.ui" line="234" />
             <source>Disable renaming during preview</source>
-            <translation>Tắt đổi tên trong khi xem trước</translation>
+            <translation>Tắt tính năng đổi tên khi đang xem trước</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4filetype.ui" line="272" />
@@ -761,12 +761,12 @@
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4filetype.ui" line="469" />
             <source>Disabled</source>
-            <translation>Tàn tật</translation>
+            <translation>Đã tắt</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4filetype.ui" line="528" />
             <source>Disable file type detecting</source>
-            <translation>Tắt tính năng phát hiện loại tệp</translation>
+            <translation>Tắt nhận diện loại tệp</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4filetype.ui" line="636" />
@@ -787,59 +787,59 @@
             <location filename="../../../Seer/src/picture/imageview.cpp" line="188" />
             <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="116" />
             <source>Auto Fit</source>
-            <translation>Tự động điều chỉnh</translation>
+            <translation>Vừa vặn tự động</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/picture/imageview.cpp" line="191" />
             <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="123" />
             <source>Fit Short Side</source>
-            <translation>Phù hợp với bên ngắn</translation>
+            <translation>Vừa cạnh ngắn</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/picture/imageview.cpp" line="194" />
             <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="129" />
             <source>Prefer Full Size</source>
-            <translation>Ưu tiên kích thước đầy đủ</translation>
+            <translation>Ưu tiên kích thước gốc</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="64" />
             <source>Oops!</source>
-            <translation>Ối!</translation>
+            <translation>Rất tiếc!</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="64" />
             <source>No matching extensions found.</source>
-            <translation>Không tìm thấy tiện ích mở rộng phù hợp.</translation>
+            <translation>Không tìm thấy phần mở rộng phù hợp.</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="69" />
             <source>Search extension, e.g.: psd</source>
-            <translation>Tiện ích mở rộng tìm kiếm, ví dụ: psd</translation>
+            <translation>Tìm phần mở rộng, ví dụ: psd</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="105" />
             <source>Markdown stylesheet path</source>
-            <translation>Đường dẫn biểu định kiểu Markdown</translation>
+            <translation>Đường dẫn tệp CSS Markdown</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="107" />
             <source>Will display property only for extensions in this field, e.g.:</source>
-            <translation>Sẽ chỉ hiển thị thuộc tính cho các tiện ích mở rộng trong trường này, ví dụ:</translation>
+            <translation>Chỉ hiển thị thuộc tính cho các phần mở rộng trong danh sách này, ví dụ:</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="120" />
             <source>Automatically scales to fit the entire image in the viewer.</source>
-            <translation>Tự động chia tỷ lệ để vừa với toàn bộ hình ảnh trong trình xem.</translation>
+            <translation>Tự động thay đổi tỷ lệ để toàn bộ hình ảnh vừa với cửa sổ xem.</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="125" />
             <source>Scales until the shorter side fits; scroll the longer side if needed.</source>
-            <translation>Cân cho đến khi vừa với cạnh ngắn hơn; cuộn sang cạnh dài hơn nếu cần.</translation>
+            <translation>Phóng to/thu nhỏ cho đến khi vừa cạnh ngắn hơn; có thể cần cuộn theo chiều cạnh dài.</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="131" />
             <source>Always loads the image at its original resolution; scrolling may be required.</source>
-            <translation>Luôn tải hình ảnh ở độ phân giải gốc; cuộn có thể được yêu cầu.</translation>
+            <translation>Luôn hiển thị hình ảnh ở độ phân giải gốc; có thể cần cuộn để xem hết.</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4filetype.cpp" line="401" />
@@ -857,22 +857,22 @@
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4general.ui" line="99" />
             <source>Theme:</source>
-            <translation>chủ đề:</translation>
+            <translation>Giao diện (Theme):</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4general.ui" line="124" />
             <source>Run Seer when system boots</source>
-            <translation>Chạy Seer khi hệ thống khởi động</translation>
+            <translation>Khởi động Seer cùng Windows</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4general.ui" line="131" />
             <source>Run as administrator</source>
-            <translation>Chạy với tư cách quản trị viên</translation>
+            <translation>Chạy với quyền quản trị (Administrator)</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4general.ui" line="138" />
             <source>Automatically check for updates</source>
-            <translation>Tự động kiểm tra cập nhật</translation>
+            <translation>Tự động kiểm tra bản cập nhật</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4general.ui" line="191" />
@@ -910,22 +910,22 @@
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="70" />
             <source>Previous Type File:</source>
-            <translation>Tệp loại trước:</translation>
+            <translation>Tệp cùng loại trước đó:</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="97" />
             <source>Previous:</source>
-            <translation>Trước:</translation>
+            <translation>Trang trước:</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="111" />
             <source>Next Type File:</source>
-            <translation>Tệp loại tiếp theo:</translation>
+            <translation>Tệp cùng loại tiếp theo:</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="125" />
             <source>Next:</source>
-            <translation>Kế tiếp:</translation>
+            <translation>Tiếp theo:</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="139" />
@@ -940,37 +940,37 @@
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="173" />
             <source>Reduce Window Size:</source>
-            <translation>Giảm kích thước cửa sổ:</translation>
+            <translation>Thu nhỏ cửa sổ:</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="187" />
             <source>Focus (global):</source>
-            <translation>Trọng tâm (toàn cầu):</translation>
+            <translation>Tiêu điểm (toàn cục):</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="201" />
             <source>Normalize Window:</source>
-            <translation>Chuẩn hóa cửa sổ:</translation>
+            <translation>Khôi phục kích thước cửa sổ:</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="215" />
             <source>Reveal In Explorer:</source>
-            <translation>Tiết lộ trong Explorer:</translation>
+            <translation>Hiển thị trong Explorer:</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="229" />
             <source>Separate:</source>
-            <translation>Chia:</translation>
+            <translation>Tách cửa sổ:</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="243" />
             <source>Increase Window Size:</source>
-            <translation>Tăng kích thước cửa sổ:</translation>
+            <translation>Phóng to cửa sổ:</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="257" />
             <source>Maximize / Restore:</source>
-            <translation>Tối đa hóa/Khôi phục:</translation>
+            <translation>Phóng to / Khôi phục:</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="271" />
@@ -985,7 +985,7 @@
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="299" />
             <source>Show Settings Window:</source>
-            <translation>Hiển thị cửa sổ cài đặt:</translation>
+            <translation>Mở Cài đặt:</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="316" />
@@ -995,22 +995,22 @@
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="351" />
             <source>Details View:</source>
-            <translation>Xem chi tiết:</translation>
+            <translation>Chế độ xem chi tiết:</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="378" />
             <source>Open Clicked Item:</source>
-            <translation>Mở mục đã nhấp:</translation>
+            <translation>Mở mục được nhấp:</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="385" />
             <source>Shift + Click</source>
-            <translation>Shift + Bấm</translation>
+            <translation>Shift + Nhấp chuột</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="409" />
             <source>Column View:</source>
-            <translation>Chế độ xem cột:</translation>
+            <translation>Chế độ xem dạng cột:</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="423" />
@@ -1025,13 +1025,13 @@
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="454" />
             <source>Open Selected Item:</source>
-            <translation>Mở mục đã chọn:</translation>
+            <translation>Mở mục đang chọn:</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="468" />
             <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="541" />
             <source>Goto:</source>
-            <translation>đi:</translation>
+            <translation>Đi tới:</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="475" />
@@ -1041,22 +1041,22 @@
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="499" />
             <source>Tree View:</source>
-            <translation>Chế độ xem cây:</translation>
+            <translation>Chế độ xem dạng cây:</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="513" />
             <source>Open Selected Item With Seer:</source>
-            <translation>Mở mục đã chọn bằng Seer:</translation>
+            <translation>Mở mục đang chọn bằng Seer:</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="527" />
             <source>Reveal Selected Item:</source>
-            <translation>Tiết lộ mục đã chọn:</translation>
+            <translation>Hiển thị mục đang chọn trong Explorer:</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="555" />
             <source>Reveal Clicked Item:</source>
-            <translation>Tiết lộ mục đã nhấp:</translation>
+            <translation>Hiển thị mục được nhấp trong Explorer:</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="562" />
@@ -1066,17 +1066,17 @@
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="586" />
             <source>Open Clicked Item With Seer:</source>
-            <translation>Mở mục đã nhấp bằng Seer:</translation>
+            <translation>Mở mục được nhấp bằng Seer:</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="593" />
             <source>Shift + Alt + Click</source>
-            <translation>Shift + Alt + Bấm</translation>
+            <translation>Shift + Alt + Nhấp chuột</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="620" />
             <source>Image</source>
-            <translation>Ảnh</translation>
+            <translation>Hình ảnh</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="655" />
@@ -1096,12 +1096,12 @@
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="713" />
             <source>Center:</source>
-            <translation>Trung tâm:</translation>
+            <translation>Căn giữa:</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="720" />
             <source>Enter / Return</source>
-            <translation>Nhập/Trở về</translation>
+            <translation>Enter / Return</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="744" />
@@ -1121,19 +1121,19 @@
             <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="772" />
             <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1349" />
             <source>Fit Height:</source>
-            <translation>Chiều cao phù hợp:</translation>
+            <translation>Vừa chiều cao:</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="786" />
             <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1363" />
             <source>Actual Size:</source>
-            <translation>Kích thước thực tế:</translation>
+            <translation>Kích thước gốc:</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="800" />
             <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1307" />
             <source>Fit Width:</source>
-            <translation>Chiều rộng phù hợp:</translation>
+            <translation>Vừa chiều rộng:</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="814" />
@@ -1144,7 +1144,7 @@
             <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="828" />
             <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1255" />
             <source>Toggle Minimap:</source>
-            <translation>Chuyển đổi bản đồ nhỏ:</translation>
+            <translation>Bật/tắt bản đồ thu nhỏ (Minimap):</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="842" />
@@ -1154,12 +1154,12 @@
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="859" />
             <source>Media</source>
-            <translation>Phương tiện</translation>
+            <translation>Đa phương tiện</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="894" />
             <source>Play / Pause:</source>
-            <translation>Phát/Tạm dừng:</translation>
+            <translation>Phát / Tạm dừng:</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="908" />
@@ -1169,12 +1169,12 @@
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="922" />
             <source>Go To Beginning:</source>
-            <translation>Đi tới phần đầu:</translation>
+            <translation>Về đầu video/audio:</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="936" />
             <source>Loop:</source>
-            <translation>Vòng lặp:</translation>
+            <translation>Lặp lại:</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="950" />
@@ -1184,12 +1184,12 @@
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="977" />
             <source>Forward 5x:</source>
-            <translation>Chuyển tiếp 5x:</translation>
+            <translation>Tua tới 5 giây:</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="991" />
             <source>Percent Locate:</source>
-            <translation>Xác định vị trí phần trăm:</translation>
+            <translation>Chuyển đến phần trăm thời lượng:</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="998" />
@@ -1199,12 +1199,12 @@
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1036" />
             <source>Backward 15x:</source>
-            <translation>Lùi lại 15x:</translation>
+            <translation>Tua lùi 15 giây:</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1064" />
             <source>Forward:</source>
-            <translation>Phía trước:</translation>
+            <translation>Tua tới:</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1078" />
@@ -1214,17 +1214,17 @@
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1092" />
             <source>Backward:</source>
-            <translation>Lùi lại:</translation>
+            <translation>Tua lùi:</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1106" />
             <source>Backward 5x:</source>
-            <translation>Lùi lại 5x:</translation>
+            <translation>Tua lùi 5 giây:</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1120" />
             <source>Forward 15x:</source>
-            <translation>Chuyển tiếp 15x:</translation>
+            <translation>Tua tới 15 giây:</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1137" />
@@ -1239,12 +1239,12 @@
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1186" />
             <source>Locate:</source>
-            <translation>Xác định vị trí:</translation>
+            <translation>Định vị:</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1200" />
             <source>Render:</source>
-            <translation>Kết xuất:</translation>
+            <translation>Kết xuất (Render):</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1214" />
@@ -1254,7 +1254,7 @@
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1241" />
             <source>Word Wrap:</source>
-            <translation>Gói từ:</translation>
+            <translation>Tự động xuống dòng:</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1272" />
@@ -1274,7 +1274,7 @@
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1377" />
             <source>Dark:</source>
-            <translation>Tối tăm:</translation>
+            <translation>Chế độ tối:</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1391" />
@@ -1290,7 +1290,7 @@
             <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1496" />
             <location filename="../../../Seer/src/settings/csettingswnd4key.cpp" line="130" />
             <source>Trigger Keys</source>
-            <translation>Phím kích hoạt</translation>
+            <translation>Phím kích hoạt (Trigger Keys)</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1534" />
@@ -1301,7 +1301,7 @@
             <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1541" />
             <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1621" />
             <source>Control</source>
-            <translation>Điều khiển</translation>
+            <translation>Ctrl</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="1555" />
@@ -1328,7 +1328,7 @@
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4key.cpp" line="259" />
             <source>Can not have 'Space' key.</source>
-            <translation>Không thể có phím 'Space'.</translation>
+            <translation>Không thể dùng phím 'Space'.</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4key.cpp" line="272" />
@@ -1341,7 +1341,7 @@
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4plugins.ui" line="21" />
             <source>Local</source>
-            <translation>Địa phương</translation>
+            <translation>Trong máy</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4plugins.ui" line="122" />
@@ -1351,23 +1351,23 @@
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4plugins.ui" line="128" />
             <source>Tasks</source>
-            <translation>Nhiệm vụ</translation>
+            <translation>Tác vụ</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4plugins.cpp" line="101" />
             <source>Add</source>
-            <translation>Thêm vào</translation>
+            <translation>Thêm</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4plugins.cpp" line="105" />
             <source>Edit</source>
-            <translation>Biên tập</translation>
+            <translation>Chỉnh sửa</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4plugins.cpp" line="109" />
             <location filename="../../../Seer/src/settings/csettingswnd4scriptitem.cpp" line="75" />
             <source>Delete</source>
-            <translation>Delete</translation>
+            <translation>Xóa</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4plugins.cpp" line="115" />
@@ -1377,12 +1377,12 @@
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4plugins.cpp" line="314" />
             <source>Choose Seer plugin</source>
-            <translation>Chọn plugin Seer</translation>
+            <translation>Chọn plugin cho Seer</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4pluginsadd.cpp" line="81" />
             <source>Plugin disabled</source>
-            <translation>Đã tắt plugin</translation>
+            <translation>Đã vô hiệu hóa plugin</translation>
         </message>
     </context>
     <context>
@@ -1390,7 +1390,7 @@
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4pluginsadd.cpp" line="90" />
             <source>your plugin.exe [argument] ...</source>
-            <translation>plugin.exe [đối số] của bạn ...</translation>
+            <translation>plugin.exe của bạn [tham số] ...</translation>
         </message>
     </context>
     <context>
@@ -1408,17 +1408,17 @@
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4pluginsavailable.cpp" line="53" />
             <source>Select a plugin on the left</source>
-            <translation>Chọn một plugin ở bên trái</translation>
+            <translation>Chọn một plugin ở danh sách bên trái</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4pluginsavailable.cpp" line="88" />
             <source>Extension:</source>
-            <translation>Sự mở rộng:</translation>
+            <translation>Phần mở rộng:</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4pluginsavailable.cpp" line="91" />
             <source>Description:</source>
-            <translation>Sự miêu tả:</translation>
+            <translation>Mô tả:</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4pluginsavailable.cpp" line="195" />
@@ -1428,12 +1428,12 @@
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4pluginsavailable.cpp" line="195" />
             <source>Extension</source>
-            <translation>Sự mở rộng</translation>
+            <translation>Phần mở rộng</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4pluginsavailable.cpp" line="195" />
             <source>Description</source>
-            <translation>Sự miêu tả</translation>
+            <translation>Mô tả</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4pluginsavailable.cpp" line="195" />
@@ -1456,7 +1456,7 @@
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.ui" line="65" />
             <source>Choose an installation folder for plugins.</source>
-            <translation>Chọn thư mục cài đặt plugin.</translation>
+            <translation>Chọn một thư mục cài đặt cho các plugin.</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="26" />
@@ -1466,7 +1466,7 @@
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="28" />
             <source>Complete</source>
-            <translation>Hoàn thành</translation>
+            <translation>Hoàn tất</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="30" />
@@ -1491,7 +1491,7 @@
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="71" />
             <source>No directory selected.</source>
-            <translation>Không có thư mục nào được chọn.</translation>
+            <translation>Chưa chọn thư mục nào.</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="74" />
@@ -1511,17 +1511,17 @@
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="288" />
             <source>😥 Failed to install plugin.</source>
-            <translation>😥 Cài đặt plugin không thành công.</translation>
+            <translation>😥 Cài đặt plugin thất bại.</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="342" />
             <source>Cannot write to the selected folder.</source>
-            <translation>Không thể ghi vào thư mục đã chọn.</translation>
+            <translation>Không thể ghi dữ liệu vào thư mục đã chọn.</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4pluginsinstall.cpp" line="357" />
             <source>Please avoid using Seer's installation path.</source>
-            <translation>Vui lòng tránh sử dụng đường dẫn cài đặt của Seer.</translation>
+            <translation>Vui lòng tránh sử dụng thư mục cài đặt mặc định của Seer.</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/plugininstallertask.cpp" line="574" />
@@ -1534,32 +1534,32 @@
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4script.ui" line="138" />
             <source>Interpreter</source>
-            <translation>Phiên dịch viên</translation>
+            <translation>Trình thông dịch (Interpreter)</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4script.ui" line="182" />
             <source>Script</source>
-            <translation>Kịch bản</translation>
+            <translation>Tập lệnh (Script)</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="46" />
             <source>Locate script interpreter</source>
-            <translation>Xác định vị trí trình thông dịch kịch bản</translation>
+            <translation>Định vị trình thông dịch kịch bản</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="51" />
             <source>Download script interpreter</source>
-            <translation>Tải về trình thông dịch kịch bản</translation>
+            <translation>Tải xuống trình thông dịch kịch bản</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="67" />
             <source>Find scripts online</source>
-            <translation>Tìm kịch bản trực tuyến</translation>
+            <translation>Tìm kịch bản (scripts) trực tuyến</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="74" />
             <source>Add from local</source>
-            <translation>Thêm từ địa phương</translation>
+            <translation>Thêm tệp từ máy tính</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="84" />
@@ -1574,7 +1574,7 @@
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="86" />
             <source>Property</source>
-            <translation>Tài sản</translation>
+            <translation>Thuộc tính</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="214" />
@@ -1584,12 +1584,12 @@
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="257" />
             <source>Please configure the interpreter first</source>
-            <translation>Vui lòng định cấu hình trình thông dịch trước</translation>
+            <translation>Vui lòng cấu hình trình thông dịch trước</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="264" />
             <source>The configured interpreter path is invalid or missing.</source>
-            <translation>Đường dẫn thông dịch được định cấu hình không hợp lệ hoặc bị thiếu.</translation>
+            <translation>Đường dẫn trình thông dịch không hợp lệ hoặc bị thiếu.</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4script.cpp" line="276" />
@@ -1599,12 +1599,12 @@
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4scriptitem.cpp" line="85" />
             <source>Extensions:</source>
-            <translation>Tiện ích mở rộng:</translation>
+            <translation>Phần mở rộng:</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/settings/csettingswnd4scriptitem.cpp" line="96" />
             <source>Command:</source>
-            <translation>Yêu cầu:</translation>
+            <translation>Lệnh (Command):</translation>
         </message>
     </context>
     <context>
@@ -1617,7 +1617,7 @@
         <message>
             <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="156" />
             <source>Stay on top</source>
-            <translation>Luôn dẫn đầu</translation>
+            <translation>Luôn ở trên cùng</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="160" />
@@ -1632,7 +1632,7 @@
         <message>
             <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="168" />
             <source>About</source>
-            <translation>Về</translation>
+            <translation>Giới thiệu</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="171" />
@@ -1642,27 +1642,27 @@
         <message>
             <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="173" />
             <source>Help</source>
-            <translation>Giúp đỡ</translation>
+            <translation>Trợ giúp</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="174" />
             <source>Found a bug?</source>
-            <translation>Tìm thấy một lỗi?</translation>
+            <translation>Tìm thấy lỗi (bug)?</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="179" />
             <source>Check for updates</source>
-            <translation>Kiểm tra các bản cập nhật</translation>
+            <translation>Kiểm tra bản cập nhật</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="189" />
             <source>Get PinStack</source>
-            <translation>Nhận PinStack</translation>
+            <translation>Tải PinStack</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/ui/csystemtrayicon.cpp" line="195" />
             <source>Quit</source>
-            <translation>Từ bỏ</translation>
+            <translation>Thoát</translation>
         </message>
     </context>
     <context>
@@ -1675,17 +1675,17 @@
         <message>
             <location filename="../../../Seer/src/dirs/dirvar.h" line="55" />
             <source>File is encrypted</source>
-            <translation>Tập tin được mã hóa</translation>
+            <translation>Tệp bị mã hóa</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/dirs/dirvar.h" line="56" />
             <source>Packed</source>
-            <translation>Đóng gói</translation>
+            <translation>Kích thước nén</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/dirs/dirvar.h" line="57" />
             <source>Ratio</source>
-            <translation>Tỷ lệ</translation>
+            <translation>Tỷ lệ nén</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/dirs/dirvar.h" line="58" />
@@ -1705,7 +1705,7 @@
         <message>
             <location filename="../../../Seer/src/dirs/dirvar.h" line="64" />
             <source>Column View</source>
-            <translation>Chế độ xem cột</translation>
+            <translation>Chế độ xem dạng cột</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/dirs/dirvar.h" line="65" />
@@ -1730,12 +1730,12 @@
         <message>
             <location filename="../../../Seer/src/dirs/dirvar.h" line="72" />
             <source>Reveal in Explorer</source>
-            <translation>Tiết lộ trong Explorer</translation>
+            <translation>Hiển thị trong Explorer</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/dirs/dirvar.h" line="74" />
             <source>Details View</source>
-            <translation>Xem chi tiết</translation>
+            <translation>Chế độ xem chi tiết</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/dirs/dirvar.h" line="76" />
@@ -1748,7 +1748,7 @@
         <message>
             <location filename="../../../Seer/src/web/webvar.h" line="68" />
             <source>Markdown Source</source>
-            <translation>Nguồn đánh dấu</translation>
+            <translation>Mã nguồn Markdown</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/web/webvar.h" line="70" />
@@ -1758,12 +1758,12 @@
         <message>
             <location filename="../../../Seer/src/web/webvar.h" line="72" />
             <source>HTML Source</source>
-            <translation>Nguồn HTML</translation>
+            <translation>Mã nguồn HTML</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/web/webvar.h" line="74" />
             <source>Failed to save as PDF</source>
-            <translation>Không lưu được dưới dạng PDF</translation>
+            <translation>Không thể lưu dưới dạng PDF</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/web/webvar.h" line="76" />
@@ -1796,7 +1796,7 @@
         <message>
             <location filename="../../../Seer/src/picture/imgvar.h" line="85" />
             <source>Minimap</source>
-            <translation>Bản đồ nhỏ</translation>
+            <translation>Bản đồ thu nhỏ (Minimap)</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/picture/imgvar.h" line="86" />
@@ -1806,7 +1806,7 @@
         <message>
             <location filename="../../../Seer/src/picture/imgvar.h" line="88" />
             <source>Fit Height</source>
-            <translation>Chiều cao phù hợp</translation>
+            <translation>Vừa chiều cao</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/picture/imgvar.h" line="89" />
@@ -1816,7 +1816,7 @@
         <message>
             <location filename="../../../Seer/src/picture/imgvar.h" line="91" />
             <source>Actual Size</source>
-            <translation>Kích thước thực tế</translation>
+            <translation>Kích thước gốc</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/picture/imgvar.h" line="93" />
@@ -1826,12 +1826,12 @@
         <message>
             <location filename="../../../Seer/src/picture/imgvar.h" line="94" />
             <source>Next Frame</source>
-            <translation>Khung tiếp theo</translation>
+            <translation>Khung hình tiếp theo</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/picture/imgvar.h" line="96" />
             <source>Previous Frame</source>
-            <translation>Khung trước đó</translation>
+            <translation>Khung hình trước</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/picture/imgvar.h" line="97" />
@@ -1871,7 +1871,7 @@
         <message>
             <location filename="../../../Seer/src/picture/imgvar.h" line="108" />
             <source>Image Count</source>
-            <translation>Số lượng hình ảnh</translation>
+            <translation>Số lượng ảnh</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/picture/imgvar.h" line="110" />
@@ -1901,7 +1901,7 @@
             <location filename="../../../Seer/src/ui/components/cparentdlg/test/mainwindow.ui" line="84" />
             <location filename="../../../Seer/src/ui/components/cparentdlg/test/mainwindow.ui" line="91" />
             <source>TextLabel</source>
-            <translation>Nhãn văn bản</translation>
+            <translation>Nhãn văn bản (TextLabel)</translation>
         </message>
     </context>
     <context>
@@ -1909,12 +1909,12 @@
         <message>
             <location filename="../../../Seer/src/media/mediavar.h" line="66" />
             <source>Duration</source>
-            <translation>Khoảng thời gian</translation>
+            <translation>Thời lượng</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/media/mediavar.h" line="67" />
             <source>Bit Rate</source>
-            <translation>Tốc độ bit</translation>
+            <translation>Tốc độ bit (Bit Rate)</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/media/mediavar.h" line="68" />
@@ -1940,17 +1940,17 @@
             <location filename="../../../Seer/src/media/mediavar.h" line="73" />
             <location filename="../../../Seer/src/media/mediavar.h" line="88" />
             <source>Rotation</source>
-            <translation>Xoay</translation>
+            <translation>Góc xoay</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/media/mediavar.h" line="75" />
             <source>Frame Size</source>
-            <translation>Kích thước khung</translation>
+            <translation>Kích thước khung hình</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/media/mediavar.h" line="77" />
             <source>Sample Rate</source>
-            <translation>Tỷ lệ mẫu</translation>
+            <translation>Tốc độ lấy mẫu</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/media/mediavar.h" line="78" />
@@ -1970,17 +1970,17 @@
         <message>
             <location filename="../../../Seer/src/media/mediavar.h" line="81" />
             <source>Forward:</source>
-            <translation>Phía trước:</translation>
+            <translation>Tua tới:</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/media/mediavar.h" line="82" />
             <source>Backward:</source>
-            <translation>Lùi lại:</translation>
+            <translation>Tua lùi:</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/media/mediavar.h" line="84" />
             <source>The system is muted</source>
-            <translation>Hệ thống bị tắt tiếng</translation>
+            <translation>Hệ thống đang bị tắt tiếng</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/media/mediavar.h" line="85" />
@@ -1990,7 +1990,7 @@
         <message>
             <location filename="../../../Seer/src/media/mediavar.h" line="86" />
             <source>Loop</source>
-            <translation>Vòng lặp</translation>
+            <translation>Lặp lại</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/media/mediavar.h" line="90" />
@@ -2000,7 +2000,7 @@
         <message>
             <location filename="../../../Seer/src/media/mediavar.h" line="92" />
             <source>Reset Rotation</source>
-            <translation>Đặt lại xoay</translation>
+            <translation>Đặt lại góc xoay</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/media/mediavar.h" line="94" />
@@ -2010,7 +2010,7 @@
         <message>
             <location filename="../../../Seer/src/media/mediavar.h" line="96" />
             <source>Capture failed</source>
-            <translation>Chụp không thành công</translation>
+            <translation>Chụp ảnh lỗi</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/media/mediavar.h" line="98" />
@@ -2020,17 +2020,17 @@
         <message>
             <location filename="../../../Seer/src/media/mediavar.h" line="99" />
             <source>Loop: On</source>
-            <translation>Vòng lặp: Bật</translation>
+            <translation>Lặp lại: Bật</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/media/mediavar.h" line="100" />
             <source>Loop: Off</source>
-            <translation>Vòng lặp: Tắt</translation>
+            <translation>Lặp lại: Tắt</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/media/mediavar.h" line="102" />
             <source>Reset to normal speed</source>
-            <translation>Đặt lại về tốc độ bình thường</translation>
+            <translation>Đặt lại tốc độ bình thường</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/media/mediavar.h" line="104" />
@@ -2053,7 +2053,7 @@
         <message>
             <location filename="../../../Seer/src/pdf/pdfvar.h" line="63" />
             <source>Highlight and Notes</source>
-            <translation>Đánh dấu và ghi chú</translation>
+            <translation>Tô sáng và ghi chú</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/pdf/pdfvar.h" line="65" />
@@ -2063,7 +2063,7 @@
         <message>
             <location filename="../../../Seer/src/pdf/pdfvar.h" line="67" />
             <source>Pages Count</source>
-            <translation>Số trang</translation>
+            <translation>Tổng số trang</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/pdf/pdfvar.h" line="68" />
@@ -2078,7 +2078,7 @@
         <message>
             <location filename="../../../Seer/src/pdf/pdfvar.h" line="71" />
             <source>Actual Size</source>
-            <translation>Kích thước thực tế</translation>
+            <translation>Kích thước gốc</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/pdf/pdfvar.h" line="73" />
@@ -2126,12 +2126,12 @@
         <message>
             <location filename="../../../Seer/src/cmain.cpp" line="175" />
             <source>Update language failed</source>
-            <translation>Cập nhật ngôn ngữ không thành công</translation>
+            <translation>Cập nhật ngôn ngữ thất bại</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/cmain.cpp" line="176" />
             <source>Please check your "i18n" folder.</source>
-            <translation>Vui lòng kiểm tra thư mục "i18n" của bạn.</translation>
+            <translation>Vui lòng kiểm tra thư mục "i18n".</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/dirs/nodes.cpp" line="14" />
@@ -2147,7 +2147,7 @@
             <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="65" />
             <location filename="../../../Seer/src/settings/csettingswnd4pluginsadd.cpp" line="97" />
             <source>Cancel</source>
-            <translation>Hủy bỏ</translation>
+            <translation>Hủy</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="119" />
@@ -2176,12 +2176,12 @@
         <message>
             <location filename="../../../Seer/src/types.h" line="11" />
             <source>Image</source>
-            <translation>Ảnh</translation>
+            <translation>Hình ảnh</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/types.h" line="12" />
             <source>Media</source>
-            <translation>Phương tiện</translation>
+            <translation>Đa phương tiện</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/types.h" line="13" />
@@ -2201,7 +2201,7 @@
         <message>
             <location filename="../../../Seer/src/ui/caboutwnd.cpp" line="65" />
             <source>Return</source>
-            <translation>Trở lại</translation>
+            <translation>Quay lại</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/ui/components/cparentdlg/cmsgbox.cpp" line="33" />
@@ -2221,12 +2221,12 @@
         <message>
             <location filename="../../../Seer/src/text/codevar.h" line="89" />
             <source>Minimap</source>
-            <translation>Bản đồ nhỏ</translation>
+            <translation>Bản đồ thu nhỏ (Minimap)</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/text/codevar.h" line="91" />
             <source>Format Code</source>
-            <translation>Mã định dạng</translation>
+            <translation>Định dạng mã (Format Code)</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/text/codevar.h" line="93" />
@@ -2241,7 +2241,7 @@
         <message>
             <location filename="../../../Seer/src/text/codevar.h" line="95" />
             <source>Line:</source>
-            <translation>Đường kẻ:</translation>
+            <translation>Dòng:</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/text/codevar.h" line="96" />
@@ -2251,7 +2251,7 @@
         <message>
             <location filename="../../../Seer/src/text/codevar.h" line="98" />
             <source>Render Markdown</source>
-            <translation>Kết xuất đánh dấu</translation>
+            <translation>Kết xuất Markdown</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/text/codevar.h" line="100" />
@@ -2266,27 +2266,27 @@
         <message>
             <location filename="../../../Seer/src/text/codevar.h" line="104" />
             <source>Locate Cursor</source>
-            <translation>Xác định vị trí con trỏ</translation>
+            <translation>Định vị con trỏ</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/text/codevar.h" line="105" />
             <source>Word Wrap</source>
-            <translation>Gói từ</translation>
+            <translation>Tự động xuống dòng</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/text/codevar.h" line="106" />
             <source>Ln</source>
-            <translation>Ln</translation>
+            <translation>Dòng</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/text/codevar.h" line="107" />
             <source>Col</source>
-            <translation>Col</translation>
+            <translation>Cột</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/text/codevar.h" line="109" />
             <source>Character count</source>
-            <translation>Số ký tự</translation>
+            <translation>Số lượng ký tự</translation>
         </message>
         <message>
             <location filename="../../../Seer/src/text/codevar.h" line="111" />
