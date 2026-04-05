@@ -1039,7 +1039,7 @@
             <translation>Ctrl + Nhấp chuột</translation>
         </message>
         <message>
-            <location filename="../../../Seer/src/settings/csettingswnd4key.ui" line="499" />
+            <location="../../../Seer/src/settings/csettingswnd4key.ui" line="499" />
             <source>Tree View:</source>
             <translation>Chế độ xem dạng cây:</translation>
         </message>
