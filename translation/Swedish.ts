@@ -661,27 +661,27 @@
         <translation type="vanished">Stäng</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="682"/>
+        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="695"/>
         <source>Properties</source>
         <translation>Egenskaper</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="683"/>
+        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="696"/>
         <source>Separate</source>
         <translation>Separera</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="1353"/>
+        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="1401"/>
         <source>Viewer</source>
         <translation>Visare</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="681"/>
+        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="694"/>
         <source>Minimize</source>
         <translation>Minimera</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="188"/>
+        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="199"/>
         <source>Please try again with separated window.</source>
         <translation>Försök igen med ett separat fönster.</translation>
     </message>
@@ -930,81 +930,86 @@
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="148"/>
+        <source>Auto refresh preview when file changes</source>
+        <translation>Uppdatera förhandsvisningen automatiskt när filen ändras</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="172"/>
         <source>Enable &quot;Delete&quot; key</source>
         <translation>Aktivera &quot;Delete&quot;-tangenten</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="172"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="196"/>
         <source>Trigger on software-generated key events</source>
         <translation>Trigga på mjukvarugenererade tangenthändelser</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="196"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="220"/>
         <source>Keep window size and position</source>
         <translation>Behåll fönstrets storlek och position</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="220"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="244"/>
         <source>Preview window focus:</source>
         <translation>Fokus för granskningsfönster:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="247"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="271"/>
         <source>Maximum preview size:</source>
         <translation>Maximal storlek för granskning:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="274"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="298"/>
         <source>Backup:</source>
         <translation>Säkerhetskopiering:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="281"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="305"/>
         <source>Export</source>
         <translation>Exportera</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="288"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="312"/>
         <source>Import</source>
         <translation>Importera</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="308"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="332"/>
         <source>Reset to default</source>
         <translation>Återställ till standard</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="315"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="339"/>
         <source>Confirm &amp; Restart :</source>
         <translation>Bekräfta och starta om:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="340"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="364"/>
         <source>User defined</source>
         <translation>Användardefinierad</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="402"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="426"/>
         <source>Visibility</source>
         <translation>Synlighet</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="427"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="451"/>
         <source>Hide tray icon</source>
         <translation>Dölj ikon i meddelandefältet</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="458"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="482"/>
         <source>Title bar &amp; Control bar:</source>
         <translation>Titelrad och kontrollrad:</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="468"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="492"/>
         <source>Constant</source>
         <translation>Konstant</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="475"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="499"/>
         <source>Dynamic</source>
         <translation>Dynamisk</translation>
     </message>
@@ -1048,27 +1053,32 @@
         <translation>Uppdaterar automatiskt Seers förhandsgranskning för att följa den valda filen i Utforskaren.</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="116"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="117"/>
+        <source>Automatically reloads the main preview window when the currently previewed file changes on disk.</source>
+        <translation>Laddar automatiskt om huvudfönstret för förhandsvisning när filen som visas ändras på disken.</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="119"/>
         <source>Allows you to open files directly by double-clicking, using the application associated with the file type in your system settings.</source>
         <translation>Gör det möjligt att öppna filer direkt genom att dubbelklicka, med det program som är kopplat till filtypen i dina systeminställningar.</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="120"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="123"/>
         <source>Allows using the Delete key to move the currently previewed file to the Recycle Bin.</source>
         <translation>Tillåter användning av Delete-tangenten för att flytta den fil som förhandsgranskas till Papperskorgen.</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="123"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="126"/>
         <source>Allows Seer to respond to simulated key input generated by software, such as virtual keyboards or automation tools.</source>
         <translation>Tillåter Seer att svara på simulerade knapptryckningar som genereras av mjukvara, såsom virtuella tangentbord eller automatiseringsverktyg.</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="126"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="129"/>
         <source>Remembers and restores the preview window&apos;s size and position from the last session.</source>
         <translation>Kommer ihåg och återställer förhandsgranskningsfönstrets storlek och position från förra sessionen.</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="132"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="135"/>
         <source>Determines when the preview window becomes the active window and receives keyboard input.</source>
         <translation>Bestämmer när förhandsgranskningsfönstret blir det aktiva fönstret och tar emot tangentbordsinmatning.</translation>
     </message>
@@ -1103,7 +1113,7 @@
                 position från förra sessionen.</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="129"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="132"/>
         <source>Sets the maximum size of the preview window as a percentage of the screen size.</source>
         <translation>Ställer in den maximala storleken på förhandsgranskningsfönstret i procent
                 av skärmstorleken.</translation>
@@ -2770,7 +2780,7 @@
     <message>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="119"/>
         <location filename="../../../Seer/src/ui/caboutwnd.cpp" line="55"/>
-        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="680"/>
+        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="693"/>
         <source>Close</source>
         <translation>Stäng</translation>
     </message>

@@ -693,7 +693,7 @@ Ready to install.</source>
         <translation type="vanished">请在分离窗口中使用此功能。</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="188"/>
+        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="199"/>
         <source>Please try again with separated window.</source>
         <translation>请在分离窗口中使用此功能。</translation>
     </message>
@@ -702,22 +702,22 @@ Ready to install.</source>
         <translation type="vanished">关闭</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="681"/>
+        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="694"/>
         <source>Minimize</source>
         <translation>最小化</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="682"/>
+        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="695"/>
         <source>Properties</source>
         <translation>属性</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="683"/>
+        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="696"/>
         <source>Separate</source>
         <translation>分离</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="1353"/>
+        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="1401"/>
         <source>Viewer</source>
         <translation>预览器</translation>
     </message>
@@ -1001,7 +1001,7 @@ Ready to install.</source>
         <translation type="vanished">使用白色图标</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="427"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="451"/>
         <source>Hide tray icon</source>
         <translation>隐藏托盘图标</translation>
     </message>
@@ -1023,12 +1023,12 @@ Ready to install.</source>
         <translation type="vanished">标题栏&amp;控制栏</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="148"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="172"/>
         <source>Enable &quot;Delete&quot; key</source>
         <translation>接收&quot;删除&quot;键</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="196"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="220"/>
         <source>Keep window size and position</source>
         <translation>保持窗口大小和位置</translation>
     </message>
@@ -1041,12 +1041,12 @@ Ready to install.</source>
         <translation type="vanished">禁止文件类型检测</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="402"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="426"/>
         <source>Visibility</source>
         <translation>可见性</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="458"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="482"/>
         <source>Title bar &amp; Control bar:</source>
         <translation>标题栏 &amp; 控制栏：</translation>
     </message>
@@ -1061,17 +1061,22 @@ Ready to install.</source>
         <translation>跟踪资源管理器选中文件</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="172"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="148"/>
+        <source>Auto refresh preview when file changes</source>
+        <translation>文件变更时自动刷新预览</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="196"/>
         <source>Trigger on software-generated key events</source>
         <translation>接收模拟键盘事件</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="220"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="244"/>
         <source>Preview window focus:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="340"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="364"/>
         <source>User defined</source>
         <translation>自定义配置</translation>
     </message>
@@ -1080,12 +1085,12 @@ Ready to install.</source>
         <translation type="vanished">使用触发键关闭窗口</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="247"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="271"/>
         <source>Maximum preview size:</source>
         <translation>最大预览窗口大小：</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="274"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="298"/>
         <source>Backup:</source>
         <translation>备份：</translation>
     </message>
@@ -1098,17 +1103,17 @@ Ready to install.</source>
         <translation type="vanished">配置文件：</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="281"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="305"/>
         <source>Export</source>
         <translation>导出</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="288"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="312"/>
         <source>Import</source>
         <translation>导入</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="308"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="332"/>
         <source>Reset to default</source>
         <translation>恢复默认配置</translation>
     </message>
@@ -1121,7 +1126,7 @@ Ready to install.</source>
         <translation type="vanished">恢复默认配置</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="315"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="339"/>
         <source>Confirm &amp; Restart :</source>
         <translation>确定并重新启动：</translation>
     </message>
@@ -1150,17 +1155,17 @@ Ready to install.</source>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="85"/>
         <source>Never take focus</source>
-        <translation type="unfinished"></translation>
+        <translation>永不获取焦点</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="86"/>
         <source>Every time a file is previewed</source>
-        <translation type="unfinished"></translation>
+        <translation>每次预览文件时</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="88"/>
         <source>Only when the window opens</source>
-        <translation type="unfinished"></translation>
+        <translation>仅在窗口打开时</translation>
     </message>
     <message>
         <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="109"/>
@@ -1178,42 +1183,47 @@ Ready to install.</source>
         <translation>当资源管理器中的选中文件变化时，自动更新预览内容。</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="116"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="117"/>
+        <source>Automatically reloads the main preview window when the currently previewed file changes on disk.</source>
+        <translation>当前预览的文件在磁盘上发生变化时，自动重新加载主预览窗口。</translation>
+    </message>
+    <message>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="119"/>
         <source>Allows you to open files directly by double-clicking, using the application associated with the file type in your system settings.</source>
         <translation>是否在双击预览窗口后使用系统默认程序打开文件。</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="120"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="123"/>
         <source>Allows using the Delete key to move the currently previewed file to the Recycle Bin.</source>
         <translation>勾选后会在删除键按下时将当前预览文件移动到回收站。</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="123"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="126"/>
         <source>Allows Seer to respond to simulated key input generated by software, such as virtual keyboards or automation tools.</source>
         <translation>勾选后将接收第三方软件生成的按键消息，否则仅处理物理按键事件。</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="126"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="129"/>
         <source>Remembers and restores the preview window&apos;s size and position from the last session.</source>
         <translation>记录并还原上一次预览窗口关闭时的大小和位置。</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="129"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="132"/>
         <source>Sets the maximum size of the preview window as a percentage of the screen size.</source>
         <translation>限制最大预览窗口大小，以显示时的屏幕大小为基数。</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="132"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.cpp" line="135"/>
         <source>Determines when the preview window becomes the active window and receives keyboard input.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="468"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="492"/>
         <source>Constant</source>
         <translation>固定</translation>
     </message>
     <message>
-        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="475"/>
+        <location filename="../../../Seer/src/settings/csettingswnd4explorer.ui" line="499"/>
         <source>Dynamic</source>
         <translation>动态</translation>
     </message>
@@ -3393,7 +3403,7 @@ Ready to install.</source>
     <message>
         <location filename="../../../Seer/src/opt/updater/updatewnd.cpp" line="119"/>
         <location filename="../../../Seer/src/ui/caboutwnd.cpp" line="55"/>
-        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="680"/>
+        <location filename="../../../Seer/src/ui/cmainwnd.cpp" line="693"/>
         <source>Close</source>
         <translation>关闭</translation>
     </message>
