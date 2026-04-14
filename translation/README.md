@@ -1,1 +1,0 @@
-https://github.com/ccseer/Seer/wiki/6.-Translation
