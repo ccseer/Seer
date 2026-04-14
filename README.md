@@ -1,17 +1,29 @@
-[1218.io](http://www.1218.io?github)
+# Seer Issue Tracker and Feedback Hub
 
----
+Seer is a Windows Quick Look tool that lets you preview files instantly. This repository is the official public place for **bug reports**, **feature requests**, **enhancement ideas**, and general **user feedback** for Seer.
 
-## This repository is for bug report
+Website: [1218.io](http://www.1218.io?github)
 
-This repository exists as a public forum to gather users' feedback and discussions on bugs, missing features or desired enhancements.
+## What This Repository Is For
 
-## How to report a bug, missing feature, or suggest an enhancement
+Use this repository to:
 
-1. Go to the [Issues tab](https://github.com/ccseer/Seer/issues)
-2. Search the existing issues to see if someone else has already beat you to it.
-3. If someone has, feel free to vote that issue up or add your own feedback in a comment.
-4. If no one has, click the `New Issue` button and explain. For bug reports, **please provide your OS version, Seer version, and if possible, detailed steps to reproduce the bug**.
-5. If you have more than one bug reports or requirements, please separate them in different issues if they are not closely related.
+- Report bugs in Seer
+- Request new features
+- Suggest product improvements
+- Share feedback and discuss existing issues
 
-If you have multiple issues and bug reports and they are not closely related, we recommend you to separate them in different issues.
+If you are looking for the Seer issue tracker, Seer bug report page, or a place to submit a feature request for Seer, this is the right repository.
+
+## How to Report a Bug or Request a Feature
+
+1. Open the [Issues](https://github.com/ccseer/Seer/issues) tab.
+2. Search existing issues before creating a new one.
+3. If a similar issue already exists, add your feedback or vote for it.
+4. If no matching issue exists, click `New Issue` and describe the problem or idea clearly.
+5. Create separate issues for unrelated bugs or feature requests.
+
+## Useful Links
+
+- Official website: [1218.io](http://www.1218.io?github)
+- Issues and feature requests: [GitHub Issues](https://github.com/ccseer/Seer/issues)
